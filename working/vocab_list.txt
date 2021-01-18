@@ -1,0 +1,2823 @@
+私	私[わたし]	I		L01
+あなた	あなた	You		L01
+あの人（あの方）	あの 人[ひと]（あの 方[かた]）	that person, he, she		L01
+～さん	～さん	Mr., Ms.		L01
+～ちゃん	～ちゃん	suffix for child's name		L01
+～人	～ 人[じん]	suffix for nationality		L01
+先生	先[せん] 生[せい]	teacher, instructor		L01
+教師	教[きょう] 師[し]	teacher, instructor (referring to own's job)		L01 L15U
+学生	学[がく] 生[せい]	student		L01
+会社員	会[かい] 社[しゃ] 員[いん]	company employee		L01 L15U
+社員	社[しゃ] 員[いん]	employee of ～ company's name		L01
+銀行員	銀[ぎん] 行[こう] 員[いん]	bank employee		L01 L15U
+医者	医[い] 者[しゃ]	(medical) doctor		L01 L15U
+研究者	研[けん] 究[きゅう] 者[しゃ]	researcher, scholar		L01 L15U
+大学	大[だい] 学[がく]	university		L01 L13U
+病院	病[びょう] 院[いん]	hospital		L01
+誰	誰[だれ]	who (どなた for polite)		L01
+ー歳	ー 歳[さい]	ー years old		L01
+何歳	何[なん] 歳[さい]	how old (おいくつ for polite)		L01
+はい	はい	yes, that is correct​ (polite)		L01
+いいえ	いいえ	no		L01
+始めまして	始[はじ]めまして	How do you do?		L01
+～からきました。	～からきました。	I'm from ～ (country).		L01
+どうぞよろしくお願いします。	どうぞよろしくお 願[ねが]いします。	Pleased to meet you.		L01
+失礼ですが	失[しつ] 礼[れい]ですが	Excuse me, but		L01
+お名前は	お 名[な] 前[まえ]は	May I have your name?		L01
+こちらは～さんです。	こちらは～さんです。	This is Mr./Ms.		L01
+アメリカ	アメリカ	U.S.A.		L01U
+イギリス	イギリス	U.K.		L01U
+インド	インド	India		L01U
+インドネシア	インドネシア	Indonesia		L01U
+韓国	韓[かん] 国[こく]	South Korea		L01U
+タイ	タイ	Thailand		L01U
+中国	中[ちゅう] 国[ごく]	China		L01U
+ドイツ	ドイツ	Germany		L01U
+日本	日本[にほん]	Japan		L01U
+ブラジル	ブラジル	Brazil		L01U
+イタリア	イタリア	Italy		L01U
+イラン	イラン	Iran		L01U
+エジプト	エジプト	Egypt		L01U
+オーストラリア	オーストラリア	Australia		L01U L11
+カナダ	カナダ	Canada		L01U
+サウジアラビア	サウジアラビア	Saudi Arabia		L01U L37
+シンガポール	シンガポール	Singapore		L01U L12
+スペイン	スペイン	Spain		L01U L07
+フランス	フランス	France		L01U
+フィリピン	フィリピン	Phillipines		L01U
+ベトナム	ベトナム	Vietnam		L01U
+マレーシア	マレーシア	Malaysia		L01U
+メキシコ	メキシコ	Mexico		L01U
+ロシア	ロシア	Russia		L01U L37
+ペルシア語	ペルシア 語[ご]	Persian language		L01U
+ポルトガル語	ポルトガル 語[ご]	Portugese language		L01U
+これ	これ	this (thing here)		L02
+それ	それ	that (thing near the listener)		L02
+あれ	あれ	that (thing over there)		L02
+この～	この～	this ～, this ～ here		L02
+その～	その～	that ～, that ～ near the listener		L02
+あの～	あの～	that ～, that ～ over there		L02
+本	本[ほん]	book		L02
+辞書	辞[じ] 書[しょ]	dictionary		L02
+雑誌	雑[ざっ] 誌[し]	magazine		L02
+新聞	新[しん] 聞[ぶん]	newspaper		L02
+手帳	手[て] 帳[ちょう]	personal organiser		L02
+名刺	名[めい] 刺[し]	business card		L02
+カード	カード	(credit) card		L02
+鉛筆	鉛[えん] 筆[ぴつ]	pencil		L02
+ボールペン	ボールペン	ballpoint pen		L02
+シャープペンシル	シャープペンシル	mechanical pencil, propelling pencil		L02
+鍵	鍵[かぎ]	key		L02
+時計	時計[とけい]	watch, clock		L02
+傘	傘[かさ]	umbrella		L02
+鞄	鞄[かばん]	bag, briefcase		L02
+テレビ	テレビ	television		L02
+ラジオ	ラジオ	radio		L02
+カメラ	カメラ	camera		L02
+コンピューター	コンピューター	computer		L02
+車	車[くるま]	car, vehicle		L02
+机	机[つくえ]	desk		L02
+椅子	椅[い] 子[す]	chair		L02
+チョコレート	チョコレート	chocolate		L02
+コーヒー	コーヒー	coffee		L02 L11 L46U
+お土産	お 土産[みやげ]	souvenir, present		L02
+英語	英[えい] 語[ご]	English language		L01U L02
+日本語	日本[にほん] 語[ご]	Japanese language		L01U L02
+何	何[なん]	what		L02 L06
+そう	そう	so		L02
+あのう	あのう	Err… (used to show hestitation)		L02
+えっ	えっ	Oh? What! (hearing something unexpected)		L02
+どうぞ。	どうぞ。	Here you are. (offering someone something)		L02
+どうもありがとうございます。	どうもありがとうございます。	Thank you very much.		L02
+そうですか。	そうですか。	I see.		L02
+違います。	違[ちが]います。	No, it isn't./You are wrong.		L02
+あっ	あっ	Oh! (used when become aware of something)		L02
+これからお世話になります。	これからお 世[せ] 話[わ]になります。	Thank you in advance for your kindness.		L02 L41U
+こちらこそどうぞよろしくお願いします。	こちらこそどうぞよろしくお 願[ねが]いします。	Pleased to meet you, too.		L02
+ここ	ここ	here, this place		L03
+そこ	そこ	there, that place near the listener		L03
+あそこ	あそこ	that place over there		L03
+どこ	どこ	where, what place		L03
+こちら	こちら	this way, this place (polite); my side		L03 L46
+そちら	そちら	that way, that place near the listener (polite)		L03
+あちら	あちら	that way, that place over there (polite)		L03
+どちら	どちら	which way, where (polite), which one (of two things)		L03 L12
+教室	教[きょう] 室[しつ]	classroom		L03 L41U
+食堂	食[しょく] 堂[どう]	dining room, canteen		L03 L10U
+事務所	事[じ] 務[む] 所[しょ]	office		L03
+会議室	会[かい] 議[ぎ] 室[しつ]	conference room, meeting room		L03
+受付	受[うけ] 付[つけ]	reception desk		L03 L45U
+ロビー	ロビー	lobby		L03
+部屋	部屋[へや]	room		L03
+トイレ（お手洗い）	トイレ（お 手[て] 洗[あら]い）	toilet, rest room		L03
+階段	階[かい] 段[だん]	staircase		L03
+エレベーター	エレベーター	elevator		L03
+エスカレーター	エスカレーター	escalator		L03
+自動販売機	自[じ] 動[どう] 販[はん] 売[ばい] 機[き]	vending machine		L03
+電話	電[でん] 話[わ]	telephone		L03
+お国	お 国[くに]	country		L03
+会社	会[かい] 社[しゃ]	company		L03
+家、家	家[いえ]、 家[うち]	house, home		L03 L27
+靴	靴[くつ]	shoes		L03
+ネクタイ	ネクタイ	tie, necktie		L03
+ワイン	ワイン	wine		L03
+売り場	売[う]り 場[ば]	department, counter (in a department store, etc.)		L03
+地下	地[ち] 下[か]	basement		L03
+ー階、階	ー 階[かい]、 階[がい]	-th floor		L03
+何階	何[なん] 階[がい]	what floor		L03
+ー円	ー 円[えん]	- yen		L03
+幾ら	幾[いく]ら	how much		L03
+百	百[ひゃく]	hundred		L03
+千	千[せん]	thousand		L03
+万	万[まん]	ten thousand		L03
+すみません。	すみません。	Excuse me.		L03
+どうも。	どうも。	Thanks.		L03
+いらっしゃいませ。	いらっしゃいませ。	Welcome./May I help you?		L03
+[～を]見せてください。	[～を] 見[み]せてください。	Please show me [～].		L03
+じゃ	じゃ	well, then, in that case		L03
+[～を]ください。	[～を]ください。	Give me [～] please.		L03
+スイス	スイス	Switzerland		L03
+ジャカルタ	ジャカルタ	Jakarta		L03
+バンコク	バンコク	Bangkok		L03
+ベルリン	ベルリン	Berlin		L03
+新大阪	新[しん] 大[おお] 阪[さか]	New Osaka (station name)		L03
+駐車場	駐[ちゅう] 車[しゃ] 場[じょう]	car park, parking lot		L03U L13U
+食品	食[しょく] 品[ひん]	food products		L03U L30U
+アクセサリー	アクセサリー	accessories		L03U
+化粧品	化[け] 粧[しょう] 品[ひん]	cosmetics		L03U
+婦人服	婦[ふ] 人[じん] 服[ふく]	ladies' wear		L03U
+紳士服	紳[しん] 士[し] 服[ふく]	men's wear		L03U
+家具	家[か] 具[ぐ]	furniture		L03U L26U L27 L30U
+食器	食[しょっ] 器[き]	kitchenware		L03U
+電化製品	電[でん] 化[か] 製[せい] 品[ひん]	electrical appliances		L03U
+子供服	子[こ] 供[ども] 服[ふく]	children's clothes		L03U
+おもちゃ	おもちゃ	toys		L03U
+文房具	文[ぶん] 房[ぼう] 具[ぐ]	stationery		L03U
+スポーツ用品	スポーツ 用[よう] 品[ひん]	sporting goods		L03U
+旅行用品	旅[りょ] 行[こう] 用[よう] 品[ひん]	leisure goods		L03U L41
+眼鏡	眼鏡[めがね]	spectacles, glasses		L03U
+レストラン	レストラン	restaurant		L03U L08
+催し物会場	催[もよお]し 物[もの] 会[かい] 場[じょう]	event hall		L03U
+屋上	屋[おく] 上[じょう]	rooftop		L03U L35
+遊園地	遊[ゆう] 園[えん] 地[ち]	amusement park		L03U L13U
+起きます	起[お]きます	get up, wake up; to occur/to happen (of unfavourable incidents)		L04 L33
+寝ます	寝[ね]ます	sleep, go to bed		L04
+働きます	働[はたら]きます	work		L04
+休みます	休[やす]みます	take a rest, take a holiday		L04
+勉強します	勉[べん] 強[きょう]します	study		L04
+終わります	終[お]わります	finish		L04
+デパート	デパート	department store		L04 L13U
+銀行	銀[ぎん] 行[こう]	bank		L04
+郵便局	郵[ゆう] 便[びん] 局[きょく]	post office		L04
+図書館	図[と] 書[しょ] 館[かん]	library		L04 L13U
+美術館	美[び] 術[じゅつ] 館[かん]	art museum, art gallery		L04 L13U
+今	今[いま]	now		L04
+ー時	ー 時[じ]	ー o' clock		L04
+ー分	ー 分[ぶん]（ぷん）	ー minute		L04
+半	半[はん]	half		L04
+何時	何[なん] 時[じ]	what time		L04
+何分	何[なん] 分[ぷん]	what minute		L04
+午前	午[ご] 前[ぜん]	a.m., morning		L04
+午後	午[ご] 後[ご]	p.m., afternoon		L04
+朝	朝[あさ]	morning		L04
+昼	昼[ひる]	daytime, noon		L04
+晩（夜）	晩[ばん]（ 夜[よる]）	night, evening		L04
+一昨日	一昨日[おととい]	the day before yesterday		L04
+昨日	昨日[きのう]	yesterday		L04
+今日	今日[きょう]	today		L04
+明日	明日[あした]	tomorrow		L04
+明後日	明後日[あさって]	the day after tomorrow		L04
+今朝	今朝[けさ]	this morning		L04
+今晩	今[こん] 晩[ばん]	this evening, tonight		L04
+休み	休[やす]み	rest, holiday, a day off		L04
+昼休み	昼[ひる] 休[やす]み	lunchtime		L04
+試験	試[し] 験[けん]	examination, test		L04
+会議をします	会[かい] 議[ぎ]をします	hold a meeting, conference		L04
+映画	映[えい] 画[が]	film, movie		L04
+毎朝	毎[まい] 朝[あさ]	every morning		L04
+毎晩	毎[まい] 晩[ばん]	every night		L04
+毎日	毎[まい] 日[にち]	every day		L04
+月曜日	月[げつ] 曜[よう] 日[び]	Monday		L04
+火曜日	火[か] 曜[よう] 日[び]	Tuesday		L04
+水曜日	水[すい] 曜[よう] 日[び]	Wednesday		L04
+木曜日	木[もく] 曜[よう] 日[び]	Thursday		L04
+土曜日	土[ど] 曜[よう] 日[び]	Saturday		L04
+日曜日	日[にち] 曜[よう] 日[び]	Sunday		L04
+何曜日	何[なん] 曜[よう] 日[び]	what day of the week		L04
+～から	～から	from ～/because ～		L04 L09
+～まで	～まで	up to ～, until ～		L04
+～と～	～と～	and (used to connect nouns)		L04
+大変ですね。	大[たい] 変[へん]ですね。	That's tough, isn't it? (used when expressing sympathy)		L04
+番号	番[ばん] 号[ごう]	number		L04
+何番	何[なん] 番[ばん]	what number		L04
+ニューヨーク	ニューヨーク	New York		L04
+ペキン	ペキン	Beijing (北京)		L04
+ロサンゼルス	ロサンゼルス	Los Angeles		L04
+ロンドン	ロンドン	London		L04
+警察署	警[けい] 察[さつ] 署[しょ]	police station​		L04U L13U
+消防署	消[しょう] 防[ぼう] 署[しょ]	fire station		L04U L13U
+時報	時[じ] 報[ほう]	time convention		L04U
+天気予報	天[てん] 気[き] 予[よ] 報[ほう]	weather forecast, weather report		L04U L40
+電話番号案内	電[でん] 話[わ] 番[ばん] 号[ごう] 案[あん] 内[ない]	directory inquiries		L04U
+県	県[けん]	district, prefecture (a political region or local government area)		L04U L10
+市、市	市[し]、 市[いち]	city, market		L04U
+中央	中[ちゅう] 央[おう]	metropolis, capital city, central goverment		L04U L28
+行きます	行[い]きます	go		L05
+来ます	来[き]ます	come		L05
+帰ります	帰[かえ]ります	go home, return		L05
+学校	学[がっ] 校[こう]	school		L05
+スーパー	スーパー	supermarket		L05 L13U
+駅	駅[えき]	station		L05 L14U
+飛行機	飛[ひ] 行[こう] 機[き]	aeroplane (airplane)		L05
+船	船[ふね]	ship		L05
+電車	電[でん] 車[しゃ]	electric train		L05
+地下鉄	地[ち] 下[か] 鉄[てつ]	underground, subway		L05
+新幹線	新[しん] 幹[かん] 線[せん]	the bullet train		L05
+バス	バス	bus		L05
+人	人[ひと]	person, people		L05
+友達	友[とも] 達[だち]	friend		L05
+彼	彼[かれ]	he, boyfriend		L05
+彼女	彼[かの] 女[じょ]	she, girlfriend		L05
+家族	家[か] 族[ぞく]	family		L05
+一人で	一人[ひとり]で	alone, by oneself		L05
+先週	先[せん] 週[しゅう]	last week		L05
+今週	今[こん] 週[しゅう]	this week		L05
+来週	来[らい] 週[しゅう]	next week		L05
+先月	先[せん] 月[げつ]	last month		L05
+今月	今[こん] 月[げつ]	this month		L05
+来月	来[らい] 月[げつ]	next month		L05
+去年	去[きょ] 年[ねん]	last year		L05
+今年	今年[ことし]	this year		L05
+来年	来[らい] 年[ねん]	next year		L05
+ー年	ー 年[ねん]	-th year		L05 L11
+何年	何[なん] 年[ねん]	what year		L05
+ー月	ー 月[がつ]	-th month of the year		L05
+何月	何[なん] 月[がつ]	what month		L05
+一日	一日[ついたち]	first day		L05
+二日	二日[ふつか]	second day		L05
+三日	三[みっ] 日[か]	third day		L05
+四日	四[よっ] 日[か]	fourth day		L05
+五日	五[いつ] 日[か]	fifth day		L05
+六日	六[むい] 日[か]	sixth day		L05
+七日	七[なの] 日[か]	seventh day		L05
+八日	八[よう] 日[か]	eighth day		L05
+九日	九[ここの] 日[か]	ninth day		L05
+十日	十[とお] 日[か]	tenth day		L05
+十四日	十[じゅう] 四[よっ] 日[か]	fourteenth day		L05
+二十日	二十日[はつか]	twentieth day		L05
+二十四日	二[に] 十[じゅう] 四[よっ] 日[か]	twenty-fourth day		L05
+ー日	ー 日[にち]	-th day of the month		L05
+いつ	いつ	when		L05
+誕生日	誕[たん] 生[じょう] 日[び]	birthday		L05
+そうですね。	そうですね。	Yes, it is./Well let me see. (pausing)		L05 L08
+どうもありがとうございました。	どうもありがとうございました。	Thank you very much. (after action)		L05
+どういたしまして。	どういたしまして。	You are welcome./Don't mention it.		L05
+ー番線	ー 番[ばん] 線[せん]	platform ー , -th platform		L05
+次の	次[つぎ]の	next		L05
+普通	普[ふ] 通[つう]	local train		L05 L14U
+急行	急[きゅう] 行[こう]	express/rapid train		L05 L14U
+特急	特[とっ] 急[きゅう]	super-express train		L05 L14U
+甲子園	甲[こう] 子[し] 園[えん]	Koshien (stadium)		L05
+大阪城	大[おお] 阪[さか] 城[じょう]	Osaka Castle		L05
+元日	元[がん] 日[じつ]	New Year's Day (１月１日)		L05U L13
+成人の日	成[せい] 人[じん]の 日[ひ]	Coming-of-Age Day (１月第２月曜日)		L05U
+春分の日	春[しゅん] 分[ぶん]の 日[ひ]	Vernal Equinox Day (３月２０日／２１日)		L05U
+昭和の日	昭[しょう] 和[わ]の 日[ひ]	Showa Day (４月２９日)		L05U
+憲法記念日	憲[けん] 法[ぽう] 記[き] 念[ねん] 日[ひ]	Constitution Memorial Day (５月３日)		L05U
+みどりの日	みどりの 日[ひ]	Greenery Day (５月４日)		L05U
+子供の日	子[こ] 供[ども]の 日[ひ]	Children's Day (５月５日)		L05U L49U
+海の日	海[うみ]の 日[ひ]	Marine Day (７月第３月曜日)		L05U
+山の日	山[やま]の 日[ひ]	Mountain Day (８月１１日)		L05U
+敬老の日	敬[けい] 老[ろう]の 日[ひ]	Respect-for-the-Aged Day (９月第３月曜日)		L05U
+秋分の日	秋[しゅう] 分[ぶん]の 日[ひ]	Autumnal Equinox Day (９月２２日／２３日)		L05U
+体育の日	体[たい] 育[いく]の 日[ひ]	Health and Sports Day (１０月第２月曜日)		L05U
+文化の日	文[ぶん] 化[か]の 日[ひ]	Culture Day (１１月３日)		L05U
+勤労感謝の日	勤[きん] 労[ろう] 感[かん] 謝[しゃ]の 日[ひ]	Labour Thanksgiving Day (１１月２３日)		L05U
+天皇誕生日	天[てん] 皇[のう] 誕[たん] 生[じょう] 日[び]	The Emperor's Birthday (２月２３日)		L05U
+ゴールデンウェーク	ゴールデンウェーク	Golden Week (４月２９日～５月５日)		L05U
+食べます	食[た]べます	eat		L06
+飲みます	飲[の]みます	drink		L06
+吸います	吸[す]います	smoke		L06
+見ます	見[み]ます	see, look at, watch		L06
+聞きます	聞[き]きます	hear, listen		L06
+読みます	読[よ]みます	read		L06
+書きます	書[か]きます	write		L06
+買います	買[か]います	buy		L06
+写真を撮ります	写[しゃ] 真[しん]を 撮[と]ります	take a photograph		L06
+します	します	do, play		L06
+友達に会います	友[とも] 達[だち]に 会[あ]います	meet a friend		L06
+ごはん	ごはん	a meal, cooked rice		L06
+朝ごはん	朝[あさ]ごはん	breakfast		L06
+昼ごはん	昼[ひる]ごはん	lunch		L06
+晩ごはん	晩[ばん]ごはん	supper		L06
+パン	パン	bread		L06 L46U
+卵	卵[たまご]	egg		L06
+肉	肉[にく]	meat		L06
+魚	魚[さかな]	fish		L06
+野菜	野[や] 菜[さい]	vegetable		L06
+果物	果物[くだもの]	fruit		L06
+水	水[みず]	water		L06
+お茶	お 茶[ちゃ]	tea, green tea		L06 L19U
+紅茶	紅[こう] 茶[ちゃ]	black tea		L06 L11U
+牛乳／ミルク	牛[ぎゅう] 乳[にゅう]／ミルク	milk		L06
+ジュース	ジュース	juice		L06 L11U
+ビール	ビール	beer		L06 L46U
+お酒	お 酒[さけ]	alcohol, Japanese rice wine		L06
+たばこ	たばこ	tabacco, cigarette		L06
+手紙	手[て] 紙[がみ]	letter		L06
+レポート	レポート	report		L06
+写真	写[しゃ] 真[しん]	photograph		L06
+ビデオ	ビデオ	video tape, video deck		L06
+店	店[みせ]	shop, store		L06
+庭	庭[にわ]	garden		L06
+宿題をします	宿[しゅく] 題[だい]をします	do a homework		L06
+テニスをします	テニスをします	play tennis		L06 L09U
+サッカーをします	サッカーをします	play soccer, football		L06 L09U
+[お]花見をします	[お] 花[はな] 見[み]をします	view the cherry blossom		L06
+一緒に	一[いっ] 緒[しょ]に	together		L06
+一寸	一寸[ちょっと]	a little while, a little bit		L06
+いつも	いつも	always, usually		L06
+時々	時[とき] 々[どき]	sometimes		L06
+それから	それから	after that, and then		L06 L17
+いいですね。	いいですね。	That's good.		L06
+分かりました。	分[わ]かりました。	I understood.		L06
+何ですか。	何[なん]ですか。	Yes? (lit: What is it?)		L06
+じゃ、またあした。	じゃ、またあした。	See you tomorrow.		L06
+食べ物	食[た]べ 物[もの]	food		L06U L08
+きゅうり	きゅうり	cucumber		L06U
+トマト	トマト	tomato		L06U
+なす	なす	aubergine, eggplant		L06U
+豆	豆[まめ]	beans, peas, lentils		L06U L36U
+キャベツ	キャベツ	cabbage		L06U
+ねぎ	ねぎ	spring onion, scallion		L06U
+白菜	白[はく] 菜[さい]	Chinese cabbage		L06U
+ほうれん草	ほうれん 草[そう]	spinach		L06U
+レタス	レタス	lettuce		L06U
+じゃがいも	じゃがいも	potato		L06U
+大根	大[だい] 根[こん]	Japanese white radish		L06U
+たまねぎ	たまねぎ	onion		L06U L34
+にんじん	にんじん	carrot		L06U
+いちご	いちご	strawberry		L06U
+桃	桃[もも]	peach		L06U
+すいか	すいか	watermelon		L06U
+ぶどう	ぶどう	grape		L06U
+なし	なし	Japanese pear		L06U
+柿	柿[かき]	persimmon		L06U
+みかん	みかん	mandarin orange		L06U L11
+りんご	りんご	apple		L06U L11
+バナナ	バナナ	banana		L06U
+ソーセージ	ソーセージ	sausage		L06U
+米	米[こめ]	rice		L06U L37
+牛肉	牛[ぎゅう] 肉[にく]	beef meat		L06U L12
+鳥肉	鳥[とり] 肉[にく]	chicken meat		L06U L12
+豚肉	豚[ぶた] 肉[にく]	pork meat		L06U L12
+ハム	ハム	ham		L06U L46U
+あじ	あじ	horse mackerel (fish)		L06U
+いわし	いわし	sardine (fish)		L06U
+さば	さば	mackerel (fish)		L06U
+さんま	さんま	mackerel pike		L06U
+さけ	さけ	salmon		L06U
+まぐろ	まぐろ	tuna		L06U
+たい	たい	sea bream		L06U
+たら	たら	cod		L06U
+えび	えび	lobster, prawn, shrimp		L06U
+かに	かに	crab		L06U
+いか	いか	cuttlefish, squid		L06U
+たこ	たこ	octopus​		L06U
+貝	貝[かい]	shellfish		L06U
+切ります	切[き]ります	cut, slice		L07
+送ります	送[おく]ります	send		L07
+上げます	上[あ]げます	give; raise, lift up		L07 L41
+もらいます	もらいます	receive		L07
+貸します	貸[か]します	lend		L07 L41U
+借ります	借[か]ります	borrow		L07
+教えます	教[おし]えます	teach		L07
+習います	習[なら]います	learn		L07
+電話をかけます	電[でん] 話[わ]をかけます	make a telephone call		L07
+手	手[て]	hand		L07 L17U
+箸	箸[はし]	chopsticks		L07
+スポーン	スポーン	spoon		L07
+ナイフ	ナイフ	knife		L07
+フォーク	フォーク	fork		L07
+はさみ	はさみ	scissors		L07 L42U
+パソコン	パソコン	personal computer		L07
+ケータイ	ケータイ	mobile phone, cell phone		L07
+メール	メール	e-mail		L07
+年賀状	年[ねん] 賀[が] 状[じょう]	New Year's greeting card		L07
+パンチ	パンチ	punch		L07 L42U
+ホッチキス	ホッチキス	stapler		L07 L42U
+セロテープ	セロテープ	sellotape		L07 L42U
+消しゴム	消[け]しゴム	eraser		L07 L42U
+紙	紙[かみ]	paper		L07
+花	花[はな]	flower		L07
+シャツ	シャツ	shirt		L07
+プレゼント	プレゼント	present, gift		L07
+荷物	荷[に] 物[もつ]	luggage, baggage, parcel		L07
+お金	お 金[かね]	money		L07
+切符	切[きっ] 符[ぷ]	ticket (bus, train)		L07
+クリスマス	クリスマス	Christmas		L07
+父	父[ちち]	(my) father		L07
+母	母[はは]	(my) mother		L07
+お父さん	お 父[とう]さん	(someone else's) father		L07
+お母さん	お 母[かあ]さん	(someone else's) mother		L07
+もう	もう	already, (not) any longer (used with negatives)		L07 L33
+まだ	まだ	not yet, still		L07 L30
+これから	これから	from now on, soon		L07
+[～、]すてきですね。	[～、]すてきですね。	What a nice [～]!		L07
+いらっしゃい。	いらっしゃい。	Welcome.		L07
+どうぞお上がりください。	どうぞお 上[あ]がりください。	Do come in.		L07
+失礼します。	失[しつ] 礼[れい]します。	May I?/I commit an incivility.		L07
+いただきます。	いただきます。	eat, drink, receive (humble of たべます、のみます、もらいます)		L07 L41 L50
+ごちそうさまでした。	ごちそうさまでした。	That was delicious. (after eating or drinking)		L07
+祖母	祖[そ] 母[ぼ]	(my) grandmother		L07U L41
+祖父	祖[そ] 父[ふ]	(my) grandfather		L07U L41
+祖父母	祖[そ] 父[ふ] 母[ぼ]	grandparents		L07U
+両親	両[りょう] 親[しん]	(my) parents		L07U L11
+妹	妹[いもうと]	(my) younger sister		L07U L11
+弟	弟[おとうと]	(my) younger brother		L07U L11
+姉	姉[あね]	(my) elder sister		L07U L11
+兄	兄[あに]	(my) elder brother		L07U L11
+兄弟	兄[きょう] 弟[だい]	(my) brothers and sisters		L07U L11
+妻	妻[つま]	(my) wife		L07U L09
+夫	夫[おっと]	(my) husband		L07U L09
+夫婦	夫[ふう] 婦[ふ]	husband and wife		L07U
+娘	娘[むすめ]	(my) daughter		L07U L28
+息子	息子[むすこ]	(my) son		L07U L28
+子供	子[こ] 供[ども]	(my) child		L07U L09
+ハンサ厶（な）	ハンサ厶（な）	handsome		L08
+きれい（な）	きれい（な）	beautiful, clean		L08
+静か（な）	静[しず]か（な）	quiet		L08
+賑やか（な）	賑[にぎ]やか（な）	lively		L08
+有名（な）	有[ゆう] 名[めい]（な）	famous		L08
+親切（な）	親[しん] 切[せつ]（な）	helpful, kind, considerate (not used about one's own family members)		L08 L41U
+元気（な）	元[げん] 気[き]（な）	healthy, energetic, cheerful		L08
+暇（な）	暇[ひま]（な）	free (time)		L08
+便利（な）	便[べん] 利[り]（な）	convenient		L08
+すてき（な）	すてき（な）	fine, nice, wonderful		L08
+大きい	大[おお]きい	big, large		L08
+小さい	小[ちい]さい	small, little		L08
+新しい	新[あたら]しい	new, fresh		L08
+古い	古[ふる]い	old (not person)		L08
+悪い	悪[わる]い	bad		L08
+暑い	暑[あつ]い	hot (weather, etc.), warm		L08
+熱い	熱[あつ]い	hot (thing)		L08
+寒い	寒[さむ]い	cold (e.g. weather)		L08
+冷たい	冷[つめ]たい	cold (touch/human's feeling)		L08 L43
+難しい	難[むずか]しい	difficult		L08
+易しい	易[やさ]しい	easy		L08
+高い	高[たか]い	high, tall, expensive		L08
+安い	安[やす]い	cheap, inexpensive		L08
+低い	低[ひく]い	low		L08
+面白い	面[おも] 白[しろ]い	interesting, amusing		L08 L39U
+おいしい	おいしい	delicious, tasty, sweet		L08
+忙しい	忙[いそが]しい	busy		L08
+楽しい	楽[たの]しい	enjoyable, pleasant		L08 L39U
+白い	白[しろ]い	white (adj)		L08
+黒い	黒[くろ]い	black (adj)		L08
+赤い	赤[あか]い	red (adj)		L08
+青い	青[あお]い	blue (adj)		L08
+桜	桜[さくら]	cherry blossom		L08
+山	山[やま]	mountain		L08
+町	町[まち]	town, city		L08 L13U
+所	所[ところ]	place		L08
+寮	寮[りょう]	dormitory		L08
+生活	生[せい] 活[かつ]	life		L08 L36U
+お仕事をします	お 仕[し] 事[ごと]をします	do one's work, job, business		L08
+どう	どう	how		L08
+どんな〜	どんな〜	what kind of 〜		L08
+とても	とても	very		L08
+あまり	あまり	not so (used with negatives)		L08
+そして	そして	and (used to connect sentences)		L08
+〜が、〜	〜が、〜	〜 but, 〜		L08
+お元気ですか。	お 元[げん] 気[き]ですか。	How are you?		L08
+[〜、]もう一杯いかがですか。	[〜、]もう 一[いっ] 杯[ぱい]いかがですか。	Won't you have another cup of [〜]?		L08
+いいえ、けっこうです。	いいえ、けっこうです。	No, thank you.		L08
+もう～です [ね]。	もう～です [ね]。	It's already ～ [isn't it?]		L08
+そろそろ失礼します。	そろそろ 失[しつ] 礼[れい]します。	It's time to go.		L08
+いいえ。	いいえ。	Not at all.		L08
+またいらっしゃってください。	またいらっしゃってください。	Please come again.		L08
+上海	上[シャン] 海[ハイ]	Shanghai		L08
+金閣寺	金[きん] 閣[かく] 寺[じ]	The Temple of the Golden Pavilion		L08
+奈良公園	奈[な] 良[ら] 公[こう] 園[えん]	Nara Park		L08
+富士山	富[ふ] 士[じ] 山[さん]	Mount Fuji		L08 L12U
+七人の侍	七[しち] 人[にん]の 侍[さむらい]	Seven Samurai​, a classic movie by Akira Kurosawa		L08
+黄色い	黄[き] 色[いろ]い	yellow (adj)		L08U
+茶色い	茶[ちゃ] 色[いろ]い	brown (adj)		L08U
+ピンク	ピンク	pink		L08U
+オレンジ	オレンジ	orange		L08U
+緑	緑[みどり]	green, grocery		L08U L16
+紫	紫[むらさき]	purple		L08U
+グレー	グレー	grey		L08U
+ベージュ	ベージュ	beige		L08U
+甘い	甘[あま]い	sweet		L08U L12
+辛い	辛[から]い	hot (taste), spicy		L08U L12
+苦い	苦[にが]い	bitter		L08U L34
+塩辛い	塩[しお] 辛[から]い	salty		L08U
+酸っぱい	酸[す]っぱい	sour		L08U
+濃い	濃[こ]い	strong (flavour, smell, taste)​, dark (colour), thick (liquid)		L08U L44
+薄い	薄[うす]い	weak (objects, taste), light (colour), thin		L08U L44
+味	味[あじ]	taste		L08U L28
+色	色[いろ]	colour		L08U
+分かります	分[わ]かります	understand		L09
+あります	あります	have, exist, be (referring to inanimate things)		L09 L10
+好き（な）	好[す]き（な）	like		L09
+嫌い（な）	嫌[きら]い（な）	dislike		L09
+上手（な）	上[じょう] 手[ず]（な）	good at		L09
+下手（な）	下手[へた]（な）	poor at		L09
+飲み物	飲[の]み 物[もの]	drinks		L09
+料理をします	料[りょう] 理[り]をします	cooking food		L09
+スポーツをします	スポーツをします	play sports		L09
+野球をします	野[や] 球[きゅう]をします	play baseball		L09
+ダンス	ダンス	dance		L09
+旅行をします	旅[りょ] 行[こう]をします	make a trip, tour		L09
+音楽	音[おん] 楽[がく]	music		L09 L31U
+歌	歌[うた]	song		L09
+クラシック	クラシック	classical (music)		L09
+ジャズ	ジャズ	jazz (music)		L09
+コンサート	コンサート	concert		L09 L27U
+カラオケ	カラオケ	karaoke		L09 L19U L41U
+歌舞伎	歌[か] 舞[ぶ] 伎[き]	kabuki (Japanese classical drama​)		L09 L19U
+絵	絵[え]	picture, drawing		L09
+字	字[じ]	letter, character		L09
+漢字	漢[かん] 字[じ]	Chinese character		L09
+ひらがな	ひらがな	hiragana script		L09
+かたかな	かたかな	katakana script		L09
+ローマ字	ローマ 字[じ]	the Roman alphabet		L09
+細かいお金	細[こま]かいお 金[かね]	small change		L09
+チケット	チケット	ticket (flight, movie, concert)		L09 L27U
+用事	用[よう] 事[じ]	something to do, errand		L09
+約束をします	約[やく] 束[そく]をします	appointment, promise		L09
+アルバイトをします	アルバイトをします	part-time job		L09 L46U
+ご主人	ご 主[しゅ] 人[じん]	(someone else's) husband		L07U L09
+奥さん	奥[おく]さん	(someone else's) wife		L07U L09
+よく	よく	well, much		L09
+だいたい	だいたい	mostly, roughly		L09
+たくさん	たくさん	many, much		L09
+少し	少[すこ]し	a little, a few		L09
+全然	全[ぜん] 然[ぜん]	not at all (used with negatives)		L09
+早く	早[はや]く	early, quickly, fast		L09
+速く	速[はや]く	quickly, fast		L09
+どうして	どうして	why		L09
+貸してください。	貸[か]してください。	Please lend (it to me).		L09
+いいですよ。	いいですよ。	Sure./Certainly.		L09
+残念ですが	残[ざん] 念[ねん]ですが	I'm sorry but, unfortunately		L09
+ああ	ああ	oh		L09
+一緒にいかがですか。	一[いっ] 緒[しょ]にいかがですか。	Won't you join me (us)?		L09
+[～は]ちょっと……。	[～は]ちょっと……。	[～] is a bit difficult.		L09
+だめですか。	だめですか。	So you can't (come)?		L09
+また今度お願いします。	また 今[こん] 度[ど]お 願[ねが]いします。	Please ask me again some other time.		L09
+ポップス	ポップス	pop (music)		L09U
+ロック	ロック	rock (music)		L09U
+ラテン	ラテン	Latin-American (music)		L09U
+民謡	民[みん] 謡[よう]	folk song		L09U
+演歌	演[えん] 歌[か]	traditional Japanese popular songs		L09U
+ミュージカル	ミュージカル	musical (music)		L09U
+オペラ	オペラ	opera (music)		L09U L46U
+ＳＦ	ＳＦ	science fiction (film)		L09U
+ホラー	ホラー	horror		L09U
+アニメ	アニメ	animation		L09U
+ドキュメンタリー	ドキュメンタリー	documentary		L09U
+恋愛	恋[れん] 愛[あい]	romance		L09U
+ミステリー	ミステリー	mystery		L09U
+文芸	文[ぶん] 芸[げい]	literature, based on classic work		L09U
+戦争	戦[せん] 争[そう]	war		L09U L42
+アクション	アクション	action		L09U
+喜劇	喜[き] 劇[げき]	comedy		L09U
+ソフトボール	ソフトボール	softball		L09U
+ラグビー	ラグビー	rugby		L09U
+バレーボール	バレーボール	volleyball		L09U
+バスケットボール	バスケットボール	basketball		L09U
+ボウリング	ボウリング	bowling		L09U
+スキー	スキー	skiing		L09U L13
+スケート	スケート	skating		L09U
+野球	野[や] 球[きゅう]	baseball		L09U
+卓球（ピンポン）	卓[たっ] 球[きゅう]（ピンポン）	table tennis (ping-pong​)		L09U
+相撲	相撲[すもう]	sumo		L09U L19
+柔道	柔[じゅう] 道[どう]	judo		L09U L19U L36
+剣道	剣[けん] 道[どう]	Japanese fencing		L09U L19U L36
+水泳	水[すい] 泳[えい]	swimming		L09U L36
+います	います	exist, be (referring to animate things)		L10
+いろいろ（な）	いろいろ（な）	various		L10 L20
+男の人	男[おとこ]の 人[ひと]	man		L10
+女の人	女[おんな]の 人[ひと]	woman		L10
+男の子	男[おとこ]の 子[こ]	boy		L10
+女の子	女[おんな]の 子[こ]	girl		L10
+犬	犬[いぬ]	dog		L10
+猫	猫[ねこ]	cat		L10
+パンダ	パンダ	panda		L10
+象	象[ぞう]	elephant		L10
+木	木[き]	tree, wood		L10
+物	物[もの]	thing		L10
+電池	電[でん] 池[ち]	battery		L10 L30U
+箱	箱[はこ]	box		L10
+スイッチ	スイッチ	switch		L10
+冷蔵庫	冷[れい] 蔵[ぞう] 庫[こ]	refrigerator		L10
+テーブル	テーブル	table		L10
+ベッド	ベッド	bed		L10
+棚	棚[たな]	shelf		L10
+ドア	ドア	door		L10
+窓	窓[まど]	window		L10
+ポスト	ポスト	postbox, mailbox		L10
+ビル	ビル	building		L10
+コンビニ	コンビニ	convenience store		L10 L13U L27U L45U
+公園	公[こう] 園[えん]	park		L10 L13U
+喫茶店	喫[きっ] 茶[さ] 店[てん]	coffee shop		L10 L13U
+～屋	～ 屋[や]	shop, store, -er (baker, grocer, etc.)		L10 L39
+乗り場	乗[の]り 場[ば]	place for boarding vehicles (bus/train/jetty)		L10
+上	上[うえ]	on, above, over		L10
+下	下[した]	under, below, beneath		L10
+前	前[まえ]	front, before		L10
+後ろ	後[うし]ろ	back, behind		L10
+右	右[みぎ]	right		L10
+左	左[ひだり]	left		L10
+中	中[なか]	in, inside		L10
+外	外[そと]	outside		L10
+隣	隣[となり]	next, next door		L10
+近く	近[ちか]く	near, vicinity​		L10
+間	間[あいだ]	between, among		L10
+～や～ [など]	～や～ [など]	～, ～, and so on		L10
+どうもすみません。	どうもすみません。	Thank you.		L10
+ナンプラー	ナンプラー	fish sauce (Thai)		L10
+コーナー	コーナー	corner, section		L10
+一番下	一[いち] 番[ばん] 下[した]	the bottom		L10
+東京ディズニーランド	東[とう] 京[きょう]ディズニーランド	Tokyo Disneyland		L10
+玄関	玄[げん] 関[かん]	entrance hall, front door, porch		L10U L28U L30
+トイレ	トイレ	toilet		L10U
+風呂場	風[ふ] 呂[ろ] 場[ば]	bathroom		L10U
+洗面所	洗[せん] 面[めん] 所[じょ]	washroom		L10U
+台所	台[だい] 所[どころ]	kitchen		L10U L28
+寝室	寝[しん] 室[しつ]	bedroom		L10U
+廊下	廊[ろう] 下[か]	hallway, corridor		L10U L30
+ベランダ	ベランダ	balcony, veranda		L10U
+子供がいます	子[こ] 供[ども]がいます	have a child		L11
+日本にいます	日本[にほん]にいます	stay in Japan		L11
+かかります	かかります	take, cost (referring to time or money)		L11
+会社を休みます	会[かい] 社[しゃ]を 休[やす]みます	take a day off from work		L11
+一人	一人[ひとり]	one person		L11
+二人	二人[ふたり]	two people, couple		L11 L41
+ー人	ー 人[にん]	ー people		L11
+ー台	ー 台[だい]	counter for machines, cars. etc.		L11
+ー枚	ー 枚[まい]	counter for paper, stamps, etc.		L11
+ー回	ー 回[かい]	ーtimes		L11
+サンドイッチ	サンドイッチ	sandwich		L11
+カレーライス	カレーライス	curry rice		L11
+アイスクリーム	アイスクリーム	ice cream		L11
+切手	切[きっ] 手[て]	stamp		L11 L27U
+はがき	はがき	postcard		L11 L27U
+封筒	封[ふう] 筒[とう]	envelope		L11
+外国	外[がい] 国[こく]	foreign country		L11
+留学生	留[りゅう] 学[がく] 生[せい]	foreign student		L11
+クラス	クラス	class		L11
+ー時間	ー 時[じ] 間[かん]	ー hour (s)		L11
+ー週間	ー 週[しゅう] 間[かん]	ー week (s)		L11
+ーか月	ーか 月[げつ]	ー month (s)		L11
+～ぐらい	～ぐらい	about ～		L11
+どのくらい	どのくらい	how long; how much, how many		L11 L42
+全部で	全[ぜん] 部[ぶ]で	in total		L11
+みんな	みんな	all, everything, everyone		L11
+～だけ	～だけ	only ～		L11
+かしこまりました。	かしこまりました。	Certainly, (Sir/Madam).		L11
+いいお天気ですね。	いいお 天[てん] 気[き]ですね。	Nice weather, isn't it?		L11
+お出かけですか。	お 出[で]かけですか。	Are you going out?		L11
+ちょっと～まで。	ちょっと～まで。	I'm just going to ～.		L11
+行ってらっしゃい。	行ってらっしゃい。	I'll go and come back.		L11
+行ってきます。	行[い]ってきます。	I'm going and come back.		L11
+船便	船[ふな] 便[びん]	sea mail		L11
+航空便／エアメール	航[こう] 空[くう] 便[びん]／エアメール	airmail		L11
+お願いします。	お 願[ねが]いします。	Please (ask for a favour)		L11
+メニュー	メニュー	menu		L11U
+定食	定[てい] 食[しょく]	set meal		L11U L13
+ランチ	ランチ	western-style set meal		L11U
+天丼	天[てん] 丼[どん]	a bowl of rice with fried seafood and vegetables		L11U
+親子丼	親[おや] 子[こ] 丼[どん]	a bowl of rice with chicken and egg		L11U L34
+牛丼	牛[ぎゅう] 丼[どん]	a bowl of rice with beef		L11U L13
+焼き肉	焼[や]き 肉[にく]	grilled meat		L11U
+野菜いため	野[や] 菜[さい]いため	sauteed vegetables		L11U
+漬物	漬[つけ] 物[もの]	pickles		L11U
+みそ汁	みそ 汁[しる]	miso soup		L11U
+おにぎり	おにぎり	rice ball		L11U
+てんぷら	てんぷら	fried seafood and vegetables		L11U L12
+すし	すし	sushi		L11U L12
+うどん	うどん	Japanese noodles made from wheat flour		L11U
+そば	そば	Japanese noodles made from buckwheat flour		L11U
+ラーメン	ラーメン	Chinese noodles in soup with meat and vegetables		L11U
+焼きそば	焼[や]きそば	Chinese stir-fried noodles with pork and vegetables		L11U
+お好み焼き	お 好[この]み 焼[や]き	a type of pancake grilled with meat, vegetables, and egg		L11U
+ハンバーグ	ハンバーグ	hamburg steak		L11U
+コロッケ	コロッケ	croquette		L11U L46U
+えびフライ	えびフライ	fried shrimp		L11U
+フライドチケン	フライドチケン	fried chicken		L11U
+サラダ	サラダ	salad		L11U
+スープ	スープ	soup		L11U
+スパゲッティ	スパゲッティ	spaghetti		L11U L46U
+ピザ	ピザ	pizza		L11U
+ハンバーガー	ハンバーガー	hamburger		L11U
+トースト	トースト	toast		L11U
+ココア	ココア	cocoa		L11U
+コーラ	コーラ	cola		L11U
+簡単（な）	簡[かん] 単[たん]（な）	easy, simple		L12
+近い	近[ちか]い	near		L12
+遠い	遠[とお]い	far		L12
+速い	速[はや]い	fast		L12
+早い	早[はや]い	early		L12
+遅い	遅[おそ]い	slow, late		L12
+人が多い	人[ひと]が 多[おお]い	many people		L12
+人が少ない	人[ひと]が 少[すく]ない	few people		L12
+暖かい、温かい	暖[あたた]かい、 温[あたた]かい	warm (temperature), warm (touch)		L12
+涼しい	涼[すず]しい	cool		L12
+重い	重[おも]い	heavy		L12
+軽い	軽[かる]い	light		L12
+コーヒーがいい	コーヒーがいい	prefer coffee		L12
+季節	季[き] 節[せつ]	season		L12
+春	春[はる]	spring		L12
+夏	夏[なつ]	summer		L12
+秋	秋[あき]	autumn		L12
+冬	冬[ふゆ]	winter		L12
+天気	天[てん] 気[き]	weather		L12
+雨	雨[あめ]	rain, rainy		L12 L32U
+雪	雪[ゆき]	snow, snowy		L12 L32U
+曇り	曇[くも]り	cloudy		L12 L32U
+ホテル	ホテル	hotel		L12
+空港	空[くう] 港[こう]	airport		L12
+海	海[うみ]	sea, ocean		L12
+世界	世[せ] 界[かい]	world		L12
+パーティーをします	パーティーをします	give a party		L12
+お祭り	お 祭[まつ]り	festival		L12
+すき焼き	すき 焼[や]き	beef and vegetable hotpot		L12
+刺身	刺[さし] 身[み]	sliced raw fish		L12
+レモン	レモン	lemon		L12
+生け花をします	生[い]け 花[ばな]をします	practise flower arrangement		L12 L41U
+紅葉、紅葉	紅葉[もみじ]、 紅[こう] 葉[よう]	紅葉[もみじ]：maple, red leaves of autumn<div>紅[こう] 葉[よう]：leaves turning red; red leaves​</div>		L12
+一番	一[いち] 番[ばん]	the most		L12
+ずっと	ずっと	by far; the whole time		L12 L31
+初めて	初[はじ]めて	for the first time		L12
+ただいま。	ただいま。	I'm home.		L12
+お帰りなさい。	お 帰[かえ]りなさい。	Welcome home.		L12
+わあ、すごい人ですね。	わあ、すごい 人[ひと]ですね。	Wow, so many people!		L12
+疲れました。	疲[つか]れました。	I'm tired		L12
+祇園祭	祇園[ぎおん] 祭[まつり]	Gion Festival		L12
+ホンコン	ホンコン	Hong Kong		L12
+名所	名[めい] 所[しょ]	famous place		L12
+鹿苑寺（金閣寺）	鹿[ろく] 苑[おん] 寺[じ]（ 金[きん]閣[かく]寺[じ]）	Rokuon-ji (Kinkaku-ji)		L12U
+姫路城	姫[ひめ] 路[じ] 城[じょう]	Himeji Castle		L12U
+原爆ドーム	原[げん] 爆[ばく]ドーム	Hiroshima Peace Memorial		L12U L38
+天神祭	天[てん] 神[じん] 祭[まつり]	Tenjin Matsuri		L12U
+東大寺	東[とう] 大[だい] 寺[じ]	Eastern Great Temple		L12U L37
+神田祭	神[かん] 田[だ] 祭[まつり]	Kanda Festival		L12U
+皇居	皇[こう] 居[きょ]	Tokyo Imperial Palace		L12U
+東照宮	東[とう] 照[しょう] 宮[ぐう]	Toshogu Shrine		L12U L37 L40
+遊びます	遊[あそ]びます	enjoy oneself, play		L13
+泳ぎます	泳[およ]ぎます	swim		L13
+迎えます	迎[むか]えます	go to meet, welcome		L13
+疲れます	疲[つか]れます	get tired		L13
+結婚します	結[けっ] 婚[こん]します	marry, get married		L13
+買い物します	買[か]い 物[もの]します	do shopping		L13
+食事します	食[しょく] 事[じ]します	have a meal, dine		L13
+公園を散歩します	公[こう] 園[えん]を 散[さん] 歩[ぽ]します	take a walk in a park		L13
+大変（な）	大[たい] 変[へん]（な）	hard, tough, severe, awful		L13
+欲しい	欲[ほ]しい	to want something		L13
+広い	広[ひろ]い	wide, spacious		L13
+狭い	狭[せま]い	narrow, small (room, etc)		L13
+プール	プール	swimming pool		L13
+川	川[かわ]	river		L13
+美術	美[び] 術[じゅつ]	fine arts		L13 L31U
+釣りをします	釣[つ]りをします	fishing		L13
+週末	週[しゅう] 末[まつ]	weekend		L13
+～ごろ	～ごろ	about ～ (time)		L13
+何か	何[なに]か	something		L13
+どこか	どこか	somewhere, some place		L13
+喉が乾きます	喉[のど]が 乾[かわ]きます	throat is getting thirsty		L13
+お腹が空きます	お 腹[なか]が 空[す]きます	stomach is getting hungry		L13
+そうしましょう。	そうしましょう。	Let's do that.		L13
+ご注文は？	ご 注[ちゅう] 文[もん]は？	May I take your order?		L13
+少々お待ちください。	少[しょう] 々[しょう]お 待[ま]ちください。	Please wait a moment.		L13
+別々に	別[べつ] 々[べつ]に	separately, individually​		L13
+博物館	博[はく] 物[ぶつ] 館[かん]	museum		L13U
+映画館	映[えい] 画[が] 館[かん]	cinema, movie theater		L13U L31
+動物園	動[どう] 物[ぶつ] 園[えん]	zoo		L13U L31
+植物園	植[しょく] 物[ぶつ] 園[えん]	botanical garden		L13U
+お寺	お 寺[てら]	Buddhist temple		L13U L16
+神社	神[じん] 社[じゃ]	Shinto shrine		L13U L16
+教会	教[きょう] 会[かい]	church		L13U L31
+モスク	モスク	mosque		L13U
+体育館	体[たい] 育[いく] 館[かん]	gymnasium		L13U L28
+大使館	大[たい] 使[し] 館[かん]	embassy		L13U
+市役所	市[し] 役[やく] 所[しょ]	municipal office, city hall		L13U L15
+交番	交[こう] 番[ばん]	police box		L13U L29
+高校	高[こう] 校[こう]	senior high school		L13U L15
+中学校	中[ちゅう] 学[がっ] 校[こう]	junior high school		L13U L38
+小学校	小[しょう] 学[がっ] 校[こう]	junior/elementary school		L13U L38
+幼稚園	幼[よう] 稚[ち] 園[えん]	kindergarten, preschool		L13U L41
+肉屋	肉[にく] 屋[や]	butcher's shop		L13U
+パン屋	パン 屋[や]	bakery		L13U
+魚屋	魚[さかな] 屋[や]	fish market, fish dealer​		L13U
+酒屋	酒[さか] 屋[や]	liquor store		L13U
+八百屋	八[や] 百屋[おや]	greengrocer​ (sells fresh vegetables and fruit)		L13U
+つけます	つけます	turn on		L14
+消します	消[け]します	turn off		L14
+開けます	開[あ]けます	open		L14 L30U
+閉めます	閉[し]めます	close, shut		L14
+急ぎます	急[いそ]ぎます	hurry		L14
+待ちます	待[ま]ちます	wait		L14
+持ちます	持[も]ちます	hold		L14
+取ります	取[と]ります	take, pass		L14
+手伝います	手[て] 伝[つだ]います	help (with a task)		L14
+呼びます	呼[よ]びます	call		L14
+話します	話[はな]します	speak, talk		L14
+使います	使[つか]います	use		L14
+止めます	止[と]めます	stop, park		L14
+見せます	見[み]せます	show		L14
+住所を教えます	住[じゅう] 所[しょ]を 教[おし]えます	tell an address		L14
+座ります	座[すわ]ります	sit down		L14
+立ちます	立[た]ちます	stand up		L14
+喫茶店に入ります	喫[きっ] 茶[さ] 店[てん]に 入[はい]ります	enter a coffee shop		L14
+喫茶店を出ます	喫[きっ] 茶[さ] 店[てん]を 出[で]ます	go out of a coffee shop		L14
+雨が降ります	雨[あめ]が 降[ふ]ります	rain		L14
+コピーします	コピーします	to copy		L14
+電気	電[でん] 気[き]	electricity, light		L14
+エアコン	エアコン	air conditioner		L14
+パスポート	パスポート	passport		L14
+名前	名[な] 前[まえ]	name		L14
+住所	住[じゅう] 所[しょ]	address		L14
+地図	地[ち] 図[ず]	map		L14
+塩	塩[しお]	salt		L14 L34U
+砂糖	砂[さ] 糖[とう]	sugar		L14 L34U
+問題	問[もん] 題[だい]	question, problem, trouble		L14
+答え	答[こた]え	answer		L14
+読み方	読[よ]み 方[かた]	how to read, way of reading		L14
+～方	～ 方[かた]	how to ～, way of ～ing		L14
+まっすぐ	まっすぐ	straight		L14
+ゆっくり	ゆっくり	slowly, leisurely		L14
+すぐ	すぐ	immediately		L14
+また	また	again; and		L14 L39 L44
+あとで	あとで	later		L14
+もう少し	もう 少[すこ]し	a little more		L14
+さあ	さあ	right (encouraging some course of action) well, let me see. (unsure of something)		L14
+あれ？	あれ？	Huh? Eh?		L14
+信号を右へ曲がってください。	信[しん] 号[ごう]を 右[みぎ]へ 曲[ま]がってください。	Turn right at the traffic lights.		L14
+お釣り	お 釣[つ]り	change (for a purchase)​		L14
+切符売り場	切[きっ] 符[ぷ] 売[う]り 場[ば]	ticket office, ticket area		L14U
+自動券売機	自[じ] 動[どう] 券[けん] 売[ばい] 機[き]	ticket machine		L14U
+精算機	精[せい] 算[さん] 機[き]	fare adjustment machine		L14U
+改札口	改[かい] 札[さつ] 口[ぐち]	ticket barrier		L14U
+出口	出[で] 口[ぐち]	exit		L14U L30U L33
+入口	入[いり] 口[ぐち]	entrance		L14U L33
+東口	東[ひがし] 口[ぐち]	east exit		L14U
+西口	西[にし] 口[ぐち]	west exit		L14U
+南口	南[みなみ] 口[ぐち]	south exit		L14U
+北口	北[きた] 口[ぐち]	north exit		L14U
+中央口	中[ちゅう] 央[おう] 口[ぐち]	central exit		L14U
+プラットホーム	プラットホーム	platform		L14U
+売店	売[ばい] 店[てん]	kiosk		L14U
+コインロッカー	コインロッカー	coin locker		L14U
+タクシー乗り場	タクシー 乗[の]り 場[ば]	taxi rank, taxi stand​		L14U
+バスターミナル	バスターミナル	bus terminal		L14U
+バス停	バス 停[てい]	bus stop		L14U
+快速	快[かい] 速[そく]	rapid service train		L14U
+準急	準[じゅん] 急[きゅう]	semi-express train		L14U
+～発	～ 発[はつ]	departing ～		L14U
+～着	～ 着[ちゃく]	arriving at ～		L14U
+東京	東[とう] 京[きょう]	Tokyo		L14U L32U
+定期券	定[てい] 期[き] 券[けん]	season ticket, commuter pass		L14U
+回数券	回[かい] 数[すう] 券[けん]	coupon ticket		L14U
+片道	片[かた] 道[みち]	one way		L14U
+往復	往[おう] 復[ふく]	return/round trip		L14U
+置きます	置[お]きます	put		L15
+作ります	作[つく]ります	make		L15
+造ります	造[つく]ります	produce (for large-scale building, manufacturing, etc)		L15
+売ります	売[う]ります	sell		L15
+知ります	知[し]ります	get to know		L15
+住みます	住[す]みます	be going to live		L15
+研究します	研[けん] 究[きゅう]します	do research		L15
+資料	資[し] 料[りょう]	materials, data		L15
+カタログ	カタログ	catalogue		L15
+時刻表	時[じ] 刻[こく] 表[ひょう]	timetable		L15
+服	服[ふく]	clothes		L15
+製品	製[せい] 品[ひん]	products		L15
+ソフト	ソフト	software		L15
+電子辞書	電[でん] 子[し] 辞[じ] 書[しょ]	electronic dictionary		L15
+経済	経[けい] 済[ざい]	economics		L15
+歯医者	歯[は] 医[い] 者[しゃ]	dentist		L15
+独身	独[どく] 身[しん]	single, unmarried		L15
+すみません	すみません	I'm sorry/Excuse me.		L15
+皆さん	皆[みな]さん	everybody (polite)		L15
+思い出します	思[おも]い 出[だ]します	remember, recollect		L15
+いらっしゃいます、おいでになります	いらっしゃいます、おいでになります	go, come, to be (respectful of いきます、きます、います)		L15 L40
+日本橋	日本[にっぽん] 橋[ばし]	Nipponbashi (shopping district)		L15
+職業	職[しょく] 業[ぎょう]	occupations		L15U
+公務員	公[こう] 務[む] 員[いん]	civil servant, public servant		L15U
+駅員	駅[えき] 員[いん]	station attendant		L15U L29
+郵便局員	郵[ゆう] 便[びん] 局[きょく] 員[いん]	postman		L15U
+店員	店[てん] 員[いん]	shop assistant		L15U
+調理師	調[ちょう] 理[り] 師[し]	cook, chef		L15U
+理容師	理[り] 容[よう] 師[し]	barber		L15U
+美容師	美[び] 容[よう] 師[し]	beautician		L15U
+弁護士	弁[べん] 護[ご] 士[し]	lawyer, attorney, solicitor, barrister		L15U L42
+看護師	看[かん] 護[ご] 師[し]	nurse		L15U
+運転手	運[うん] 転[てん] 手[しゅ]	driver		L15U L40
+警察官	警[けい] 察[さつ] 官[かん]	policeman		L15U
+外交官	外[がい] 交[こう] 官[かん]	diplomat		L15U
+政治家	政[せい] 治[じ] 家[か]	politician		L15U
+画家	画[が] 家[か]	painter		L15U
+作家	作[さっ] 家[か]	author		L15U
+音楽家	音[おん] 楽[がく] 家[か]	musician		L15U L42
+建築家	建[けん] 築[ちく] 家[か]	architect		L15U
+デザイナー	デザイナー	designer		L15U
+ジャーナリスト	ジャーナリスト	journalist		L15U
+歌手	歌[か] 手[しゅ]	singer		L15U L28
+俳優	俳[はい] 優[ゆう]	actor		L15U
+スポーツ選手	スポーツ 選[せん] 手[しゅ]	athelete		L15U
+十九日	十[じゅう] 九[く] 日[にち]	nineteenth day		L05
+電車に乗ります	電[でん] 車[しゃ]に 乗[の]ります	get on/ride a train		L16
+電車を降ります	電[でん] 車[しゃ]を 降[お]ります	get off a train		L16
+乗り換えます	乗[の]り 換[か]えます	change (bus, train)		L16
+シャワーを浴びる	シャワーを 浴[あ]びる	to take a shower		L16
+入れます	入[い]れます	put in, insert		L16
+出します	出[だ]します	take out, hand in, send		L16
+お金を下ろします	お 金[かね]を 下[お]ろします	withdraw money		L16
+大学に入ります	大[だい] 学[がく]に 入[はい]ります	enter a university		L16
+大学を出ます	大[だい] 学[がく]を 出[で]ます	graduate from university		L16
+押します	押[お]します	push, press		L16
+始めます	始[はじ]めます	start, begin		L16
+見学します	見[けん] 学[がく]します	field trip, observation/study tour		L16
+電話します	電[でん] 話[わ]します	phone		L16
+若い	若[わか]い	young		L16
+長い	長[なが]い	long		L16
+短い	短[みじか]い	short		L16
+明るい	明[あか]るい	bright, light; cheerful		L16 L43U
+暗い	暗[くら]い	dark; gloomy		L16 L43U
+体	体[からだ]	body, health		L16 L17U
+頭	頭[あたま]	head, brain		L16 L17U
+髪	髪[かみ]	hair		L16 L17U
+顔	顔[かお]	face		L16 L17U
+目	目[め]	eye		L16 L17U
+耳	耳[みみ]	ear		L16 L17U
+鼻	鼻[はな]	nose		L16 L17U
+口	口[くち]	mouth		L16 L17U
+歯	歯[は]	tooth		L16
+お腹	お 腹[なか]	stomach		L16 L17U
+足	足[あし]	leg, foot		L16 L17U
+背	背[せ]	height		L16
+サービス	サービス	service		L16
+ジョギングをします	ジョギングをします	jogging		L16
+ー番	ー 番[ばん]	number ー		L16
+どうやって	どうやって	in what way, how		L16
+どの～	どの～	which ～ (used for three or more)		L16
+どれ	どれ	which one (of three or more things)		L16
+すごいですね。	すごいですね。	That's amazing!		L16
+いいえ、まだまだです。	いいえ、まだまだです。	No, I still have a long way to go.		L16
+お引き出しですか。	お 引[ひ]き 出[だ]しですか。	Are you making a withdrawal?		L16
+まず	まず	first of all		L16
+次に	次[つぎ]に	next, as a next step		L16
+キャッシュカード	キャッシュカード	cash card, ATM card​		L16
+暗証番号	暗[あん] 証[しょう] 番[ばん] 号[ごう]	personal identification number		L16
+金額	金[きん] 額[がく]	amount of money​		L16
+確認	確[かく] 認[にん]	confirmation		L16 L30U
+ボタン	ボタン	button		L16 L46U
+ＪＲ	ＪＲ	Japan Railways		L16
+雪祭り	雪[ゆき] 祭[まつ]り	snow festival		L16
+バンドン	バンドン	Bandung, Indonesia		L16
+フランケン	フランケン	Franken, Germany		L16
+ベラクルス	ベラクルス	Veracruz, Mexico		L16
+梅田	梅[うめ] 田[だ]	main commercial and central business district in Kita-ku, Osaka, Japan		L16
+お振り込み	お 振[ふ]り 込[こ]み	payment made via bank deposit transfer​		L16U
+お振り替え	お 振[ふ]り 替[か]え	money transfer (usually between accounts held by the same person)​		L16U
+お引き出し	お 引[ひ]き 出[だ]し	withdrawal (of money from an account)		L16U
+通帳記入	通[つう] 帳[ちょう] 記[き] 入[にゅう]	updating your passbook, bankbook​		L16U
+残高照会	残[ざん] 高[だか] 照[しょう] 会[かい]	balance inquiry		L16U
+覚えます	覚[おぼ]えます	memorise		L17
+忘れます	忘[わす]れます	forget		L17
+なくします	なくします	lose		L17
+払います	払[はら]います	pay		L17
+返します	返[かえ]します	give back, return		L17
+出かけます	出[で]かけます	go out		L17
+脱ぎます	脱[ぬ]ぎます	take off (clothes, shoes, etc.), to undress​		L17
+持って行きます	持[も]って 行[い]きます	take (something)		L17
+持って来ます	持[も]って 来[き]ます	bring (something)		L17
+心配します	心[しん] 配[ぱい]します	worry		L17
+残業します	残[ざん] 業[ぎょう]します	work overtime		L17
+出張します	出[しゅっ] 張[ちょう]します	go on a business trip		L17
+薬を飲みます	薬[くすり]を 飲[の]みます	take medicine		L17
+入ります	入[はい]ります	to enter, to go into		L17
+大切（な）	大[たい] 切[せつ]（な）	important, precious		L17 L30U
+大丈夫（な）	大[だい] 丈[じょう] 夫[ぶ]（な）	all right		L17
+危ない	危[あぶ]ない	dangerous		L17
+禁煙	禁[きん] 煙[えん]	no smoking		L17
+健康	健[けん] 康[こう]	health		L17 L32 L36U L38
+保険証	保[ほ] 険[けん] 証[しょう]	insurance card		L17 L45U
+熱	熱[ねつ]	temperature, fever		L17
+病気	病[びょう] 気[き]	illness, disease, sickness​		L17
+薬	薬[くすり]	medicine		L17
+お風呂	お 風[ふ] 呂[ろ]	bath		L17
+上着	上[うわ] 着[ぎ]	jacket, outerwear		L17
+下着	下[した] 着[ぎ]	underwear		L17
+２，３日	２，３ 日[にち]	two or three days		L17
+２，３～	２，３～	two or three ～ (where ～ is a counter suffix)		L17
+～までに	〜までに	before ～, by ～ (indicating time limit)		L17
+ですから	ですから	therefore, so		L17
+どうしましたか。	どうしましたか。	What's the matter?		L17
+のど	のど	throat		L17
+痛い	痛[いた]い	pain		L17
+風邪	風邪[かぜ]	cold, flu		L17
+お大事に。	お 大[だい] 事[じ]に。	take care of yourself, get well soon		L17
+あご	あご	chin, jaw		L17U
+首	首[くび]	neck		L17U
+胸	胸[むね]	chest		L17U
+肩	肩[かた]	shoulder		L17U
+腕	腕[うで]	arm		L17U
+肘	肘[ひじ]	elbow		L17U
+指	指[ゆび]	finger		L17U
+爪	爪[つめ]	nail		L17U
+背中	背[せ] 中[なか]	back (body part)		L17U
+腰	腰[こし]	waist		L17U
+尻	尻[しり]	buttocks		L17U
+膝	膝[ひざ]	knee​		L17U
+骨	骨[ほね]	bone		L17U
+インフルエンザ	インフルエンザ	flu, influenza		L17U L32 L46U
+盲腸	盲[もう] 腸[ちょう]	appendicitis		L17U
+ぎっくり腰	ぎっくり 腰[ごし]	strained back, slipped disc		L17U
+捻挫	捻[ねん] 挫[ざ]	sprain		L17U
+骨折	骨[こっ] 折[せつ]	bone fracture​		L17U
+二日酔い	二日[ふつか] 酔[よ]い	hangover​, drunk		L17U
+頭が痛い	頭[あたま]が 痛[いた]い	have a headache		L17U
+お腹が痛い	お 腹[なか]が 痛[いた]い	have a stomachache		L17U
+歯が痛い	歯[は]が 痛[いた]い	have a toothache		L17U
+熱があります	熱[ねつ]があります	have a high temperature, fever		L17U
+咳が出ます	咳[せき]が 出[で]ます	have a cough		L17U L32
+鼻水が出ます	鼻[はな] 水[みず]が 出[で]ます	have a runny nose		L17U
+血が出ます	血[ち]が 出[で]ます	bleed		L17U
+吐き気がします	吐[は]き 気[け]がします	feel sick, nauseous (about to vomit)		L17U
+寒気がします	寒[さむ] 気[け]がします	feel a chill		L17U
+めまいがします	めまいがします	feel dizzy		L17U
+下痢をします	下[げ] 痢[り]をします	have diarrhoea		L17U
+便秘をします	便[べん] 秘[ぴ]をします	be constipated		L17U
+けがをします	けがをします	get injured		L17U L32
+やけどをします	やけどをします	get burnt		L17U L32
+食欲がありません	食[しょく] 欲[よく]がありません	have no appetite		L17U
+肩が凝ります	肩[かた]が 凝[こ]ります	feel stiff in one's shoulders		L17U
+体がだるい	体[からだ]がだるい	feel weary		L17U
+かゆい	かゆい	itchy		L17U
+金曜日	金[きん] 曜[よう] 日[び]	Friday		L04
+タクシー	タクシー	taxi		L05
+自転車	自[じ] 転[てん] 車[しゃ]	bicycle		L05 L26U
+歩いて	歩[ある]いて	on foot		L05
+何日	何[なん] 日[にち]	which day of the month, how many days		L05
+建国記念の日	建[けん] 国[こく] 記[き] 念[ねん]の 日[ひ]	National Foundation Day (２月１１日)		L05U
+ええ	ええ	yes, that is correct, right​		L06
+居間	居[い] 間[ま]	living room		L10U
+エンジニア	エンジニア	engineer		L15U
+お預け入れ	お 預[あず]け 入[い]れ	deposit		L16U
+できます	できます	be able to, can		L18
+洗います	洗[あら]います	wash		L18
+弾きます	弾[ひ]きます	play (stringed instrument, piano, etc.)		L18
+歌います	歌[うた]います	sing		L18
+集めます	集[あつ]めます	collect, gather		L18
+捨てます	捨[す]てます	throw away		L18
+換えます	換[か]えます	exchange, change		L18
+運転します	運[うん] 転[てん]します	drive		L18
+予約します	予[よ] 約[やく]します	reserve, book		L18
+ピアノ	ピアノ	piano		L18
+ーメートル	ーメートル	ー metre		L18
+現金	現[げん] 金[きん]	cash		L18
+趣味	趣[しゅ] 味[み]	hobby		L18
+日記	日[にっ] 記[き]	diary		L18
+お祈りをします	お 祈[いの]りをします	to pray		L18
+課長	課[か] 長[ちょう]	section head		L18
+部長	部[ぶ] 長[ちょう]	department head		L18
+社長	社[しゃ] 長[ちょう]	company president		L18
+動物	動[どう] 物[ぶつ]	animal		L18
+馬	馬[うま]	horse		L18
+インターネット	インターネット	the Internet		L18
+特に	特[とく]に	especially		L18
+へえ	へえ	What! Really! (used when expressing surprise)		L18
+それはおもしろいですね。	それはおもしろいですね。	That's interesting, isn't it?		L18
+なかなか	なかなか	not easily (used with negtives)		L18
+ほんとうですか。	ほんとうですか。	Really?		L18
+ぜひ	ぜひ	by all means, really		L18
+動き	動[うご]き	action, movement, move, motion​		L18U
+飛ぶ	飛[と]ぶ	fly		L18U
+跳ぶ	跳[と]ぶ	jump		L18U
+登る	登[のぼ]る	climb		L18U
+走る	走[はし]る	run		L18U
+泳ぐ	泳[およ]ぐ	swim		L18U
+潜る	潜[もぐ]る	to get under, to dive (into or under water)​		L18U L30U
+飛び込む	飛[と]び 込[こ]む	dive into		L18U
+逆立ちます	逆[さか] 立[だ]ちます	do a handstand		L18U
+はう	はう	crawl		L18U
+ける	ける	kick		L18U
+振る	振[ふ]る	wave (action)		L18U
+持ち上げる	持[も]ち 上[あ]げる	lift		L18U
+投げる	投[な]げる	throw		L18U
+たたく	たたく	pat, tap		L18U
+引く	引[ひ]く	pull		L18U
+押す	押[お]す	push		L18U
+曲げる	曲[ま]げる	bend		L18U L42U
+伸ばす	伸[の]ばす	extend		L18U
+転ぶ	転[ころ]ぶ	fall down		L18U
+振り向く	振[ふ]り 向[む]く	look back		L18U
+登ります、上ります	登[のぼ]ります、 上[のぼ]ります	climb, go up		L19
+ホテルに泊まります	ホテルに 泊[と]まります	stay at a hotel		L19
+掃除します	掃[そう] 除[じ]します	clean (a room)		L19
+洗濯します	洗[せん] 濯[たく]します	wash (clothes)		L19
+なります	なります	become		L19
+眠い	眠[ねむ]い	sleepy		L19
+強い	強[つよ]い	strong		L19
+弱い	弱[よわ]い	weak		L19
+練習します	練[れん] 習[しゅう]します	practice		L19
+ゴルフをします	ゴルフをします	play golf		L19
+日	日[ひ]	day, date		L19
+調子	調[ちょう] 子[し]	condition		L19
+一度	一[いち] 度[ど]	once		L19
+一度も	一[いち] 度[ど]も	not once, never (used with negatives)		L19
+だんだん	だんだん	gradually		L19
+もうすぐ	もうすぐ	soon		L19
+おかげさまで	おかげさまで	Thank you (used when expressing gratitude for help received)		L19
+でも	でも	but		L19
+乾杯	乾[かん] 杯[ぱい]	cheers!		L19
+ダイエットをします	ダイエットをします	go on a diet		L19
+無理（な）	無[む] 理[り]（な）	excessive, impossible		L19
+体にいい	体[からだ]にいい	good for one's health		L19
+伝統文化	伝[でん] 統[とう] 文[ぶん] 化[か]	traditional culture		L19U
+娯楽	娯[ご] 楽[らく]	pleasure, amusement​, entertainment		L19U
+茶道（お茶）	茶[さ] 道[どう]（お 茶[ちゃ]）	tea ceremony		L19U L34
+華道	華[か] 道[どう]	flower arrangement​		L19U
+書道	書[しょ] 道[どう]	calligraphy		L19U
+能	能[のう]	noh (theatre)​		L19U
+文楽	文[ぶん] 楽[らく]	bunraku (Japanese puppet theatre)		L19U
+空手	空[から] 手[て]	karate		L19U
+漫才	漫[まん] 才[ざい]	comic dialogue, two-person comedy act		L19U
+落語	落[らく] 語[ご]	traditional Japanese comic storytelling; comic story (told by a professional storyteller)​		L19U
+囲碁	囲[い] 碁[ご]	go (board game of capturing territory​)		L19U
+将棋	将[しょう] 棋[ぎ]	shogi (Japanese chess)		L19U
+盆踊り	盆[ぼん] 踊[おど]り	Bon Festival dance (Lantern Festival dance​)		L19 L49U
+ビザが要ります	ビザが 要[い]ります	need, require a visa		L20
+調べます	調[しら]べます	check, investigate		L20
+修理します	修[しゅう] 理[り]します	repair		L20 L27U
+僕	僕[ぼく]	I (informal of わたし used by men)		L20
+君	君[きみ]	you (informal of あなた)		L20
+～君	～ 君[くん]	Mr. (informal of ～さん)		L20
+うん	うん	yes (informal of はい)		L20
+ううん	ううん	no (informal of いいえ)		L20
+言葉	言[こと] 葉[ば]	word, language		L20
+着物	着[き] 物[もの]	kimono (traditional Japanese attire)		L20
+ビザ	ビザ	visa		L20
+初め	初[はじ]め	the beginning		L20
+終わり	終[お]わり	the end of ～		L20
+こっち	こっち	this way; this place (informal of こちら)		L20
+そっち	そっち	that way (informal of そちら)		L20
+あっち	あっち	that way; the place over there (informal of あちら)		L20
+どっち	どっち	which one (of two things); which way, where (informal of どちら)		L20
+みんなで	みんなで	all together		L20
+～けど	～けど	～, but (informal of が)		L20
+お腹がいっぱいです	お 腹[なか]がいっぱいです	I'm full		L20
+よかったら	よかったら	if you like		L20
+思います	思[おも]います	think		L21
+言います	言[い]います	say		L21
+勝ちます	勝[か]ちます	win		L21
+負けます	負[ま]けます	lose, be beaten		L21
+お祭りがあります	お 祭[まつ]りがあります	a festival is held/take place		L21
+役に立ちます	役[やく]に 立[だ]ちます	be useful		L21
+動きます	動[うご]きます	move, work		L21
+会社をやめます	会[かい] 社[しゃ]をやめます	quit, retire, stop, give up from a company		L21
+気をつけます	気[き]をつけます	pay attention, take care		L21
+留学します	留[りゅう] 学[がく]します	study abroad		L21
+むだ（な）	むだ（な）	wasteful		L21
+不便（な）	不[ふ] 便[べん]（な）	inconvenient		L21
+すごい	すごい	awful, great (express astonishment or admiration)		L21
+本当	本[ほん] 当[とう]	true		L21
+うそ	うそ	lie		L21
+自動車	自[じ] 動[どう] 車[しゃ]	car, automobile		L21
+交通	交[こう] 通[つう]	transport, traffic		L21
+物価	物[ぶっ] 価[か]	(commodity) prices		L21
+放送	放[ほう] 送[そう]	announcement, broadcast		L21
+パチンコ	パチンコ	pachinko (mechanical gambling game superficially resembling pinball​)		L19U
+ニュース	ニュース	news		L21
+マンガ	マンガ	comic book		L21
+デザイン	デザイン	design, artwork		L21
+夢	夢[ゆめ]	dream		L21
+天才	天[てん] 才[さい]	genius		L21
+試合をします	試[し] 合[あい]をします	play a game, match		L21
+意見	意[い] 見[けん]	opinion		L21
+話をします	話[はなし]をします	talk, speech		L21
+地球	地[ち] 球[きゅう]	earth		L21
+月	月[つき]	moon		L21
+最近	最[さい] 近[きん]	recently, these days		L21
+たぶん	たぶん	probably, perhaps, maybe		L21
+きっと	きっと	surely, definitely		L21
+本当に	本[ほん] 当[とう]に	really		L21
+そんなに	そんなに	not so (used with negatives); that (much, etc.) (concerning a matter related to the listener)		L21 L32
+～について	～について	about ～, concerning ～		L21
+久しぶりですね。	久[ひさ]しぶりですね。	It's been a long time (since we last met).		L21
+～でも飲みませんか。	～でも 飲[の]みませんか。	How about drinking ～ or something?		L21
+もちろん	もちろん	of course		L21
+もう帰らないと……。	もう 帰[かえ]らないと……。	I have to get home now…		L21
+役職名	役[やく] 職[しょく] 名[めい]	job title, name of one's position​		L21U
+国	国[くに]	nation, country		L21U
+都道府県	都[と] 道[どう] 府[ふ] 県[けん]	administrative divisions of Japan		L21U
+村	村[むら]	village		L21U L31 L38
+首相	首[しゅ] 相[しょう]	prime minister		L21U L39
+内閣総理大臣	内[ない] 閣[かく] 総[そう] 理[り] 大[だい] 臣[じん]	prime minister (as the head of a cabinet government), premier​		L21U
+知事	知[ち] 事[じ]	governor		L21U
+市長	市[し] 長[ちょう]	city mayor		L21U
+町長	町[ちょう] 長[ちょう]	town mayor		L21U
+村長	村[そん] 長[ちょう]	village headman, chief of the village		L21U
+高等学校	高[こう] 等[とう] 学[がっ] 校[こう]	upper secondary (senior high) school		L21U L25U
+学長	学[がく] 長[ちょう]	university president​		L21U
+校長	校[こう] 長[ちょう]	head teacher, principal (school)		L21U
+園長	園[えん] 長[ちょう]	head teacher, principal (kindergarten)		L21U
+会長	会[かい] 長[ちょう]	chairman		L21U
+重役	重[じゅう] 役[やく]	director		L21U
+院長	院[いん] 長[ちょう]	director (hospital)		L21U
+看護師長	看[かん] 護[ご] 師[し] 長[ちょう]	head nurse		L21U
+頭取	頭[とう] 取[どり]	president​ (bank)		L21U
+支店長	支[し] 店[てん] 長[ちょう]	branch manager		L21U
+駅長	駅[えき] 長[ちょう]	station master​		L21U
+警察	警[けい] 察[さつ]	police station		L21U L33
+署長	署[しょ] 長[ちょう]	chief, head, officer in charge (of an office, of a laboratory)​		L21U
+着ます	着[き]ます	put on (a shirt, etc.)		L22
+はきます	はきます	put on (shoes, trousers, etc.)		L22
+かぶります	かぶります	put on (a hat, etc.)		L22
+眼鏡をかけます	眼鏡[めがね]をかけます	put on glasses		L22
+ネクタイをします	ネクタイをします	put on tie		L22
+生まれます	生[う]まれます	be born		L22 L25U
+私たち	私[わたし]たち	we		L22
+コート	コート	coat		L22
+セーター	セーター	sweater		L22
+スーツ	スーツ	suit		L22 L46U
+帽子	帽[ぼう] 子[し]	hat, cap		L22
+ケーキ	ケーキ	cake		L22
+お弁当	お 弁[べん] 当[とう]	box lunch		L22
+ロボット	ロボット	robot		L22
+ユーモア	ユーモア	humour		L22
+都合	都[つ] 合[ごう]	circumstances, condition, convenience​		L22
+えーと	えーと	well, let me see		L22
+おめでとうございます	おめでとうございます	congratulations		L22
+お探しですか。	お 探[さが]しですか。	Are you looking for ～?		L22
+では	では	Well then,		L22
+家賃	家[や] 賃[ちん]	rent		L22 L28U
+ダイニングキッチン	ダイニングキッチン	eat-in kitchen, combination kitchen-dining room		L22
+和室	和[わ] 室[しつ]	Japanese-style room		L22 L28U
+押し入れ	押[お]し 入[い]れ	Japanese-style wardrobe (closet)		L22 L28U
+布団	布[ふ] 団[とん]	Japanese-style mattress and quilt		L22
+パリ	パリ	Paris		L22
+万里の長城	万[ばん] 里[り]の 長[ちょう] 城[じょう]	Great Wall of China​		L22
+衣服	衣[い] 服[ふく]	clothes​		L22U
+ワンピース	ワンピース	one-piece dress		L22U
+ズボン	ズボン	trousers		L22U L40 L46U
+パンツ	パンツ	pants		L22U
+ジーンズ	ジーンズ	jeans		L22U
+スカート	スカート	skirt		L22U L46U
+ブラウス	ブラウス	blouse		L22U
+ワイシャツ	ワイシャツ	white shirt		L22U
+マフラー	マフラー	scarf, muffler		L22U
+手袋	手[て] 袋[ぶくろ]	gloves		L22U L41
+靴下	靴[くつ] 下[した]	socks, stockings		L22U L41
+（パンティー）ストッキング	（パンティー）ストッキング	(tights, panty hose) stockings		L22U
+オーバコート	オーバコート	overcoat		L22U
+レインコート	レインコート	raincoat		L22U
+ベルト	ベルト	belt		L22U
+ハイヒール	ハイヒール	high heels		L22U
+ブーツ	ブーツ	boots		L22U
+運動靴	運[うん] 動[どう] 靴[くつ]	sports shoes, trainers, sneakers​		L22U
+帯	帯[おび]	obi, kimono sash​		L22U
+ぞうり	ぞうり	zori, Japanese sandals​		L22U
+たび	たび	tabi, Japanese socks (with split toe)​		L22U
+先生に聞きます	先[せん] 生[せい]に 聞[き]きます	ask the teacher		L23
+回します	回[まわ]します	turn		L23
+引きます	引[ひ]きます	pull		L23
+変えます	変[か]えます	change		L23
+ドアに触ります	ドアに 触[さわ]ります	touch a door		L23
+お釣りが出ます	お 釣[つ]りが 出[で]ます	balance/change come out		L23
+歩きます	歩[ある]きます	walk		L23
+橋を渡ります	橋[はし]を 渡[わた]ります	cross a bridge		L23
+右へ曲がります	右[みぎ]へ 曲[ま]がります	turn to the right		L23
+寂しい	寂[さび]しい	lonely		L23 L39U
+お湯	お 湯[ゆ]	hot water		L23
+音	音[おと]	sound		L23
+サイズ	サイズ	size		L23
+故障します	故[こ] 障[しょう]します	breakdown		L23
+道	道[みち]	road		L23
+交差点	交[こう] 差[さ] 点[てん]	crossroads		L23
+信号	信[しん] 号[ごう]	traffic lights		L23
+角	角[かど]	corner (angle​)		L23
+橋	橋[はし]	bridge		L23
+建物	建[たて] 物[もの]	building		L23
+何回も	何[なん] 回[かい]も	many times		L23
+ー目	ー 目[め]	the -th (indicating order)		L23
+道路	道[どう] 路[ろ]	road, highway​		L23U
+歩道	歩[ほ] 道[どう]	pavement, sidewalk​		L23U
+車道	車[しゃ] 道[どう]	roadway		L23U
+高速道路	高[こう] 速[そく] 道[どう] 路[ろ]	expressway, motorway​		L23U
+通り	通[とお]り	street		L23U
+横断歩道	横[おう] 断[だん] 歩[ほ] 道[どう]	pedestrian crossing​		L23U
+歩道橋	歩[ほ] 道[どう] 橋[きょう]	pedestrian bridge​		L23U
+坂	坂[さか]	slope		L23U
+踏切	踏[ふみ] 切[きり]	railway crossing		L23U
+ガソリンスタンド	ガソリンスタンド	gas station, petrol station		L23U
+止まれ	止[と]まれ	stop (road sign)		L23U
+進入禁止	進[しん] 入[にゅう] 禁[きん] 止[し]	do not enter, no entry, wrong way (sign)		L23U
+一方通行	一[いっ] 方[ぽう] 通[つう] 行[こう]	one-way traffic​ (sign)		L23U
+駐車禁止	駐[ちゅう] 車[しゃ] 禁[きん] 止[し]	No Parking​ (sign)		L23U
+右折禁止	右[う] 折[せつ] 禁[きん] 止[し]	No Right Turn!​ (sign)		L23U
+くれます	くれます	give (me)		L24
+直します	直[なお]します	repair, correct		L24
+連れていきます	連[つ]れていきます	take (someone)		L24
+連れてきます	連[つ]れてきます	bring (someone)		L24
+人を送ります	人[ひと]を 送[おく]ります	escort (someone), go with		L24
+紹介します	紹[しょう] 介[かい]します	introduce		L24
+案内します	案[あん] 内[ない]します	show around, show the way		L24
+説明します	説[せつ] 明[めい]します	explain		L24
+おじいさん、おじいちゃん	おじいさん、おじいちゃん	grandfather, old man		L24
+おばあさん、おばあちゃん	おばあさん、おばあちゃん	grandmother, old woman		L24
+準備をします	準[じゅん] 備[び]をします	prepare		L24 L30U
+引っ越しします	引[ひ]っ 越[こ]しします	move out		L24
+お菓子	お 菓[か] 子[し]	sweets, snacks		L24
+ホームステイ	ホームステイ	homestay		L24
+全部	全[ぜん] 部[ぶ]	all		L24
+自分で	自[じ] 分[ぶん]で	by oneself		L24
+他に	他[ほか]に	besides		L24
+母の日	母[はは]の 日[ひ]	Mother's Day		L24
+贈答	贈[ぞう] 答[とう]	exchange of presents​		L24U
+習慣	習[しゅう] 慣[かん]	habit​, custom, cultural practice​		L24U L38
+お年玉	お 年[とし] 玉[だま]	New Year's gift (usu. money given to a child by relatives and visitors)​		L24U L41
+入学祝い	入[にゅう] 学[がく] 祝[いわ]い	congratulations on entering a school, gift to someone entering a school​		L24U
+卒業祝い	卒[そつ] 業[ぎょう] 祝[いわ]い	graduation gift, completion (e.g. of a course)​		L24U
+結婚祝い	結[けっ] 婚[こん] 祝[いわ]い	wedding gift, present​		L24U
+出産祝い	出[しゅっ] 産[さん] 祝[いわ]い	gift at the birth of a child, baby gift​		L24U
+お中元	お 中[ちゅう] 元[げん]	mid-year gift, summer gift​ (July/August)		L24U
+お歳暮	お 歳[せい] 暮[ぼ]	year-end gift​ (December)		L24U
+お香典	お 香[こう] 典[でん]	funeral offering, condolence gift		L24U
+お見舞い	お 見[み] 舞[ま]い	get-well gifts for sick or injured person (flowers, fruit, etc.)		L24U L41
+熨斗袋	熨[の] 斗[し] 袋[ぶくろ]	paper bag for putting a present in​, envelope for a gift of money		L24U L42
+考えます	考[かんが]えます	think, consider		L25 L36U
+着きます	着[つ]きます	arrive		L25
+年を取ります	年[とし]を 取[と]ります	grow old		L25
+田舎	田舎[いなか]	countryside, hometown		L25
+チャンス	チャンス	chance		L25
+億	億[おく]	hundred million		L25
+もし（～たら）	もし（～たら）	if		L25
+意味	意[い] 味[み]	meaning		L25
+もしもし	もしもし	hello (used on the phone)		L25
+転勤します	転[てん] 勤[きん]します	be transferred to another office		L25
+暇	暇[ひま]	free time		L25
+いろいろお世話になりました。	いろいろお 世[せ] 話[わ]になりました。	Thank you for everything you've done for me.		L25
+頑張ります	頑[がん] 張[ば]ります	do one's best		L25
+どうぞお元気です。	どうぞお 元[げん] 気[き]です。	Please take care of yourself. (said when expecting a long seperation)		L25
+一生	一[いっ] 生[しょう]	life, generation		L25U
+赤ちゃん	赤[あか]ちゃん	baby		L25U L38
+保育園	保[ほ] 育[いく] 園[えん]	nursery school, day nursery, preschool​		L25U
+青年	青[せい] 年[ねん]	youth		L25U
+短大	短[たん] 大[だい]	junior college		L25U
+専門学校	専[せん] 門[もん] 学[がっ] 校[こう]	technical college		L25U
+大学院	大[だい] 学[がく] 院[いん]	graduate school​		L25U L31
+就職をします	就[しゅう] 職[しょく]をします	get a job		L25U
+中年	中[ちゅう] 年[ねん]	middle age		L25U
+離婚します	離[り] 婚[こん]します	get divorced		L25U L39
+再婚します	再[さい] 婚[こん]します	remarry		L25U
+老人	老[ろう] 人[じん]	old age		L25U
+仕事をやめます	仕[し] 事[ごと]をやめます	retire		L25U
+死にます	死[し]にます	die		L25U L39
+見ます、診ます	見[み]ます、 診[み]ます	check, take a look at		L26
+探します、捜します	探[さが]します、 捜[さが]します	look for, search		L26
+時間に遅れます	時[じ] 間[かん]に 遅[おく]れます	be late for appointment, etc.		L26
+時間に間に合います	時[じ] 間[かん]に 間[ま]に 合[あ]います	be in time for appointment, etc.		L26
+やります	やります	do; give (to a younger person, subordinate, animal or plants)		L26 L41
+拾います	拾[ひろ]います	pick up		L26
+連絡します	連[れん] 絡[らく]します	contact, get in touch with		L26
+気分がいい	気[き] 分[ぶん]がいい	feel well		L26
+気分が悪い	気[き] 分[ぶん]が 悪[わる]い	feel ill		L26
+運動会	運[うん] 動[どう] 会[かい]	athletic meeting, sports day		L26
+フリーマーケット	フリーマーケット	flea market		L26
+場所	場[ば] 所[しょ]	place		L26
+ボランティア	ボランティア	volunteer		L26
+財布	財[さい] 布[ふ]	wallet, purse		L26
+ごみ	ごみ	rubbish, garbage, dust		L26
+国会議事堂	国[こっ] 会[かい] 議[ぎ] 事[じ] 堂[どう]	the Diet Building (national parliament or congress building)		L26
+平日	平[へい] 日[じつ]	weekday		L26
+～弁	～ 弁[べん]	～ dialect		L26
+今度	今[こん] 度[ど]	next time, another time		L26
+ずいぶん	ずいぶん	very, pretty		L26
+直接	直[ちょく] 接[せつ]	directly		L26
+いつでも	いつでも	any time		L26
+どこでも	どこでも	anywhere		L26
+だれでも	だれでも	anybody		L26
+何でも	何[なん]でも	anything		L26
+こんな～	こんな～	～ like this		L26
+そんな～	そんな～	～ like that (near the listener)		L26
+あんな～	あんな～	～ like that (far from speaker and listener)		L26
+荷物が片づきます	荷[に] 物[もつ]が 片[かた]づきます	put the boxes in order, tidy up the boxes		L26
+ごみを出します	ごみを 出[だ]します	put the rubbish out		L26
+燃えるごみ	燃[も]えるごみ	burnable rubbish		L26
+置き場	置[お]き 場[ば]	place where something is put		L26
+横	横[よこ]	side		L26
+瓶	瓶[びん]	glass bottle, jar		L26
+缶	缶[かん]	can		L26
+ガス	ガス	gas		L26
+宇宙	宇[う] 宙[ちゅう]	space, universe		L26 L36
+～様	～ 様[さま]	Mr./Mrs. ～ (respectful of さん)		L26 L49
+宇宙船	宇[う] 宙[ちゅう] 船[せん]	spaceship		L26
+怖い	怖[こわ]い	be afraid of, frightening, horrible		L26 L47
+宇宙ステーション	宇[う] 宙[ちゅう]ステーション	space station		L26
+違います	違[ちが]います	be different		L26 L36
+宇宙飛行士	宇[う] 宙[ちゅう] 飛[ひ] 行[こう] 士[し]	astronaut		L26
+足ります	足[た]ります	be enough, be sufficient		L25
+収集日	収[しゅう] 集[しゅう] 日[び]	collection day (for rubbish/waste)​		L26U
+お知らせ	お 知[し]らせ	information, notice		L26U L28
+可燃ごみ	可[か] 燃[ねん]ごみ	burnable rubbish​		L26U
+燃える	燃[も]える	to burn		L26U
+生ごみ	生[なま]ごみ	kitchen waste		L26U
+紙くず	紙[かみ]くず	paper waste​		L26U
+不燃	不[ふ] 燃[ねん]	incombustibility​ (cannot burn easily)		L26U
+グラス	グラス	glass (material)		L26U L29 L46U
+瀬戸物	瀬[せ] 戸[と] 物[もの]	earthenware, porcelain, china		L26U
+金属製	金[きん] 属[ぞく] 製[せい]	made of metal​		L26U
+資源ごみ	資[し] 源[げん]ごみ	recyclable waste		L26U
+ペットボトル	ペットボトル	PET bottle (clear plastic beverage bottle)		L26U
+粗大ごみ	粗[そ] 大[だい]ごみ	bulky rubbish​ (furniture, electrical goods)		L26U
+事前	事[じ] 前[ぜん]	in advance		L26U
+申し込み	申[もう]し 込[こ]み	application, request		L26U
+飼います	飼[か]います	keep a pet, raise an animal		L27
+道を走ります	道[みち]を 走[はし]ります	run, drive along a road		L27
+山が見えます	山[やま]が 見[み]えます	a mountain can be seen		L27
+音が聞こえます	音[おと]が 聞[き]こえます	a sound can be heard		L27
+道ができます	道[みち]ができます	a road can be made, be completed, come into existence		L27
+教室を開きます	教[きょう] 室[しつ]を 開[ひら]きます	set up, open, hold a class		L27
+心配（な）	心[しん] 配[ぱい]（な）	worried, anxious		L27
+ペット	ペット	pet		L27
+鳥	鳥[とり]	bird		L27
+声	声[こえ]	voice		L27
+波	波[なみ]	wave (water)		L27
+花火	花[はな] 火[び]	fireworks		L27
+道具	道[どう] 具[ぐ]	tool, instrument, equipment		L27 L42U
+クリーニング	クリーニング	(dry) cleaning, laundry		L27
+マンション	マンション	condominium, apartment house, blocks of flats		L27 L28U
+キッチン	キッチン	kitchen		L27
+～教室	～ 教[きょう] 室[しつ]	～ class		L27
+パーティールーム	パーティールーム	party room		L27
+方	方[かた]	person (respectful of ひと)		L27
+～後	～ 後[ご]	after ～ (duration of time)		L27
+～しか	～しか	only ～ (used with negatives)		L27
+ほかの	ほかの	other		L27
+はっきり	はっきり	clearly		L27
+本棚	本[ほん] 棚[だな]	bookcase		L27
+いつか	いつか	one day, some day		L27
+建てます	建[た]てます	build		L27
+すばらしい	すばらしい	wonderful		L27
+子供たち	子[こ] 供[ども]たち	children		L27 L31 L41 L42
+大好き（な）	大[だい] 好[す]き（な）	like very much		L27 L38
+主人公	主[しゅ] 人[じん] 公[こう]	hero, heroine		L27
+形	形[かたち]	form, shape		L27 L28 L40U
+不思議（な）	不[ふ] 思[し] 議[ぎ]（な）	fantastic, mysterious, strange		L27 L38
+ポケット	ポケット	pocket		L27 L29
+例えば	例[たと]えば	for example		L27 L44
+付けます	付[つ]けます	attach, put on		L27
+自由に	自[じ] 由[ゆう]に	freely		L27 L31 L36 L48
+空	空[そら]	sky		L27 L31 L32
+飛びます	飛[と]びます	fly		L27
+昔	昔[むかし]	old days, ancient times		L27 L35
+自分	自[じ] 分[ぶん]	oneself		L27 L28
+将来	将[しょう] 来[らい]	future		L27 L28
+合鍵	合[あい] 鍵[かぎ]	duplicate key​		L27U
+かかと	かかと	heel (of foot, shoe, stocking, etc.)		L27U
+つま先	つま 先[さき]	toes, tips of the toes; toe of a shoe, sock, etc.​		L27U
+中敷き	中[なか] 敷[じ]き	inserts, insole, whole length sock, sock liner​		L27U
+交換	交[こう] 換[かん]	exchange, interchange, replace		L27U
+ファスナー	ファスナー	fastener, zipper​		L27U
+ハンドル	ハンドル	handle​		L27U
+持ち手	持[も]ち 手[て]	handle, grip​		L27U
+ほつれ	ほつれ	fray, frayed spot​ (forming loose threads)		L27U
+縫い目	縫[ぬ]い 目[め]	seam, stitch (a piece of thread sewn in cloth)		L27U
+水洗い	水[みず] 洗[あら]い	laundry washing with water (without using soap)​		L27U
+染み抜き	染[し]み 抜[ぬ]き	stain removal​		L27U
+はっ水	はっ 水[すい]	water repellency​		L27U
+加工	加[か] 工[こう]	manufacturing, processing, treatment, machining​		L27U
+サイズ直し	サイズ 直[なお]し	size alterations		L27U
+縮む	縮[ちぢ]む	shrink		L27U
+伸びる	伸[の]びる	stretch		L27U
+宅配便	宅[たく] 配[はい] 便[びん]	home delivery service​		L27U L46
+公共料金	公[こう] 共[きょう] 料[りょう] 金[きん]	public utilities charge​		L27U
+支払い	支[し] 払[はら]い	payment​		L27U
+コピー	コピー	photocopy		L27U
+ファクス	ファクス	fax		L27U
+販売	販[はん] 売[ばい]	sales		L27U
+パンが売れます	パンが 売[う]れます	bread to be sold		L28
+踊ります	踊[おど]ります	dance		L28
+噛みます	噛[か]みます	chew, bite		L28
+選びます	選[えら]びます	choose		L28
+大学に通います	大[だい] 学[がく]に 通[かよ]います	go to and from university		L28
+メモします	メモします	take a memo		L28
+まじめ（な）	まじめ（な）	serious		L28 L43U
+熱心（な）	熱[ねっ] 心[しん]（な）	earnest		L28
+偉い	偉[えら]い	great, admirable		L28
+ちょうどいい	ちょうどいい	proper, just right		L28
+景色	景色[けしき]	scenery, view		L28
+美容院	美[び] 容[よう] 院[いん]	hair/beauty salon		L28 L44U
+経験があります	経[けい] 験[けん]があります	be experienced		L28
+経験をします	経[けい] 験[けん]をします	experience		L28
+力	力[ちから]	power		L28
+学生に人気があります	学[がく] 生[せい]に 人[にん] 気[き]があります	be popular with students		L28
+ガム	ガム	chewing gum		L28
+品物	品[しな] 物[もの]	goods		L28
+値段	値[ね] 段[だん]	price		L28
+給料	給[きゅう] 料[りょう]	salary		L28
+ボーナス	ボーナス	bonus		L28
+ゲーム	ゲーム	game		L28
+番組	番[ばん] 組[ぐみ]	programme		L28
+ドラマ	ドラマ	drama		L28 L46U
+小説	小[しょう] 説[せつ]	novel		L28
+小説家	小[しょう] 説[せつ] 家[か]	novelist		L28
+～家	～ 家[か]	-ist, -er​ (someone's occupation)		L28
+～機	～ 機[き]	～ machine		L28
+息子さん	息子[むすこ]さん	(someone's) son		L28
+娘さん	娘[むすめ]さん	(someone's) daughter		L28
+しばらく	しばらく	a little while		L28
+たいてい	たいてい	usually, mostly		L28
+それに	それに	in addition		L28
+それで	それで	and so		L28
+ちょっとお願いがあるんですが。	ちょっとお 願[ねが]いがあるんですが。	I have a small favour to ask.		L28
+実は	実[じつ]は	as a matter of fact		L28
+会話	会[かい] 話[わ]	conversation		L28
+うーん	うーん	well, let me see, hmm…		L28
+参加します	参[さん] 加[か]します	participate, join, attend		L28 L48U
+日にち	日[ひ]にち	date		L28
+ど	ど	Saturday		L28
+無料	無[む] 料[りょう]	free of charge		L28 L33
+誘います	誘[さそ]います	invite, ask someone to join		L28 L37
+イベント	イベント	event		L28
+徒歩	徒[と] 歩[ほ]	walking, going on foot		L28U
+築	築[ちく]	years of construction (of a building)		L28U
+敷金	敷[しき] 金[きん]	(security) deposit, caution money		L28U
+礼金	礼[れい] 金[きん]	key money		L28U
+管理費	管[かん] 理[り] 費[ひ]	administrative/maintenance costs		L28U
+向き	向[む]き	direction, orientation		L28U
+ー階建て	ー 階[かい] 建[だ]て	ー storey building		L28U
+ー畳	ー 畳[じょう]	counter for tatami mats		L28U
+不動産	不[ふ] 動[どう] 産[さん]	real estate		L28U
+ドアが開きます	ドアが 開[あき]ます	a door opens		L29
+ドアが閉まります	ドアが 閉[し]まります	a door closes/shuts		L29
+電気がつきます	電[でん] 気[き]がつきます	a light turns/come on		L29
+電気が消えます	電[でん] 気[き]が 消[き]えます	a light goes off		L29
+いすが壊れます	いすが 壊[こわ]れます	a chair breaks		L29
+コップが割れます	コップが 割[わ]れます	a glass breaks/smashes		L29
+木が折れます	木[き]が 折[お]れます	a tree breaks/snaps		L29
+紙が破れます	紙[かみ]が 破[やぶ]れます	a paper tears		L29
+服が汚れます	服[ふく]が 汚[よご]れます	the clothes get dirty		L29
+ポケットが付きます	ポケットが 付[つ]きます	a pocket attaches		L29
+ボタンが外れます	ボタンが 外[はず]れます	a button is undone		L29
+車が止まります	車[くるま]が 止[と]まります	a car stops/parks		L29
+まちがえます	まちがえます	make a mistake		L29
+落とします	落[お]とします	drop, lose		L29
+鍵が掛かります	鍵[かぎ]が 掛[か]かります	to become locked (automatic locking)		L29
+拭きます	拭[ふ]きます	wipe		L29
+取り替えます	取[と]り 替[か]えます	change, replace		L29
+片づけます	片[かた]づけます	put (things) in order, tidy up		L29
+お皿	お 皿[さら]	plate, dish		L29
+おちゃわん	おちゃわん	(rice) bowl		L29
+コップ	コップ	glass (drinking vessel)		L29 L46U
+袋	袋[ふくろ]	bag		L29
+書類	書[しょ] 類[るい]	document, papers		L29
+枝	枝[えだ]	branch, twig		L29
+スピーチをします	スピーチをします	give/make a speech		L29
+返事をします	返[へん] 事[じ]をします	reply, answer		L29
+お先にどうぞ。	お 先[さき]にどうぞ。	After you./Go ahead, please.		L29
+今の電車	今[いま]の 電[でん] 車[しゃ]	the train which has just left		L29
+忘れ物	忘[わす]れ 物[もの]	things left behind, lost property		L29
+このくらい	このくらい	about this (big)		L29
+～側	～ 側[がわ]	～ side		L29
+～辺	～ 辺[へん]	around ～, ～ about		L29
+覚えていません	覚[おぼ]えていません。	I don't remember.		L29
+網棚	網[あみ] 棚[だな]	overhead rack		L29
+確か	確[たし]か	I'm pretty sure		L29
+ああ、よかった。	ああ、よかった。	Oh, thank goodness!		L29
+地震	地[じ] 震[しん]	earthquake		L29 L30U L33 L39
+壁	壁[かべ]	wall		L29 L30
+針	針[はり]	hands (of a clock)		L29
+指します	指[さ]します	point		L29
+駅前	駅[えき] 前[まえ]	the area in front of a station		L29 L38
+倒れます	倒[たお]れます	fall down		L29
+西	西[にし]	west		L29 L32
+～の方	～の 方[ほう]	place toward 〜, direction of ～		L29 L31
+燃えます	燃[も]えます	burn		L29
+レポーター	レポーター	reporter		L29
+状態	状[じょう] 態[たい]	condition, situation, state		L29U
+様子	様[よう] 子[す]	appearance, look, situation, condition		L29U L40
+太っている	太[ふと]っている	fat		L29U
+やせている	やせている	thin		L29U
+膨らんでいる	膨[ふく]らんでいる	bulging		L29U
+穴が開いている	穴[あな]が 開[あ]いている	have a hole		L29U
+曲がっている	曲[ま]がっている	bent		L29U
+ゆがんでいる	ゆがんでいる	distorted		L29U
+へこんでいる	へこんでいる	dented		L29U
+ねじれている	ねじれている	twisted		L29U
+欠けている	欠[か]けている	chipped		L29U
+ひびが入っている	ひびが 入[はい]っている	cracked		L29U
+腐っている	腐[くさ]っている	rotten		L29U
+乾いている	乾[かわ]いている	dry		L29U
+濡れている	濡[ぬ]れている	wet		L29U
+凍っている	凍[こお]っている	frozen		L29U
+はります	はります	put up, post, paste		L30
+掛けます	掛[か]けます	hang		L30
+飾ります	飾[かざ]ります	display, decorate		L30
+並べます	並[なら]べます	arrange, line up		L30
+植えます	植[う]えます	plant		L30
+戻します	戻[もど]します	return, put ～ back		L30
+まとめます	まとめます	put ～ together, put ～ in shape, sum up		L30
+しまいます	しまいます	put (things) away		L30
+決めます	決[き]めます	decide		L30
+予習します	予[よ] 習[しゅう]します	prepare one's lesson		L30
+復習します	復[ふく] 習[しゅう]します	review one's lesson		L30
+そのままにします	そのままにします	leave things as they are		L30
+授業	授[じゅ] 業[ぎょう]	class		L30
+講義	講[こう] 義[ぎ]	lecture		L30
+ミーティング	ミーティング	meeting		L30
+予定	予[よ] 定[てい]	plan, schedule		L30
+ごみ箱	ごみ 箱[ばこ]	trash can, dustbin		L30
+人形	人[にん] 形[ぎょう]	doll		L30
+花瓶	花[か] 瓶[びん]	vase		L30
+鏡	鏡[かがみ]	mirror		L30
+引き出し	引[ひ]き 出[だ]し	drawer		L30
+池	池[いけ]	pond		L30
+元の所	元[もと]の 所[ところ]	original place		L30
+周り	周[まわ]り	round, around		L30
+真ん中	真[ま]ん 中[なか]	centre		L30
+隅	隅[すみ]	corner		L30 L38U
+リュック	リュック	rucksack		L30
+非常袋	非[ひ] 常[じょう] 袋[ぶくろ]	emergency kit		L30
+非常時	非[ひ] 常[じょう] 時[じ]	emergency time		L30
+生活します	生[せい] 活[かつ]します	live		L30
+懐中電灯	懐[かい] 中[ちゅう] 電[でん] 灯[とう]	torch, flashlight		L30
+丸い	丸[まる]い	round		L30
+ある～	ある～	one ～, a certain ～		L30 L41 L42
+夢を見ます	夢[ゆめ]を 見[み]ます	dream		L30
+嬉しい	嬉[うれ]しい	glad, happy		L30 L39
+嫌（な）	嫌[いや]（な）	hateful, disagreeable; unwilling, reluctant		L30 L31 L48
+すると	すると	and, then		L30 L41
+目が覚めます	目[め]が 覚[さ]めます	wake up		L30 L45
+非常	非[ひ] 常[じょう]	emergency		L30U
+場合	場[ば] 合[あい]	case, situation		L30U
+備え	備[そな]え	preparation		L30U
+倒れる	倒[たお]れる	collapse		L30U
+消火器	消[しょう] 火[か] 器[き]	fire extinguisher​		L30U
+備える	備[そな]える	to prepare for		L30U
+貯える	貯[たくわ]える	reserve, supply		L30U
+用意	用[よう] 意[い]	prepare, getting ready		L30U
+地域	地[ち] 域[いき]	area, region​		L30U
+避難場所	避[ひ] 難[なん] 場[ば] 所[しょ]	evacuation site		L30U
+知人	知[ち] 人[じん]	friend, acquaintance​		L30U
+友人	友[ゆう] 人[じん]	friend​ (formal than 友達)		L30U
+連絡先	連[れん] 絡[らく] 先[さき]	contact address​		L30U
+万一	万[まん] 一[いち]	by some chance, by some possibility​		L30U
+丈夫	丈[じょう] 夫[ぶ]	robust, strong, solid		L30U
+落ち着く	落[お]ち 着[つ]く	to calm down		L30U
+始末	始[し] 末[まつ]	dealing with something		L30U
+戸	戸[と]	door		L30U
+確保	確[かく] 保[ほ]	securing, guarantee		L30U
+慌てて	慌[あわ]てて	to be in a hurry, to rush		L30U L46
+飛び出す	飛[と]び 出[だ]す	to jump out, to rush out, to fly out​		L30U
+収まる	収[おさ]まる	to subside, stop (wind, earthquake)		L30U
+情報	情[じょう] 報[ほう]	information, news		L30U L41U
+山崩れ	山[やま] 崩[くず]れ	landslide​		L30U
+崖崩れ	崖[がけ] 崩[くず]れ	landslide (rockfall)		L30U
+津波	津[つ] 波[なみ]	tsunami, tidal wave		L30U L39
+注意	注[ちゅう] 意[い]	caution, warning		L30U
+避難	避[ひ] 難[なん]	evacuation		L30U
+必ず	必[かなら]ず	always; without fail, by any means		L30U L36
+台風	台[たい] 風[ふう]	typhoon, hurricane​		L30U L32U L39
+気象情報	気[き] 象[しょう] 情[じょう] 報[ほう]	weather (meteorology) information​		L30U
+点検	点[てん] 検[けん]	inspection, checking​		L30U
+緊急	緊[きん] 急[きゅう]	urgency, emergency		L30U
+続けます	続[つづ]けます	continue		L31
+見つけます	見[み]つけます	find		L31
+休みを取ります	休[やす]みを 取[と]ります	take a holiday		L31
+試験を受けます	試[し] 験[けん]を 受[う]けます	take an examination		L31
+申し込みます	申[もう]し 込[こ]みます	apply for, enter for		L31
+休憩します	休[きゅう] 憩[けい]します	take a break, take a rest		L31
+連休	連[れん] 休[きゅう]	consecutive holidays		L31
+作文	作[さく] 文[ぶん]	essay, composition		L31
+発表します	発[はっ] 表[ぴょう]します	do a announcement, presentation		L31
+展覧会	展[てん] 覧[らん] 会[かい]	exhibition		L31
+結婚式	結[けっ] 婚[こん] 式[しき]	wedding ceremony		L31 L41U
+お葬式	お 葬[そう] 式[しき]	funeral		L31
+式	式[しき]	ceremony		L31
+本社	本[ほん] 社[しゃ]	head office		L31
+支店	支[し] 店[てん]	branch office		L31
+温泉	温[おん] 泉[せん]	spa		L31
+帰り	帰[かえ]り	return		L31
+ー号	ー 号[ごう]	(train number, typhoon number, etc)		L31
+残ります	残[のこ]ります	remain, be left, stay behind		L31
+入学試験	入[にゅう] 学[がく] 試[し] 験[けん]	entrance examination		L31
+月に	月[つき]に	per month		L31
+卒業します	卒[そつ] 業[ぎょう]します	graduate		L31
+閉じます	閉[と]じます	close		L31
+都会	都[と] 会[かい]	city		L31
+専門	専[せん] 門[もん]	speciality, field of study		L31U
+医学	医[い] 学[がく]	medical science		L31U L47
+薬学	薬[やく] 学[がく]	pharmacology		L31U
+化学	化[か] 学[がく]	chemistry		L31U
+生化学	生[せい] 化[か] 学[がく]	biochemistry		L31U
+生物学	生[せい] 物[ぶつ] 学[がく]	biology		L31U
+農学	農[のう] 学[がく]	agriculture		L31U
+地学	地[ち] 学[がく]	geology		L31U
+地理学	地[ち] 理[り] 学[がく]	geography		L31U
+数学	数[すう] 学[がく]	mathematics		L31U
+物理学	物[ぶつ] 理[り] 学[がく]	physics		L31U
+工学	工[こう] 学[がく]	engineering		L31U
+土木工学	土[ど] 木[ぼく] 工[こう] 学[がく]	civil engineering		L31U
+電子工学	電[でん] 子[し] 工[こう] 学[がく]	electronics		L31U
+電気工学	電[でん] 気[き] 工[こう] 学[がく]	electrical engineering		L31U
+機械工学	機[き] 械[かい] 工[こう] 学[がく]	mechanical engineering		L31U
+コンピューター工学	コンピューター 工[こう] 学[がく]	computer science		L31U
+遺伝子工学	遺[い] 伝[でん] 子[し] 工[こう] 学[がく]	genetic engineering		L31U
+建築学	建[けん] 築[ちく] 学[がく]	architecture		L31U
+天文学	天[てん] 文[もん] 学[がく]	astronomy		L31U
+環境科学	環[かん] 境[きょう] 科[か] 学[がく]	environmental science		L31U
+政治学	政[せい] 治[じ] 学[がく]	politics studies		L31U
+国際関係学	国[こく] 際[さい] 関[かん] 係[けい] 学[がく]	international relations		L31U
+法律学	法[ほう] 律[りつ] 学[がく]	law studies		L31U
+経済学	経[けい] 済[ざい] 学[がく]	economics		L31U
+経営学	経[けい] 営[えい] 学[がく]	business administration		L31U
+社会学	社[しゃ] 会[かい] 学[がく]	sociology		L31U
+教育学	教[きょう] 育[いく] 学[がく]	education studies		L31U
+文学	文[ぶん] 学[がく]	literature		L31U L47
+言語学	言[げん] 語[ご] 学[がく]	linguistic		L31U
+心理学	心[しん] 理[り] 学[がく]	psychology		L31U
+哲学	哲[てつ] 学[がく]	philosophy		L31U
+宗教学	宗[しゅう] 教[きょう] 学[がく]	religious study		L31U
+芸術	芸[げい] 術[じゅつ]	arts		L31U L46
+体育学	体[たい] 育[いく] 学[がく]	physical education		L31U
+運動します	運[うん] 動[どう]します	take exercise		L32 L36U
+成功します	成[せい] 功[こう]します	succeed		L32
+試験に失敗します	試[し] 験[けん]に 失[しっ] 敗[ぱい]します	fail an examination		L32
+試験に合格します	試[し] 験[けん]に 合[ごう] 格[かく]します	pass an examination		L32
+雨がやみます	雨[あめ]がやみます	rain is stopped		L32
+晴れます	晴[は]れます	clear up		L32
+曇ります	曇[くも]ります	get cloudy		L32
+熱が続きます	熱[ねつ]が 続[つづ]きます	high temperature/fever is continuing		L32
+風邪をひきます	風邪[かぜ]をひきます	catch a cold		L32
+冷やします	冷[ひ]やします	cool (from room temperature)		L32
+道が込みます	道[みち]が 込[こ]みます	a road gets crowded		L32
+道がすきます	道[みち]がすきます	a road get less crowded		L32
+試合に出ます	試[し] 合[あい]に 出[で]ます	participate in the match		L32
+パーティーに出ます	パーティーに 出[で]ます	attend a party		L32
+無理をします	無[む] 理[り]をします	overdo things		L32
+十分（な）	十[じゅう] 分[ぶん]（な）	sufficient, enough		L32
+おかしい	おかしい	strange, funny		L32
+うるさい	うるさい	noisy		L32
+太陽	太[たい] 陽[よう]	sun		L32
+星	星[ほし]	star		L32
+風	風[かぜ]	wind		L32
+東	東[ひがし]	east		L32
+南	南[みなみ]	south		L32
+北	北[きた]	north		L32
+国際～	国[こく] 際[さい]～	international ～		L32
+水道	水[すい] 道[どう]	faucet, tap, water supply		L32
+エンジン	エンジン	engine		L32
+チーム	チーム	team		L32
+今夜	今[こん] 夜[や]	this evening		L32
+夕方	夕[ゆう] 方[がた]	late afternoon		L32
+まえ	まえ	a time in the past, before		L32
+遅く	遅[おそ]く	late (time)		L32
+こんなに	こんなに	this (much, etc.)		L32
+あんなに	あんなに	that (much, etc.) (concerning a matter not related to the speaker or the listener)		L32
+ヨーロッパ	ヨーロッパ	Europe		L32
+元気	元[げん] 気[き]	vigour		L32
+胃	胃[い]	stomach		L32
+ストレス	ストレス	stress		L32 L46U
+それはいけませんね。	それはいけませんね。	I'm sorry to hear that.		L32
+星占い	星[ほし] 占[うらな]い	horoscope		L32
+牡牛座	牡[お] 牛[うし] 座[ざ]	Taurus		L32
+働きすぎ	働[はたら]きすぎ	overworking		L32
+困ります	困[こま]ります	be in trouble, have a problem		L32 L35
+宝くじが当たります	宝[たから]くじが 当[あ]たります	win a lottery		L32
+恋人	恋[こい] 人[びと]	sweetheart, boyfriend, girlfriend		L32 L47
+ラッキーアイテム	ラッキーアイテム	something lucky		L32
+石	石[いし]	stone		L32
+晴れ	晴[は]れ	clear, fair		L32U
+晴れのち曇り	晴[は]れのち 曇[くも]り	fine early, cloudy later		L32U
+曇り時々雨	曇[くも]り 時[とき]々[どき] 雨[あめ]	cloudy with occasional rain		L32U
+曇り所によって雨	曇[くも]り 所[ところ]によって 雨[あめ]	cloudy, with rain in some areas		L32U
+にわか雨、夕立	にわか 雨[あめ]、 夕[ゆう]立[だち]	evening shower (rain)		L32U
+虹	虹[にじ]	rainbow		L32U
+雲	雲[くも]	cloud		L32U
+湿度	湿[しつ] 度[ど]	humidity		L32U
+蒸し暑い	蒸[む]し 暑[あつ]い	hot and humid		L32U
+さわやか（な）	さわやか（な）	refreshing		L32U
+降水確率	降[こう] 水[すい] 確[かく] 率[りつ]	probability of rain		L32U
+最高気温	最[さい] 高[こう] 気[き] 温[おん]	maximum temperature		L32U
+最低気温	最[さい] 低[てい] 気[き] 温[おん]	minimum temperature		L32U
+北海道地方	北[ほっ] 海[かい] 道[どう] 地[ち] 方[ほう]	Hokkaido region		L32U
+札幌	札[さっ] 幌[ぽろ]	Sapporo		L32U
+東北地方	東[とう] 北[ほく] 地[ち] 方[ほう]	Tohoku region		L32U
+仙台	仙[せん] 台[だい]	Sendai		L32U L40
+長野	長[なが] 野[の]	Nagano		L32U
+関東地方	関[かん] 東[とう] 地[ち] 方[ほう]	Kanto region		L32U
+中部地方	中[ちゅう] 部[ぶ] 地[ち] 方[ほう]	Chubu region		L32U
+近畿地方	近[きん] 畿[き] 地[ち] 方[ほう]	Kinki region		L32U
+名古屋	名[な] 古[ご] 屋[や]	Nagoya		L32U
+大阪	大[おお] 阪[さか]	Osaka		L32U
+四国地方	四[し] 国[こく] 地[ち] 方[ほう]	Shikoku region		L32U
+中国地方	中[ちゅう] 国[ごく] 地[ち] 方[ほう]	Chugoku region		L32U
+松江	松[まつ] 江[え]	Matsue		L32U
+高知	高[こう] 知[ち]	Kochi		L32U
+九州地方	九[きゅう] 州[しゅう] 地[ち] 方[ほう]	Kyushu region		L32U
+鹿児島	鹿[か] 児[ご] 島[しま]	Kagoshima		L32U
+那覇	那[な] 覇[は]	Naha		L32U
+逃げます	逃[に]げます	run away		L33
+騒ぎます	騒[さわ]ぎます	make a noise		L33
+あきらめます	あきらめます	give up		L33
+投げます	投[な]げます	throw		L33
+守ります	守[まも]ります	keep, follow, obey		L33
+式が始まります	式[しき]が 始[はじ]まります	a ceremony is beginning, starting		L33
+会議に出席します	会[かい] 議[ぎ]に 出[しゅっ] 席[せき]します	attend a meeting		L33
+伝えます	伝[つた]えます	convey		L33
+車に注意します	車[くるま]に 注[ちゅう] 意[い]します	be careful of the cars		L33
+席を外します	席[せき]を 外[はず]します	be away from one's desk		L33
+戻ります	戻[もど]ります	come back, return		L33
+電話があります	電[でん] 話[わ]があります	have a telephone call		L33
+リサイクルします	リサイクルします	recycle		L33
+だめ（な）	だめ（な）	no good, not permitted, impossible		L33
+同じ	同[おな]じ	same		L33
+席	席[せき]	seat		L33
+マーク	マーク	mark, symbol		L33
+ボール	ボール	ball		L33
+締め切り	締[し]め 切[き]り	deadline		L33
+規則	規[き] 則[そく]	regulation, rule		L33 L36
+危険	危[き] 険[けん]	Danger		L33
+使用禁止	使[し] 用[よう] 禁[きん] 止[し]	Do Not Use		L33
+立入禁止	立[たち] 入[いり] 禁[きん] 止[し]	Keep Out		L33
+徐行	徐[じょ] 行[こう]	Go Slow		L33
+非常口	非[ひ] 常[じょう] 口[ぐち]	emergency exit		L33
+割引	割[わり] 引[びき]	Discount		L33
+飲み放題	飲[の]み 放[ほう] 題[だい]	All You Can Drink		L33
+使用中	使[し] 用[よう] 中[ちゅう]	In Use		L33
+募集中	募[ぼ] 集[しゅう] 中[ちゅう]	Applications Wanted		L33
+～中	～ 中[ちゅう]	-ing, all over ～		L33 L37
+どういう～	どういう～	what (kind of ～)		L33
+いくら（～ても）	いくら（～ても）	however ～, even if ～		L33
+あと～	あと～	～ left		L33
+～ほど	～ほど	about ～		L33
+駐車違反	駐[ちゅう] 車[しゃ] 違[い] 反[はん]	parking violation		L33
+罰金	罰[ばっ] 金[きん]	fine		L33
+助け合います	助[たす]け 合[あ]います	help each other		L33
+もともと	もともと	originally		L33
+悲しい	悲[かな]しい	sad		L33 L39
+もっと	もっと	more		L33 L35
+あいさつをします	あいさつをします	to greet, giving an address		L33 L49
+相手	相[あい] 手[て]	the other person, partner		L33 L41U L47
+気持ち	気[き] 持[も]ち	feeling; spirit, mood		L33 L36 L39U
+標識	標[ひょう] 識[しき]	sign		L33U
+営業中	営[えい] 業[ぎょう] 中[ちゅう]	Open for Business		L33U
+準備中	準[じゅん] 備[び] 中[ちゅう]	In Preparation		L33U
+閉店	閉[へい] 店[てん]	Closed		L33U
+定休日	定[てい] 休[きゅう] 日[び]	Regular Holiday		L33U
+化粧室	化[け] 粧[しょう] 室[しつ]	Toilet		L33U
+禁煙席	禁[きん] 煙[えん] 席[せき]	No-Smoking Seat		L33U
+予約席	予[よ] 約[やく] 席[せき]	Reserved Seat		L33U
+火気厳禁	火[か] 気[き] 厳[げん] 禁[きん]	flammable		L33U
+割れ物注意	割[わ]れ 物[もの] 注[ちゅう] 意[い]	Fragile		L33U
+運転初心者注意	運[うん] 転[てん] 初[しょ] 心[しん] 者[しゃ] 注[ちゅう] 意[い]	New Driver		L33U
+工事中	工[こう] 事[じ] 中[ちゅう]	Under Construction		L33U
+塩素系漂白剤不可	塩[えん] 素[そ] 系[けい] 漂[ひょう] 白[はく] 剤[ざい] 不[ふ] 可[か]	Do not use chlorine-based bleach		L33U
+手洗い	手[て] 洗[あら]い	Wash by hand		L33U
+アイロン（低温）	アイロン（ 低[てい]温[おん]）	Cool iron		L33U
+ドライクリーニング	ドライクリーニング	Dry-clean only		L33U
+歯を磨きます	歯[は]を 磨[みが]きます	brush, polish one's teeth		L34
+組み立てます	組[く]み 立[た]てます	assemble		L34
+折ります	折[お]ります	bend, fold, break, snap		L34
+忘れ物に気がつきます	忘[わす]れ 物[もの]に 気[き]がつきます	notice, be aware of things left behind		L34
+しょうゆをつけます	しょうゆをつけます	put (in soy sauce)		L34
+鍵が見つかります	鍵[かぎ]が 見[み]つかります	a key be found		L34
+質問します	質[しつ] 問[もん]します	ask a question		L34
+傘をさします	傘[かさ]をさします	put up an umbrella		L34
+スポーツクラブ	スポーツクラブ	sports club		L34
+お城	お 城[しろ]	castle		L34
+説明書	説[せつ] 明[めい] 書[しょ]	explanatory pamphlet, insturction book		L34
+図	図[ず]	figure, drawing		L34
+線	線[せん]	line		L34 L40U
+矢印	矢[や] 印[じるし]	arrow (sign)		L34
+黒	黒[くろ]	black (noun)		L34
+白	白[しろ]	white (noun)		L34
+赤	赤[あか]	red (noun)		L34
+青	青[あお]	blue (noun)		L34
+紺	紺[こん]	navy blue, dark blue (noun)		L34
+黄色	黄[き] 色[いろ]	yellow (noun)		L34
+茶色	茶[ちゃ] 色[いろ]	brown (noun)		L34
+しょうゆ	しょうゆ	soya, soy sauce		L34
+ソース	ソース	sauce, Worcestershire sauce		L34
+お客さん	お 客[きゃく]さん	visitor, guest, customer, client		L34
+～か～	～か～	～ or ～		L34
+夕べ	夕[ゆう]べ	last night (evening)		L34
+さっき	さっき	a short while ago		L34
+お茶をたてます	お 茶[ちゃ]をたてます	make tea at a tea ceremony		L34
+先に	先[さき]に	first, ahead		L34
+載せます	載[の]せます	place on, load onto		L34
+これでいいですか。	これでいいですか。	Is this all right?		L34
+いかがですか。	いかがですか。	How is it?		L34
+材料	材[ざい] 料[りょう]	material, ingredient		L34 L42
+～分	～ 分[ぶん]	portion for ～ (indicating quantity)		L34
+ーグラム	ーグラム	ー gramme		L34 L40U
+ー個	ー 個[こ]	counter for small objects		L34 L40
+４分の１（１／４）	４ 分[ぶん]の１（１／４）	one fourth		L34
+調味料	調[ちょう] 味[み] 料[りょう]	seasoning, flavouring		L34
+適当な大きさに	適[てき]当[とう]な 大[おお]きさに	in right size		L34
+なべ	なべ	pan, pot		L34
+火	火[ひ]	fire, heating		L34 L43
+火にかけます	火[ひ]にかけます	put on the stove		L34
+煮ます	煮[に]ます	cook, boil		L34
+煮えます	煮[に]えます	be cooked, be boiled		L34
+どんぶり	どんぶり	bowl		L34 L42
+たちます	たちます	pass (time)		L34
+料理	料[りょう] 理[り]	cooking		L34U
+煮る	煮[に]る	boil, stew		L34U
+焼く	焼[や]く	grill, bake, roast		L34U
+揚げる	揚[あ]げる	deep-fry		L34U
+いためる	いためる	stir-fry		L34U
+ゆでる	ゆでる	boil		L34U
+蒸す	蒸[む]す	steam		L34U
+炊く	炊[た]く	cook (rice)		L34U
+むく	むく	peel, pare		L34U
+刻む	刻[きざ]む	chop, mince		L34U
+かき混ぜる	かき 混[ま]ぜる	stir		L34U
+酢	酢[す]	vinegar		L34U
+みそ	みそ	miso		L34U
+油	油[あぶら]	oil, fat		L34U
+マヨネーズ	マヨネーズ	mayonnaise		L34U
+ケチャップ	ケチャップ	ketchup		L34U
+からし（マスタード）	からし（マスタード）	mustard		L34U
+こしょう	こしょう	pepper		L34U
+とうがらし	とうがらし	cayenne pepper (capsium)		L34U
+しょうが	しょうが	ginger		L34U
+わさび	わさび	Japanese horseradish		L34U
+カレー粉	カレー 粉[こ]	curry powder		L34U
+台所用品	台[だい] 所[どころ] 用[よう] 品[ひん]	kitchenware		L34U
+やかん	やかん	kettle		L34U L42
+ふた	ふた	lid, cover, cap		L34U L42
+おたま	おたま	ladle		L34U
+まな板	まな 板[いた]	cutting board		L34U
+包丁	包[ほう] 丁[ちょう]	kitchen knife		L34U
+ふきん	ふきん	tea-towel, dishcloth		L34U
+フライパン	フライパン	frying pan		L34U
+電子レンジ	電[でん] 子[し]レンジ	microwave oven		L34U
+炊飯器	炊[すい] 飯[はん] 器[き]	rice cooker		L34U L35
+しゃもじ	しゃもじ	rice paddle		L34U
+缶切り	缶[かん] 切[き]り	can opener		L34U L42
+栓抜き	栓[せん] 抜[ぬ]き	bottle opener, corkscrew		L34U L42
+ざる	ざる	colander, sieve		L34U
+ポット	ポット	Thermos flask		L34U
+ガス台	ガス 台[だい]	gas stove		L34U
+流し台	流[なが]し 台[だい]	sink		L34U
+換気扇	換[かん] 気[き] 扇[せん]	ventilation fan		L34U
+花が咲きます	花[はな]が 咲[さ]きます	flowers bloom		L35
+色が変わります	色[いろ]が 変[か]わります	the colour changes		L35
+丸を付けます	丸[まる]を 付[つ]けます	draw a circle, mark with a circle, add		L35
+病気が治ります	病[びょう] 気[き]が 治[なお]ります	recover from sickness, get well		L35
+故障が直ります	故[こ] 障[しょう]が 直[なお]ります	be fixed, be repaired		L35
+クリックします	クリックします	click		L35
+入力します	入[にゅう] 力[りょく]します	input		L35
+正しい	正[ただ]しい	correct, right		L30U L35
+向こう	向[む]こう	over there, the other side		L35
+島	島[しま]	island		L35
+港	港[みなと]	port, harbour		L35
+近所	近[きん] 所[じょ]	neighbourhood, vicinity		L35
+海外	海[かい] 外[がい]	overseas		L35
+山登り	山[やま] 登[のぼ]り	mountain climbing		L35
+歴史	歴[れき] 史[し]	history		L35
+機会	機[き] 会[かい]	chance, opportunity		L35
+許可	許[きょ] 可[か]	permission		L35
+円、丸	円[えん]、 丸[まる]	circle		L35 L40U
+ふりがな	ふりがな	kana above the kanji		L35
+設備	設[せつ] 備[び]	equipment, facilities		L35
+レバー	レバー	lever		L35
+キー	キー	key		L35
+カーテン	カーテン	curtain		L35
+ひも	ひも	string		L35
+葉	葉[は]	leaf		L35
+これで終わりましょう。	これで 終[お]わりましょう。	Let's finish now.		L35
+それなら	それなら	in that case		L35
+夜行バス	夜[や] 行[こう]バス	overnight bus		L35
+旅行社	旅[りょ] 行[こう] 社[しゃ]	travel agency		L35
+詳しい	詳[くわ]しい	detailed		L35
+スキー場	スキー 場[じょう]	ski resort, ski area		L35
+朱	朱[しゅ]	vermillion		L35
+交わります	交[まじ]わります	keep company with		L35
+ことわざ	ことわざ	proverb		L35
+関係	関[かん] 係[けい]	relationship		L35 L46U L47
+仲よくします	仲[なか]よくします	be on good terms with		L35
+必要（な）	必[ひつ] 要[よう]（な）	necessary, essential		L35 L40
+都	都[みやこ]	capital, metropolis		L35
+知恵	知[ち] 恵[え]	wisdom		L35
+姿	姿[すがた]	appearance, figure, condition		L35
+積もる	積[つ]もる	to pile up		L35
+影	影[かげ]	shadow		L35
+事故にあいます	事[じ] 故[こ]にあいます	encounter an accident		L36
+貯金します	貯[ちょ] 金[きん]します	save money		L36
+７時を過ぎます	７ 時[じ]を 過[す]ぎます	pass 7 o' clock		L36
+仕事に慣れます	仕[し] 事[ごと]に 慣[な]れます	get accustomed to one's job		L36
+食べ物が腐ります	食[た]べ 物[もの]が 腐[くさ]ります	food rots, decay, go bad		L36
+ラッシュ	ラッシュ	rush hour		L36
+曲	曲[きょく]	a piece of music		L36
+毎週	毎[まい] 週[しゅう]	every week		L36
+毎月	毎[まい] 月[つき]	every month		L36
+毎年、毎年	毎[まい] 年[とし]、 毎[まい] 年[ねん]	every year		L36
+このごろ	このごろ	these days		L36
+やっと	やっと	finally		L36
+かなり	かなり	fairly		L36
+絶対に	絶[ぜっ] 対[たい]に	absolutely		L36
+上手に	上[じょう] 手[ず]に	well, skilfully		L36
+できるだけ	できるだけ	as much as possible		L36
+ほとんど	ほとんど	almost all (+); hardly, scarcely (-)		L36
+特別（な）	特[とく] 別[べつ]（な）	special		L36
+していらっしゃいます	していらっしゃいます	be doing (respectful of しています)		L36
+使っていらっしゃるんですね。	使[つか]っていらっしゃるんですね。	You're using, aren't you? (respectful of つかっているんですね)		L36
+チャレンジします	チャレンジします	challenge		L36
+乗り物	乗[の]り 物[もの]	vehicles		L36
+ー世紀	ー 世[せい] 紀[き]	-th century		L36 L37
+遠く	遠[とお]く	far, remote place		L36
+珍しい	珍[めずら]しい	rare, uncommon		L36 L41
+汽車	汽[き] 車[しゃ]	steam train​		L36
+汽船	汽[き] 船[せん]	steam boat		L36
+大勢の～	大[おお] 勢[ぜい]の～	many (people)		L36 L39
+運びます	運[はこ]びます	carry, transport		L36 L38
+利用します	利[り] 用[よう]します	use		L36 L49
+栄養	栄[えい] 養[よう]	nutrition		L36U
+健康診断	健[けん] 康[こう] 診[しん] 断[だん]	physical examination		L36U
+夜更かし	夜[よ] 更[ふ]かし	staying up late		L36U
+栄養素	栄[えい] 養[よう] 素[そ]	nutrient​		L36U
+含む	含[ふく]む	include, contain		L36U
+炭水化物	炭[たん] 水[すい] 化[か] 物[ぶつ]	carbohydrate​		L36U
+芋	芋[いも]	potato​		L36U
+のり	のり	laver, edible seaweed		L36U
+カルシウム	カルシウム	calcium		L36U
+海草	海[かい] 草[そう]	seaweed​		L36U
+とうふ	とうふ	tofu		L36U
+たんぽく質	たんぽく 質[しつ]	protein		L36U
+脂肪	脂[し] 肪[ぼう]	fat and oils		L36U
+ビタミン	ビタミン	vitamins		L36U
+褒めます	褒[ほ]めます	praise		L37
+しかります	しかります	scold		L37
+招待します	招[しょう] 待[たい]します	invite		L37
+頼みます	頼[たの]みます	ask, request		L37
+注意します	注[ちゅう] 意[い]します	warn, advise		L37
+盗ります	盗[と]ります	rob, steal		L37
+踏みます	踏[ふ]みます	step on		L37
+壊します	壊[こわ]します	break, destroy		L37
+汚します	汚[よご]します	make ～ dirty		L37
+行います	行[おこな]います	hold, carry out, practise		L37
+輸出します	輸[ゆ] 出[しゅつ]します	export		L37
+輸入します	輸[ゆ] 入[にゅう]します	import		L37
+翻訳します	翻[ほん] 訳[やく]します	translate		L37
+発明します	発[はつ] 明[めい]します	invent		L37
+発見します	発[はっ] 見[けん]します	discover		L37
+麦	麦[むぎ]	barley		L37
+石油	石[せき] 油[ゆ]	oil		L37
+原料	原[げん] 料[りょう]	raw material		L37
+インスタントラーメン	インスタントラーメン	instant noodles		L37
+デート	デート	date (with someone)​		L37
+泥棒	泥[どろ] 棒[ぼう]	thief, robber		L37
+警官	警[けい] 官[かん]	policeman		L37
+世界中	世[せ] 界[かい] 中[じゅう]	all over the world		L37
+何語	何[なに] 語[ご]	what language		L37
+誰か	誰[だれ]か	somebody		L37
+よかったですね。	よかったですね。	Sounds good.		L37
+オリンピック	オリンピック	Olympic Games		L37
+ワールドカップ	ワールドカップ	World Cup		L37
+大仏	大[だい] 仏[ぶつ]	Great Buddha		L37
+江戸時代	江[え] 戸[ど] 時[じ] 代[だい]	Edo period		L37
+ポルトガル	ポルトガル	Portugal		L37
+皆様	皆[みな] 様[さま]	everybody (respectful of みなさん)		L37
+うちが焼けます	うちが 焼[や]けます	house burns down		L37
+その後	その 後[ご]	after that, later		L37
+世界遺産	世[せ] 界[かい] 遺[い] 産[さん]	World Heritage Site (UNESCO)​		L37
+～の一つ	～の 一[ひと]つ	one of the ～		L37
+金色	金[きん] 色[いろ]	golden colour		L37
+本物	本[ほん] 物[もの]	real thing		L37
+キロ	キロ	kilogrammes, kilometres		L37 L40U
+美しい	美[うつく]しい	beautiful, pretty		L37
+豪華（な）	豪[ごう] 華[か]（な）	gorgeous		L37
+彫刻	彫[ちょう] 刻[こく]	engraving, carving, sculpture		L37
+言い伝え	言[い]い 伝[つた]え	tradition, legend		L37
+眠ります	眠[ねむ]ります	sleep		L37 L44
+彫ります	彫[ほ]ります	engrave, carve		L37
+仲間	仲[なか] 間[ま]	colleague, friend		L37
+しかし	しかし	however, but		L37 L39
+そのあと	そのあと	after that		L37
+一生懸命	一[いっ] 生[しょう] 懸[けん] 命[めい]	with all one's effort		L37 L40 L42
+ねずみ	ねずみ	mouse (animal)		L37
+一匹もいません。	一[いっ] 匹[ぴき]もいません。	There is not a single (small animal, fish, insects)		L37
+事故	事[じ] 故[こ]	accident		L37U L39
+事件	事[じ] 件[けん]	incident, case		L37U
+殺す	殺[ころ]す	kill		L37U
+撃つ	撃[う]つ	shoot		L37U
+刺す	刺[さ]す	stab		L37U
+噛む	噛[か]む	bite		L37U
+ひく	ひく	run over		L37U
+跳ねる	跳[は]ねる	to hit		L37U
+衝突する	衝[しょう] 突[とつ]する	collide		L37U
+追突する	追[つい] 突[とつ]する	crash into the back of another vehicle		L37U
+盗む	盗[ぬす]む	steal		L37U
+誘拐する	誘[ゆう] 拐[かい]する	kidnap		L37U
+ハイジャックする	ハイジャックする	hijack		L37U
+墜落する	墜[つい] 落[らく]する	fall, crash		L37U
+運ぶ	運[はこ]ぶ	carry		L37U
+爆発する	爆[ばく] 発[はつ]する	explode		L37U
+助ける	助[たす]ける	rescue		L37U
+沈没する	沈[ちん] 没[ぼつ]する	sink		L37U
+旅行に参加します	旅[りょ] 行[こう]に 参[さん] 加[か]します	join, participate, attend a tour		L38
+育てます	育[そだ]てます	breed, bring up		L38
+入院します	入[にゅう] 院[いん]します	enter hospital		L38
+退院します	退[たい] 院[いん]します	leave hospital		L38
+電源を入れます	電[でん] 源[げん]を 入[い]れます	turn on the power switch		L38
+電源を切ります	電[でん] 源[げん]を 切[き]ります	turn off the power switch		L38
+鍵を掛けます	鍵[かぎ]を 掛[か]けます	lock		L38
+嘘をつきます	嘘[うそ]をつきます	tell a lie		L38
+気持ちがいい	気[き] 持[も]ちがいい	pleasant, agreeable		L38
+気持ちが悪い	気[き] 持[も]ちが 悪[わる]い	unpleasant, disgusting		L38
+大きな～	大[おお]きな～	large ～, big ～		L38
+小さな～	小[ちい]さな～	small ～, little ～		L38
+海岸	海[かい] 岸[がん]	seaside, seashore		L38
+工場	工[こう] 場[じょう]	factory		L38
+かな	かな	hiragana and katakana script		L38
+指輪	指[ゆび] 輪[わ]	ring		L38
+電源	電[でん] 源[げん]	power switch		L38
+～製	～ 製[せい]	made in ～		L38
+おととし	おととし	the year before last		L38
+あ、いけない。	あ、いけない。	Oops!/Oh, no!		L38
+お先に失礼します。	お 先[さき]に 失[しつ] 礼[れい]します。	Excuse me for leaving before you.		L38
+出雲大社	出雲[いずも] 大[たい] 社[しゃ]	Izumo Temple		L38
+チェンマイ	チェンマイ	Chiangmai (Thailand)		L38
+回覧	回[かい] 覧[らん]	circular		L38
+研究室	研[けん] 究[きゅう] 室[しつ]	study room, professor's office, laboratory		L38
+きちんと	きちんと	neatly, tidily		L38
+整理します	整[せい] 理[り]します	sort (things) out		L38
+方法	方[ほう] 法[ほう]	method		L38
+～という	～という	entitled ～, named ～, called ～		L38
+ー冊	ー 冊[さつ]	counter for books, etc.		L38
+はんこを押します	はんこを 押[お]します	affix a seal, stamp		L38
+双子	双[ふた] 子[ご]	twins		L38
+姉妹	姉[し] 妹[まい]	sisters		L38
+５年生	５ 年[ねん] 生[せい]	fifth grade, year		L38
+似ています	似[に]ています	resemble, be like		L38
+性格	性[せい] 格[かく]	character, personality		L38 L43U
+おとなしい	おとなしい	quiet, gentle		L38 L43U
+優しい	優[やさ]しい	kind, gentle, tender-hearted		L38 L41 L43U
+世話をします	世[せ] 話[わ]をします	take care of		L38 L47 L48
+時間がたちます	時[じ] 間[かん]がたちます	time passes by		L38
+ー点	ー 点[てん]	ー points		L38
+気が強い	気[き]が 強[つよ]い	tough, strong-willed		L38 L43U
+けんかします	けんかします	quarrel, fight		L38 L39
+年齢	年[ねん] 齢[れい]	age		L38
+しかた	しかた	way (of doing something)		L38
+位置	位[い] 置[ち]	location​		L38U
+上から２段目	上[うえ]から２ 段[だん] 目[め]	second from the top		L38U
+奥	奥[おく]	the back		L38U
+手前	手[て] 前[まえ]	the front		L38U
+前から２列目	前[まえ]から２ 列[れつ] 目[め]	second row from the front		L38U
+机の周り	机[つくえ]の 周[まわ]り	around the table		L38U
+２行目	２ 行[ぎょう] 目[め]	second line		L38U
+４ページ	４ページ	Page 4		L38U
+３行目	３ 行[ぎょう] 目[め]	third line		L38U
+本のそば	本[ほん]のそば	next to, beside the book		L38U
+教室の真ん中	教[きょう] 室[しつ]の 真[ま]ん 中[なか]	centre of the classroom		L38U
+斜め後ろ	斜[なな]め 後[うし]ろ	diagonally behind		L38U
+斜め前	斜[なな]め 前[まえ]	diagonally in front		L38U
+テレビの横	テレビの 横[よこ]	next to, beside the television		L38U
+質問に答えます	質[しつ] 問[もん]に 答[こた]えます	answer a question		L39
+ビルが倒れます	ビルが 倒[たお]れます	a building falls down		L39
+道を通ります	道[みち]を 通[とお]ります	passes along a street		L39
+びっくりします	びっくりします	be surprised		L39
+がっかりします	がっかりします	be disappointed		L39
+安心します	安[あん] 心[しん]します	be relieved		L39
+太ります	太[ふと]ります	get fat, gain weight		L39
+やせます	やせます	get slim, lose weight		L39
+複雑（な）	複[ふく] 雑[ざつ]（な）	complicated, complex		L39
+邪魔（な）	邪[じゃ] 魔[ま]（な）	obstructive, in the way		L39
+硬い	硬[かた]い	hard, tough, solid		L39
+軟らかい	軟[やわ]らかい	soft, tender		L39
+汚い	汚[きたな]い	dirty		L39
+恥ずかしい	恥[は]ずかしい	embarassed, ashamed		L39
+雷	雷[かみなり]	thunder		L39
+火事	火[か] 事[じ]	fire		L39
+ハイキング	ハイキング	hiking		L39
+お見合い	お 見[み] 合[あ]い	formal marriage interview​		L39
+操作します	操[そう] 作[さ]します	to operate		L39
+会場	会[かい] 場[じょう]	venue, event location		L39
+～代	～ 代[だい]	charge, fare, fee		L39
+フロント	フロント	front desk, reception desk		L39
+ー号室	ー 号[ごう] 室[しつ]	room number ー		L39
+タオル	タオル	towel		L39
+石鹸	石[せっ] 鹸[けん]	soap		L39
+お疲れさまでした。	お 疲[つか]れさまでした。	Thank you for your hard work.		L39
+伺います	伺[うかが]います	I'm coming, ask, hear, visit (humble of ききます、たずねます)		L39 L50
+途中で	途[と] 中[ちゅう]で	on the way, in the midst of		L39
+トラック	トラック	truck, lorry		L39
+打つかります	打[ぶ]つかります	bump, collide		L39
+大人	大人[おとな]	adult		L39
+洋服	洋[よう] 服[ふく]	Western clothes		L39
+西洋化します	西[せい] 洋[よう] 化[か]します	be Westernised		L39
+合います	合[あ]います	fit, suit		L39
+今では	今[いま]では	now		L39
+成人式	成[せい] 人[じん] 式[しき]	coming-of-age ceremony​		L39
+伝統的（な）	伝[でん] 統[とう] 的[てき]（な）	traditional		L39
+羨ましい	羨[うらや]ましい	envious		L39U
+懐かしい	懐[なつ]かしい	dear, longed for		L39U
+うっとりする	うっとりする	be enchanted		L39U
+いらいらする	いらいらする	be irritated		L39U
+どきどきする	どきどきする	to beat fast (of one's heart)		L39U
+はらはらする	はらはらする	be in suspense, worried, nervous		L39U
+わくわくする	わくわくする	be excited		L39U
+数える	数[かぞ]える	count		L40
+測ります、量ります	測[はか]ります、 量[はか]ります	measure, measure (amount, weigh)		L40
+確かめます	確[たし]かめます	confirm, make sure		L40
+サイズが合います	サイズが 合[あ]います	the size is fit		L40
+出発します	出[しゅっ] 発[ぱつ]します	depart		L40
+到着します	到[とう] 着[ちゃく]します	arrive		L40
+酔います	酔[よ]います	get drunk		L40
+うまくくいきます	うまくいきます	go well		L40
+問題が出ます	問[もん] 題[だい]が 出[で]ます	problems will be on the test		L40
+相談します	相[そう] 談[だん]します	consult, discuss		L40
+忘年会	忘[ぼう] 年[ねん] 会[かい]	year-end party		L40
+新年会	新[しん] 年[ねん] 会[かい]	New Year's party		L40
+二次会	二[に] 次[じ] 会[かい]	second party (of the same night)		L40
+発表会	発[はっ] 表[ぴょう] 会[かい]	presentation meeting		L40
+大会	大[たい] 会[かい]	rally, convention		L40
+マラソン	マラソン	marathon		L40
+コンテスト	コンテスト	contest		L40
+表	表[おもて]	face, front		L40
+裏	裏[うら]	back (side)		L40
+間違い	間[ま] 違[ちが]い	mistake		L40
+傷	傷[きず]	defect, wound, scratch		L40
+お年寄り	お 年[とし] 寄[よ]り	elderly person		L40
+長さ	長[なが]さ	length		L40
+重さ	重[おも]さ	weight		L40
+高さ	高[たか]さ	height		L40
+大きさ	大[おお]きさ	size, scale		L40
+[ー]便	[ー] 便[びん]	flight, flight number		L40
+ー本	ー 本[ほん]（ーぽん、ーぼん）	counter for long objects		L40
+ー杯	ー 杯[はい]（ーぱい、－ばい）	ー glass or cup of (counter for full cups, glasses, etc.)		L40
+ーセンチ	ーセンチ	ー centimetres		L40
+ーミリ	ーミリ	ー milimetres		L40
+～以上	～ 以[い] 上[じょう]	not less than ～, over ～		L40
+～以下	～ 以[い] 下[か]	not more than ～, under ～		L40
+長崎	長[なが] 崎[さき]	Nagasaki (city)​		L40
+ＪＬ	ＪＬ	Japan Airlines		L40
+七夕祭り	七夕[たなばた] 祭[まつ]り	Tanabata (Star) Festival (７月７日)		L40 L49U
+どうでしょうか。	どうでしょうか。	How is ～? (polite of どうですか)		L40
+テスト	テスト	test, examination		L40
+成績	成[せい] 績[せき]	performance, score, result		L40
+ところで	ところで	by the way		L40
+オートバイ	オートバイ	motorcycle		L40
+爆弾	爆[ばく] 弾[だん]	bomb		L40
+積みます	積[つ]みます	load, pile up		L40
+離れた	離[はな]れた	remote		L40
+急に	急[きゅう]に	suddenly		L40 L45
+動かします	動[うご]かします	start, operate, move		L40
+犯人	犯[はん] 人[にん]	offender, criminal		L40
+男	男[おとこ]	man		L40 L41
+手に入れます	手[て]に 入[い]れます	obtain, get		L40
+今でも	今[いま]でも	even now, still, as yet​		L40
+単位	単[たん] 位[い]	unit		L40U
+模様	模[も] 様[よう]	pattern		L40U
+面積	面[めん] 積[せき]	area		L40U
+平方センチメートル	平[へい] 方[ほう]センチメートル	square centimetre (cm<sup>2</sup>)		L40U
+平方メートル	平[へい] 方[ほう]メートル	square metre (m<sup>2</sup>)		L40U
+平方キロメートル	平[へい] 方[ほう]キロメートル	square kilometre (km<sup>2</sup>)		L40U
+ミリ	ミリ	millimetre (mm)		L40U
+センチ	センチ	centimetre (cm)		L40U
+メートル	メートル	metre (m)		L40U
+キロ（km）	キロ（km）	kilometre		L40U
+体積	体[たい] 積[せき]	volume		L40U
+容積	容[よう] 積[せき]	capacity		L40U
+立方センチメートル	立[りっ] 方[ぽう]センチメートル	cubic centimetre (cm<sup>3</sup>)		L40U
+立方メートル	立[りっ] 方[ぽう]メートル	cubic metre (m<sup>3</sup>)		L40U
+ミリリットル	ミリリットル	millilitre (ml)		L40U
+シーシー	シーシー	cc		L40U
+リットル	リットル	litre (ℓ)		L40U
+ミリグラム	ミリグラム	milligramme (mg)		L40U
+グラム	グラム	gramme (g)		L40U
+トン	トン	tonne (t)		L40U
+計算	計[けい] 算[さん]	calculation		L40U
+たす（＋）	たす（＋）	plus		L40U
+ひく（ー）	ひく（ー）	minus		L40U
+かける（×）	かける（×）	multiplied by		L40U
+わる（÷）	わる（÷）	divided by		L40U
+イコール（＝）	イコール（＝）	equals		L40U
+直線	直[ちょく] 線[せん]	straight line		L40U
+曲線	曲[きょく] 線[せん]	curved line		L40U
+点線	点[てん] 線[せん]	dotted line		L40U
+三角形	三[さん] 角[かく] 形[けい]	triangle		L40U
+四角形	四[し] 角[かく] 形[けい]	square		L40U
+縦じま	縦[たて]じま	vertical stripes		L40U
+横縞	横[よこ] 縞[じま]	horizontal stripes		L40U
+チェック	チェック	checkered​ pattern		L40U
+水玉	水[みず] 玉[たま]	polka dots		L40U
+花柄	花[はな] 柄[がら]	floral print		L40U
+無地	無[む] 地[じ]	plain		L40U
+くださいます	くださいます	give (respectful of くれます)		L41
+下げます	下[さ]げます	lower, pull down		L41
+親切にします	親[しん] 切[せつ]にします	be kind to		L41
+可愛い	可愛[かわい]い	lovely, cute		L41
+お祝いをします	お 祝[いわ]いをします	to celebrate, gift		L41
+興味	興[きょう] 味[み]	interest		L41
+コンピューターに興味があります	コンピューターに 興[きょう] 味[み]があります	be interested in computers		L41
+文法	文[ぶん] 法[ぽう]	grammar		L41
+発音	発[はつ] 音[おん]	pronounciation		L41
+猿	猿[さる]	ape, monkey		L41
+えさ	えさ	feed, bait		L41
+絵本	絵[え] 本[ほん]	picture book		L41
+絵はがき	絵[え]はがき	picture postcard		L41
+ドライバー	ドライバー	screwdriver		L41 L42U
+ハンカチ	ハンカチ	handkerchief		L41
+暖房	暖[だん] 房[ぼう]	heating		L41
+冷房	冷[れい] 房[ぼう]	air-conditioning		L41
+温度	温[おん] 度[ど]	temperature		L41
+孫	孫[まご]	(my) grandchild		L41
+お孫さん	お 孫[まご]さん	(someone's) grandchild		L41
+おじ	おじ	(my) uncle		L41
+おじさん	おじさん	(someone's) uncle		L41
+おば	おば	(my) aunt		L41
+おばさん	おばさん	(someone's) aunt		L41
+管理人	管[かん] 理[り] 人[にん]	janitor, caretaker, (+さん as polite)		L41
+この間	この 間[あいだ]	the other day		L41
+ひとこと	ひとこと	a few words		L41
+～ずつ	～ずつ	each		L41
+お宅	お 宅[たく]	home (=うち／いえ)		L41
+どうぞお幸せに。	どうぞお 幸[しあわ]せに。	I hope you will be very happy.		L41
+昔話	昔[むかし] 話[ばなし]	old tale, folklore		L41
+苛めます	苛[いじ]めます	bully, abuse, ill-treat		L41
+かめ	かめ	turtle		L41
+助けます	助[たす]けます	save, help		L41
+お姫様	お 姫[ひめ] 様[さま]	princess		L41
+暮らします	暮[く]らします	live, lead a life		L41
+陸	陸[りく]	land, shore		L41
+煙	煙[けむり]	smoke, fumes​		L41
+真っ白（な）	真[ま]っ 白[しろ]（な）	pure white		L41
+中身	中[なか] 身[み]	content		L41
+衣装	衣[い] 装[しょう]	clothing, costume, dress​		L41U
+晴れ着	晴[は]れ 着[ぎ]	Sunday best (festive clothes)		L41U
+新作	新[しん] 作[さく]	brand-new, new work, new production​		L41U
+七五三	七[しち] 五[ご] 三[さん]	festival (shrine visit) by children aged 7, 5 and 3​		L41U
+卒業式	卒[そつ] 業[ぎょう] 式[しき]	graduation ceremony		L41U
+民宿	民[みん] 宿[しゅく]	guesthouse		L41U
+家庭的	家[か] 庭[てい] 的[てき]	family oriented		L41U
+公民館	公[こう] 民[みん] 館[かん]	community centre​		L41U
+講習会	講[こう] 習[しゅう] 会[かい]	short course/class		L41U
+レンタル	レンタル	rental​		L41U
+ビデオカメラ	ビデオカメラ	video camera		L41U
+携帯電話	携[けい] 帯[たい] 電[でん] 話[わ]	mobile phones		L41U
+ベビー用品	ベビー 用[よう] 品[ひん]	baby goods		L41U
+レジャー用品	レジャー 用[よう] 品[ひん]	leisure/recreation goods		L41U
+話し相手	話[はな]し 相[あい] 手[て]	companion, adviser		L41U
+体験	体[たい] 験[けん]	personal experience, physical experience, one's own experience		L41U
+禅	禅[ぜん]	zen, silent meditation		L41U
+精進料理	精[しょう] 進[じん] 料[りょう] 理[り]	Buddhist vegetarian cuisine		L41U
+包みます	包[つつ]みます	wrap		L42
+沸かします	沸[わ]かします	boil		L42
+計算します	計[けい] 算[さん]します	calculate		L42
+並びます	並[なら]びます	stand in a queue, line up		L42
+丈夫（な）	丈[じょう] 夫[ぶ]（な）	strong, healthy		L42
+自然	自[し] 然[ぜん]	nature		L42
+教育	教[きょう] 育[いく]	education		L42
+文化	文[ぶん] 化[か]	culture		L42
+社会	社[しゃ] 会[かい]	society		L42
+政治	政[せい] 治[じ]	politics		L42
+法律	法[ほう] 律[りつ]	law		L42
+平和	平[へい] 和[わ]	peace		L42
+目的	目[もく] 的[てき]	purpose		L42
+論文	論[ろん] 文[ぶん]	thesis, academic paper		L42
+楽しみ	楽[たの]しみ	pleasure, enjoyment, expectation		L42
+ミキサー	ミキサー	mixer, blender		L42
+風呂敷	風[ふ] 呂[ろ] 敷[しき]	wrapping cloth used to carry things		L42
+そろばん	そろばん	abacus		L42
+体温計	体[たい] 温[おん] 計[けい]	(clinical) thermometer		L42
+なぜ	なぜ	why		L42
+国連	国[こく] 連[れん]	United Nations		L42
+ボーナスが出ます	ボーナスが 出[で]ます	bonus to be paid		L42
+半分	半[はん] 分[ぶん]	half		L42
+ローン	ローン	loan		L42
+カップ麺	カップ 麺[めん]	instant/cup noodles​		L42
+世界初	世[せ] 界[かい] 初[はつ]	world's first		L42
+～によって	～によって	by (means of) ～		L42
+麺	麺[めん]	noodles		L42
+広めます	広[ひろ]めます	spread		L42
+市場調査	市[し] 場[じょう] 調[ちょう] 査[さ]	market survey, market research		L42
+割ります	割[わ]ります	break		L42
+注ぎます	注[そそ]ぎます	pour		L42
+事務用品	事[じ] 務[む] 用[よう] 品[ひん]	office supplies, stationery​		L42U
+綴じる	綴[と]じる	staple, clip		L42U
+クリップ	クリップ	clip		L42U
+挟む	挟[はさ]む	clip, pinch		L42U
+画鋲	画[が] 鋲[びょう]	drawing pin		L42U
+留める	留[と]める	pin, tack		L42U
+カッター	カッター	cutter		L42U
+切る	切[き]る	cut, saw		L42U
+ガムテープ	ガムテープ	packaging tape		L42U
+糊	糊[のり]	glue		L42U
+鉛筆削り	鉛[えん] 筆[ぴつ] 削[けず]り	pencil sharpener​		L42U
+削る	削[けず]る	sharpen		L42U
+ファイル	ファイル	file		L42U L48
+ファイルする	ファイルする	to file		L42U
+修正液	修[しゅう] 正[せい] 液[えき]	correction fluid		L42U
+消す	消[け]す	erase		L42U
+穴を開ける	穴[あな]を 開[あ]ける	punch a hole		L42U
+電卓	電[でん] 卓[たく]	calculator		L42U
+計算する	計[けい] 算[さん]する	calculate		L42U
+定規（物差し）	定[じょう] 規[ぎ]（ 物[もの]差[さ]し）	ruler		L42U
+線を引く	線[せん]を 引[ひ]く	draw a line		L42U
+線を測る	線[せん]を 測[はか]る	measure a line		L42U
+のこぎり	のこぎり	saw		L42U
+金槌	金[かな] 槌[づち]	hammer​		L42U
+くぎを打つ	くぎを 打[う]つ	hit a nail		L42U
+ペンチ	ペンチ	pliers		L42U
+ねじを締める	ねじを 締[し]める	tighten a screw		L42U
+ねじを緩める	ねじを 緩[ゆる]める	loosen a screw		L42U
+浴室	浴[よく] 室[しつ]	bathroom		L28U
+洋室	洋[よう] 室[しつ]	Western-style room		L28U
+物入れ	物[もの] 入[い]れ	place or container into which to put things​		L28U
+ＬＤＫ	ＬＤＫ	combined living room, dining room and kitchen​		L28U
+輸出が増えます	輸[ゆ] 出[しゅつ]が 増[ふ]えます	exports increase		L43
+輸出が減ります	輸[ゆ] 出[しゅつ]が 減[へ]ります	exports decrease		L43
+値段が上がります	値[ね] 段[だん]が 上[あ]がります	the price rises		L43
+値段が下がります	値[ね] 段[だん]が 下[さ]がります	the price falls, drops		L43
+ひもが切れます	ひもが 切[き]れます	a string breaks, snaps		L43
+ボタンが取れます	ボタンが 取[と]れます	a button comes off		L43
+荷物が落ちます	荷[に] 物[もつ]が 落[お]ちます	baggage falls down		L43
+ガソリンがなくなります	ガソリンがなくなります	petrol/gasoline is run out		L43
+変（な）	変[へん]（な）	strange, peculiar		L43
+幸せ（な）	幸[しあわ]せ（な）	happy		L43
+楽（な）	楽[らく]（な）	easy		L43
+うまい	うまい	tasty		L43
+まずい	まずい	not tasty		L43
+つまらない	つまらない	boring		L43
+パンフレット	パンフレット	pamphlet		L43
+今にも	今[いま]にも	at any moment (to describe situation before changes)		L43
+わあ	わあ	Oh!/Wow!		L43
+ばら	ばら	rose		L43
+ドライブ	ドライブ	driving		L43
+理由	理[り] 由[ゆう]	reason		L43 L47
+謝ります	謝[あやま]ります	apologise		L43
+知り合います	知[し]り 合[あ]います	get acquainted		L43 L47
+性質	性[せい] 質[しつ]	nature, property, disposition​ (characteristics)		L43U
+厳しい	厳[きび]しい	strict, severe, hard		L43U L47
+気が長い	気[き]が 長[なが]い	slow-tempered, patient		L43U
+気が短い	気[き]が 短[みじか]い	quick-tempered		L43U
+気が弱い	気[き]が 弱[よわ]い	timid		L43U
+活発（な）	活[かっ] 発[ぱつ]（な）	active		L43U
+誠実（な）	誠[せい] 実[じつ]（な）	sincere		L43U
+わがまま（な）	わがまま（な）	selfish		L43U
+ふまじめ（な）	ふまじめ（な）	frivolous		L43U
+頑固（な）	頑[がん] 固[こ]（な）	stubborn		L43U
+素直（な）	素[す] 直[なお]（な）	obedient, gentle		L43U
+意地悪（な）	意[い] 地[じ] 悪[わる]（な）	ill-natured, spiteful		L43U
+勝ち気（な）	勝[か]ち 気[き]（な）	competitive, unyielding		L43U
+神経質（な）	神[しん] 経[けい] 質[しつ]（な）	highly-strung, nervous		L43U
+泣きます	泣[な]きます	cry		L44
+笑います	笑[わら]います	laugh, smile		L44
+シャツが乾きます	シャツが 乾[かわ]きます	a shirt dries		L44
+シャツが濡れます	シャツが 濡[ぬ]れます	a shirt gets wet		L44
+滑ります	滑[すべ]ります	slip		L44
+事故が起きます	事[じ] 故[こ]が 起[お]きます	an accident happens		L44
+調節します	調[ちょう] 節[せつ]します	adjust		L44
+危険（な）	危[き] 険[けん]（な）	dangerous		L44
+厚い	厚[あつ]い	thick		L44
+太い	太[ふと]い	thick (of large diameter)		L44
+細い	細[ほそ]い	thin (of small diameter)		L44
+空気	空[くう] 気[き]	air		L44
+涙	涙[なみだ]	tear		L44
+和食	和[わ] 食[しょく]	Japanese dish		L44
+洋食	洋[よう] 食[しょく]	Western dish		L44
+おかず	おかず	side dish		L44
+量	量[りょう]	quantity		L44
+ー倍	ー 倍[ばい]	ー times		L44
+シングル	シングル	single room		L44
+ツイン	ツイン	twin-bedded room		L44
+洗濯物	洗[せん] 濯[たく] 物[もの]	washing, laundry		L44
+どうなさいますか。	どうなさいますか。	What can I do for you? (respectful)		L44
+シャンプーをします	シャンプーをします	to shampoo		L44
+どういうふうになさいますか。	どういうふうになさいますか。	How would you like it done? (respectful)		L44
+ショート	ショート	short		L44
+～みたいにしてください。	～みたいにしてください。	Do it like ～.		L44
+これでよろしいでしょうか。	これでよろしいでしょうか。	Would this be all right? (polite)		L44
+どうもお疲れさまでした。	どうもお 疲[つか]れさまでした。	Thank you for your patience. (shop assistance to customer)		L44
+嫌がります	嫌[いや]がります	dislike		L44
+上手く	上手[うま]く	well		L44
+順序	順[じゅん] 序[じょ]	order		L44
+安心（な）	安[あん] 心[しん]（な）	relieved		L44
+表現	表[ひょう] 現[げん]	expression		L44
+別れます	別[わか]れます	part, separate		L44
+これら	これら	these		L44
+縁起が悪い	縁[えん] 起[ぎ]が 悪[わる]い	unlucky, ill-omened		L44
+理髪店	理[り] 髪[はつ] 店[てん]	barber's shop		L44U
+パーム	パーム	perm		L44U
+シャンプー	シャンプー	shampoo		L44U
+トリートメント	トリートメント	treatment		L44U
+ブロー	ブロー	blow-dry		L44U
+カラー	カラー	hair colouring		L44U
+エクステ	エクステ	hair extension		L44U
+ネイル	ネイル	nail care		L44U
+フェイシャルマッサージ	フェイシャルマッサージ	facial massage		L44U
+メイク	メイク	makeup		L44U
+着付け	着[き] 付[つ]け	(kimono) dressing		L44U
+切ってください。	切[き]ってください。	Please cut it		L44U
+耳が見えるくらいに～	耳[みみ]が 見[み]えるくらいに～	～ to just above the ears		L44U
+肩にかかるくらいに～	肩[かた]にかかるくらいに～	～ to shoulder length		L44U
+眉が隠れるくらいに～	眉[まゆ]が 隠[かく]れるくらいに～	～ so that my eyebrows are covered		L44U
+この写真みたいに～	この 写[しゃ] 真[しん]みたいに～	～ like in this photograph		L44U
+髪をとかす	髪[かみ]をとかす	comb one's hair		L44U
+髪を分ける	髪[かみ]を 分[わ]ける	part one's hair		L44U
+髪をまとめる	髪[かみ]をまとめる	gather one's hair		L44U
+髪をアップにする	髪[かみ]をアップにする	put one's hair up		L44U
+髪を染める	髪[かみ]を 染[そ]める	dye one's hair		L44U
+ひげ／顔をそる	ひげ／ 顔[かお]をそる	shave		L44U
+化粧／メイクする	化[け] 粧[しょう]／メイクする	put on makeup		L44U
+三つ編みにする	三[み]つ 編[あ]みにする	braid, plait		L44U
+刈り上げる	刈[か]り 上[あ]げる	trim		L44U
+パーマをかける	パーマをかける	perm		L44U
+信じます	信[しん]じます	believe, trust		L45
+キャンセルします	キャンセルします	cancel		L45
+知らせます	知[し]らせます	inform		L45
+保証書	保[ほ] 証[しょう] 書[しょ]	guarantee		L45
+領収書	領[りょう] 収[しゅう] 書[しょ]	receipt		L45
+中止	中[ちゅう] 止[し]	calling off, cancelling, suspension		L45
+点	点[てん]	point, score		L45
+梅	梅[うめ]	plum (blossom)		L45
+１１０番	１１０ 番[ばん]	police (emergency number)		L45
+１１９番	１１９ 番[ばん]	fire (emergency number)		L45
+無理に	無[む]理[り]に	unreasonably		L45
+楽しみにしています	楽[たの]しみにしています	be looking forward, expecting		L45
+以上です。	以[い] 上[じょう]です。	That's all.		L45
+係員	係[かかり] 員[いん]	person in charge, organiser		L45
+コース	コース	course, route		L45
+スタート	スタート	start		L45
+ー位	ー 位[い]	-th (ranking)		L45
+優勝します	優[ゆう] 勝[しょう]します	win the championship, come first		L45
+悩み	悩[なや]み	trouble, worry		L45
+目覚まし時計	目[め] 覚[ざ]まし 時計[どけい]	alarm clock		L45
+大学生	大[だい] 学[がく] 生[せい]	university student		L45
+回答します	回[かい] 答[とう]します	answer, reply		L45
+鳴ります	鳴[な]ります	ring (sound)		L45 L46
+セットします	セットします	set		L45
+それでも	それでも	nevertheless, for all that		L45
+整形外科	整[せい] 形[けい] 外[げ] 科[か]	orthopaedic (bone treatment) surgery		L45U
+皮膚科	皮[ひ] 膚[ふ] 科[か]	dermatology (skin)		L45U
+産婦人科	産[さん] 婦[ふ] 人[じん] 科[か]	obstetrics (pregnancy) and gynaecology (treatment of women's diseases)		L45U
+内科	内[ない] 科[か]	internal medicine		L45U
+待合室	待[まち] 合[あい] 室[しつ]	waiting room		L45U
+外科	外[げ] 科[か]	surgery		L45U
+眼科	眼[がん] 科[か]	ophtalmology (eye treatment)		L45U
+小児科	小[しょう] 児[に] 科[か]	paediatrics (medical care for infants, children and young people)		L45U
+歯科	歯[し] 科[か]	dentistry		L45U
+泌尿器科	泌[ひ] 尿[にょう] 器[き] 科[か]	urology		L45U
+会計	会[かい] 計[けい]	account, treasurer		L45U
+耳鼻咽喉科	耳[じ] 鼻[び] 咽[いん] 喉[こう] 科[か]	ortorhinolaryngology (ear, nose, and throat)		L45U
+薬局	薬[やっ] 局[きょく]	pharmacy		L45U
+診察する	診[しん] 察[さつ]する	examine		L45U
+検査する	検[けん] 査[さ]する	scan, test		L45U
+注射する	注[ちゅう] 射[しゃ]する	inject		L45U
+レントゲンを撮る	レントゲンを 撮[と]る	take an X-ray		L45U
+入院する	入[にゅう] 院[いん]する	be admitted to hospital		L45U
+手術する	手[しゅ] 術[じゅつ]する	operate		L45U
+麻酔する	麻[ま] 酔[すい]する	anaesthetise (induce a loss of consciousness)		L45U
+処方箋	処[しょ] 方[ほう] 箋[せん]	prescription		L45U
+カルテ	カルテ	patient's chart		L45U
+診察券	診[しん] 察[さつ] 券[けん]	patient's registration ticket		L45U
+薬の種類	薬[くすり]の 種[しゅ] 類[るい]	types of medicine		L45U
+痛み止め	痛[いた]み 止[ど]め	painkillers		L45U
+湿布薬	湿[しっ] 布[ぷ] 薬[やく]	analgesic plasters, poultice, cataplasm		L45U
+解熱剤	解[げ] 熱[ねつ] 剤[ざい]	antipyretics (prevent or reduce fever)		L45U
+錠剤	錠[じょう] 剤[ざい]	tablets (pills)		L45U
+粉薬	粉[こな] 薬[ぐすり]	powder medicine		L45U
+カプセル	カプセル	capsules		L45U
+渡します	渡[わた]します	hand over		L46
+帰ってきます	帰[かえ]ってきます	come back		L46
+バスが出ます	バスが 出[で]ます	a bus leaves, departs		L46
+荷物が届きます	荷[に] 物[もつ]が 届[とど]きます	parcels to be delivered		L46
+大学に入学します	大[だい] 学[がく]に 入[にゅう] 学[がく]します	enter a university		L46
+大学を卒業します	大[だい] 学[がく]を 卒[そつ] 業[ぎょう]します	graduate from a university		L46
+焼きます	焼[や]きます	bake, grill, roast		L46
+パンが焼けます	パンが 焼[や]けます	bread to be baked		L46
+肉が焼けます	肉[にく]が 焼[や]けます	meat to be roasted, be grilled		L46
+留守	留[る] 守[す]	absence		L46
+原因	原[げん] 因[いん]	cause		L46
+～の所	～の 所[ところ]	where ～ is/are, by the ～		L46
+半年	半[はん] 年[とし]	half a year		L46
+ちょうど	ちょうど	just, exactly		L46
+たった今	たった 今[いま]	just now (used with past tense; indicates completion)		L46
+今いいですか。	今[いま]いいですか。	Have you got a moment?		L46
+ガスサービスセンター	ガスサービスセンター	gas service centre		L46
+ガスレンジ	ガスレンジ	gas range, gas cooker		L46
+具合	具[ぐ] 合[あい]	condition		L46
+申し訳ありません。	申[もう]し 訳[わけ]ありません。	I'm sorry.		L46
+向かいます	向[む]かいます	head for		L46
+ついています	ついています	be lucky		L46
+床	床[ゆか]	floor		L46
+転びます	転[ころ]びます	fall down, fall over		L46
+ベル	ベル	bell		L46
+順番に	順[じゅん] 番[ばん]に	in order		L46
+出来事	出[で] 来[き] 事[ごと]	incident		L46
+服飾	服[ふく] 飾[しょく]	clothing and accessories		L46U
+医療	医[い] 療[りょう]	medical care, medical treatment​		L46U
+その他	その 他[た]	others, misc., etc.		L46U
+ジャム	ジャム	jam		L46U
+クッキー	クッキー	cookie		L46U
+チーズ	チーズ	cheese		L46U
+オムレツ	オムレツ	omelette		L46U
+フランクフルト	フランクフルト	frankfurter		L46U
+カステラ	カステラ	sponge cake		L46U
+マカロニ	マカロニ	macaroni		L46U
+パスタ	パスタ	pasta		L46U
+エプロン	エプロン	apron		L46U
+ランジェリー	ランジェリー	lingerie		L46U
+ホック	ホック	hook		L46U
+ズック	ズック	deck shoes, plimsolls		L46U
+ビロード	ビロード	velvet		L46U
+レントゲン	レントゲン	X-ray		L46U
+アレルギー	アレルギー	allergy		L46U
+メス	メス	scalpel		L46U
+ピンセット	ピンセット	tweezers		L46U
+コーラス	コーラス	chorus		L46U
+メロディー	メロディー	melody		L46U
+バレエ	バレエ	ballet		L46U
+アトリエ	アトリエ	studio		L46U
+メルヘン	メルヘン	fairy tale		L46U
+オルゴール	オルゴール	musical box		L46U
+スケジュール	スケジュール	schedule		L46U L50
+ティッシュペーパー	ティッシュペーパー	tissue paper		L46U
+アンケート	アンケート	questionnaire		L46U
+コンクール	コンクール	competition		L46U
+エネルギー	エネルギー	energy		L46U
+テーム	テーム	theme, topic		L46U
+ゴム	ゴム	rubber		L46U
+ペンキ	ペンキ	paint		L46U
+カルタ	カルタ	playing card		L46U
+風が吹きます	風[かぜ]が 吹[ふ]きます	wind blows		L47
+ごみが燃えます	ごみが 燃[も]えます	rubbish burns		L47
+亡くなります（死にます）	亡[な]くなります（ 死[し]にます）	pass away		L47
+人が集まります	人[ひと]が 集[あつ]まります	people gathers		L47
+人が別れます	人[ひと]が 別[わか]れます	people parts, separates		L47
+音がします	音[おと]がします	sound can be heard		L47
+声がします	声[こえ]がします	voice can be heard		L47
+味がします	味[あじ]がします	to taste		L47
+匂いがします	匂[にお]いがします	to smell		L47
+ひどい	ひどい	terrible, severe		L47
+実験	実[じっ] 験[けん]	experiment		L47
+データ	データ	data		L47
+人口	人[じん] 口[こう]	population		L47
+匂い	匂[にお]い	smell		L47
+科学	科[か] 学[がく]	science		L47
+パトカー	パトカー	police car		L47
+救急車	救[きゅう] 急[きゅう] 車[しゃ]	ambulance		L47
+賛成	賛[さん] 成[せい]	approval, agreement		L47
+反対	反[はん] 対[たい]	objection, opposition		L47
+大統領	大[だい] 統[とう] 領[りょう]	president		L47
+～によると	～によると	according to ～		L47
+婚約します	婚[こん] 約[やく]します	get engaged		L47
+どうも	どうも	it seems that (used when making a tentative judgement)		L47
+化粧をします	化[け] 粧[しょう]をします	put on makeup		L47
+女性	女[じょ] 性[せい]	female, woman		L47
+男性	男[だん] 性[せい]	male, man		L47
+長生きします	長[なが] 生[い]きします	live long		L47
+擬音語	擬[ぎ] 音[おん] 語[ご]	onomatopoeic word		L47U
+擬態語	擬[ぎ] 態[たい] 語[ご]	phenomime, mimetic word		L47U
+ザーザー（降る）	ザーザー（ 降[ふ]る）	pour, crash (rain)		L47U
+ピューピュー（吹く）	ピューピュー（ 吹[ふ]く）	whistle, howl (wind)		L47U
+ゴロゴロ（鳴る）	ゴロゴロ（ 鳴[な]る）	roll, growl (thunder)		L47U
+ワンワン（ほえる）	ワンワン（ほえる）	bow-wow		L47U
+ニャーニャー（鳴く）	ニャーニャー（ 鳴[な]く）	meow		L47U
+かーかー（鳴く）	かーかー（ 鳴[な]く）	caw		L47U
+げらげら（笑う）	げらげら（ 笑[わら]う）	guffaw		L47U
+しくしく（泣く）	しくしく（ 泣[な]く）	sob		L47U
+きょろきょろ（見る）	きょろきょろ（ 見[み]る）	(look around) restlessly		L47U
+ぱくぱく（食べる）	ぱくぱく（ 食[た]べる）	(eat) heartily, gobble		L47U
+ぐうぐう（寝る）	ぐうぐう（ 寝[ね]る）	be fast asleep		L47U
+すらすら（読む）	すらすら（ 読[よ]む）	(read) fluently		L47U
+ざらざら（している）	ざらざら（している）	(feel) rough		L47U
+べたべた（している）	べたべた（している）	(be) sticky		L47U
+つるつる（している）	つるつる（している）	(be) smooth, slippery		L47U
+降ろします、下ろします	降[お]ろします、 下[お]ろします	put down, lower, unload		L48
+届けます	届[とど]けます	deliver		L48
+録音します	録[ろく] 音[おん]します	record		L48
+塾	塾[じゅく]	cram school		L48
+生徒	生[せい] 徒[と]	pupil		L48
+～間	～ 間[かん]	for ～ (referring to duration)		L48
+いいことですね。	いいことですね。	That's a good thing.		L48
+お忙しいですか。	お 忙[いそが]しいですか。	Are you busy? (talking to elderies)		L48
+営業	営[えい] 業[ぎょう]	business, sales		L48
+それまでに	それまでに	by that time		L48
+かまいません	かまいません	It's all right./I don't mind.		L48
+楽しみます	楽[たの]しみます	enjoy oneself		L48
+親	親[おや]	parent		L48
+小学生	小[しょう] 学[がく] 生[せい]	pupil, junior/elementary schoolchild		L48
+ーパーセント	ーパーセント	ー percent		L48
+その次	その 次[つぎ]	next		L48
+習字	習[しゅう] 字[じ]	penmanship (the art or skill of writing by hand, calligraphy)		L48
+普通の	普[ふ] 通[つう]の	normal, usual		L48
+しつける	しつける	to train, to discipline, to teach manners​		L48U
+鍛える	鍛[きた]える	to drill, to train, to discipline​		L48U
+経験	経[けい] 験[けん]	experience​		L48U
+年寄り	年[とし] 寄[よ]り	old person, elderly person, senior citizen		L48U
+決める	決[き]める	to decide		L48U
+自信	自[じ] 信[しん]	confidence		L48U
+責任	責[せき] 任[にん]	responsibility		L48U
+我慢	我[が] 慢[まん]	patience, tolerance		L48U
+会社に勤めます	会[かい] 社[しゃ]に 勤[つと]めます	work for a company		L49
+椅子に掛けます	椅子[いす]に 掛[か]けます	sit on a chair		L49
+過ごします	過[す]ごします	spend (time), pass (time)		L49
+召し上がります	召[め]し 上[あ]がります	eat, drink (respectful of たべます、のみます)		L49
+おっしゃいます	おっしゃいます	say, (one's name) is ～ (respectful of いいます)		L49
+なさいます	なさいます	do (respectful of します)		L49
+ご覧になります	ご 覧[らん]になります	seeing, looking at (respectful of みます)		L49
+ご存知です	ご 存[ぞん] 知[じ]です	know (respectful of しっています)		L49
+旅館	旅[りょ] 館[かん]	Japanese-style hotel or inn		L49
+奥様	奥[おく] 様[さま]	(someone's) wife (respectful of おくさん)		L49
+たまに	たまに	once in a while		L49
+どなたでも	どなたでも	anybody (respectful of だれでも)		L49
+～といいます	～といいます	(one's name) is ～		L49
+ー年ー組	ー 年[ねん]ー 組[くみ]	class ー of -th grade		L49
+熱を出します	熱[ねつ]を 出[だ]します	run a fever		L49
+よろしくお伝えください。	よろしくお 伝[つた]えください。	Give my best regards./Please say hello.		L49
+失礼いたします。	失[しつ] 礼[れい]いたします。	Goodbye. (humble of しつれいします)		L49
+経歴	経[けい] 歴[れき]	background		L49
+医学部	医[い] 学[がく] 部[ぶ]	medical department		L49
+目指します	目[め] 指[ざ]します	aim for		L49
+進みます	進[すす]みます	go on (to graduate school)		L49
+細胞	細[さい] 胞[ぼう]	cell		L49
+開発します	開[かい] 発[はつ]します	develop, create		L49
+マウス	マウス	mouse		L49
+受賞します	受[じゅ] 賞[しょう]します	be awarded a prize		L49
+講演会	講[こう] 演[えん] 会[かい]	lecture meeting		L49
+行事	行[ぎょう] 事[じ]	event, function​		L49U
+お正月	お 正[しょう] 月[がつ]	New Year (１月１日～３日)		L49U
+豆まき	豆[まめ]まき	Bean-Scattering Ceremony (２月３日ごろ)		L49U
+ひな祭り	ひな 祭[まつ]り	Doll's Festival (3月3日)		L49U
+お月見	お 月[つき] 見[み]	Moon Viewing (９月１５日ごろ)		L49U
+大晦日	大[おお] 晦[みそ] 日[か]	New Year's Eve (１２月３１日)		L49U
+参ります	参[まい]ります	go, come (humble of いきます、きます)		L50
+おります	おります	be (humble of います)		L50
+申します、申し上ます	申[もう]します、 申[もう]し 上[あげ]ます	say, (one's name) is ～ (humble of いいます)		L50
+いたします	いたします	do (humble of します)		L50
+拝見します	拝[はい] 見[けん]します	seeing, looking at (humble of みます)		L50
+存じます	存[ぞん]じます	know (humble of しっています)		L50
+お目にかかります	お 目[め]にかかります	meet (humble of あいます)		L50
+コーヒーを入れます	コーヒーを 入[い]れます	make coffee		L50
+用意します	用[よう] 意[い]します	prepare, getting ready		L50
+私 (polite)	私[わたくし]	I (humble of わたし)		L50
+ガイド	ガイド	guide		L50
+メールアドレス	メールアドレス	e-mail address		L50
+再来週	再[さ] 来[らい] 週[しゅう]	the week after next		L50
+再来月	再[さ] 来[らい] 月[げつ]	the month after next		L50
+再来年	再[さ] 来[らい] 年[ねん]	the year after next		L50
+初めに	初[はじ]めに	first		L50
+緊張します	緊[きん] 張[ちょう]します	become tense, be strained, be nervous		L50
+賞金	賞[しょう] 金[きん]	prize money		L50
+きりん	きりん	giraffe		L50
+ころ	ころ	times, days		L50
+夢がかないます	夢[ゆめ]がかないます	dream be realised, comes true		L50
+応援します	応[おう] 援[えん]します	support		L50
+心から	心[こころ]から	from one's heart, sincerely		L50
+感謝します	感[かん] 謝[しゃ]します	thank, be grateful		L50
+お元気でいらっしゃいますか。	お 元[げん] 気[き]でいらっしゃいますか。	How are you doing (respectful of おげんきですか)		L50
+迷惑をかけます	迷[めい] 惑[わく]をかけます	cause trouble, annoyance, inconvenience		L50
+生かします	生[い]かします	make good use of		L50
+宛名	宛[あて] 名[な]	(addressee's) name, (recipient's) name and address​		L50U
+おとといの朝	おとといの 朝[あさ]	the morning before last		L51
+昨日の朝	昨日[きのう]の 朝[あさ]	yesterday morning		L51
+明日の朝	明日[あした]の 朝[あさ]	tomorrow morning		L51
+明後日の朝	明後日[あさって]の 朝[あさ]	the morning after next		L51
+おとといの晩（夜）	おとといの 晩[ばん]（ 夜[よる]）	the night before last		L51
+昨日の晩（夜）	昨日[きのう]の 晩[ばん]（ 夜[よる]）	last night		L51
+明日の晩（夜）	明日[あした]の 晩[ばん]（ 夜[よる]）	tomorrow night		L51
+明後日の晩（夜）	明後日[あさって]の 晩[ばん]（ 夜[よる]）	the night after next		L51
+先々週（二週間前）	先[せん] 々[せん] 週[しゅう]（ 二[に] 週[しゅう] 間[かん] 前[まえ]）	the week before last		L51
+先々月（二週間前）	先[せん] 々[せん] 月[げつ]（ 二[に] 週[しゅう] 間[かん] 前[まえ]）	the month before last		L51
+カレンダー	カレンダー	calendar		L30
+ポスター	ポスター	poster		L30
+予定表	予[よ] 定[てい] 表[ひょう]	schedule		L30
+ガイドブック	ガイドブック	guidebook		L30
+～とか、～とか	～とか、～とか	～, ～, and so on		L30
+宝くじ	宝[たから]くじ	lottery		L32
+アフリカ	アフリカ	Africa		L35
+バザー	バザー	bazaar		L41U
+カット	カット	haircut		L44
+１センチくらい～	１センチくらい～	about one centimetre ～		L44U
+どちら様でしょうか。	どちら 様[さま]でしょうか。	Who is this, please?		L46
+お待たせしました。	お 待[ま]たせしました。	Sorry to keep you waiting.		L46
+お礼	お 礼[れい]	gratitude, thanks		L50
+安全（な）	安[あん] 全[ぜん]（な）	safe		L44
+お客様（お客さん）	お 客[きゃく] 様[さま]（お 客[きゃく]さん）	guest; visitor; client; customer		L36
+お子さん	お 子[こ]さん	(someone's) child		L31
+ガソリン	ガソリン	petrol, gasoline		L43
+金	金[きん]	gold		L37
+キャンプ	キャンプ	camp		L45
+～会社	～ 会[がい] 社[しゃ]	～ company		L26
+缶詰	缶[かん] 詰[づめ]	canned food, tinned food		L42
+みえます	みえます	come (respectful of きます)		L49
+差し上げます	差[さ]し 上[あ]げます	give (humble of あげます)		L50U
+早寝	早[はや] 寝[ね]	go to bed early​		L36U
+早起き	早[はや] 起[お]き	early rising​		L36U
+外食	外[がい] 食[しょく]	eating out, dining out​		L36U
+宿	宿[やど]	lodging, inn, hotel​		L41U
+便利屋	便[べん] 利[り] 屋[や]	general merchant​		L41U
+金銀	金[きん] 銀[ぎん]	gold and silver		L41U
+貴重品	貴[き] 重[ちょう] 品[ひん]	valuables, precious items		L30U
+救急薬品	救[きゅう] 急[きゅう] 薬[やく] 品[ひん]	first-aid medicine		L30U
+退院する	退[たい] 院[いん]する	be discharged from hospital		L45U
