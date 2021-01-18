@@ -1,5 +1,6 @@
 import itertools
 import pathlib
+import shutil
 from typing import List, Tuple
 
 from common import (
@@ -21,9 +22,10 @@ def extract_expressions(expression_field: str) -> List[str]:
         if word_end == -1:
             word_end = len(expression_field)
         expression_collection.append(expression_field[word_start:word_end])
-        word_start = expression_field.find("（", word_end + 1)
+        word_start = expression_field.find("（", word_end)
         if word_start == -1:
             break
+        word_start += 1
         word_end = expression_field.find("）", word_start)
     return expression_collection
 
@@ -40,6 +42,10 @@ def save_processed_word_count(new_count: int) -> None:
 
 
 def generate_new_vocab_list(mp3_count: int) -> List[str]:
+    ##
+    if new_vocab_lists_dir.exists():
+        shutil.rmtree(new_vocab_lists_dir)
+    ##
     if not new_vocab_lists_dir.exists():
         new_vocab_lists_dir.mkdir()
     new_vocab_list_file = new_vocab_lists_dir / (lesson + "単語.txt")
@@ -50,6 +56,7 @@ def generate_new_vocab_list(mp3_count: int) -> List[str]:
             field_collection = note.split()
             expression_collection = extract_expressions(field_collection[0])
             for expression in expression_collection:
+                print(expression)
                 if mp3_count == 0:
                     raise Exception()
                 mp3_count -= 1
