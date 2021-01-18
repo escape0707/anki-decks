@@ -9,5 +9,6 @@
     "venv": true,
     ".mypy_cache": true
   },
-  "python.sortImports.path": "venv/Scripts/isort.exe"
+  "python.sortImports.path": "venv/Scripts/isort.exe",
+  "python.linting.mypyEnabled": false
 }
