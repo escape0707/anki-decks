@@ -2,3 +2,5 @@ venv
 *.mp3
 *.m4a
 *.ipynb
+data/new_vocab_lists
+*.pyc

@@ -21,7 +21,7 @@ def split_and_save(input_file: Path, output_dir: Path) -> None:
 
     # Skip audio chunks "daiikka" & "dango"
     for i, chunk in enumerate(islice(chuck_collection, 2, None)):
-        chunk.export(output_dir / f"{i}.mp3")
+        chunk.export(output_dir / (str(i).zfill(4) + ".mp3"))
 
 
 if __name__ == "__main__":
