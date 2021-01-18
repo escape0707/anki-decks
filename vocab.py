@@ -3,6 +3,7 @@ import pathlib
 from typing import List, Tuple
 
 from common import (
+    pronunciation_dir,
     chunks_dir,
     lesson,
     new_vocab_lists_dir,
@@ -39,6 +40,8 @@ def save_processed_word_count(new_count: int) -> None:
 
 
 def generate_new_vocab_list(mp3_count: int) -> List[str]:
+    if not new_vocab_lists_dir.exists():
+        new_vocab_lists_dir.mkdir()
     new_vocab_list_file = new_vocab_lists_dir / (lesson + "単語.txt")
     with open(vocab_list_file) as in_f, open(new_vocab_list_file, "w") as out_f:
         new_mp3_name_collection = []
@@ -52,9 +55,11 @@ def generate_new_vocab_list(mp3_count: int) -> List[str]:
                 mp3_count -= 1
                 new_mp3_name_collection.append(expression + ".mp3")
             audio_field = "".join(map(lambda x: f"[sound:{x}]", expression_collection))
-            new_note = "\t".join((note.rstrip(), audio_field, "\n"))
-            out_f.write(new_note)
+            new_note = "\t".join((note.rstrip(), audio_field))
+            out_f.write(new_note + "\n")
             processed_word_count += 1
+            if mp3_count == 0:
+                break
     save_processed_word_count(processed_word_count)
     return new_mp3_name_collection
 
@@ -62,8 +67,10 @@ def generate_new_vocab_list(mp3_count: int) -> List[str]:
 def rename_mp3_collection(
     mp3_collection: Tuple[pathlib.Path, ...], new_mp3_name_collection: List[str]
 ) -> None:
+    if not pronunciation_dir.exists():
+        pronunciation_dir.mkdir()
     for mp3_path, new_mp3_name in zip(mp3_collection, new_mp3_name_collection):
-        new_mp3_path = mp3_path.parent / mp3_path.with_name(new_mp3_name)
+        new_mp3_path = pronunciation_dir / new_mp3_name
         mp3_path.link_to(new_mp3_path)  # order is correct, change to rename later
 
 
