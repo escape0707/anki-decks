@@ -5,7 +5,7 @@
 ～ちゃん	～ちゃん	suffix for child's name	L01
 ～人	～ 人[じん]	suffix for nationality	L01
 先生	先[せん] 生[せい]	teacher, instructor	L01
-教師	教[きょう] 師[し]	teacher, instructor (referring to own's job)	L01 L15U
+教師	教[きょう] 師[し]	teacher, instructor (referring to own job)	L01 L15U
 学生	学[がく] 生[せい]	student	L01
 会社員	会[かい] 社[しゃ] 員[いん]	company employee	L01 L15U
 社員	社[しゃ] 員[いん]	employee of ～ company's name	L01
@@ -14,16 +14,16 @@
 研究者	研[けん] 究[きゅう] 者[しゃ]	researcher, scholar	L01 L15U
 大学	大[だい] 学[がく]	university	L01 L13U
 病院	病[びょう] 院[いん]	hospital	L01
-誰	誰[だれ]	who (どなた for polite)	L01
+誰（何方）	誰[だれ]（ 何方[どなた]）	who	L01
 ー歳	ー 歳[さい]	ー years old	L01
-何歳	何[なん] 歳[さい]	how old (おいくつ for polite)	L01
-はい	はい	yes, that is correct​ (polite)	L01
+何歳（お幾つ）	何[なん] 歳[さい]（お 幾[いく]つ）	how old	L01
+はい	はい	yes, that is correct	L01
 いいえ	いいえ	no	L01
-始めまして	始[はじ]めまして	How do you do?	L01
-～からきました。	～からきました。	I'm from ～ (country).	L01
-どうぞよろしくお願いします。	どうぞよろしくお 願[ねが]いします。	Pleased to meet you.	L01
+初めまして	初[はじ]めまして	How do you do?	L01
+～から来ました。	～から 来[き]ました。	I'm from ～ (country).	L01
+「どうぞ」よろしく「お願いします」。	「どうぞ」よろしく「お 願[ねが]いします」。	Pleased to meet you.	L01
 失礼ですが	失[しつ] 礼[れい]ですが	Excuse me, but	L01
-お名前は	お 名[な] 前[まえ]は	May I have your name?	L01
+お名前は？	お 名[な] 前[まえ]は？	May I have your name?	L01
 こちらは～さんです。	こちらは～さんです。	This is Mr./Ms.	L01
 アメリカ	アメリカ	U.S.A.	L01U
 イギリス	イギリス	U.K.	L01U
@@ -44,13 +44,13 @@
 シンガポール	シンガポール	Singapore	L01U L12
 スペイン	スペイン	Spain	L01U L07
 フランス	フランス	France	L01U
-フィリピン	フィリピン	Phillipines	L01U
+フィリピン	フィリピン	Philippines	L01U
 ベトナム	ベトナム	Vietnam	L01U
 マレーシア	マレーシア	Malaysia	L01U
 メキシコ	メキシコ	Mexico	L01U
 ロシア	ロシア	Russia	L01U L37
 ペルシア語	ペルシア 語[ご]	Persian language	L01U
-ポルトガル語	ポルトガル 語[ご]	Portugese language	L01U
+ポルトガル語	ポルトガル 語[ご]	Portuguese language	L01U
 これ	これ	this (thing here)	L02
 それ	それ	that (thing near the listener)	L02
 あれ	あれ	that (thing over there)	L02
@@ -61,7 +61,7 @@
 辞書	辞[じ] 書[しょ]	dictionary	L02
 雑誌	雑[ざっ] 誌[し]	magazine	L02
 新聞	新[しん] 聞[ぶん]	newspaper	L02
-手帳	手[て] 帳[ちょう]	personal organiser	L02
+手帳	手[て] 帳[ちょう]	personal organizer	L02
 名刺	名[めい] 刺[し]	business card	L02
 カード	カード	(credit) card	L02
 鉛筆	鉛[えん] 筆[ぴつ]	pencil	L02
@@ -85,7 +85,7 @@
 日本語	日本[にほん] 語[ご]	Japanese language	L01U L02
 何	何[なん]	what	L02 L06
 そう	そう	so	L02
-あのう	あのう	Err… (used to show hestitation)	L02
+あのう	あのう	Err… (used to show hesitation)	L02
 えっ	えっ	Oh? What! (hearing something unexpected)	L02
 どうぞ。	どうぞ。	Here you are. (offering someone something)	L02
 どうもありがとうございます。	どうもありがとうございます。	Thank you very much.	L02
@@ -160,7 +160,7 @@
 催し物会場	催[もよお]し 物[もの] 会[かい] 場[じょう]	event hall	L03U
 屋上	屋[おく] 上[じょう]	rooftop	L03U L35
 遊園地	遊[ゆう] 園[えん] 地[ち]	amusement park	L03U L13U
-起きます	起[お]きます	get up, wake up; to occur/to happen (of unfavourable incidents)	L04 L33
+起きます	起[お]きます	get up, wake up; to occur/to happen (of unfavorable incidents)	L04 L33
 寝ます	寝[ね]ます	sleep, go to bed	L04
 働きます	働[はたら]きます	work	L04
 休みます	休[やす]みます	take a rest, take a holiday	L04
@@ -221,7 +221,7 @@
 電話番号案内	電[でん] 話[わ] 番[ばん] 号[ごう] 案[あん] 内[ない]	directory inquiries	L04U
 県	県[けん]	district, prefecture (a political region or local government area)	L04U L10
 市、市	市[し]、 市[いち]	city, market	L04U
-中央	中[ちゅう] 央[おう]	metropolis, capital city, central goverment	L04U L28
+中央	中[ちゅう] 央[おう]	metropolis, capital city, central government	L04U L28
 行きます	行[い]きます	go	L05
 来ます	来[き]ます	come	L05
 帰ります	帰[かえ]ります	go home, return	L05
@@ -323,7 +323,7 @@
 ジュース	ジュース	juice	L06 L11U
 ビール	ビール	beer	L06 L46U
 お酒	お 酒[さけ]	alcohol, Japanese rice wine	L06
-たばこ	たばこ	tabacco, cigarette	L06
+たばこ	たばこ	tobacco, cigarette	L06
 手紙	手[て] 紙[がみ]	letter	L06
 レポート	レポート	report	L06
 写真	写[しゃ] 真[しん]	photograph	L06
@@ -746,7 +746,7 @@
 すき焼き	すき 焼[や]き	beef and vegetable hotpot	L12
 刺身	刺[さし] 身[み]	sliced raw fish	L12
 レモン	レモン	lemon	L12
-生け花をします	生[い]け 花[ばな]をします	practise flower arrangement	L12 L41U
+生け花をします	生[い]け 花[ばな]をします	practice flower arrangement	L12 L41U
 紅葉、紅葉	紅葉[もみじ]、 紅[こう] 葉[よう]	紅葉[もみじ]：maple, red leaves of autumn<div>紅[こう] 葉[よう]：leaves turning red; red leaves​</div>	L12
 一番	一[いち] 番[ばん]	the most	L12
 ずっと	ずっと	by far; the whole time	L12 L31
@@ -926,7 +926,7 @@
 ジャーナリスト	ジャーナリスト	journalist	L15U
 歌手	歌[か] 手[しゅ]	singer	L15U L28
 俳優	俳[はい] 優[ゆう]	actor	L15U
-スポーツ選手	スポーツ 選[せん] 手[しゅ]	athelete	L15U
+スポーツ選手	スポーツ 選[せん] 手[しゅ]	athlete	L15U
 十九日	十[じゅう] 九[く] 日[にち]	nineteenth day	L05
 電車に乗ります	電[でん] 車[しゃ]に 乗[の]ります	get on/ride a train	L16
 電車を降ります	電[でん] 車[しゃ]を 降[お]ります	get off a train	L16
@@ -985,7 +985,7 @@
 お引き出し	お 引[ひ]き 出[だ]し	withdrawal (of money from an account)	L16U
 通帳記入	通[つう] 帳[ちょう] 記[き] 入[にゅう]	updating your passbook, bankbook​	L16U
 残高照会	残[ざん] 高[だか] 照[しょう] 会[かい]	balance inquiry	L16U
-覚えます	覚[おぼ]えます	memorise	L17
+覚えます	覚[おぼ]えます	memorize	L17
 忘れます	忘[わす]れます	forget	L17
 なくします	なくします	lose	L17
 払います	払[はら]います	pay	L17
@@ -1049,7 +1049,7 @@
 吐き気がします	吐[は]き 気[け]がします	feel sick, nauseous (about to vomit)	L17U
 寒気がします	寒[さむ] 気[け]がします	feel a chill	L17U
 めまいがします	めまいがします	feel dizzy	L17U
-下痢をします	下[げ] 痢[り]をします	have diarrhoea	L17U
+下痢をします	下[げ] 痢[り]をします	have diarrhea	L17U
 便秘をします	便[べん] 秘[ぴ]をします	be constipated	L17U
 けがをします	けがをします	get injured	L17U L32
 やけどをします	やけどをします	get burnt	L17U L32
@@ -1091,7 +1091,7 @@
 特に	特[とく]に	especially	L18
 へえ	へえ	What! Really! (used when expressing surprise)	L18
 それはおもしろいですね。	それはおもしろいですね。	That's interesting, isn't it?	L18
-なかなか	なかなか	not easily (used with negtives)	L18
+なかなか	なかなか	not easily (used with negatives)	L18
 ほんとうですか。	ほんとうですか。	Really?	L18
 ぜひ	ぜひ	by all means, really	L18
 動き	動[うご]き	action, movement, move, motion​	L18U
@@ -1362,7 +1362,7 @@
 暇	暇[ひま]	free time	L25
 いろいろお世話になりました。	いろいろお 世[せ] 話[わ]になりました。	Thank you for everything you've done for me.	L25
 頑張ります	頑[がん] 張[ば]ります	do one's best	L25
-どうぞお元気です。	どうぞお 元[げん] 気[き]です。	Please take care of yourself. (said when expecting a long seperation)	L25
+どうぞお元気です。	どうぞお 元[げん] 気[き]です。	Please take care of yourself. (said when expecting a long separation)	L25
 一生	一[いっ] 生[しょう]	life, generation	L25U
 赤ちゃん	赤[あか]ちゃん	baby	L25U L38
 保育園	保[ほ] 育[いく] 園[えん]	nursery school, day nursery, preschool​	L25U
@@ -1710,7 +1710,7 @@
 卒業します	卒[そつ] 業[ぎょう]します	graduate	L31
 閉じます	閉[と]じます	close	L31
 都会	都[と] 会[かい]	city	L31
-専門	専[せん] 門[もん]	speciality, field of study	L31U
+専門	専[せん] 門[もん]	specialty, field of study	L31U
 医学	医[い] 学[がく]	medical science	L31U L47
 薬学	薬[やく] 学[がく]	pharmacology	L31U
 化学	化[か] 学[がく]	chemistry	L31U
@@ -1891,7 +1891,7 @@
 傘をさします	傘[かさ]をさします	put up an umbrella	L34
 スポーツクラブ	スポーツクラブ	sports club	L34
 お城	お 城[しろ]	castle	L34
-説明書	説[せつ] 明[めい] 書[しょ]	explanatory pamphlet, insturction book	L34
+説明書	説[せつ] 明[めい] 書[しょ]	explanatory pamphlet, instruction book	L34
 図	図[ず]	figure, drawing	L34
 線	線[せん]	line	L34 L40U
 矢印	矢[や] 印[じるし]	arrow (sign)	L34
@@ -1945,7 +1945,7 @@
 ケチャップ	ケチャップ	ketchup	L34U
 からし（マスタード）	からし（マスタード）	mustard	L34U
 こしょう	こしょう	pepper	L34U
-とうがらし	とうがらし	cayenne pepper (capsium)	L34U
+とうがらし	とうがらし	cayenne pepper (capsicum)	L34U
 しょうが	しょうが	ginger	L34U
 わさび	わさび	Japanese horseradish	L34U
 カレー粉	カレー 粉[こ]	curry powder	L34U
@@ -1978,7 +1978,7 @@
 向こう	向[む]こう	over there, the other side	L35
 島	島[しま]	island	L35
 港	港[みなと]	port, harbour	L35
-近所	近[きん] 所[じょ]	neighbourhood, vicinity	L35
+近所	近[きん] 所[じょ]	neighborhood, vicinity	L35
 海外	海[かい] 外[がい]	overseas	L35
 山登り	山[やま] 登[のぼ]り	mountain climbing	L35
 歴史	歴[れき] 史[し]	history	L35
@@ -1998,7 +1998,7 @@
 旅行社	旅[りょ] 行[こう] 社[しゃ]	travel agency	L35
 詳しい	詳[くわ]しい	detailed	L35
 スキー場	スキー 場[じょう]	ski resort, ski area	L35
-朱	朱[しゅ]	vermillion	L35
+朱	朱[しゅ]	vermilion	L35
 交わります	交[まじ]わります	keep company with	L35
 ことわざ	ことわざ	proverb	L35
 関係	関[かん] 係[けい]	relationship	L35 L46U L47
@@ -2062,7 +2062,7 @@
 踏みます	踏[ふ]みます	step on	L37
 壊します	壊[こわ]します	break, destroy	L37
 汚します	汚[よご]します	make ～ dirty	L37
-行います	行[おこな]います	hold, carry out, practise	L37
+行います	行[おこな]います	hold, carry out, practice	L37
 輸出します	輸[ゆ] 出[しゅつ]します	export	L37
 輸入します	輸[ゆ] 入[にゅう]します	import	L37
 翻訳します	翻[ほん] 訳[やく]します	translate	L37
@@ -2091,7 +2091,7 @@
 ～の一つ	～の 一[ひと]つ	one of the ～	L37
 金色	金[きん] 色[いろ]	golden colour	L37
 本物	本[ほん] 物[もの]	real thing	L37
-キロ	キロ	kilogrammes, kilometres	L37 L40U
+キロ	キロ	kilograms, kilometers	L37 L40U
 美しい	美[うつく]しい	beautiful, pretty	L37
 豪華（な）	豪[ごう] 華[か]（な）	gorgeous	L37
 彫刻	彫[ちょう] 刻[こく]	engraving, carving, sculpture	L37
@@ -2194,7 +2194,7 @@
 硬い	硬[かた]い	hard, tough, solid	L39
 軟らかい	軟[やわ]らかい	soft, tender	L39
 汚い	汚[きたな]い	dirty	L39
-恥ずかしい	恥[は]ずかしい	embarassed, ashamed	L39
+恥ずかしい	恥[は]ずかしい	embarrassed, ashamed	L39
 雷	雷[かみなり]	thunder	L39
 火事	火[か] 事[じ]	fire	L39
 ハイキング	ハイキング	hiking	L39
@@ -2213,7 +2213,7 @@
 打つかります	打[ぶ]つかります	bump, collide	L39
 大人	大人[おとな]	adult	L39
 洋服	洋[よう] 服[ふく]	Western clothes	L39
-西洋化します	西[せい] 洋[よう] 化[か]します	be Westernised	L39
+西洋化します	西[せい] 洋[よう] 化[か]します	be Westernized	L39
 合います	合[あ]います	fit, suit	L39
 今では	今[いま]では	now	L39
 成人式	成[せい] 人[じん] 式[しき]	coming-of-age ceremony​	L39
@@ -2254,8 +2254,8 @@
 [ー]便	[ー] 便[びん]	flight, flight number	L40
 ー本	ー 本[ほん]（ーぽん、ーぼん）	counter for long objects	L40
 ー杯	ー 杯[はい]（ーぱい、－ばい）	ー glass or cup of (counter for full cups, glasses, etc.)	L40
-ーセンチ	ーセンチ	ー centimetres	L40
-ーミリ	ーミリ	ー milimetres	L40
+ーセンチ	ーセンチ	ー centimeters	L40
+ーミリ	ーミリ	ー millimeters	L40
 ～以上	～ 以[い] 上[じょう]	not less than ～, over ～	L40
 ～以下	～ 以[い] 下[か]	not more than ～, under ～	L40
 長崎	長[なが] 崎[さき]	Nagasaki (city)​	L40
@@ -2278,21 +2278,21 @@
 単位	単[たん] 位[い]	unit	L40U
 模様	模[も] 様[よう]	pattern	L40U
 面積	面[めん] 積[せき]	area	L40U
-平方センチメートル	平[へい] 方[ほう]センチメートル	square centimetre (cm<sup>2</sup>)	L40U
+平方センチメートル	平[へい] 方[ほう]センチメートル	square centimeter (cm<sup>2</sup>)	L40U
 平方メートル	平[へい] 方[ほう]メートル	square metre (m<sup>2</sup>)	L40U
-平方キロメートル	平[へい] 方[ほう]キロメートル	square kilometre (km<sup>2</sup>)	L40U
-ミリ	ミリ	millimetre (mm)	L40U
-センチ	センチ	centimetre (cm)	L40U
+平方キロメートル	平[へい] 方[ほう]キロメートル	square kilometer (km<sup>2</sup>)	L40U
+ミリ	ミリ	millimeter (mm)	L40U
+センチ	センチ	centimeter (cm)	L40U
 メートル	メートル	metre (m)	L40U
-キロ（km）	キロ（km）	kilometre	L40U
+キロ（km）	キロ（km）	kilometer	L40U
 体積	体[たい] 積[せき]	volume	L40U
 容積	容[よう] 積[せき]	capacity	L40U
-立方センチメートル	立[りっ] 方[ぽう]センチメートル	cubic centimetre (cm<sup>3</sup>)	L40U
+立方センチメートル	立[りっ] 方[ぽう]センチメートル	cubic centimeter (cm<sup>3</sup>)	L40U
 立方メートル	立[りっ] 方[ぽう]メートル	cubic metre (m<sup>3</sup>)	L40U
-ミリリットル	ミリリットル	millilitre (ml)	L40U
+ミリリットル	ミリリットル	milliliter (ml)	L40U
 シーシー	シーシー	cc	L40U
 リットル	リットル	litre (ℓ)	L40U
-ミリグラム	ミリグラム	milligramme (mg)	L40U
+ミリグラム	ミリグラム	milligram (mg)	L40U
 グラム	グラム	gramme (g)	L40U
 トン	トン	tonne (t)	L40U
 計算	計[けい] 算[さん]	calculation	L40U
@@ -2320,7 +2320,7 @@
 興味	興[きょう] 味[み]	interest	L41
 コンピューターに興味があります	コンピューターに 興[きょう] 味[み]があります	be interested in computers	L41
 文法	文[ぶん] 法[ぽう]	grammar	L41
-発音	発[はつ] 音[おん]	pronounciation	L41
+発音	発[はつ] 音[おん]	pronunciation	L41
 猿	猿[さる]	ape, monkey	L41
 えさ	えさ	feed, bait	L41
 絵本	絵[え] 本[ほん]	picture book	L41
@@ -2454,7 +2454,7 @@
 ばら	ばら	rose	L43
 ドライブ	ドライブ	driving	L43
 理由	理[り] 由[ゆう]	reason	L43 L47
-謝ります	謝[あやま]ります	apologise	L43
+謝ります	謝[あやま]ります	apologize	L43
 知り合います	知[し]り 合[あ]います	get acquainted	L43 L47
 性質	性[せい] 質[しつ]	nature, property, disposition​ (characteristics)	L43U
 厳しい	厳[きび]しい	strict, severe, hard	L43U L47
@@ -2545,7 +2545,7 @@
 無理に	無[む]理[り]に	unreasonably	L45
 楽しみにしています	楽[たの]しみにしています	be looking forward, expecting	L45
 以上です。	以[い] 上[じょう]です。	That's all.	L45
-係員	係[かかり] 員[いん]	person in charge, organiser	L45
+係員	係[かかり] 員[いん]	person in charge, organizer	L45
 コース	コース	course, route	L45
 スタート	スタート	start	L45
 ー位	ー 位[い]	-th (ranking)	L45
@@ -2559,12 +2559,12 @@
 それでも	それでも	nevertheless, for all that	L45
 整形外科	整[せい] 形[けい] 外[げ] 科[か]	orthopaedic (bone treatment) surgery	L45U
 皮膚科	皮[ひ] 膚[ふ] 科[か]	dermatology (skin)	L45U
-産婦人科	産[さん] 婦[ふ] 人[じん] 科[か]	obstetrics (pregnancy) and gynaecology (treatment of women's diseases)	L45U
+産婦人科	産[さん] 婦[ふ] 人[じん] 科[か]	obstetrics (pregnancy) and gynecology (treatment of women's diseases)	L45U
 内科	内[ない] 科[か]	internal medicine	L45U
 待合室	待[まち] 合[あい] 室[しつ]	waiting room	L45U
 外科	外[げ] 科[か]	surgery	L45U
-眼科	眼[がん] 科[か]	ophtalmology (eye treatment)	L45U
-小児科	小[しょう] 児[に] 科[か]	paediatrics (medical care for infants, children and young people)	L45U
+眼科	眼[がん] 科[か]	ophthalmology (eye treatment)	L45U
+小児科	小[しょう] 児[に] 科[か]	pediatrics (medical care for infants, children and young people)	L45U
 歯科	歯[し] 科[か]	dentistry	L45U
 泌尿器科	泌[ひ] 尿[にょう] 器[き] 科[か]	urology	L45U
 会計	会[かい] 計[けい]	account, treasurer	L45U

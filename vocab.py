@@ -42,10 +42,6 @@ def save_processed_word_count(new_count: int) -> None:
 
 
 def generate_new_vocab_list(mp3_count: int) -> List[str]:
-    ##
-    if new_vocab_lists_dir.exists():
-        shutil.rmtree(new_vocab_lists_dir)
-    ##
     if not new_vocab_lists_dir.exists():
         new_vocab_lists_dir.mkdir()
     new_vocab_list_file = new_vocab_lists_dir / (lesson + "単語.txt")
@@ -53,16 +49,21 @@ def generate_new_vocab_list(mp3_count: int) -> List[str]:
         new_mp3_name_collection = []
         processed_word_count = read_processed_word_count()
         for note in itertools.islice(in_f, processed_word_count, None):
-            field_collection = note.split()
+            field_collection = note.split("\t")
             expression_collection = extract_expressions(field_collection[0])
             for expression in expression_collection:
-                print(expression)
                 if mp3_count == 0:
                     raise Exception()
                 mp3_count -= 1
                 new_mp3_name_collection.append(expression + ".mp3")
-            audio_field = "".join(map(lambda x: f"[sound:{x}]", expression_collection))
-            new_note = "\t".join((note.rstrip(), audio_field))
+            index_field = str(processed_word_count + 1)
+            audio_field = "".join(
+                map(lambda x: f"[sound:{x}.mp3]", expression_collection)
+            )
+            tag_field = field_collection.pop()
+            new_note = "\t".join(
+                [index_field] + field_collection + [audio_field, tag_field]
+            )
             out_f.write(new_note + "\n")
             processed_word_count += 1
             if mp3_count == 0:
@@ -74,6 +75,10 @@ def generate_new_vocab_list(mp3_count: int) -> List[str]:
 def rename_mp3_collection(
     mp3_collection: Tuple[pathlib.Path, ...], new_mp3_name_collection: List[str]
 ) -> None:
+    ## TODO
+    if pronunciation_dir.exists():
+        shutil.rmtree(pronunciation_dir)
+    ## TODO
     if not pronunciation_dir.exists():
         pronunciation_dir.mkdir()
     for mp3_path, new_mp3_name in zip(mp3_collection, new_mp3_name_collection):

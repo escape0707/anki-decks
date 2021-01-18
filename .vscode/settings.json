@@ -10,5 +10,33 @@
     ".mypy_cache": true
   },
   "python.sortImports.path": "venv/Scripts/isort.exe",
-  "python.linting.mypyEnabled": false
+  "python.linting.mypyEnabled": false,
+  "cSpell.words": [
+    "Akira",
+    "Chiangmai",
+    "Chugoku",
+    "Franken",
+    "Gion",
+    "Izumo",
+    "Kanda",
+    "Kanto",
+    "Kinkaku",
+    "Kinki",
+    "Kita",
+    "Koshien",
+    "Matsue",
+    "Matsuri",
+    "Naha",
+    "Nipponbashi",
+    "Rokuon",
+    "Tanabata",
+    "Tenjin",
+    "Tohoku",
+    "Toshogu",
+    "bunraku",
+    "else's",
+    "pachinko",
+    "shogi",
+    "tabi"
+  ]
 }
