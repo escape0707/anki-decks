@@ -1,0 +1,13 @@
+{
+  "python.analysis.typeCheckingMode": "basic",
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "venv": true,
+    ".mypy_cache": true
+  },
+  "python.sortImports.path": "venv/Scripts/isort.exe"
+}
