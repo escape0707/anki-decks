@@ -35,7 +35,7 @@
 ドイツ	ドイツ	Germany	L01U
 日本	日本[にほん]	Japan	L01U
 ブラジル	ブラジル	Brazil	L01U
-イタリア	イタリア	Italy	L01U
+イタリア	イタリア	Italy	L01U L03
 イラン	イラン	Iran	L01U
 エジプト	エジプト	Egypt	L01U
 オーストラリア	オーストラリア	Australia	L01U L11
@@ -43,7 +43,7 @@
 サウジアラビア	サウジアラビア	Saudi Arabia	L01U L37
 シンガポール	シンガポール	Singapore	L01U L12
 スペイン	スペイン	Spain	L01U L07
-フランス	フランス	France	L01U
+フランス	フランス	France	L01U L03
 フィリピン	フィリピン	Philippines	L01U
 ベトナム	ベトナム	Vietnam	L01U
 マレーシア	マレーシア	Malaysia	L01U

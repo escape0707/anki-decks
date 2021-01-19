@@ -35,7 +35,7 @@
 35	ドイツ	ドイツ	Germany	[sound:MNN_ドイツ.mp3]	L01U
 36	日本	日本[にほん]	Japan	[sound:MNN_日本.mp3]	L01U
 37	ブラジル	ブラジル	Brazil	[sound:MNN_ブラジル.mp3]	L01U
-38	イタリア	イタリア	Italy	[sound:MNN_イタリア.mp3]	L01U
+38	イタリア	イタリア	Italy	[sound:MNN_イタリア.mp3]	L01U L03
 39	イラン	イラン	Iran	[sound:MNN_イラン.mp3]	L01U
 40	エジプト	エジプト	Egypt	[sound:MNN_エジプト.mp3]	L01U
 41	オーストラリア	オーストラリア	Australia	[sound:MNN_オーストラリア.mp3]	L01U L11
@@ -43,7 +43,7 @@
 43	サウジアラビア	サウジアラビア	Saudi Arabia	[sound:MNN_サウジアラビア.mp3]	L01U L37
 44	シンガポール	シンガポール	Singapore	[sound:MNN_シンガポール.mp3]	L01U L12
 45	スペイン	スペイン	Spain	[sound:MNN_スペイン.mp3]	L01U L07
-46	フランス	フランス	France	[sound:MNN_フランス.mp3]	L01U
+46	フランス	フランス	France	[sound:MNN_フランス.mp3]	L01U L03
 47	フィリピン	フィリピン	Philippines	[sound:MNN_フィリピン.mp3]	L01U
 48	ベトナム	ベトナム	Vietnam	[sound:MNN_ベトナム.mp3]	L01U
 49	マレーシア	マレーシア	Malaysia	[sound:MNN_マレーシア.mp3]	L01U

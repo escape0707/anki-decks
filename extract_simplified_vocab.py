@@ -4,7 +4,7 @@ from typing import Iterator, List, Tuple
 from common import new_vocab_list_file, simplified_vocab_lists_dir
 from utils import extract_expressions
 
-revised_lesson_count = 2
+revised_lesson_count = 3
 
 
 def extract_lesson(tag_field: str) -> Tuple[Iterator[int], Iterator[int]]:
