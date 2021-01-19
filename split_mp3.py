@@ -25,6 +25,8 @@ def split_and_save(input_file: Path, output_dir: Path) -> None:
 
 
 def split_mp3() -> None:
+    # if chunks_dir.exists():
+    #     shutil.rmtree(chunks_dir)
     if not chunks_dir.exists():
         chunks_dir.mkdir()
     for lesson, input_file in enumerate(input_dir.iterdir(), 1):
