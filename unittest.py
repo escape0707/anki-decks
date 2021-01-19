@@ -1,4 +1,4 @@
-from vocab import extract_expressions
+from create_new_vocab import extract_expressions
 
 
 if __name__ == "__main__":

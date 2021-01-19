@@ -59,10 +59,10 @@ def generate_new_vocab_list() -> List[str]:
                 break
             expression_collection = extract_expressions(field_collection[0])
             for expression in expression_collection:
-                new_mp3_name_collection.append(expression + ".mp3")
+                new_mp3_name_collection.append("MNN_" + expression + ".mp3")
             index_field = str(processed_word_count + 1)
             audio_field = "".join(
-                map(lambda x: f"[sound:{x}.mp3]", expression_collection)
+                map(lambda x: f"[sound:MNN_{x}.mp3]", expression_collection)
             )
             new_note = "\t".join(
                 [index_field] + field_collection + [audio_field, tag_field]
@@ -76,10 +76,8 @@ def generate_new_vocab_list() -> List[str]:
 def rename_mp3_collection(
     mp3_collection: Tuple[pathlib.Path, ...], new_mp3_name_collection: List[str]
 ) -> None:
-    ## TODO
     if pronunciation_dir.exists():
         shutil.rmtree(pronunciation_dir)
-    ## TODO
     if not pronunciation_dir.exists():
         pronunciation_dir.mkdir()
     for mp3_path, new_mp3_name in zip(mp3_collection, new_mp3_name_collection):
@@ -87,7 +85,11 @@ def rename_mp3_collection(
         mp3_path.link_to(new_mp3_path)  # order is correct, change to rename later
 
 
-if __name__ == "__main__":
+def create_new_vocab() -> None:
     mp3_collection = tuple(chunks_dir.iterdir())
-    new_mp3_name_collection_collection = generate_new_vocab_list(len(mp3_collection))
+    new_mp3_name_collection_collection = generate_new_vocab_list()
     rename_mp3_collection(mp3_collection, new_mp3_name_collection_collection)
+
+
+if __name__ == "__main__":
+    create_new_vocab()

@@ -34,9 +34,13 @@
     "Tohoku",
     "Toshogu",
     "bunraku",
+    "daiikka",
+    "dango",
     "else's",
     "pachinko",
+    "pydub",
     "shogi",
-    "tabi"
+    "tabi",
+    "zfill"
   ]
 }

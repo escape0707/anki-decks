@@ -24,7 +24,11 @@ def split_and_save(input_file: Path, output_dir: Path) -> None:
         chunk.export(output_dir / (str(i).zfill(4) + ".mp3"))
 
 
-if __name__ == "__main__":
+def split_mp3() -> None:
     shutil.rmtree(chunks_dir)
     chunks_dir.mkdir()
     split_and_save(input_file, chunks_dir)
+
+
+if __name__ == "__main__":
+    split_mp3()
