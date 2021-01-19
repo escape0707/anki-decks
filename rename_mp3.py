@@ -2,7 +2,7 @@ import shutil
 
 from common import chunks_dir, pronunciation_dir, simplified_vocab_lists_dir
 
-lesson = "01"
+lesson = "02"
 
 
 def rename_mp3() -> None:
@@ -13,7 +13,8 @@ def rename_mp3() -> None:
         lesson_mp3_dir.mkdir()
     simplified_vocab_list = simplified_vocab_lists_dir / (lesson + ".txt")
     with open(simplified_vocab_list) as f:
-        for mp3_path, expression in zip(chunks_dir.iterdir(), f):
+        lesson_chunks_dir = chunks_dir / lesson
+        for mp3_path, expression in zip(lesson_chunks_dir.iterdir(), f):
             if expression == "\n":
                 # manually add empty lines in simp.txt to skip the corresponding mp3
                 # use against "lenshuu C" & "kaiwa", etc
