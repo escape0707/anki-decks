@@ -10,17 +10,18 @@ def extract_lesson(tag_field: str) -> int:
     for tag in tag_collection:
         if len(tag) == 3:  # should use regex
             lesson = int(tag[1:])
-    assert lesson != -1
     return lesson
 
 
 def simplify_vocab() -> List[List[str]]:
-    simplified_collection = [[] for i in range(50)]
+    simplified_collection = [[] for i in range(51)]
     with open(new_vocab_list_file) as in_f:
         for note in in_f:
             field_collection = note.split("\t")
             expression_collection = extract_expressions(field_collection[1])
             lesson = extract_lesson(field_collection[-1])
+            if lesson == -1:
+                continue
             simplified_collection[lesson - 1].extend(expression_collection)
     return simplified_collection
 
