@@ -47,7 +47,7 @@
 フィリピン	フィリピン	Philippines	L01U
 ベトナム	ベトナム	Vietnam	L01U
 マレーシア	マレーシア	Malaysia	L01U
-メキシコ	メキシコ	Mexico	L01U
+メキシコ	メキシコ	Mexico	L01U L06
 ロシア	ロシア	Russia	L01U L37
 ペルシア語	ペルシア 語[ご]	Persian language	L01U
 ポルトガル語	ポルトガル 語[ご]	Portuguese language	L01U
@@ -83,7 +83,7 @@
 「お」土産	「お」 土産[みやげ]	souvenir, present	L02
 英語	英[えい] 語[ご]	English language	L01U L02
 日本語	日本[にほん] 語[ご]	Japanese language	L01U L02
-何	何[なん]	what	L02 L06
+何（何）	何[なん]（ 何[なに]）	what	L02 L06
 そう	そう	so	L02
 あのう	あのう	Err… (used to show hesitation)	L02
 えっ	えっ	Oh? What! (hearing something unexpected)	L02
@@ -306,11 +306,11 @@
 見ます	見[み]ます	see, look at, watch	L06
 聞きます	聞[き]きます	hear, listen	L06
 読みます	読[よ]みます	read	L06
-書きます	書[か]きます	write	L06
+書きます	書[か]きます	write （「かきます」 could also mean "draw". In this book, when this verb is used to mean "draw", it will be written in Hiragana「かきます」.）	L06
 買います	買[か]います	buy	L06
-写真を撮ります	写[しゃ] 真[しん]を 撮[と]ります	take a photograph	L06
+撮ります	「 写[しゃ] 真[しん]を」 撮[と]ります	take [a photograph]	L06
 します	します	do, play	L06
-友達に会います	友[とも] 達[だち]に 会[あ]います	meet a friend	L06
+会います	「友[とも] 達[だち]に」 会[あ]います	meet [a friend]	L06
 ごはん	ごはん	a meal, cooked rice	L06
 朝ごはん	朝[あさ]ごはん	breakfast	L06
 昼ごはん	昼[ひる]ごはん	lunch	L06
@@ -324,7 +324,7 @@
 水	水[みず]	water	L06
 お茶	お 茶[ちゃ]	tea, green tea	L06 L19U
 紅茶	紅[こう] 茶[ちゃ]	black tea	L06 L11U
-牛乳／ミルク	牛[ぎゅう] 乳[にゅう]／ミルク	milk	L06
+牛乳（ミルク）	牛[ぎゅう] 乳[にゅう]（ミルク）	milk	L06
 ジュース	ジュース	juice	L06 L11U
 ビール	ビール	beer	L06 L46U
 お酒	お 酒[さけ]	alcohol, Japanese rice wine	L06
@@ -335,15 +335,16 @@
 ビデオ	ビデオ	video tape, video deck	L06
 店	店[みせ]	shop, store	L06
 庭	庭[にわ]	garden	L06
-宿題をします	宿[しゅく] 題[だい]をします	do a homework	L06
-テニスをします	テニスをします	play tennis	L06 L09U
-サッカーをします	サッカーをします	play soccer, football	L06 L09U
-[お]花見をします	[お] 花[はな] 見[み]をします	view the cherry blossom	L06
+宿題	宿[しゅく] 題[だい]	homework （～をします：do a homework）	L06
+テニス	テニス	tennis （～をします：play tennis）	L06 L09U
+サッカー	サッカー	soccer, football （～をします：play soccer, football）	L06 L09U
+「お」花見	「お」 花[はな] 見[み]	viewing the cherry blossom （～をします：view the cherry blossom）	L06
 一緒に	一[いっ] 緒[しょ]に	together	L06
 一寸	一寸[ちょっと]	a little while, a little bit	L06
 いつも	いつも	always, usually	L06
 時々	時[とき] 々[どき]	sometimes	L06
 それから	それから	after that, and then	L06 L17
+ええ	ええ	yes, that is correct, right​	L06
 いいですね。	いいですね。	That's good.	L06
 分かりました。	分[わ]かりました。	I understood.	L06
 何ですか。	何[なん]ですか。	Yes? (lit: What is it?)	L06
@@ -1063,7 +1064,6 @@
 体がだるい	体[からだ]がだるい	feel weary	L17U
 かゆい	かゆい	itchy	L17U
 建国記念の日	建[けん] 国[こく] 記[き] 念[ねん]の 日[ひ]	National Foundation Day (２月１１日)	L05U
-ええ	ええ	yes, that is correct, right​	L06
 居間	居[い] 間[ま]	living room	L10U
 エンジニア	エンジニア	engineer	L15U
 お預け入れ	お 預[あず]け 入[い]れ	deposit	L16U
