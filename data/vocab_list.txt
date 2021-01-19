@@ -192,7 +192,7 @@
 休み	休[やす]み	rest, holiday, a day off	L04
 昼休み	昼[ひる] 休[やす]み	lunchtime	L04
 試験	試[し] 験[けん]	examination, test	L04
-会議	会[かい] 議[ぎ]	meeting, conference（～をします：hold a meeting, conference）	L04
+会議「をします」	会[かい] 議[ぎ]「をします」	[hold a] meeting, conference	L04
 映画	映[えい] 画[が]	film, movie	L04
 毎朝	毎[まい] 朝[あさ]	every morning	L04
 毎晩	毎[まい] 晩[ばん]	every night	L04
@@ -335,10 +335,10 @@
 ビデオ	ビデオ	video tape, video deck	L06
 店	店[みせ]	shop, store	L06
 庭	庭[にわ]	garden	L06
-宿題	宿[しゅく] 題[だい]	homework （～をします：do a homework）	L06
-テニス	テニス	tennis （～をします：play tennis）	L06 L09U
-サッカー	サッカー	soccer, football （～をします：play soccer, football）	L06 L09U
-「お」花見	「お」 花[はな] 見[み]	viewing the cherry blossom （～をします：view the cherry blossom）	L06
+宿題「をします」	宿[しゅく] 題[だい]「をします」	[do a] homework	L06
+テニス「をします」	テニス「をします」	[play] tennis	L06 L09U
+サッカー「をします」	サッカー「をします」	[play] soccer, football）	L06 L09U
+「お」花見「をします」	「お」 花[はな] 見[み]「をします」	view the cherry blossom	L06
 一緒に	一[いっ] 緒[しょ]に	together	L06
 一寸	一寸[ちょっと]	a little while, a little bit	L06
 いつも	いつも	always, usually	L06
@@ -465,6 +465,7 @@
 小さい	小[ちい]さい	small, little	L08
 新しい	新[あたら]しい	new, fresh	L08
 古い	古[ふる]い	old (not person)	L08
+良い（良い）	良[い]い（ 良[よ]い）	good, fine, okay, nice	L08
 悪い	悪[わる]い	bad	L08
 暑い	暑[あつ]い	hot (weather, etc.), warm	L08
 熱い	熱[あつ]い	hot (thing)	L08
@@ -489,7 +490,7 @@
 所	所[ところ]	place	L08
 寮	寮[りょう]	dormitory	L08
 生活	生[せい] 活[かつ]	life	L08 L36U
-お仕事をします	お 仕[し] 事[ごと]をします	do one's work, job, business	L08
+お仕事「をします」	お 仕[し] 事[ごと]「をします」	[do one's] work, job, business	L08
 どう	どう	how	L08
 どんな〜	どんな〜	what kind of 〜	L08
 とても	とても	very	L08
