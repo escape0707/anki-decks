@@ -1,7 +1,7 @@
 from pathlib import Path
 
 data_dir = Path("./data")
-revised_lesson_count = 7
+revised_lesson_count = 8
 
 chunks_dir = data_dir / "chunks"
 input_dir = data_dir / "input"
