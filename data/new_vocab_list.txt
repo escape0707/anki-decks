@@ -115,7 +115,7 @@
 115	エスカレーター	エスカレーター	escalator	[sound:MNN_エスカレーター.mp3]	L03
 116	自動販売機	自[じ] 動[どう] 販[はん] 売[ばい] 機[き]	vending machine	[sound:MNN_自動販売機.mp3]	L03
 117	電話	電[でん] 話[わ]	telephone	[sound:MNN_電話.mp3]	L03
-118	お国	お 国[くに]	country	[sound:MNN_お国.mp3]	L03
+118	「お」国	「お」 国[くに]	country	[sound:MNN_「お」国.mp3]	L03
 119	会社	会[かい] 社[しゃ]	company	[sound:MNN_会社.mp3]	L03
 120	家、家	家[いえ]、 家[うち]	house, home	[sound:MNN_家、家.mp3]	L03 L27
 121	靴	靴[くつ]	shoes	[sound:MNN_靴.mp3]	L03
@@ -123,7 +123,7 @@
 123	ワイン	ワイン	wine	[sound:MNN_ワイン.mp3]	L03
 124	売り場	売[う]り 場[ば]	department, counter (in a department store, etc.)	[sound:MNN_売り場.mp3]	L03
 125	地下	地[ち] 下[か]	basement	[sound:MNN_地下.mp3]	L03
-126	ー階、階	ー 階[かい]、 階[がい]	-th floor	[sound:MNN_ー階、階.mp3]	L03
+126	ー階（ー階）	ー 階[かい]（ー 階[がい]）	-th floor	[sound:MNN_ー階_1.mp3][sound:MNN_ー階_2.mp3]	L03
 127	何階	何[なん] 階[がい]	what floor	[sound:MNN_何階.mp3]	L03
 128	ー円	ー 円[えん]	- yen	[sound:MNN_ー円.mp3]	L03
 129	幾ら	幾[いく]ら	how much	[sound:MNN_幾ら.mp3]	L03

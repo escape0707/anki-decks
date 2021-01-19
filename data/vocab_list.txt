@@ -115,7 +115,7 @@
 エスカレーター	エスカレーター	escalator	L03
 自動販売機	自[じ] 動[どう] 販[はん] 売[ばい] 機[き]	vending machine	L03
 電話	電[でん] 話[わ]	telephone	L03
-お国	お 国[くに]	country	L03
+「お」国	「お」 国[くに]	country	L03
 会社	会[かい] 社[しゃ]	company	L03
 家、家	家[いえ]、 家[うち]	house, home	L03 L27
 靴	靴[くつ]	shoes	L03
@@ -123,7 +123,7 @@
 ワイン	ワイン	wine	L03
 売り場	売[う]り 場[ば]	department, counter (in a department store, etc.)	L03
 地下	地[ち] 下[か]	basement	L03
-ー階、階	ー 階[かい]、 階[がい]	-th floor	L03
+ー階（ー階）	ー 階[かい]（ー 階[がい]）	-th floor	L03
 何階	何[なん] 階[がい]	what floor	L03
 ー円	ー 円[えん]	- yen	L03
 幾ら	幾[いく]ら	how much	L03

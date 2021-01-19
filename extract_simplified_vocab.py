@@ -1,4 +1,5 @@
 import re
+import shutil
 from typing import Iterator, List, Tuple
 
 from common import new_vocab_list_file, simplified_vocab_lists_dir
@@ -19,7 +20,9 @@ def simplify_vocab() -> Tuple[List[List[str]], List[List[str]]]:
         for note in in_f:
             field_collection = note.split("\t")
             expression_collection = extract_expressions(field_collection[1])
-            lesson_collection, lesson_u_collection = extract_lesson(field_collection[-1])
+            lesson_collection, lesson_u_collection = extract_lesson(
+                field_collection[-1]
+            )
             for lesson in lesson_collection:
                 simplified_collection[lesson - 1].extend(expression_collection)
             for lesson_u in lesson_u_collection:
@@ -27,7 +30,11 @@ def simplify_vocab() -> Tuple[List[List[str]], List[List[str]]]:
     return simplified_collection, extra_collection
 
 
-def save_simplified_vocab(simplified_collection: List[List[str]], extra_collection: List[List[str]]) -> None:
+def save_simplified_vocab(
+    simplified_collection: List[List[str]], extra_collection: List[List[str]]
+) -> None:
+    if simplified_vocab_lists_dir.exists():
+        shutil.rmtree(simplified_vocab_lists_dir)
     if not simplified_vocab_lists_dir.exists():
         simplified_vocab_lists_dir.mkdir()
     for lesson, simplified in enumerate(simplified_collection, 1):
