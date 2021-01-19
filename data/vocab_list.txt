@@ -80,7 +80,7 @@
 椅子	椅[い] 子[す]	chair	L02
 チョコレート	チョコレート	chocolate	L02
 コーヒー	コーヒー	coffee	L02 L11 L46U
-お土産	お 土産[みやげ]	souvenir, present	L02
+「お」土産	「お」 土産[みやげ]	souvenir, present	L02
 英語	英[えい] 語[ご]	English language	L01U L02
 日本語	日本[にほん] 語[ご]	Japanese language	L01U L02
 何	何[なん]	what	L02 L06
@@ -93,7 +93,7 @@
 違います。	違[ちが]います。	No, it isn't./You are wrong.	L02
 あっ	あっ	Oh! (used when become aware of something)	L02
 これからお世話になります。	これからお 世[せ] 話[わ]になります。	Thank you in advance for your kindness.	L02 L41U
-こちらこそどうぞよろしくお願いします。	こちらこそどうぞよろしくお 願[ねが]いします。	Pleased to meet you, too.	L02
+こちらこそ「どうぞ」よろしく「お願いします」。	こちらこそ「どうぞ」よろしく「お 願[ねが]いします」。	Pleased to meet you, too.	L02
 ここ	ここ	here, this place	L03
 そこ	そこ	there, that place near the listener	L03
 あそこ	あそこ	that place over there	L03

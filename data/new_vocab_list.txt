@@ -80,7 +80,7 @@
 80	椅子	椅[い] 子[す]	chair	[sound:MNN_椅子.mp3]	L02
 81	チョコレート	チョコレート	chocolate	[sound:MNN_チョコレート.mp3]	L02
 82	コーヒー	コーヒー	coffee	[sound:MNN_コーヒー.mp3]	L02 L11 L46U
-83	お土産	お 土産[みやげ]	souvenir, present	[sound:MNN_お土産.mp3]	L02
+83	「お」土産	「お」 土産[みやげ]	souvenir, present	[sound:MNN_「お」土産.mp3]	L02
 84	英語	英[えい] 語[ご]	English language	[sound:MNN_英語.mp3]	L01U L02
 85	日本語	日本[にほん] 語[ご]	Japanese language	[sound:MNN_日本語.mp3]	L01U L02
 86	何	何[なん]	what	[sound:MNN_何.mp3]	L02 L06
@@ -93,7 +93,7 @@
 93	違います。	違[ちが]います。	No, it isn't./You are wrong.	[sound:MNN_違います。.mp3]	L02
 94	あっ	あっ	Oh! (used when become aware of something)	[sound:MNN_あっ.mp3]	L02
 95	これからお世話になります。	これからお 世[せ] 話[わ]になります。	Thank you in advance for your kindness.	[sound:MNN_これからお世話になります。.mp3]	L02 L41U
-96	こちらこそどうぞよろしくお願いします。	こちらこそどうぞよろしくお 願[ねが]いします。	Pleased to meet you, too.	[sound:MNN_こちらこそどうぞよろしくお願いします。.mp3]	L02
+96	こちらこそ「どうぞ」よろしく「お願いします」。	こちらこそ「どうぞ」よろしく「お 願[ねが]いします」。	Pleased to meet you, too.	[sound:MNN_こちらこそ「どうぞ」よろしく「お願いします」。.mp3]	L02
 97	ここ	ここ	here, this place	[sound:MNN_ここ.mp3]	L03
 98	そこ	そこ	there, that place near the listener	[sound:MNN_そこ.mp3]	L03
 99	あそこ	あそこ	that place over there	[sound:MNN_あそこ.mp3]	L03
