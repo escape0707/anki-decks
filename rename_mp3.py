@@ -13,6 +13,10 @@ def rename_mp3() -> None:
     simplified_vocab_list = simplified_vocab_lists_dir / (lesson + ".txt")
     with open(simplified_vocab_list) as f:
         for mp3_path, expression in zip(chunks_dir.iterdir(), f):
+            if expression == "\n":
+                # manually add empty lines in simp.txt to skip the corresponding mp3
+                # use against "lenshuu C" & "kaiwa", etc
+                continue
             new_mp3_name = "MNN_" + expression.rstrip("\n") + ".mp3"
             new_mp3_path = pronunciation_dir / new_mp3_name
             mp3_path.link_to(new_mp3_path)
