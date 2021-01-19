@@ -173,7 +173,7 @@
 美術館	美[び] 術[じゅつ] 館[かん]	art museum, art gallery	L04 L13U
 今	今[いま]	now	L04
 ー時	ー 時[じ]	ー o' clock	L04
-ー分	ー 分[ぶん]（ぷん）	ー minute	L04
+ー分（ー分）	ー 分[ぶん]（ー 分[ぷん]）	ー minute	L04
 半	半[はん]	half	L04
 何時	何[なん] 時[じ]	what time	L04
 何分	何[なん] 分[ぷん]	what minute	L04
@@ -182,8 +182,8 @@
 朝	朝[あさ]	morning	L04
 昼	昼[ひる]	daytime, noon	L04
 晩（夜）	晩[ばん]（ 夜[よる]）	night, evening	L04
-一昨日	一昨日[おととい]	the day before yesterday	L04
-昨日	昨日[きのう]	yesterday	L04
+一昨日（一昨日）	一昨日[おととい]（一昨日[おととい]）	the day before yesterday	L04
+昨日（昨日）	昨日[きのう]（昨日[きのう]）	yesterday	L04
 今日	今日[きょう]	today	L04
 明日	明日[あした]	tomorrow	L04
 明後日	明後日[あさって]	the day after tomorrow	L04
@@ -192,7 +192,7 @@
 休み	休[やす]み	rest, holiday, a day off	L04
 昼休み	昼[ひる] 休[やす]み	lunchtime	L04
 試験	試[し] 験[けん]	examination, test	L04
-会議をします	会[かい] 議[ぎ]をします	hold a meeting, conference	L04
+会議	会[かい] 議[ぎ]	meeting, conference（～をします：hold a meeting, conference）	L04
 映画	映[えい] 画[が]	film, movie	L04
 毎朝	毎[まい] 朝[あさ]	every morning	L04
 毎晩	毎[まい] 晩[ばん]	every night	L04
@@ -201,6 +201,7 @@
 火曜日	火[か] 曜[よう] 日[び]	Tuesday	L04
 水曜日	水[すい] 曜[よう] 日[び]	Wednesday	L04
 木曜日	木[もく] 曜[よう] 日[び]	Thursday	L04
+金曜日	金[きん] 曜[よう] 日[び]	Friday	L04
 土曜日	土[ど] 曜[よう] 日[び]	Saturday	L04
 日曜日	日[にち] 曜[よう] 日[び]	Sunday	L04
 何曜日	何[なん] 曜[よう] 日[び]	what day of the week	L04
@@ -1057,7 +1058,6 @@
 肩が凝ります	肩[かた]が 凝[こ]ります	feel stiff in one's shoulders	L17U
 体がだるい	体[からだ]がだるい	feel weary	L17U
 かゆい	かゆい	itchy	L17U
-金曜日	金[きん] 曜[よう] 日[び]	Friday	L04
 タクシー	タクシー	taxi	L05
 自転車	自[じ] 転[てん] 車[しゃ]	bicycle	L05 L26U
 歩いて	歩[ある]いて	on foot	L05
