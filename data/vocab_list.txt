@@ -445,8 +445,8 @@
 姉	姉[あね]	(my) elder sister	L07U L11
 兄	兄[あに]	(my) elder brother	L07U L11
 兄弟	兄[きょう] 弟[だい]	(my) brothers and sisters	L07U L11
-妻	妻[つま]	(my) wife	L07U L09
-夫	夫[おっと]	(my) husband	L07U L09
+妻（家内）	妻[つま]（ 家[か] 内[ない]）	(my) wife	L07U L09
+夫（主人）	夫[おっと]（ 主[しゅ] 人[じん]）	(my) husband	L07U L09
 夫婦	夫[ふう] 婦[ふ]	husband and wife	L07U
 娘	娘[むすめ]	(my) daughter	L07U L28
 息子	息子[むすこ]	(my) son	L07U L28
@@ -533,11 +533,11 @@
 上手「な」	上[じょう] 手[ず]「な」	good at	L09
 下手「な」	下手[へた]「な」	poor at	L09
 飲み物	飲[の]み 物[もの]	drinks	L09
-料理をします	料[りょう] 理[り]をします	cooking food	L09
-スポーツをします	スポーツをします	play sports	L09
-野球をします	野[や] 球[きゅう]をします	play baseball	L09
+料理「をします」	料[りょう] 理[り]「をします」	[cooking] food	L09
+スポーツ「をします」	スポーツ「をします」	[play] sports	L09
+野球「をします」	野[や] 球[きゅう]「をします」	[play] baseball	L09
 ダンス	ダンス	dance	L09
-旅行をします	旅[りょ] 行[こう]をします	make a trip, tour	L09
+旅行「をします」	旅[りょ] 行[こう]「をします」	[make a] trip, tour	L09
 音楽	音[おん] 楽[がく]	music	L09 L31U
 歌	歌[うた]	song	L09
 クラシック	クラシック	classical (music)	L09
@@ -553,9 +553,10 @@
 ローマ字	ローマ 字[じ]	the Roman alphabet	L09
 細かいお金	細[こま]かいお 金[かね]	small change	L09
 チケット	チケット	ticket (flight, movie, concert)	L09 L27U
+時間	時[じ] 間[かん]	time	L09
 用事	用[よう] 事[じ]	something to do, errand	L09
-約束をします	約[やく] 束[そく]をします	appointment, promise	L09
-アルバイトをします	アルバイトをします	part-time job	L09 L46U
+約束「をします」	約[やく] 束[そく]「をします」	[make an] appointment, promise	L09
+アルバイト「をします」	アルバイト「をします」	[do] part-time job	L09 L46U
 ご主人	ご 主[しゅ] 人[じん]	(someone else's) husband	L07U L09
 奥さん	奥[おく]さん	(someone else's) wife	L07U L09
 よく	よく	well, much	L09
