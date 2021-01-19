@@ -1,7 +1,7 @@
 import shutil
 from itertools import islice
 from pathlib import Path
-from typing import Iterable, cast
+from typing import List, cast
 
 import pydub
 import pydub.silence
@@ -13,7 +13,7 @@ from common import chunks_dir, input_file
 def split_and_save(input_file: Path, output_dir: Path) -> None:
     soundtrack = pydub.AudioSegment.from_file(input_file)
     chuck_collection = cast(
-        Iterable[AudioSegment],
+        List[AudioSegment],
         pydub.silence.split_on_silence(
             soundtrack, min_silence_len=800, silence_thresh=-50
         ),
@@ -25,8 +25,10 @@ def split_and_save(input_file: Path, output_dir: Path) -> None:
 
 
 def split_mp3() -> None:
-    shutil.rmtree(chunks_dir)
-    chunks_dir.mkdir()
+    if chunks_dir.exists():
+        shutil.rmtree(chunks_dir)
+    if not chunks_dir.exists():
+        chunks_dir.mkdir()
     split_and_save(input_file, chunks_dir)
 
 
