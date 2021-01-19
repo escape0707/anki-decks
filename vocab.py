@@ -41,33 +41,34 @@ def save_processed_word_count(new_count: int) -> None:
     new_word_count_file.write_text(str(new_count))
 
 
-def generate_new_vocab_list(mp3_count: int) -> List[str]:
+def generate_new_vocab_list() -> List[str]:
     if not new_vocab_lists_dir.exists():
         new_vocab_lists_dir.mkdir()
     new_vocab_list_file = new_vocab_lists_dir / (lesson + "単語.txt")
     with open(vocab_list_file) as in_f, open(new_vocab_list_file, "w") as out_f:
         new_mp3_name_collection = []
         processed_word_count = read_processed_word_count()
+        lesson_tag = None
         for note in itertools.islice(in_f, processed_word_count, None):
             field_collection = note.split("\t")
+            tag_field = field_collection.pop()
+            curr_lesson_tag = tag_field.split()[0]
+            if lesson_tag is None:
+                lesson_tag = [curr_lesson_tag, curr_lesson_tag + "U"]
+            elif curr_lesson_tag not in lesson_tag:
+                break
             expression_collection = extract_expressions(field_collection[0])
             for expression in expression_collection:
-                if mp3_count == 0:
-                    raise Exception()
-                mp3_count -= 1
                 new_mp3_name_collection.append(expression + ".mp3")
             index_field = str(processed_word_count + 1)
             audio_field = "".join(
                 map(lambda x: f"[sound:{x}.mp3]", expression_collection)
             )
-            tag_field = field_collection.pop()
             new_note = "\t".join(
                 [index_field] + field_collection + [audio_field, tag_field]
             )
             out_f.write(new_note + "\n")
             processed_word_count += 1
-            if mp3_count == 0:
-                break
     save_processed_word_count(processed_word_count)
     return new_mp3_name_collection
 
