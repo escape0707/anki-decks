@@ -1,9 +1,10 @@
 import re
-import shutil
 from typing import Iterator, List, Tuple
 
 from common import new_vocab_list_file, simplified_vocab_lists_dir
 from utils import extract_expressions
+
+revised_lesson_count = 2
 
 
 def extract_lesson(tag_field: str) -> Tuple[Iterator[int], Iterator[int]]:
@@ -30,14 +31,15 @@ def simplify_vocab() -> Tuple[List[List[str]], List[List[str]]]:
     return simplified_collection, extra_collection
 
 
+# TODO: the ugliest code is here
 def save_simplified_vocab(
     simplified_collection: List[List[str]], extra_collection: List[List[str]]
 ) -> None:
-    if simplified_vocab_lists_dir.exists():
-        shutil.rmtree(simplified_vocab_lists_dir)
     if not simplified_vocab_lists_dir.exists():
         simplified_vocab_lists_dir.mkdir()
     for lesson, simplified in enumerate(simplified_collection, 1):
+        if lesson <= revised_lesson_count:
+            continue
         simplified_vocab_list_file = simplified_vocab_lists_dir / (
             str(lesson).zfill(2) + ".txt"
         )
