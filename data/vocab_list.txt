@@ -302,15 +302,15 @@
 ゴールデンウェーク	ゴールデンウェーク	Golden Week (４月２９日～５月５日)	L05U
 食べます	食[た]べます	eat	L06
 飲みます	飲[の]みます	drink	L06
-吸います	吸[す]います	smoke	L06
+「煙草を」吸います	「 煙草[たばこ]を」 吸[す]います	smoke [a cigarette]	L06
 見ます	見[み]ます	see, look at, watch	L06
 聞きます	聞[き]きます	hear, listen	L06
 読みます	読[よ]みます	read	L06
 書きます	書[か]きます	write （「かきます」 could also mean "draw". In this book, when this verb is used to mean "draw", it will be written in Hiragana「かきます」.）	L06
 買います	買[か]います	buy	L06
-撮ります	「 写[しゃ] 真[しん]を」 撮[と]ります	take [a photograph]	L06
+「写真を」撮ります	「 写[しゃ] 真[しん]を」 撮[と]ります	take [a photograph]	L06
 します	します	do, play	L06
-会います	「友[とも] 達[だち]に」 会[あ]います	meet [a friend]	L06
+「友達に」会います	「 友[とも] 達[だち]に」 会[あ]います	meet [a friend]	L06
 ごはん	ごはん	a meal, cooked rice	L06
 朝ごはん	朝[あさ]ごはん	breakfast	L06
 昼ごはん	昼[ひる]ごはん	lunch	L06
@@ -399,7 +399,7 @@
 借ります	借[か]ります	borrow	L07
 教えます	教[おし]えます	teach	L07
 習います	習[なら]います	learn	L07
-電話をかけます	電[でん] 話[わ]をかけます	make a telephone call	L07
+「電話を」かけます	「 電[でん] 話[わ]を」かけます	make a [telephone] call	L07
 手	手[て]	hand	L07 L17U
 箸	箸[はし]	chopsticks	L07
 スポーン	スポーン	spoon	L07
@@ -424,8 +424,8 @@
 クリスマス	クリスマス	Christmas	L07
 父	父[ちち]	(my) father	L07
 母	母[はは]	(my) mother	L07
-お父さん	お 父[とう]さん	(someone else's) father	L07
-お母さん	お 母[かあ]さん	(someone else's) mother	L07
+お父さん	お 父[とう]さん	(someone else's) father (could also be used to call your own father)	L07
+お母さん	お 母[かあ]さん	(someone else's) mother (could also be used to call your own mother)	L07
 もう	もう	already, (not) any longer (used with negatives)	L07 L33
 まだ	まだ	not yet, still	L07 L30
 これから	これから	from now on, soon	L07
@@ -433,8 +433,9 @@
 いらっしゃい。	いらっしゃい。	Welcome.	L07
 どうぞお上がりください。	どうぞお 上[あ]がりください。	Do come in.	L07
 失礼します。	失[しつ] 礼[れい]します。	May I?/I commit an incivility.	L07
+「～は」いかがですか。	「～は」いかがですか。	How is （～）(it)?	L07 L34
 いただきます。	いただきます。	eat, drink, receive (humble of たべます、のみます、もらいます)	L07 L41 L50
-ごちそうさまでした。	ごちそうさまでした。	That was delicious. (after eating or drinking)	L07
+ごちそうさま「でした」。	ごちそうさま「でした」。	That was delicious. (after eating or drinking)	L07
 祖母	祖[そ] 母[ぼ]	(my) grandmother	L07U L41
 祖父	祖[そ] 父[ふ]	(my) grandfather	L07U L41
 祖父母	祖[そ] 父[ふ] 母[ぼ]	grandparents	L07U
@@ -1912,7 +1913,6 @@
 先に	先[さき]に	first, ahead	L34
 載せます	載[の]せます	place on, load onto	L34
 これでいいですか。	これでいいですか。	Is this all right?	L34
-いかがですか。	いかがですか。	How is it?	L34
 材料	材[ざい] 料[りょう]	material, ingredient	L34 L42
 ～分	～ 分[ぶん]	portion for ～ (indicating quantity)	L34
 ーグラム	ーグラム	ー gramme	L34 L40U
