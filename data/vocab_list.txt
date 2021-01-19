@@ -451,16 +451,16 @@
 娘	娘[むすめ]	(my) daughter	L07U L28
 息子	息子[むすこ]	(my) son	L07U L28
 子供	子[こ] 供[ども]	(my) child	L07U L09
-ハンサ厶（な）	ハンサ厶（な）	handsome	L08
-きれい（な）	きれい（な）	beautiful, clean	L08
-静か（な）	静[しず]か（な）	quiet	L08
-賑やか（な）	賑[にぎ]やか（な）	lively	L08
-有名（な）	有[ゆう] 名[めい]（な）	famous	L08
-親切（な）	親[しん] 切[せつ]（な）	helpful, kind, considerate (not used about one's own family members)	L08 L41U
-元気（な）	元[げん] 気[き]（な）	healthy, energetic, cheerful	L08
-暇（な）	暇[ひま]（な）	free (time)	L08
-便利（な）	便[べん] 利[り]（な）	convenient	L08
-すてき（な）	すてき（な）	fine, nice, wonderful	L08
+ハンサ厶「な」	ハンサ厶「な」	handsome	L08
+きれい「な」	きれい「な」	beautiful, clean	L08
+静か「な」	静[しず]か「な」	quiet	L08
+賑やか「な」	賑[にぎ]やか「な」	lively	L08
+有名「な」	有[ゆう] 名[めい]「な」	famous	L08
+親切「な」	親[しん] 切[せつ]「な」	helpful, kind, considerate (not used about one's own family members)	L08 L41U
+元気「な」	元[げん] 気[き]「な」	healthy, energetic, cheerful	L08
+暇「な」	暇[ひま]「な」	free (time)	L08
+便利「な」	便[べん] 利[り]「な」	convenient	L08
+すてき「な」	すてき「な」	fine, nice, wonderful	L08
 大きい	大[おお]きい	big, large	L08
 小さい	小[ちい]さい	small, little	L08
 新しい	新[あたら]しい	new, fresh	L08
@@ -528,10 +528,10 @@
 色	色[いろ]	colour	L08U
 分かります	分[わ]かります	understand	L09
 あります	あります	have, exist, be (referring to inanimate things)	L09 L10
-好き（な）	好[す]き（な）	like	L09
-嫌い（な）	嫌[きら]い（な）	dislike	L09
-上手（な）	上[じょう] 手[ず]（な）	good at	L09
-下手（な）	下手[へた]（な）	poor at	L09
+好き「な」	好[す]き「な」	like	L09
+嫌い「な」	嫌[きら]い「な」	dislike	L09
+上手「な」	上[じょう] 手[ず]「な」	good at	L09
+下手「な」	下手[へた]「な」	poor at	L09
 飲み物	飲[の]み 物[もの]	drinks	L09
 料理をします	料[りょう] 理[り]をします	cooking food	L09
 スポーツをします	スポーツをします	play sports	L09
@@ -605,7 +605,7 @@
 剣道	剣[けん] 道[どう]	Japanese fencing	L09U L19U L36
 水泳	水[すい] 泳[えい]	swimming	L09U L36
 います	います	exist, be (referring to animate things)	L10
-いろいろ（な）	いろいろ（な）	various	L10 L20
+いろいろ「な」	いろいろ「な」	various	L10 L20
 男の人	男[おとこ]の 人[ひと]	man	L10
 女の人	女[おんな]の 人[ひと]	woman	L10
 男の子	男[おとこ]の 子[こ]	boy	L10
@@ -723,7 +723,7 @@
 トースト	トースト	toast	L11U
 ココア	ココア	cocoa	L11U
 コーラ	コーラ	cola	L11U
-簡単（な）	簡[かん] 単[たん]（な）	easy, simple	L12
+簡単「な」	簡[かん] 単[たん]「な」	easy, simple	L12
 近い	近[ちか]い	near	L12
 遠い	遠[とお]い	far	L12
 速い	速[はや]い	fast	L12
@@ -782,7 +782,7 @@
 買い物します	買[か]い 物[もの]します	do shopping	L13
 食事します	食[しょく] 事[じ]します	have a meal, dine	L13
 公園を散歩します	公[こう] 園[えん]を 散[さん] 歩[ぽ]します	take a walk in a park	L13
-大変（な）	大[たい] 変[へん]（な）	hard, tough, severe, awful	L13
+大変「な」	大[たい] 変[へん]「な」	hard, tough, severe, awful	L13
 欲しい	欲[ほ]しい	to want something	L13
 広い	広[ひろ]い	wide, spacious	L13
 狭い	狭[せま]い	narrow, small (room, etc)	L13
@@ -1007,8 +1007,8 @@
 出張します	出[しゅっ] 張[ちょう]します	go on a business trip	L17
 薬を飲みます	薬[くすり]を 飲[の]みます	take medicine	L17
 入ります	入[はい]ります	to enter, to go into	L17
-大切（な）	大[たい] 切[せつ]（な）	important, precious	L17 L30U
-大丈夫（な）	大[だい] 丈[じょう] 夫[ぶ]（な）	all right	L17
+大切「な」	大[たい] 切[せつ]「な」	important, precious	L17 L30U
+大丈夫「な」	大[だい] 丈[じょう] 夫[ぶ]「な」	all right	L17
 危ない	危[あぶ]ない	dangerous	L17
 禁煙	禁[きん] 煙[えん]	no smoking	L17
 健康	健[けん] 康[こう]	health	L17 L32 L36U L38
@@ -1137,7 +1137,7 @@
 でも	でも	but	L19
 乾杯	乾[かん] 杯[ぱい]	cheers!	L19
 ダイエットをします	ダイエットをします	go on a diet	L19
-無理（な）	無[む] 理[り]（な）	excessive, impossible	L19
+無理「な」	無[む] 理[り]「な」	excessive, impossible	L19
 体にいい	体[からだ]にいい	good for one's health	L19
 伝統文化	伝[でん] 統[とう] 文[ぶん] 化[か]	traditional culture	L19U
 娯楽	娯[ご] 楽[らく]	pleasure, amusement​, entertainment	L19U
@@ -1183,8 +1183,8 @@
 会社をやめます	会[かい] 社[しゃ]をやめます	quit, retire, stop, give up from a company	L21
 気をつけます	気[き]をつけます	pay attention, take care	L21
 留学します	留[りゅう] 学[がく]します	study abroad	L21
-むだ（な）	むだ（な）	wasteful	L21
-不便（な）	不[ふ] 便[べん]（な）	inconvenient	L21
+むだ「な」	むだ「な」	wasteful	L21
+不便「な」	不[ふ] 便[べん]「な」	inconvenient	L21
 すごい	すごい	awful, great (express astonishment or admiration)	L21
 本当	本[ほん] 当[とう]	true	L21
 うそ	うそ	lie	L21
@@ -1444,7 +1444,7 @@
 音が聞こえます	音[おと]が 聞[き]こえます	a sound can be heard	L27
 道ができます	道[みち]ができます	a road can be made, be completed, come into existence	L27
 教室を開きます	教[きょう] 室[しつ]を 開[ひら]きます	set up, open, hold a class	L27
-心配（な）	心[しん] 配[ぱい]（な）	worried, anxious	L27
+心配「な」	心[しん] 配[ぱい]「な」	worried, anxious	L27
 ペット	ペット	pet	L27
 鳥	鳥[とり]	bird	L27
 声	声[こえ]	voice	L27
@@ -1466,10 +1466,10 @@
 建てます	建[た]てます	build	L27
 すばらしい	すばらしい	wonderful	L27
 子供たち	子[こ] 供[ども]たち	children	L27 L31 L41 L42
-大好き（な）	大[だい] 好[す]き（な）	like very much	L27 L38
+大好き「な」	大[だい] 好[す]き「な」	like very much	L27 L38
 主人公	主[しゅ] 人[じん] 公[こう]	hero, heroine	L27
 形	形[かたち]	form, shape	L27 L28 L40U
-不思議（な）	不[ふ] 思[し] 議[ぎ]（な）	fantastic, mysterious, strange	L27 L38
+不思議「な」	不[ふ] 思[し] 議[ぎ]「な」	fantastic, mysterious, strange	L27 L38
 ポケット	ポケット	pocket	L27 L29
 例えば	例[たと]えば	for example	L27 L44
 付けます	付[つ]けます	attach, put on	L27
@@ -1508,8 +1508,8 @@
 選びます	選[えら]びます	choose	L28
 大学に通います	大[だい] 学[がく]に 通[かよ]います	go to and from university	L28
 メモします	メモします	take a memo	L28
-まじめ（な）	まじめ（な）	serious	L28 L43U
-熱心（な）	熱[ねっ] 心[しん]（な）	earnest	L28
+まじめ「な」	まじめ「な」	serious	L28 L43U
+熱心「な」	熱[ねっ] 心[しん]「な」	earnest	L28
 偉い	偉[えら]い	great, admirable	L28
 ちょうどいい	ちょうどいい	proper, just right	L28
 景色	景色[けしき]	scenery, view	L28
@@ -1652,7 +1652,7 @@
 ある～	ある～	one ～, a certain ～	L30 L41 L42
 夢を見ます	夢[ゆめ]を 見[み]ます	dream	L30
 嬉しい	嬉[うれ]しい	glad, happy	L30 L39
-嫌（な）	嫌[いや]（な）	hateful, disagreeable; unwilling, reluctant	L30 L31 L48
+嫌「な」	嫌[いや]「な」	hateful, disagreeable; unwilling, reluctant	L30 L31 L48
 すると	すると	and, then	L30 L41
 目が覚めます	目[め]が 覚[さ]めます	wake up	L30 L45
 非常	非[ひ] 常[じょう]	emergency	L30U
@@ -1762,7 +1762,7 @@
 試合に出ます	試[し] 合[あい]に 出[で]ます	participate in the match	L32
 パーティーに出ます	パーティーに 出[で]ます	attend a party	L32
 無理をします	無[む] 理[り]をします	overdo things	L32
-十分（な）	十[じゅう] 分[ぶん]（な）	sufficient, enough	L32
+十分「な」	十[じゅう] 分[ぶん]「な」	sufficient, enough	L32
 おかしい	おかしい	strange, funny	L32
 うるさい	うるさい	noisy	L32
 太陽	太[たい] 陽[よう]	sun	L32
@@ -1803,7 +1803,7 @@
 雲	雲[くも]	cloud	L32U
 湿度	湿[しつ] 度[ど]	humidity	L32U
 蒸し暑い	蒸[む]し 暑[あつ]い	hot and humid	L32U
-さわやか（な）	さわやか（な）	refreshing	L32U
+さわやか「な」	さわやか「な」	refreshing	L32U
 降水確率	降[こう] 水[すい] 確[かく] 率[りつ]	probability of rain	L32U
 最高気温	最[さい] 高[こう] 気[き] 温[おん]	maximum temperature	L32U
 最低気温	最[さい] 低[てい] 気[き] 温[おん]	minimum temperature	L32U
@@ -1837,7 +1837,7 @@
 戻ります	戻[もど]ります	come back, return	L33
 電話があります	電[でん] 話[わ]があります	have a telephone call	L33
 リサイクルします	リサイクルします	recycle	L33
-だめ（な）	だめ（な）	no good, not permitted, impossible	L33
+だめ「な」	だめ「な」	no good, not permitted, impossible	L33
 同じ	同[おな]じ	same	L33
 席	席[せき]	seat	L33
 マーク	マーク	mark, symbol	L33
@@ -2004,7 +2004,7 @@
 ことわざ	ことわざ	proverb	L35
 関係	関[かん] 係[けい]	relationship	L35 L46U L47
 仲よくします	仲[なか]よくします	be on good terms with	L35
-必要（な）	必[ひつ] 要[よう]（な）	necessary, essential	L35 L40
+必要「な」	必[ひつ] 要[よう]「な」	necessary, essential	L35 L40
 都	都[みやこ]	capital, metropolis	L35
 知恵	知[ち] 恵[え]	wisdom	L35
 姿	姿[すがた]	appearance, figure, condition	L35
@@ -2027,7 +2027,7 @@
 上手に	上[じょう] 手[ず]に	well, skilfully	L36
 できるだけ	できるだけ	as much as possible	L36
 ほとんど	ほとんど	almost all (+); hardly, scarcely (-)	L36
-特別（な）	特[とく] 別[べつ]（な）	special	L36
+特別「な」	特[とく] 別[べつ]「な」	special	L36
 していらっしゃいます	していらっしゃいます	be doing (respectful of しています)	L36
 使っていらっしゃるんですね。	使[つか]っていらっしゃるんですね。	You're using, aren't you? (respectful of つかっているんですね)	L36
 チャレンジします	チャレンジします	challenge	L36
@@ -2094,7 +2094,7 @@
 本物	本[ほん] 物[もの]	real thing	L37
 キロ	キロ	kilograms, kilometers	L37 L40U
 美しい	美[うつく]しい	beautiful, pretty	L37
-豪華（な）	豪[ごう] 華[か]（な）	gorgeous	L37
+豪華「な」	豪[ごう] 華[か]「な」	gorgeous	L37
 彫刻	彫[ちょう] 刻[こく]	engraving, carving, sculpture	L37
 言い伝え	言[い]い 伝[つた]え	tradition, legend	L37
 眠ります	眠[ねむ]ります	sleep	L37 L44
@@ -2190,8 +2190,8 @@
 安心します	安[あん] 心[しん]します	be relieved	L39
 太ります	太[ふと]ります	get fat, gain weight	L39
 やせます	やせます	get slim, lose weight	L39
-複雑（な）	複[ふく] 雑[ざつ]（な）	complicated, complex	L39
-邪魔（な）	邪[じゃ] 魔[ま]（な）	obstructive, in the way	L39
+複雑「な」	複[ふく] 雑[ざつ]「な」	complicated, complex	L39
+邪魔「な」	邪[じゃ] 魔[ま]「な」	obstructive, in the way	L39
 硬い	硬[かた]い	hard, tough, solid	L39
 軟らかい	軟[やわ]らかい	soft, tender	L39
 汚い	汚[きたな]い	dirty	L39
@@ -2218,7 +2218,7 @@
 合います	合[あ]います	fit, suit	L39
 今では	今[いま]では	now	L39
 成人式	成[せい] 人[じん] 式[しき]	coming-of-age ceremony​	L39
-伝統的（な）	伝[でん] 統[とう] 的[てき]（な）	traditional	L39
+伝統的「な」	伝[でん] 統[とう] 的[てき]「な」	traditional	L39
 羨ましい	羨[うらや]ましい	envious	L39U
 懐かしい	懐[なつ]かしい	dear, longed for	L39U
 うっとりする	うっとりする	be enchanted	L39U
@@ -2351,7 +2351,7 @@
 暮らします	暮[く]らします	live, lead a life	L41
 陸	陸[りく]	land, shore	L41
 煙	煙[けむり]	smoke, fumes​	L41
-真っ白（な）	真[ま]っ 白[しろ]（な）	pure white	L41
+真っ白「な」	真[ま]っ 白[しろ]「な」	pure white	L41
 中身	中[なか] 身[み]	content	L41
 衣装	衣[い] 装[しょう]	clothing, costume, dress​	L41U
 晴れ着	晴[は]れ 着[ぎ]	Sunday best (festive clothes)	L41U
@@ -2375,7 +2375,7 @@
 沸かします	沸[わ]かします	boil	L42
 計算します	計[けい] 算[さん]します	calculate	L42
 並びます	並[なら]びます	stand in a queue, line up	L42
-丈夫（な）	丈[じょう] 夫[ぶ]（な）	strong, healthy	L42
+丈夫「な」	丈[じょう] 夫[ぶ]「な」	strong, healthy	L42
 自然	自[し] 然[ぜん]	nature	L42
 教育	教[きょう] 育[いく]	education	L42
 文化	文[ぶん] 化[か]	culture	L42
@@ -2443,9 +2443,9 @@
 ボタンが取れます	ボタンが 取[と]れます	a button comes off	L43
 荷物が落ちます	荷[に] 物[もつ]が 落[お]ちます	baggage falls down	L43
 ガソリンがなくなります	ガソリンがなくなります	petrol/gasoline is run out	L43
-変（な）	変[へん]（な）	strange, peculiar	L43
-幸せ（な）	幸[しあわ]せ（な）	happy	L43
-楽（な）	楽[らく]（な）	easy	L43
+変「な」	変[へん]「な」	strange, peculiar	L43
+幸せ「な」	幸[しあわ]せ「な」	happy	L43
+楽「な」	楽[らく]「な」	easy	L43
 うまい	うまい	tasty	L43
 まずい	まずい	not tasty	L43
 つまらない	つまらない	boring	L43
@@ -2462,15 +2462,15 @@
 気が長い	気[き]が 長[なが]い	slow-tempered, patient	L43U
 気が短い	気[き]が 短[みじか]い	quick-tempered	L43U
 気が弱い	気[き]が 弱[よわ]い	timid	L43U
-活発（な）	活[かっ] 発[ぱつ]（な）	active	L43U
-誠実（な）	誠[せい] 実[じつ]（な）	sincere	L43U
-わがまま（な）	わがまま（な）	selfish	L43U
-ふまじめ（な）	ふまじめ（な）	frivolous	L43U
-頑固（な）	頑[がん] 固[こ]（な）	stubborn	L43U
-素直（な）	素[す] 直[なお]（な）	obedient, gentle	L43U
-意地悪（な）	意[い] 地[じ] 悪[わる]（な）	ill-natured, spiteful	L43U
-勝ち気（な）	勝[か]ち 気[き]（な）	competitive, unyielding	L43U
-神経質（な）	神[しん] 経[けい] 質[しつ]（な）	highly-strung, nervous	L43U
+活発「な」	活[かっ] 発[ぱつ]「な」	active	L43U
+誠実「な」	誠[せい] 実[じつ]「な」	sincere	L43U
+わがまま「な」	わがまま「な」	selfish	L43U
+ふまじめ「な」	ふまじめ「な」	frivolous	L43U
+頑固「な」	頑[がん] 固[こ]「な」	stubborn	L43U
+素直「な」	素[す] 直[なお]「な」	obedient, gentle	L43U
+意地悪「な」	意[い] 地[じ] 悪[わる]「な」	ill-natured, spiteful	L43U
+勝ち気「な」	勝[か]ち 気[き]「な」	competitive, unyielding	L43U
+神経質「な」	神[しん] 経[けい] 質[しつ]「な」	highly-strung, nervous	L43U
 泣きます	泣[な]きます	cry	L44
 笑います	笑[わら]います	laugh, smile	L44
 シャツが乾きます	シャツが 乾[かわ]きます	a shirt dries	L44
@@ -2478,7 +2478,7 @@
 滑ります	滑[すべ]ります	slip	L44
 事故が起きます	事[じ] 故[こ]が 起[お]きます	an accident happens	L44
 調節します	調[ちょう] 節[せつ]します	adjust	L44
-危険（な）	危[き] 険[けん]（な）	dangerous	L44
+危険「な」	危[き] 険[けん]「な」	dangerous	L44
 厚い	厚[あつ]い	thick	L44
 太い	太[ふと]い	thick (of large diameter)	L44
 細い	細[ほそ]い	thin (of small diameter)	L44
@@ -2502,7 +2502,7 @@
 嫌がります	嫌[いや]がります	dislike	L44
 上手く	上手[うま]く	well	L44
 順序	順[じゅん] 序[じょ]	order	L44
-安心（な）	安[あん] 心[しん]（な）	relieved	L44
+安心「な」	安[あん] 心[しん]「な」	relieved	L44
 表現	表[ひょう] 現[げん]	expression	L44
 別れます	別[わか]れます	part, separate	L44
 これら	これら	these	L44
@@ -2803,7 +2803,7 @@
 どちら様でしょうか。	どちら 様[さま]でしょうか。	Who is this, please?	L46
 お待たせしました。	お 待[ま]たせしました。	Sorry to keep you waiting.	L46
 お礼	お 礼[れい]	gratitude, thanks	L50
-安全（な）	安[あん] 全[ぜん]（な）	safe	L44
+安全「な」	安[あん] 全[ぜん]「な」	safe	L44
 お客様（お客さん）	お 客[きゃく] 様[さま]（お 客[きゃく]さん）	guest; visitor; client; customer	L36
 お子さん	お 子[こ]さん	(someone's) child	L31
 ガソリン	ガソリン	petrol, gasoline	L43
