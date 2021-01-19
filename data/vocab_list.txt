@@ -2568,7 +2568,7 @@
 歯科	歯[し] 科[か]	dentistry	L45U
 泌尿器科	泌[ひ] 尿[にょう] 器[き] 科[か]	urology	L45U
 会計	会[かい] 計[けい]	account, treasurer	L45U
-耳鼻咽喉科	耳[じ] 鼻[び] 咽[いん] 喉[こう] 科[か]	ortorhinolaryngology (ear, nose, and throat)	L45U
+耳鼻咽喉科	耳[じ] 鼻[び] 咽[いん] 喉[こう] 科[か]	otorhinolaryngology (ear, nose, and throat)	L45U
 薬局	薬[やっ] 局[きょく]	pharmacy	L45U
 診察する	診[しん] 察[さつ]する	examine	L45U
 検査する	検[けん] 査[さ]する	scan, test	L45U
@@ -2576,7 +2576,7 @@
 レントゲンを撮る	レントゲンを 撮[と]る	take an X-ray	L45U
 入院する	入[にゅう] 院[いん]する	be admitted to hospital	L45U
 手術する	手[しゅ] 術[じゅつ]する	operate	L45U
-麻酔する	麻[ま] 酔[すい]する	anaesthetise (induce a loss of consciousness)	L45U
+麻酔する	麻[ま] 酔[すい]する	anaesthetize (induce a loss of consciousness)	L45U
 処方箋	処[しょ] 方[ほう] 箋[せん]	prescription	L45U
 カルテ	カルテ	patient's chart	L45U
 診察券	診[しん] 察[さつ] 券[けん]	patient's registration ticket	L45U
@@ -2700,7 +2700,7 @@
 生徒	生[せい] 徒[と]	pupil	L48
 ～間	～ 間[かん]	for ～ (referring to duration)	L48
 いいことですね。	いいことですね。	That's a good thing.	L48
-お忙しいですか。	お 忙[いそが]しいですか。	Are you busy? (talking to elderies)	L48
+お忙しいですか。	お 忙[いそが]しいですか。	Are you busy? (talking to elderlies)	L48
 営業	営[えい] 業[ぎょう]	business, sales	L48
 それまでに	それまでに	by that time	L48
 かまいません	かまいません	It's all right./I don't mind.	L48
@@ -2771,7 +2771,7 @@
 賞金	賞[しょう] 金[きん]	prize money	L50
 きりん	きりん	giraffe	L50
 ころ	ころ	times, days	L50
-夢がかないます	夢[ゆめ]がかないます	dream be realised, comes true	L50
+夢がかないます	夢[ゆめ]がかないます	dream be realized, comes true	L50
 応援します	応[おう] 援[えん]します	support	L50
 心から	心[こころ]から	from one's heart, sincerely	L50
 感謝します	感[かん] 謝[しゃ]します	thank, be grateful	L50
@@ -2798,7 +2798,7 @@
 アフリカ	アフリカ	Africa	L35
 バザー	バザー	bazaar	L41U
 カット	カット	haircut	L44
-１センチくらい～	１センチくらい～	about one centimetre ～	L44U
+１センチくらい～	１センチくらい～	about one centimeter ～	L44U
 どちら様でしょうか。	どちら 様[さま]でしょうか。	Who is this, please?	L46
 お待たせしました。	お 待[ま]たせしました。	Sorry to keep you waiting.	L46
 お礼	お 礼[れい]	gratitude, thanks	L50
