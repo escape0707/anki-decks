@@ -235,6 +235,9 @@
 地下鉄	地[ち] 下[か] 鉄[てつ]	underground, subway	L05
 新幹線	新[しん] 幹[かん] 線[せん]	the bullet train	L05
 バス	バス	bus	L05
+タクシー	タクシー	taxi	L05
+自転車	自[じ] 転[てん] 車[しゃ]	bicycle	L05 L26U
+歩いて	歩[ある]いて	on foot	L05
 人	人[ひと]	person, people	L05
 友達	友[とも] 達[だち]	friend	L05
 彼	彼[かれ]	he, boyfriend	L05
@@ -268,10 +271,11 @@
 二十日	二十日[はつか]	twentieth day	L05
 二十四日	二[に] 十[じゅう] 四[よっ] 日[か]	twenty-fourth day	L05
 ー日	ー 日[にち]	-th day of the month	L05
+何日	何[なん] 日[にち]	which day of the month, how many days	L05
 いつ	いつ	when	L05
 誕生日	誕[たん] 生[じょう] 日[び]	birthday	L05
 そうですね。	そうですね。	Yes, it is./Well let me see. (pausing)	L05 L08
-どうもありがとうございました。	どうもありがとうございました。	Thank you very much. (after action)	L05
+「どうも」ありがとうございました。	どうもありがとうございました。	Thank you very much. (after action)	L05
 どういたしまして。	どういたしまして。	You are welcome./Don't mention it.	L05
 ー番線	ー 番[ばん] 線[せん]	platform ー , -th platform	L05
 次の	次[つぎ]の	next	L05
@@ -1058,10 +1062,6 @@
 肩が凝ります	肩[かた]が 凝[こ]ります	feel stiff in one's shoulders	L17U
 体がだるい	体[からだ]がだるい	feel weary	L17U
 かゆい	かゆい	itchy	L17U
-タクシー	タクシー	taxi	L05
-自転車	自[じ] 転[てん] 車[しゃ]	bicycle	L05 L26U
-歩いて	歩[ある]いて	on foot	L05
-何日	何[なん] 日[にち]	which day of the month, how many days	L05
 建国記念の日	建[けん] 国[こく] 記[き] 念[ねん]の 日[ひ]	National Foundation Day (２月１１日)	L05U
 ええ	ええ	yes, that is correct, right​	L06
 居間	居[い] 間[ま]	living room	L10U
