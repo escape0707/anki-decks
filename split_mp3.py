@@ -7,7 +7,7 @@ import pydub
 import pydub.silence
 from pydub.audio_segment import AudioSegment
 
-from common import chunks_dir, input_file
+from common import chunks_dir, input_dir
 
 
 def split_and_save(input_file: Path, output_dir: Path) -> None:
@@ -25,11 +25,16 @@ def split_and_save(input_file: Path, output_dir: Path) -> None:
 
 
 def split_mp3() -> None:
-    if chunks_dir.exists():
-        shutil.rmtree(chunks_dir)
     if not chunks_dir.exists():
         chunks_dir.mkdir()
-    split_and_save(input_file, chunks_dir)
+    for lesson, input_file in enumerate(input_dir.iterdir(), 1):
+        lesson_dir = chunks_dir / str(lesson).zfill(2)
+        if lesson_dir.exists():
+            continue
+            shutil.rmtree(lesson_dir)
+        if not lesson_dir.exists():
+            lesson_dir.mkdir()
+        split_and_save(input_file, lesson_dir)
 
 
 if __name__ == "__main__":
