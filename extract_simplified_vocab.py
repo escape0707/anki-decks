@@ -1,7 +1,7 @@
 import re
 from typing import Iterator, List, Tuple
 
-from common import new_vocab_list_file, revised_lesson_count, simplified_vocab_lists_dir
+from common import vocab_list_file, revised_lesson_count, simplified_vocab_lists_dir
 from utils import extract_expressions
 
 
@@ -15,10 +15,10 @@ def extract_lesson(tag_field: str) -> Tuple[Iterator[int], Iterator[int]]:
 def simplify_vocab() -> Tuple[List[List[str]], List[List[str]]]:
     simplified_collection = [[] for i in range(51)]
     extra_collection = [[] for i in range(51)]
-    with open(new_vocab_list_file) as in_f:
+    with open(vocab_list_file) as in_f:
         for note in in_f:
             field_collection = note.split("\t")
-            expression_collection = extract_expressions(field_collection[1])
+            expression_collection = extract_expressions(field_collection[0])
             lesson_collection, lesson_u_collection = extract_lesson(
                 field_collection[-1]
             )

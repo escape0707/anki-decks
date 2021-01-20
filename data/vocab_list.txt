@@ -79,7 +79,7 @@
 机	机[つくえ]	desk	L02
 椅子	椅[い] 子[す]	chair	L02
 チョコレート	チョコレート	chocolate	L02
-コーヒー	コーヒー	coffee	L02 L11 L46U
+コーヒー	コーヒー	coffee	L02 L46U
 「お」土産	「お」 土産[みやげ]	souvenir, present	L02
 英語	英[えい] 語[ご]	English language	L01U L02
 日本語	日本[にほん] 語[ご]	Japanese language	L01U L02
@@ -369,8 +369,8 @@
 ぶどう	ぶどう	grape	L06U
 なし	なし	Japanese pear	L06U
 柿	柿[かき]	persimmon	L06U
-みかん	みかん	mandarin orange	L06U L11
-りんご	りんご	apple	L06U L11
+蜜柑	蜜柑[みかん]	mandarin orange	L06U L11
+林檎	林檎[りんご]	apple	L06U L11
 バナナ	バナナ	banana	L06U
 ソーセージ	ソーセージ	sausage	L06U
 米	米[こめ]	rice	L06U L37
@@ -451,6 +451,10 @@
 娘	娘[むすめ]	(my) daughter	L07U L28
 息子	息子[むすこ]	(my) son	L07U L28
 子供	子[こ] 供[ども]	(my) child	L07U L09
+妹さん	妹[いもうと]さん	(someone else's) younger sister	L07U L11
+弟さん	弟[おとうと]さん	(someone else's) younger brother	L07U L11
+お姉さん	お姉[ねえ]さん	(someone else's) elder sister	L07U L11
+お兄さん	お兄[にい]さん	(someone else's) elder brother	L07U L11
 ハンサ厶「な」	ハンサ厶「な」	handsome	L08
 きれい「な」	きれい「な」	beautiful, clean	L08
 静か「な」	静[しず]か「な」	quiet	L08
@@ -658,21 +662,32 @@
 寝室	寝[しん] 室[しつ]	bedroom	L10U
 廊下	廊[ろう] 下[か]	hallway, corridor	L10U L30
 ベランダ	ベランダ	balcony, veranda	L10U
-子供がいます	子[こ] 供[ども]がいます	have a child	L11
-日本にいます	日本[にほん]にいます	stay in Japan	L11
+「子供が」います	「 子[こ] 供[ども]が」います	have [a child]	L11
+「日本に」います	「 日本[にほん]に」います	in, at [stay in Japan]	L11
 かかります	かかります	take, cost (referring to time or money)	L11
-会社を休みます	会[かい] 社[しゃ]を 休[やす]みます	take a day off from work	L11
+「会社を」休みます	「 会[かい] 社[しゃ]を」 休[やす]みます	take a day off [from work]	L11
+一つ	一つ[ひとつ]	one, one (sth.)	L11
+二つ	二つ[ふたつ]	two, two (sth.)	L11
+三つ	三つ[みっつ]	three, three (sth.)	L11
+四つ	四つ[よっつ]	four, four (sth.)	L11
+五つ	五つ[いつつ]	five, five (sth.)	L11
+六つ	六つ[むっつ]	six, six (sth.)	L11
+七つ	七つ[ななつ]	seven, seven (sth.)	L11
+八つ	八つ[やっつ]	eight, eight (sth.)	L11
+九つ	九つ[ここのつ]	nine, nine (sth.)	L11
+十	十[とお]	ten, ten (sth.)	L11
+幾つ	幾つ[いくつ]	how much, how many	L11
 一人	一人[ひとり]	one person	L11
 二人	二人[ふたり]	two people, couple	L11 L41
 ー人	ー 人[にん]	ー people	L11
 ー台	ー 台[だい]	counter for machines, cars. etc.	L11
 ー枚	ー 枚[まい]	counter for paper, stamps, etc.	L11
-ー回	ー 回[かい]	ーtimes	L11
+ー回	ー 回[かい]	ー times	L11
 サンドイッチ	サンドイッチ	sandwich	L11
-カレーライス	カレーライス	curry rice	L11
+カレー「ライス」	カレー「ライス」	curry [rice]	L11
 アイスクリーム	アイスクリーム	ice cream	L11
 切手	切[きっ] 手[て]	stamp	L11 L27U
-はがき	はがき	postcard	L11 L27U
+葉書	葉書[はがき]	postcard	L11 L27U
 封筒	封[ふう] 筒[とう]	envelope	L11
 外国	外[がい] 国[こく]	foreign country	L11
 留学生	留[りゅう] 学[がく] 生[せい]	foreign student	L11
@@ -692,7 +707,7 @@
 行ってらっしゃい。	行ってらっしゃい。	I'll go and come back.	L11
 行ってきます。	行[い]ってきます。	I'm going and come back.	L11
 船便	船[ふな] 便[びん]	sea mail	L11
-航空便／エアメール	航[こう] 空[くう] 便[びん]／エアメール	airmail	L11
+航空便（エアメール）	航[こう] 空[くう] 便[びん]（エアメール）	airmail	L11
 お願いします。	お 願[ねが]いします。	Please (ask for a favour)	L11
 メニュー	メニュー	menu	L11U
 定食	定[てい] 食[しょく]	set meal	L11U L13
