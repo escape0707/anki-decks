@@ -854,12 +854,12 @@
 使います	使[つか]います	use	L14
 止めます	止[と]めます	stop, park	L14
 見せます	見[み]せます	show	L14
-住所を教えます	住[じゅう] 所[しょ]を 教[おし]えます	tell an address	L14
+「住所を」教えます	「 住[じゅう] 所[しょ]を」 教[おし]えます	tell an address	L14
 座ります	座[すわ]ります	sit down	L14
 立ちます	立[た]ちます	stand up	L14
-喫茶店に入ります	喫[きっ] 茶[さ] 店[てん]に 入[はい]ります	enter a coffee shop	L14
-喫茶店を出ます	喫[きっ] 茶[さ] 店[てん]を 出[で]ます	go out of a coffee shop	L14
-雨が降ります	雨[あめ]が 降[ふ]ります	rain	L14
+「喫茶店に」入ります	「 喫[きっ] 茶[さ] 店[てん]に」 入[はい]ります	enter a coffee shop	L14
+「喫茶店を」出ます	「 喫[きっ] 茶[さ] 店[てん]を」 出[で]ます	go out of a coffee shop	L14
+「雨が」降ります	「雨[あめ]が」 降[ふ]ります	rain	L14
 コピーします	コピーします	to copy	L14
 電気	電[でん] 気[き]	electricity, light	L14
 エアコン	エアコン	air conditioner	L14
@@ -876,12 +876,14 @@
 まっすぐ	まっすぐ	straight	L14
 ゆっくり	ゆっくり	slowly, leisurely	L14
 すぐ	すぐ	immediately	L14
-また	また	again; and	L14 L39 L44
+又	又[また]	again; and	L14 L39 L44
 あとで	あとで	later	L14
 もう少し	もう 少[すこ]し	a little more	L14
+もう～	もう～	more	L14
 さあ	さあ	right (encouraging some course of action) well, let me see. (unsure of something)	L14
 あれ？	あれ？	Huh? Eh?	L14
 信号を右へ曲がってください。	信[しん] 号[ごう]を 右[みぎ]へ 曲[ま]がってください。	Turn right at the traffic lights.	L14
+これでお願いします。	これでお 願[ねが]いします。	I'll pay with this (card).	L14
 お釣り	お 釣[つ]り	change (for a purchase)​	L14
 切符売り場	切[きっ] 符[ぷ] 売[う]り 場[ば]	ticket office, ticket area	L14U
 自動券売機	自[じ] 動[どう] 券[けん] 売[ばい] 機[き]	ticket machine	L14U
