@@ -284,7 +284,7 @@
 特急	特[とっ] 急[きゅう]	super-express train	L05 L14U
 甲子園	甲[こう] 子[し] 園[えん]	Koshien (stadium)	L05
 大阪城	大[おお] 阪[さか] 城[じょう]	Osaka Castle	L05
-元日	元[がん] 日[じつ]	New Year's Day (１月１日)	L05U L13
+元日	元[がん] 日[じつ]	New Year's Day (１月１日)	L05U
 成人の日	成[せい] 人[じん]の 日[ひ]	Coming-of-Age Day (１月第２月曜日)	L05U
 春分の日	春[しゅん] 分[ぶん]の 日[ひ]	Vernal Equinox Day (３月２０日／２１日)	L05U
 昭和の日	昭[しょう] 和[わ]の 日[ひ]	Showa Day (４月２９日)	L05U
@@ -798,7 +798,7 @@
 結婚します	結[けっ] 婚[こん]します	marry, get married	L13
 買い物します	買[か]い 物[もの]します	do shopping	L13
 食事します	食[しょく] 事[じ]します	have a meal, dine	L13
-公園を散歩します	公[こう] 園[えん]を 散[さん] 歩[ぽ]します	take a walk in a park	L13
+「公園を」散歩します	「 公[こう] 園[えん]を」 散[さん] 歩[ぽ]します	take a walk [in a park]	L13
 大変「な」	大[たい] 変[へん]「な」	hard, tough, severe, awful	L13
 欲しい	欲[ほ]しい	to want something	L13
 広い	広[ひろ]い	wide, spacious	L13
@@ -806,16 +806,18 @@
 プール	プール	swimming pool	L13
 川	川[かわ]	river	L13
 美術	美[び] 術[じゅつ]	fine arts	L13 L31U
-釣りをします	釣[つ]りをします	fishing	L13
+釣り「をします」	釣[つ]り「をします」	fishing	L13
 週末	週[しゅう] 末[まつ]	weekend	L13
+「お」正月	「お」 正[しょう] 月[がつ]	New Year (１月１日～３日)	L13 L49U
 ～ごろ	～ごろ	about ～ (time)	L13
 何か	何[なに]か	something	L13
 どこか	どこか	somewhere, some place	L13
-喉が乾きます	喉[のど]が 乾[かわ]きます	throat is getting thirsty	L13
-お腹が空きます	お 腹[なか]が 空[す]きます	stomach is getting hungry	L13
+喉が乾きます	喉[のど]が 乾[かわ]きます	throat is getting thirsty (use 喉[のど]が 乾[かわ]きました to express "being thirsty")	L13
+お腹が空きます	お 腹[なか]が 空[す]きます	stomach is getting hungry (use お 腹[なか]が 空[す]きました to express "being hungry")	L13
 そうしましょう。	そうしましょう。	Let's do that.	L13
 ご注文は？	ご 注[ちゅう] 文[もん]は？	May I take your order?	L13
-少々お待ちください。	少[しょう] 々[しょう]お 待[ま]ちください。	Please wait a moment.	L13
+「少々」お待ちください。	「 少[しょう] 々[しょう]」お 待[ま]ちください。	Please wait a moment.	L13
+～でございます。	～でございます。	polite of "です"	L13
 別々に	別[べつ] 々[べつ]に	separately, individually​	L13
 博物館	博[はく] 物[ぶつ] 館[かん]	museum	L13U
 映画館	映[えい] 画[が] 館[かん]	cinema, movie theater	L13U L31
@@ -2764,7 +2766,6 @@
 受賞します	受[じゅ] 賞[しょう]します	be awarded a prize	L49
 講演会	講[こう] 演[えん] 会[かい]	lecture meeting	L49
 行事	行[ぎょう] 事[じ]	event, function​	L49U
-お正月	お 正[しょう] 月[がつ]	New Year (１月１日～３日)	L49U
 豆まき	豆[まめ]まき	Bean-Scattering Ceremony (２月３日ごろ)	L49U
 ひな祭り	ひな 祭[まつ]り	Doll's Festival (3月3日)	L49U
 お月見	お 月[つき] 見[み]	Moon Viewing (９月１５日ごろ)	L49U
