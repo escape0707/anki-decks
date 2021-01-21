@@ -375,7 +375,7 @@
 ソーセージ	ソーセージ	sausage	L06U
 米	米[こめ]	rice	L06U L37
 牛肉	牛[ぎゅう] 肉[にく]	beef meat	L06U L12
-鳥肉	鳥[とり] 肉[にく]	chicken meat	L06U L12
+鶏肉	鶏[とり] 肉[にく]	chicken meat	L06U L12
 豚肉	豚[ぶた] 肉[にく]	pork meat	L06U L12
 ハム	ハム	ham	L06U L46U
 あじ	あじ	horse mackerel (fish)	L06U
@@ -720,8 +720,8 @@
 漬物	漬[つけ] 物[もの]	pickles	L11U
 みそ汁	みそ 汁[しる]	miso soup	L11U
 おにぎり	おにぎり	rice ball	L11U
-てんぷら	てんぷら	fried seafood and vegetables	L11U L12
-すし	すし	sushi	L11U L12
+天麩羅	天麩羅[てんぷら]	fried seafood and vegetables	L11U L12
+「お」寿司	「お」 寿司[すし]	sushi	L11U L12
 うどん	うどん	Japanese noodles made from wheat flour	L11U
 そば	そば	Japanese noodles made from buckwheat flour	L11U
 ラーメン	ラーメン	Chinese noodles in soup with meat and vegetables	L11U
@@ -745,13 +745,13 @@
 速い	速[はや]い	fast	L12
 早い	早[はや]い	early	L12
 遅い	遅[おそ]い	slow, late	L12
-人が多い	人[ひと]が 多[おお]い	many people	L12
-人が少ない	人[ひと]が 少[すく]ない	few people	L12
-暖かい、温かい	暖[あたた]かい、 温[あたた]かい	warm (temperature), warm (touch)	L12
+「人が」多い	「 人[ひと]が」 多[おお]い	many people	L12
+「人が」少ない	「 人[ひと]が」 少[すく]ない	few people	L12
+暖かい（温かい）	暖[あたた]かい（ 温[あたた]かい）	warm (temperature), warm (touch)	L12
 涼しい	涼[すず]しい	cool	L12
 重い	重[おも]い	heavy	L12
 軽い	軽[かる]い	light	L12
-コーヒーがいい	コーヒーがいい	prefer coffee	L12
+「コーヒーが」いい	「コーヒーが」いい	prefer [coffee] (used when choosing from two choices)	L12
 季節	季[き] 節[せつ]	season	L12
 春	春[はる]	spring	L12
 夏	夏[なつ]	summer	L12
@@ -765,13 +765,14 @@
 空港	空[くう] 港[こう]	airport	L12
 海	海[うみ]	sea, ocean	L12
 世界	世[せ] 界[かい]	world	L12
-パーティーをします	パーティーをします	give a party	L12
-お祭り	お 祭[まつ]り	festival	L12
+パーティー「をします」	パーティー「をします」	[give a] party	L12
+「お」祭り	「お」 祭[まつ]り	festival	L12
 すき焼き	すき 焼[や]き	beef and vegetable hotpot	L12
 刺身	刺[さし] 身[み]	sliced raw fish	L12
 レモン	レモン	lemon	L12
-生け花をします	生[い]け 花[ばな]をします	practice flower arrangement	L12 L41U
-紅葉、紅葉	紅葉[もみじ]、 紅[こう] 葉[よう]	紅葉[もみじ]：maple, red leaves of autumn<div>紅[こう] 葉[よう]：leaves turning red; red leaves​</div>	L12
+生け花「をします」	生[い]け 花[ばな]「をします」	[practice] flower arrangement	L12 L41U
+紅葉（紅葉）	紅葉[もみじ]（ 紅[こう] 葉[よう]）	紅葉[もみじ]：maple, red leaves of autumn<div>紅[こう] 葉[よう]：leaves turning red; red leaves​</div>	L12
+どちらも	どちらも	both	L12
 一番	一[いち] 番[ばん]	the most	L12
 ずっと	ずっと	by far; the whole time	L12 L31
 初めて	初[はじ]めて	for the first time	L12
@@ -781,7 +782,7 @@
 疲れました。	疲[つか]れました。	I'm tired	L12
 祇園祭	祇園[ぎおん] 祭[まつり]	Gion Festival	L12
 ホンコン	ホンコン	Hong Kong	L12
-名所	名[めい] 所[しょ]	famous place	L12
+名所	名[めい] 所[しょ]	famous place	L12U
 鹿苑寺（金閣寺）	鹿[ろく] 苑[おん] 寺[じ]（ 金[きん]閣[かく]寺[じ]）	Rokuon-ji (Kinkaku-ji)	L12U
 姫路城	姫[ひめ] 路[じ] 城[じょう]	Himeji Castle	L12U
 原爆ドーム	原[げん] 爆[ばく]ドーム	Hiroshima Peace Memorial	L12U L38
