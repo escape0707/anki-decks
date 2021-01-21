@@ -931,7 +931,7 @@
 すみません	すみません	I'm sorry/Excuse me.	L15
 皆さん	皆[みな]さん	everybody (polite)	L15
 思い出します	思[おも]い 出[だ]します	remember, recollect	L15
-いらっしゃいます、おいでになります	いらっしゃいます、おいでになります	go, come, to be (respectful of いきます、きます、います)	L15 L40
+いらっしゃいます	いらっしゃいます	exist, be (respectful of います); come (respectful of きます)	L15 L40
 日本橋	日本[にっぽん] 橋[ばし]	Nipponbashi (shopping district)	L15
 職業	職[しょく] 業[ぎょう]	occupations	L15U
 公務員	公[こう] 務[む] 員[いん]	civil servant, public servant	L15U

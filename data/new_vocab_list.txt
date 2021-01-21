@@ -931,7 +931,7 @@
 931	すみません	すみません	I'm sorry/Excuse me.	[sound:MNN_すみません.mp3]	L15
 932	皆さん	皆[みな]さん	everybody (polite)	[sound:MNN_皆さん.mp3]	L15
 933	思い出します	思[おも]い 出[だ]します	remember, recollect	[sound:MNN_思い出します.mp3]	L15
-934	いらっしゃいます、おいでになります	いらっしゃいます、おいでになります	go, come, to be (respectful of いきます、きます、います)	[sound:MNN_いらっしゃいます、おいでになります.mp3]	L15 L40
+934	いらっしゃいます	いらっしゃいます	exist, be (respectful of います); come (respectful of きます)	[sound:MNN_いらっしゃいます.mp3]	L15 L40
 935	日本橋	日本[にっぽん] 橋[ばし]	Nipponbashi (shopping district)	[sound:MNN_日本橋.mp3]	L15
 936	職業	職[しょく] 業[ぎょう]	occupations	[sound:MNN_職業.mp3]	L15U
 937	公務員	公[こう] 務[む] 員[いん]	civil servant, public servant	[sound:MNN_公務員.mp3]	L15U
