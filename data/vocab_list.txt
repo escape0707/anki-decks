@@ -610,7 +610,7 @@
 剣道	剣[けん] 道[どう]	Japanese fencing	L09U L19U L36
 水泳	水[すい] 泳[えい]	swimming	L09U L36
 います	います	exist, be (referring to animate things)	L10
-いろいろ「な」	いろいろ「な」	various	L10 L20
+色々「な」	色[いろ] 々[いろ]「な」	various	L10 L20
 男の人	男[おとこ]の 人[ひと]	man	L10
 女の人	女[おんな]の 人[ひと]	woman	L10
 男の子	男[おとこ]の 子[こ]	boy	L10
@@ -1175,7 +1175,7 @@
 囲碁	囲[い] 碁[ご]	go (board game of capturing territory​)	L19U
 将棋	将[しょう] 棋[ぎ]	shogi (Japanese chess)	L19U
 盆踊り	盆[ぼん] 踊[おど]り	Bon Festival dance (Lantern Festival dance​)	L19U L49U
-ビザが要ります	ビザが 要[い]ります	need, require a visa	L20
+「ビザが」要ります	「ビザが」 要[い]ります	need, require [a visa]	L20
 調べます	調[しら]べます	check, investigate	L20
 修理します	修[しゅう] 理[り]します	repair	L20 L27U
 僕	僕[ぼく]	I (informal of わたし used by men)	L20

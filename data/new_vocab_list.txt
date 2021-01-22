@@ -610,7 +610,7 @@
 610	剣道	剣[けん] 道[どう]	Japanese fencing	[sound:MNN_剣道.mp3]	L09U L19U L36
 611	水泳	水[すい] 泳[えい]	swimming	[sound:MNN_水泳.mp3]	L09U L36
 612	います	います	exist, be (referring to animate things)	[sound:MNN_います.mp3]	L10
-613	いろいろ「な」	いろいろ「な」	various	[sound:MNN_いろいろ「な」.mp3]	L10 L20
+613	色々「な」	色[いろ] 々[いろ]「な」	various	[sound:MNN_色々「な」.mp3]	L10 L20
 614	男の人	男[おとこ]の 人[ひと]	man	[sound:MNN_男の人.mp3]	L10
 615	女の人	女[おんな]の 人[ひと]	woman	[sound:MNN_女の人.mp3]	L10
 616	男の子	男[おとこ]の 子[こ]	boy	[sound:MNN_男の子.mp3]	L10
@@ -1175,7 +1175,7 @@
 1175	囲碁	囲[い] 碁[ご]	go (board game of capturing territory​)	[sound:MNN_囲碁.mp3]	L19U
 1176	将棋	将[しょう] 棋[ぎ]	shogi (Japanese chess)	[sound:MNN_将棋.mp3]	L19U
 1177	盆踊り	盆[ぼん] 踊[おど]り	Bon Festival dance (Lantern Festival dance​)	[sound:MNN_盆踊り.mp3]	L19U L49U
-1178	ビザが要ります	ビザが 要[い]ります	need, require a visa	[sound:MNN_ビザが要ります.mp3]	L20
+1178	「ビザが」要ります	「ビザが」 要[い]ります	need, require [a visa]	[sound:MNN_「ビザが」要ります.mp3]	L20
 1179	調べます	調[しら]べます	check, investigate	[sound:MNN_調べます.mp3]	L20
 1180	修理します	修[しゅう] 理[り]します	repair	[sound:MNN_修理します.mp3]	L20 L27U
 1181	僕	僕[ぼく]	I (informal of わたし used by men)	[sound:MNN_僕.mp3]	L20
