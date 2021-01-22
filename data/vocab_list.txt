@@ -45,7 +45,7 @@
 スペイン	スペイン	Spain	L01U L07
 フランス	フランス	France	L01U L03
 フィリピン	フィリピン	Philippines	L01U
-ベトナム	ベトナム	Vietnam	L01U
+ベトナム	ベトナム	Vietnam	L01U L25
 マレーシア	マレーシア	Malaysia	L01U
 メキシコ	メキシコ	Mexico	L01U L06
 ロシア	ロシア	Russia	L01U L37
@@ -1376,16 +1376,18 @@
 熨斗袋	熨[の] 斗[し] 袋[ぶくろ]	paper bag for putting a present in​, envelope for a gift of money	L24U L42
 考えます	考[かんが]えます	think, consider	L25 L36U
 着きます	着[つ]きます	arrive	L25
-年を取ります	年[とし]を 取[と]ります	grow old	L25
+「年を」取ります	「 年[とし]を」 取[と]ります	grow [old]	L25
+足ります	足[た]ります	be enough, be sufficient	L25
 田舎	田舎[いなか]	countryside, hometown	L25
 チャンス	チャンス	chance	L25
 億	億[おく]	hundred million	L25
-もし（～たら）	もし（～たら）	if	L25
+もし「～たら」	もし「～たら」	if	L25
 意味	意[い] 味[み]	meaning	L25
 もしもし	もしもし	hello (used on the phone)	L25
-転勤します	転[てん] 勤[きん]します	be transferred to another office	L25
+転勤「します」	転[てん] 勤[きん]「します」	[be] transfer[red] to another office	L25
+「～の」こと	「～の」こと	things, matter [of sth.]	L25
 暇	暇[ひま]	free time	L25
-いろいろお世話になりました。	いろいろお 世[せ] 話[わ]になりました。	Thank you for everything you've done for me.	L25
+「いろいろ」お世話になりました。	「いろいろ」お 世[せ] 話[わ]になりました。	Thank you for everything you've done for me.	L25
 頑張ります	頑[がん] 張[ば]ります	do one's best	L25
 どうぞお元気です。	どうぞお 元[げん] 気[き]です。	Please take care of yourself. (said when expecting a long separation)	L25
 一生	一[いっ] 生[しょう]	life, generation	L25U
@@ -1445,7 +1447,6 @@
 宇宙ステーション	宇[う] 宙[ちゅう]ステーション	space station	L26
 違います	違[ちが]います	be different	L26 L36
 宇宙飛行士	宇[う] 宙[ちゅう] 飛[ひ] 行[こう] 士[し]	astronaut	L26
-足ります	足[た]ります	be enough, be sufficient	L25
 収集日	収[しゅう] 集[しゅう] 日[び]	collection day (for rubbish/waste)​	L26U
 お知らせ	お 知[し]らせ	information, notice	L26U L28
 可燃ごみ	可[か] 燃[ねん]ごみ	burnable rubbish​	L26U
