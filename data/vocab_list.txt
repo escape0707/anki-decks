@@ -301,7 +301,7 @@
 天皇誕生日	天[てん] 皇[のう] 誕[たん] 生[じょう] 日[び]	The Emperor's Birthday (２月２３日)	L05U
 ゴールデンウェーク	ゴールデンウェーク	Golden Week (４月２９日～５月５日)	L05U
 食べます	食[た]べます	eat	L06
-飲みます	飲[の]みます	drink	L06
+飲みます	飲[の]みます	drink	L06, L16
 「煙草を」吸います	「 煙草[たばこ]を」 吸[す]います	smoke [a cigarette]	L06
 見ます	見[み]ます	see, look at, watch	L06
 聞きます	聞[き]きます	hear, listen	L06
@@ -338,7 +338,7 @@
 宿題「をします」	宿[しゅく] 題[だい]「をします」	[do a] homework	L06
 テニス「をします」	テニス「をします」	[play] tennis	L06 L09U
 サッカー「をします」	サッカー「をします」	[play] soccer, football）	L06 L09U
-「お」花見「をします」	「お」 花[はな] 見[み]「をします」	view the cherry blossom	L06
+「お」花見「をします」	「お」 花[はな] 見[み]「をします」	viewing the cherry blossom [view the cherry blossom]	L06
 一緒に	一[いっ] 緒[しょ]に	together	L06
 一寸	一寸[ちょっと]	a little while, a little bit	L06
 いつも	いつも	always, usually	L06
@@ -823,7 +823,7 @@
 映画館	映[えい] 画[が] 館[かん]	cinema, movie theater	L13U L31
 動物園	動[どう] 物[ぶつ] 園[えん]	zoo	L13U L31
 植物園	植[しょく] 物[ぶつ] 園[えん]	botanical garden	L13U
-お寺	お 寺[てら]	Buddhist temple	L13U L16
+「お」寺	「お」 寺[てら]	Buddhist temple	L13U L16
 神社	神[じん] 社[じゃ]	Shinto shrine	L13U L16
 教会	教[きょう] 会[かい]	church	L13U L31
 モスク	モスク	mosque	L13U
@@ -957,15 +957,15 @@
 俳優	俳[はい] 優[ゆう]	actor	L15U
 スポーツ選手	スポーツ 選[せん] 手[しゅ]	athlete	L15U
 十九日	十[じゅう] 九[く] 日[にち]	nineteenth day	L05
-電車に乗ります	電[でん] 車[しゃ]に 乗[の]ります	get on/ride a train	L16
-電車を降ります	電[でん] 車[しゃ]を 降[お]ります	get off a train	L16
+「電車に」乗ります	「 電[でん] 車[しゃ]に」 乗[の]ります	get on/ride [a train]	L16
+「電車を」降ります	「 電[でん] 車[しゃ]を」 降[お]ります	get off [a train]	L16
 乗り換えます	乗[の]り 換[か]えます	change (bus, train)	L16
-シャワーを浴びる	シャワーを 浴[あ]びる	to take a shower	L16
+「シャワーを」浴びます	「シャワーを」 浴[あ]びます	to take [a shower]	L16
 入れます	入[い]れます	put in, insert	L16
 出します	出[だ]します	take out, hand in, send	L16
-お金を下ろします	お 金[かね]を 下[お]ろします	withdraw money	L16
-大学に入ります	大[だい] 学[がく]に 入[はい]ります	enter a university	L16
-大学を出ます	大[だい] 学[がく]を 出[で]ます	graduate from university	L16
+「お金を」下ろします	「お 金[かね]を」 下[お]ろします	withdraw [money]	L16
+「大学に」入ります	「 大[だい] 学[がく]に」 入[はい]ります	enter [a university]	L16
+「大学を」出ます	「 大[だい] 学[がく]を」 出[で]ます	graduate from [university]	L16
 押します	押[お]します	push, press	L16
 始めます	始[はじ]めます	start, begin	L16
 見学します	見[けん] 学[がく]します	field trip, observation/study tour	L16
@@ -988,15 +988,16 @@
 足	足[あし]	leg, foot	L16 L17U
 背	背[せ]	height	L16
 サービス	サービス	service	L16
-ジョギングをします	ジョギングをします	jogging	L16
+ジョギング「をします」	ジョギング「をします」	jogging [jog]	L16
+シャワー	シャワー	bath, shower	L16
 ー番	ー 番[ばん]	number ー	L16
 どうやって	どうやって	in what way, how	L16
 どの～	どの～	which ～ (used for three or more)	L16
 どれ	どれ	which one (of three or more things)	L16
 すごいですね。	すごいですね。	That's amazing!	L16
-いいえ、まだまだです。	いいえ、まだまだです。	No, I still have a long way to go.	L16
+「いいえ、」まだまだです。	「いいえ、」まだまだです。	[No,] I still have a long way to go.	L16
 お引き出しですか。	お 引[ひ]き 出[だ]しですか。	Are you making a withdrawal?	L16
-まず	まず	first of all	L16
+先ず	先[ま]ず	first of all	L16
 次に	次[つぎ]に	next, as a next step	L16
 キャッシュカード	キャッシュカード	cash card, ATM card​	L16
 暗証番号	暗[あん] 証[しょう] 番[ばん] 号[ごう]	personal identification number	L16
