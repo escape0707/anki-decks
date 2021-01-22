@@ -9,7 +9,7 @@ from common import (
 
 
 def rename_mp3() -> None:
-    lesson = str(revised_lesson_count).zfill(2)
+    lesson = str(revised_lesson_count + 1).zfill(2)
     lesson_mp3_dir = pronunciation_dir / lesson
     lesson_chunks_dir = chunks_dir / lesson
     if lesson_mp3_dir.exists():

@@ -1348,15 +1348,15 @@
 直します	直[なお]します	repair, correct	L24
 連れていきます	連[つ]れていきます	take (someone)	L24
 連れてきます	連[つ]れてきます	bring (someone)	L24
-人を送ります	人[ひと]を 送[おく]ります	escort (someone), go with	L24
+「人を」送ります	「 人[ひと]を」 送[おく]ります	escort, go with [someone]	L24
 紹介します	紹[しょう] 介[かい]します	introduce	L24
 案内します	案[あん] 内[ない]します	show around, show the way	L24
 説明します	説[せつ] 明[めい]します	explain	L24
-おじいさん、おじいちゃん	おじいさん、おじいちゃん	grandfather, old man	L24
-おばあさん、おばあちゃん	おばあさん、おばあちゃん	grandmother, old woman	L24
-準備をします	準[じゅん] 備[び]をします	prepare	L24 L30U
-引っ越しします	引[ひ]っ 越[こ]しします	move out	L24
-お菓子	お 菓[か] 子[し]	sweets, snacks	L24
+お爺さん（お爺ちゃん）	お 爺[じい]さん（お 爺[じい]ちゃん）	grandfather, old man	L24
+お婆さん（お婆ちゃん）	お 婆[ばあ]さん（お 婆[ばあ]ちゃん）	grandmother, old woman	L24
+準備「「を」します」	準[じゅん] 備[び]「「を」します」	prepare	L24 L30U
+引っ越し「「を」します」	引[ひ]っ 越[こ]「「を」しします」	move out	L24
+「お」菓子	「お」 菓[か] 子[し]	sweets, snacks	L24
 ホームステイ	ホームステイ	homestay	L24
 全部	全[ぜん] 部[ぶ]	all	L24
 自分で	自[じ] 分[ぶん]で	by oneself	L24

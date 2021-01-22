@@ -1348,15 +1348,15 @@
 1348	直します	直[なお]します	repair, correct	[sound:MNN_直します.mp3]	L24
 1349	連れていきます	連[つ]れていきます	take (someone)	[sound:MNN_連れていきます.mp3]	L24
 1350	連れてきます	連[つ]れてきます	bring (someone)	[sound:MNN_連れてきます.mp3]	L24
-1351	人を送ります	人[ひと]を 送[おく]ります	escort (someone), go with	[sound:MNN_人を送ります.mp3]	L24
+1351	「人を」送ります	「 人[ひと]を」 送[おく]ります	escort, go with [someone]	[sound:MNN_「人を」送ります.mp3]	L24
 1352	紹介します	紹[しょう] 介[かい]します	introduce	[sound:MNN_紹介します.mp3]	L24
 1353	案内します	案[あん] 内[ない]します	show around, show the way	[sound:MNN_案内します.mp3]	L24
 1354	説明します	説[せつ] 明[めい]します	explain	[sound:MNN_説明します.mp3]	L24
-1355	おじいさん、おじいちゃん	おじいさん、おじいちゃん	grandfather, old man	[sound:MNN_おじいさん、おじいちゃん.mp3]	L24
-1356	おばあさん、おばあちゃん	おばあさん、おばあちゃん	grandmother, old woman	[sound:MNN_おばあさん、おばあちゃん.mp3]	L24
-1357	準備をします	準[じゅん] 備[び]をします	prepare	[sound:MNN_準備をします.mp3]	L24 L30U
-1358	引っ越しします	引[ひ]っ 越[こ]しします	move out	[sound:MNN_引っ越しします.mp3]	L24
-1359	お菓子	お 菓[か] 子[し]	sweets, snacks	[sound:MNN_お菓子.mp3]	L24
+1355	お爺さん（お爺ちゃん）	お 爺[じい]さん（お 爺[じい]ちゃん）	grandfather, old man	[sound:MNN_お爺さん.mp3][sound:MNN_お爺ちゃん.mp3]	L24
+1356	お婆さん（お婆ちゃん）	お 婆[ばあ]さん（お 婆[ばあ]ちゃん）	grandmother, old woman	[sound:MNN_お婆さん.mp3][sound:MNN_お婆ちゃん.mp3]	L24
+1357	準備「「を」します」	準[じゅん] 備[び]「「を」します」	prepare	[sound:MNN_準備「「を」します」.mp3]	L24 L30U
+1358	引っ越し「「を」します」	引[ひ]っ 越[こ]「「を」しします」	move out	[sound:MNN_引っ越し「「を」します」.mp3]	L24
+1359	「お」菓子	「お」 菓[か] 子[し]	sweets, snacks	[sound:MNN_「お」菓子.mp3]	L24
 1360	ホームステイ	ホームステイ	homestay	[sound:MNN_ホームステイ.mp3]	L24
 1361	全部	全[ぜん] 部[ぶ]	all	[sound:MNN_全部.mp3]	L24
 1362	自分で	自[じ] 分[ぶん]で	by oneself	[sound:MNN_自分で.mp3]	L24
