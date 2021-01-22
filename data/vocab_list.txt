@@ -322,7 +322,7 @@
 野菜	野[や] 菜[さい]	vegetable	L06
 果物	果物[くだもの]	fruit	L06
 水	水[みず]	water	L06
-お茶	お 茶[ちゃ]	tea, green tea	L06 L19U
+お茶	お 茶[ちゃ]	tea, green tea	L06 L19
 紅茶	紅[こう] 茶[ちゃ]	black tea	L06 L11U
 牛乳（ミルク）	牛[ぎゅう] 乳[にゅう]（ミルク）	milk	L06
 ジュース	ジュース	juice	L06 L11U
@@ -605,7 +605,7 @@
 スケート	スケート	skating	L09U
 野球	野[や] 球[きゅう]	baseball	L09U
 卓球（ピンポン）	卓[たっ] 球[きゅう]（ピンポン）	table tennis (ping-pong​)	L09U
-相撲	相撲[すもう]	sumo	L09U L19
+相撲「をします」	相撲[すもう]「をします」	sumo	L09U L19
 柔道	柔[じゅう] 道[どう]	judo	L09U L19U L36
 剣道	剣[けん] 道[どう]	Japanese fencing	L09U L19U L36
 水泳	水[すい] 泳[えい]	swimming	L09U L36
@@ -1140,16 +1140,16 @@
 伸ばす	伸[の]ばす	extend	L18U
 転ぶ	転[ころ]ぶ	fall down	L18U
 振り向く	振[ふ]り 向[む]く	look back	L18U
-登ります、上ります	登[のぼ]ります、 上[のぼ]ります	climb, go up	L19
-ホテルに泊まります	ホテルに 泊[と]まります	stay at a hotel	L19
+登ります（上ります）	登[のぼ]ります（ 上[のぼ]ります）	climb, go up	L19
+「ホテルに」泊まります	「ホテルに」 泊[と]まります	stay [at a hotel]	L19
 掃除します	掃[そう] 除[じ]します	clean (a room)	L19
 洗濯します	洗[せん] 濯[たく]します	wash (clothes)	L19
 なります	なります	become	L19
 眠い	眠[ねむ]い	sleepy	L19
 強い	強[つよ]い	strong	L19
 弱い	弱[よわ]い	weak	L19
-練習します	練[れん] 習[しゅう]します	practice	L19
-ゴルフをします	ゴルフをします	play golf	L19
+練習「「を」します」	練[れん] 習[しゅう]「「を」します」	practice	L19
+ゴルフ「をします」	ゴルフ「をします」	[play] golf	L19
 日	日[ひ]	day, date	L19
 調子	調[ちょう] 子[し]	condition	L19
 一度	一[いち] 度[ど]	once	L19
@@ -1159,7 +1159,7 @@
 おかげさまで	おかげさまで	Thank you (used when expressing gratitude for help received)	L19
 でも	でも	but	L19
 乾杯	乾[かん] 杯[ぱい]	cheers!	L19
-ダイエットをします	ダイエットをします	go on a diet	L19
+ダイエット「をします」	ダイエット「をします」	[go on a] diet	L19
 無理「な」	無[む] 理[り]「な」	excessive, impossible	L19
 体にいい	体[からだ]にいい	good for one's health	L19
 伝統文化	伝[でん] 統[とう] 文[ぶん] 化[か]	traditional culture	L19U
@@ -1174,7 +1174,7 @@
 落語	落[らく] 語[ご]	traditional Japanese comic storytelling; comic story (told by a professional storyteller)​	L19U
 囲碁	囲[い] 碁[ご]	go (board game of capturing territory​)	L19U
 将棋	将[しょう] 棋[ぎ]	shogi (Japanese chess)	L19U
-盆踊り	盆[ぼん] 踊[おど]り	Bon Festival dance (Lantern Festival dance​)	L19 L49U
+盆踊り	盆[ぼん] 踊[おど]り	Bon Festival dance (Lantern Festival dance​)	L19U L49U
 ビザが要ります	ビザが 要[い]ります	need, require a visa	L20
 調べます	調[しら]べます	check, investigate	L20
 修理します	修[しゅう] 理[り]します	repair	L20 L27U

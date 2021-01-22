@@ -322,7 +322,7 @@
 322	野菜	野[や] 菜[さい]	vegetable	[sound:MNN_野菜.mp3]	L06
 323	果物	果物[くだもの]	fruit	[sound:MNN_果物.mp3]	L06
 324	水	水[みず]	water	[sound:MNN_水.mp3]	L06
-325	お茶	お 茶[ちゃ]	tea, green tea	[sound:MNN_お茶.mp3]	L06 L19U
+325	お茶	お 茶[ちゃ]	tea, green tea	[sound:MNN_お茶.mp3]	L06 L19
 326	紅茶	紅[こう] 茶[ちゃ]	black tea	[sound:MNN_紅茶.mp3]	L06 L11U
 327	牛乳（ミルク）	牛[ぎゅう] 乳[にゅう]（ミルク）	milk	[sound:MNN_牛乳.mp3][sound:MNN_ミルク.mp3]	L06
 328	ジュース	ジュース	juice	[sound:MNN_ジュース.mp3]	L06 L11U
@@ -605,7 +605,7 @@
 605	スケート	スケート	skating	[sound:MNN_スケート.mp3]	L09U
 606	野球	野[や] 球[きゅう]	baseball	[sound:MNN_野球.mp3]	L09U
 607	卓球（ピンポン）	卓[たっ] 球[きゅう]（ピンポン）	table tennis (ping-pong​)	[sound:MNN_卓球.mp3][sound:MNN_ピンポン.mp3]	L09U
-608	相撲	相撲[すもう]	sumo	[sound:MNN_相撲.mp3]	L09U L19
+608	相撲「をします」	相撲[すもう]「をします」	sumo	[sound:MNN_相撲「をします」.mp3]	L09U L19
 609	柔道	柔[じゅう] 道[どう]	judo	[sound:MNN_柔道.mp3]	L09U L19U L36
 610	剣道	剣[けん] 道[どう]	Japanese fencing	[sound:MNN_剣道.mp3]	L09U L19U L36
 611	水泳	水[すい] 泳[えい]	swimming	[sound:MNN_水泳.mp3]	L09U L36
@@ -1140,16 +1140,16 @@
 1140	伸ばす	伸[の]ばす	extend	[sound:MNN_伸ばす.mp3]	L18U
 1141	転ぶ	転[ころ]ぶ	fall down	[sound:MNN_転ぶ.mp3]	L18U
 1142	振り向く	振[ふ]り 向[む]く	look back	[sound:MNN_振り向く.mp3]	L18U
-1143	登ります、上ります	登[のぼ]ります、 上[のぼ]ります	climb, go up	[sound:MNN_登ります、上ります.mp3]	L19
-1144	ホテルに泊まります	ホテルに 泊[と]まります	stay at a hotel	[sound:MNN_ホテルに泊まります.mp3]	L19
+1143	登ります（上ります）	登[のぼ]ります（ 上[のぼ]ります）	climb, go up	[sound:MNN_登ります.mp3][sound:MNN_上ります.mp3]	L19
+1144	「ホテルに」泊まります	「ホテルに」 泊[と]まります	stay [at a hotel]	[sound:MNN_「ホテルに」泊まります.mp3]	L19
 1145	掃除します	掃[そう] 除[じ]します	clean (a room)	[sound:MNN_掃除します.mp3]	L19
 1146	洗濯します	洗[せん] 濯[たく]します	wash (clothes)	[sound:MNN_洗濯します.mp3]	L19
 1147	なります	なります	become	[sound:MNN_なります.mp3]	L19
 1148	眠い	眠[ねむ]い	sleepy	[sound:MNN_眠い.mp3]	L19
 1149	強い	強[つよ]い	strong	[sound:MNN_強い.mp3]	L19
 1150	弱い	弱[よわ]い	weak	[sound:MNN_弱い.mp3]	L19
-1151	練習します	練[れん] 習[しゅう]します	practice	[sound:MNN_練習します.mp3]	L19
-1152	ゴルフをします	ゴルフをします	play golf	[sound:MNN_ゴルフをします.mp3]	L19
+1151	練習「「を」します」	練[れん] 習[しゅう]「「を」します」	practice	[sound:MNN_練習「「を」します」.mp3]	L19
+1152	ゴルフ「をします」	ゴルフ「をします」	[play] golf	[sound:MNN_ゴルフ「をします」.mp3]	L19
 1153	日	日[ひ]	day, date	[sound:MNN_日.mp3]	L19
 1154	調子	調[ちょう] 子[し]	condition	[sound:MNN_調子.mp3]	L19
 1155	一度	一[いち] 度[ど]	once	[sound:MNN_一度.mp3]	L19
@@ -1159,7 +1159,7 @@
 1159	おかげさまで	おかげさまで	Thank you (used when expressing gratitude for help received)	[sound:MNN_おかげさまで.mp3]	L19
 1160	でも	でも	but	[sound:MNN_でも.mp3]	L19
 1161	乾杯	乾[かん] 杯[ぱい]	cheers!	[sound:MNN_乾杯.mp3]	L19
-1162	ダイエットをします	ダイエットをします	go on a diet	[sound:MNN_ダイエットをします.mp3]	L19
+1162	ダイエット「をします」	ダイエット「をします」	[go on a] diet	[sound:MNN_ダイエット「をします」.mp3]	L19
 1163	無理「な」	無[む] 理[り]「な」	excessive, impossible	[sound:MNN_無理「な」.mp3]	L19
 1164	体にいい	体[からだ]にいい	good for one's health	[sound:MNN_体にいい.mp3]	L19
 1165	伝統文化	伝[でん] 統[とう] 文[ぶん] 化[か]	traditional culture	[sound:MNN_伝統文化.mp3]	L19U
@@ -1174,7 +1174,7 @@
 1174	落語	落[らく] 語[ご]	traditional Japanese comic storytelling; comic story (told by a professional storyteller)​	[sound:MNN_落語.mp3]	L19U
 1175	囲碁	囲[い] 碁[ご]	go (board game of capturing territory​)	[sound:MNN_囲碁.mp3]	L19U
 1176	将棋	将[しょう] 棋[ぎ]	shogi (Japanese chess)	[sound:MNN_将棋.mp3]	L19U
-1177	盆踊り	盆[ぼん] 踊[おど]り	Bon Festival dance (Lantern Festival dance​)	[sound:MNN_盆踊り.mp3]	L19 L49U
+1177	盆踊り	盆[ぼん] 踊[おど]り	Bon Festival dance (Lantern Festival dance​)	[sound:MNN_盆踊り.mp3]	L19U L49U
 1178	ビザが要ります	ビザが 要[い]ります	need, require a visa	[sound:MNN_ビザが要ります.mp3]	L20
 1179	調べます	調[しら]べます	check, investigate	[sound:MNN_調べます.mp3]	L20
 1180	修理します	修[しゅう] 理[り]します	repair	[sound:MNN_修理します.mp3]	L20 L27U

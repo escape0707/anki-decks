@@ -1,5 +1,4 @@
 import shutil
-from itertools import islice
 from pathlib import Path
 from typing import List, cast
 
@@ -20,7 +19,7 @@ def split_and_save(input_file: Path, output_dir: Path) -> None:
     )
 
     # Skip audio chunks "daiikka" & "dango"
-    for i, chunk in enumerate(islice(chuck_collection, 2, None)):
+    for i, chunk in enumerate(chuck_collection):
         chunk.export(output_dir / (str(i).zfill(4) + ".mp3"))
 
 
