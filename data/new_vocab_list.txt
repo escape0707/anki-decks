@@ -141,7 +141,7 @@
 141	バンコク	バンコク	Bangkok	[sound:MNN_バンコク.mp3]	L03
 142	ベルリン	ベルリン	Berlin	[sound:MNN_ベルリン.mp3]	L03
 143	新大阪	新[しん] 大[おお] 阪[さか]	New Osaka (station name)	[sound:MNN_新大阪.mp3]	L03
-144	駐車場	駐[ちゅう] 車[しゃ] 場[じょう]	car park, parking lot	[sound:MNN_駐車場.mp3]	L03U L13U
+144	駐車場	駐[ちゅう] 車[しゃ] 場[じょう]	car park, parking lot	[sound:MNN_駐車場.mp3]	L03U L13U L23
 145	食品	食[しょく] 品[ひん]	food products	[sound:MNN_食品.mp3]	L03U L30U
 146	アクセサリー	アクセサリー	accessories	[sound:MNN_アクセサリー.mp3]	L03U
 147	化粧品	化[け] 粧[しょう] 品[ひん]	cosmetics	[sound:MNN_化粧品.mp3]	L03U
@@ -1307,20 +1307,20 @@
 1307	帯	帯[おび]	obi, kimono sash​	[sound:MNN_帯.mp3]	L22U
 1308	ぞうり	ぞうり	zori, Japanese sandals​	[sound:MNN_ぞうり.mp3]	L22U
 1309	たび	たび	tabi, Japanese socks (with split toe)​	[sound:MNN_たび.mp3]	L22U
-1310	先生に聞きます	先[せん] 生[せい]に 聞[き]きます	ask the teacher	[sound:MNN_先生に聞きます.mp3]	L23
+1310	「先生に」聞きます	「 先[せん] 生[せい]に」 聞[き]きます	ask [the teacher]	[sound:MNN_「先生に」聞きます.mp3]	L23
 1311	回します	回[まわ]します	turn	[sound:MNN_回します.mp3]	L23
 1312	引きます	引[ひ]きます	pull	[sound:MNN_引きます.mp3]	L23
 1313	変えます	変[か]えます	change	[sound:MNN_変えます.mp3]	L23
-1314	ドアに触ります	ドアに 触[さわ]ります	touch a door	[sound:MNN_ドアに触ります.mp3]	L23
-1315	お釣りが出ます	お 釣[つ]りが 出[で]ます	balance/change come out	[sound:MNN_お釣りが出ます.mp3]	L23
+1314	「ドアに」触ります	「ドアに」 触[さわ]ります	touch [a door]	[sound:MNN_「ドアに」触ります.mp3]	L23
+1315	「お釣りが」出ます	「お 釣[つ]りが」 出[で]ます	balance/change [come out]	[sound:MNN_「お釣りが」出ます.mp3]	L23
 1316	歩きます	歩[ある]きます	walk	[sound:MNN_歩きます.mp3]	L23
-1317	橋を渡ります	橋[はし]を 渡[わた]ります	cross a bridge	[sound:MNN_橋を渡ります.mp3]	L23
-1318	右へ曲がります	右[みぎ]へ 曲[ま]がります	turn to the right	[sound:MNN_右へ曲がります.mp3]	L23
+1317	「橋を」渡ります	「 橋[はし]を」 渡[わた]ります	cross [a bridge]	[sound:MNN_「橋を」渡ります.mp3]	L23
+1318	「右へ」曲がります	「 右[みぎ]へ」 曲[ま]がります	turn to [the right]	[sound:MNN_「右へ」曲がります.mp3]	L23
 1319	寂しい	寂[さび]しい	lonely	[sound:MNN_寂しい.mp3]	L23 L39U
-1320	お湯	お 湯[ゆ]	hot water	[sound:MNN_お湯.mp3]	L23
+1320	「お」湯	「お」 湯[ゆ]	hot water	[sound:MNN_「お」湯.mp3]	L23
 1321	音	音[おと]	sound	[sound:MNN_音.mp3]	L23
 1322	サイズ	サイズ	size	[sound:MNN_サイズ.mp3]	L23
-1323	故障します	故[こ] 障[しょう]します	breakdown	[sound:MNN_故障します.mp3]	L23
+1323	故障「します」	故[こ] 障[しょう]「します」	breakdown	[sound:MNN_故障「します」.mp3]	L23
 1324	道	道[みち]	road	[sound:MNN_道.mp3]	L23
 1325	交差点	交[こう] 差[さ] 点[てん]	crossroads	[sound:MNN_交差点.mp3]	L23
 1326	信号	信[しん] 号[ごう]	traffic lights	[sound:MNN_信号.mp3]	L23

@@ -141,7 +141,7 @@
 バンコク	バンコク	Bangkok	L03
 ベルリン	ベルリン	Berlin	L03
 新大阪	新[しん] 大[おお] 阪[さか]	New Osaka (station name)	L03
-駐車場	駐[ちゅう] 車[しゃ] 場[じょう]	car park, parking lot	L03U L13U
+駐車場	駐[ちゅう] 車[しゃ] 場[じょう]	car park, parking lot	L03U L13U L23
 食品	食[しょく] 品[ひん]	food products	L03U L30U
 アクセサリー	アクセサリー	accessories	L03U
 化粧品	化[け] 粧[しょう] 品[ひん]	cosmetics	L03U
@@ -1307,20 +1307,20 @@
 帯	帯[おび]	obi, kimono sash​	L22U
 ぞうり	ぞうり	zori, Japanese sandals​	L22U
 たび	たび	tabi, Japanese socks (with split toe)​	L22U
-先生に聞きます	先[せん] 生[せい]に 聞[き]きます	ask the teacher	L23
+「先生に」聞きます	「 先[せん] 生[せい]に」 聞[き]きます	ask [the teacher]	L23
 回します	回[まわ]します	turn	L23
 引きます	引[ひ]きます	pull	L23
 変えます	変[か]えます	change	L23
-ドアに触ります	ドアに 触[さわ]ります	touch a door	L23
-お釣りが出ます	お 釣[つ]りが 出[で]ます	balance/change come out	L23
+「ドアに」触ります	「ドアに」 触[さわ]ります	touch [a door]	L23
+「お釣りが」出ます	「お 釣[つ]りが」 出[で]ます	balance/change [come out]	L23
 歩きます	歩[ある]きます	walk	L23
-橋を渡ります	橋[はし]を 渡[わた]ります	cross a bridge	L23
-右へ曲がります	右[みぎ]へ 曲[ま]がります	turn to the right	L23
+「橋を」渡ります	「 橋[はし]を」 渡[わた]ります	cross [a bridge]	L23
+「右へ」曲がります	「 右[みぎ]へ」 曲[ま]がります	turn to [the right]	L23
 寂しい	寂[さび]しい	lonely	L23 L39U
-お湯	お 湯[ゆ]	hot water	L23
+「お」湯	「お」 湯[ゆ]	hot water	L23
 音	音[おと]	sound	L23
 サイズ	サイズ	size	L23
-故障します	故[こ] 障[しょう]します	breakdown	L23
+故障「します」	故[こ] 障[しょう]「します」	breakdown	L23
 道	道[みち]	road	L23
 交差点	交[こう] 差[さ] 点[てん]	crossroads	L23
 信号	信[しん] 号[ごう]	traffic lights	L23
