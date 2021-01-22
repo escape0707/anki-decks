@@ -98,7 +98,7 @@
 98	そこ	そこ	there, that place near the listener	[sound:MNN_そこ.mp3]	L03
 99	あそこ	あそこ	that place over there	[sound:MNN_あそこ.mp3]	L03
 100	どこ	どこ	where, what place	[sound:MNN_どこ.mp3]	L03
-101	こちら	こちら	this way, this place (polite); my side	[sound:MNN_こちら.mp3]	L03 L46
+101	こちら	こちら	this way, this place (polite); my side	[sound:MNN_こちら.mp3]	L03 L22 L46
 102	そちら	そちら	that way, that place near the listener (polite)	[sound:MNN_そちら.mp3]	L03
 103	あちら	あちら	that way, that place over there (polite)	[sound:MNN_あちら.mp3]	L03
 104	どちら	どちら	which way, where (polite), which one (of two things)	[sound:MNN_どちら.mp3]	L03 L12
@@ -155,7 +155,7 @@
 155	文房具	文[ぶん] 房[ぼう] 具[ぐ]	stationery	[sound:MNN_文房具.mp3]	L03U
 156	スポーツ用品	スポーツ 用[よう] 品[ひん]	sporting goods	[sound:MNN_スポーツ用品.mp3]	L03U
 157	旅行用品	旅[りょ] 行[こう] 用[よう] 品[ひん]	leisure goods	[sound:MNN_旅行用品.mp3]	L03U L41
-158	眼鏡	眼鏡[めがね]	spectacles, glasses	[sound:MNN_眼鏡.mp3]	L03U
+158	眼鏡	眼鏡[めがね]	spectacles, glasses	[sound:MNN_眼鏡.mp3]	L03U L22
 159	レストラン	レストラン	restaurant	[sound:MNN_レストラン.mp3]	L03U L08
 160	催し物会場	催[もよお]し 物[もの] 会[かい] 場[じょう]	event hall	[sound:MNN_催し物会場.mp3]	L03U
 161	屋上	屋[おく] 上[じょう]	rooftop	[sound:MNN_屋上.mp3]	L03U L35
@@ -563,7 +563,7 @@
 563	アルバイト「をします」	アルバイト「をします」	[do] part-time job	[sound:MNN_アルバイト「をします」.mp3]	L09 L46U
 564	ご主人	ご 主[しゅ] 人[じん]	(someone else's) husband	[sound:MNN_ご主人.mp3]	L07U L09
 565	奥さん	奥[おく]さん	(someone else's) wife	[sound:MNN_奥さん.mp3]	L07U L09
-566	よく	よく	well, much	[sound:MNN_よく.mp3]	L09
+566	よく	よく	well, much, often	[sound:MNN_よく.mp3]	L09, L22
 567	だいたい	だいたい	mostly, roughly	[sound:MNN_だいたい.mp3]	L09
 568	たくさん	たくさん	many, much	[sound:MNN_たくさん.mp3]	L09
 569	少し	少[すこ]し	a little, a few	[sound:MNN_少し.mp3]	L09
@@ -1259,24 +1259,24 @@
 1259	駅長	駅[えき] 長[ちょう]	station master​	[sound:MNN_駅長.mp3]	L21U
 1260	警察	警[けい] 察[さつ]	police station	[sound:MNN_警察.mp3]	L21U L33
 1261	署長	署[しょ] 長[ちょう]	chief, head, officer in charge (of an office, of a laboratory)​	[sound:MNN_署長.mp3]	L21U
-1262	着ます	着[き]ます	put on (a shirt, etc.)	[sound:MNN_着ます.mp3]	L22
-1263	はきます	はきます	put on (shoes, trousers, etc.)	[sound:MNN_はきます.mp3]	L22
-1264	かぶります	かぶります	put on (a hat, etc.)	[sound:MNN_かぶります.mp3]	L22
-1265	眼鏡をかけます	眼鏡[めがね]をかけます	put on glasses	[sound:MNN_眼鏡をかけます.mp3]	L22
-1266	ネクタイをします	ネクタイをします	put on tie	[sound:MNN_ネクタイをします.mp3]	L22
+1262	「着物を」着ます	「 着[き] 物[もの]を」着[き]ます	put on [a Kimono（和服）] (shirt, etc.)	[sound:MNN_「着物を」着ます.mp3]	L22
+1263	「靴を」履きます	「靴を」 履[は]きます	put on [shoes] (trousers, etc.)	[sound:MNN_「靴を」履きます.mp3]	L22
+1264	「帽子を」被ります	「帽子を」被[かぶ]ります	put on [a hat] (helmet, etc.)	[sound:MNN_「帽子を」被ります.mp3]	L22
+1265	「眼鏡を」かけます	「眼鏡[めがね]を」かけます	put on [glasses]	[sound:MNN_「眼鏡を」かけます.mp3]	L22
+1266	「ネクタイを」します	「ネクタイを」します	put on [tie]	[sound:MNN_「ネクタイを」します.mp3]	L22
 1267	生まれます	生[う]まれます	be born	[sound:MNN_生まれます.mp3]	L22 L25U
-1268	私たち	私[わたし]たち	we	[sound:MNN_私たち.mp3]	L22
+1268	私達	私[わたし] 達[たち]	we	[sound:MNN_私達.mp3]	L22
 1269	コート	コート	coat	[sound:MNN_コート.mp3]	L22
 1270	セーター	セーター	sweater	[sound:MNN_セーター.mp3]	L22
 1271	スーツ	スーツ	suit	[sound:MNN_スーツ.mp3]	L22 L46U
 1272	帽子	帽[ぼう] 子[し]	hat, cap	[sound:MNN_帽子.mp3]	L22
 1273	ケーキ	ケーキ	cake	[sound:MNN_ケーキ.mp3]	L22
-1274	お弁当	お 弁[べん] 当[とう]	box lunch	[sound:MNN_お弁当.mp3]	L22
+1274	「お」弁当	「お」 弁[べん] 当[とう]	box lunch	[sound:MNN_「お」弁当.mp3]	L22
 1275	ロボット	ロボット	robot	[sound:MNN_ロボット.mp3]	L22
 1276	ユーモア	ユーモア	humour	[sound:MNN_ユーモア.mp3]	L22
 1277	都合	都[つ] 合[ごう]	circumstances, condition, convenience​	[sound:MNN_都合.mp3]	L22
 1278	えーと	えーと	well, let me see	[sound:MNN_えーと.mp3]	L22
-1279	おめでとうございます	おめでとうございます	congratulations	[sound:MNN_おめでとうございます.mp3]	L22
+1279	おめでとう「ございます」。	おめでとう「ございます」。	congratulations	[sound:MNN_おめでとう「ございます」。.mp3]	L22
 1280	お探しですか。	お 探[さが]しですか。	Are you looking for ～?	[sound:MNN_お探しですか。.mp3]	L22
 1281	では	では	Well then,	[sound:MNN_では.mp3]	L22
 1282	家賃	家[や] 賃[ちん]	rent	[sound:MNN_家賃.mp3]	L22 L28U

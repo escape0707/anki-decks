@@ -98,7 +98,7 @@
 そこ	そこ	there, that place near the listener	L03
 あそこ	あそこ	that place over there	L03
 どこ	どこ	where, what place	L03
-こちら	こちら	this way, this place (polite); my side	L03 L46
+こちら	こちら	this way, this place (polite); my side	L03 L22 L46
 そちら	そちら	that way, that place near the listener (polite)	L03
 あちら	あちら	that way, that place over there (polite)	L03
 どちら	どちら	which way, where (polite), which one (of two things)	L03 L12
@@ -155,7 +155,7 @@
 文房具	文[ぶん] 房[ぼう] 具[ぐ]	stationery	L03U
 スポーツ用品	スポーツ 用[よう] 品[ひん]	sporting goods	L03U
 旅行用品	旅[りょ] 行[こう] 用[よう] 品[ひん]	leisure goods	L03U L41
-眼鏡	眼鏡[めがね]	spectacles, glasses	L03U
+眼鏡	眼鏡[めがね]	spectacles, glasses	L03U L22
 レストラン	レストラン	restaurant	L03U L08
 催し物会場	催[もよお]し 物[もの] 会[かい] 場[じょう]	event hall	L03U
 屋上	屋[おく] 上[じょう]	rooftop	L03U L35
@@ -563,7 +563,7 @@
 アルバイト「をします」	アルバイト「をします」	[do] part-time job	L09 L46U
 ご主人	ご 主[しゅ] 人[じん]	(someone else's) husband	L07U L09
 奥さん	奥[おく]さん	(someone else's) wife	L07U L09
-よく	よく	well, much	L09
+よく	よく	well, much, often	L09, L22
 だいたい	だいたい	mostly, roughly	L09
 たくさん	たくさん	many, much	L09
 少し	少[すこ]し	a little, a few	L09
@@ -1259,24 +1259,24 @@
 駅長	駅[えき] 長[ちょう]	station master​	L21U
 警察	警[けい] 察[さつ]	police station	L21U L33
 署長	署[しょ] 長[ちょう]	chief, head, officer in charge (of an office, of a laboratory)​	L21U
-着ます	着[き]ます	put on (a shirt, etc.)	L22
-はきます	はきます	put on (shoes, trousers, etc.)	L22
-かぶります	かぶります	put on (a hat, etc.)	L22
-眼鏡をかけます	眼鏡[めがね]をかけます	put on glasses	L22
-ネクタイをします	ネクタイをします	put on tie	L22
+「着物を」着ます	「 着[き] 物[もの]を」着[き]ます	put on [a Kimono（和服）] (shirt, etc.)	L22
+「靴を」履きます	「靴を」 履[は]きます	put on [shoes] (trousers, etc.)	L22
+「帽子を」被ります	「帽子を」被[かぶ]ります	put on [a hat] (helmet, etc.)	L22
+「眼鏡を」かけます	「眼鏡[めがね]を」かけます	put on [glasses]	L22
+「ネクタイを」します	「ネクタイを」します	put on [tie]	L22
 生まれます	生[う]まれます	be born	L22 L25U
-私たち	私[わたし]たち	we	L22
+私達	私[わたし] 達[たち]	we	L22
 コート	コート	coat	L22
 セーター	セーター	sweater	L22
 スーツ	スーツ	suit	L22 L46U
 帽子	帽[ぼう] 子[し]	hat, cap	L22
 ケーキ	ケーキ	cake	L22
-お弁当	お 弁[べん] 当[とう]	box lunch	L22
+「お」弁当	「お」 弁[べん] 当[とう]	box lunch	L22
 ロボット	ロボット	robot	L22
 ユーモア	ユーモア	humour	L22
 都合	都[つ] 合[ごう]	circumstances, condition, convenience​	L22
 えーと	えーと	well, let me see	L22
-おめでとうございます	おめでとうございます	congratulations	L22
+おめでとう「ございます」。	おめでとう「ございます」。	congratulations	L22
 お探しですか。	お 探[さが]しですか。	Are you looking for ～?	L22
 では	では	Well then,	L22
 家賃	家[や] 賃[ちん]	rent	L22 L28U
