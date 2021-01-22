@@ -588,7 +588,7 @@
 オペラ	オペラ	opera (music)	L09U L46U
 ＳＦ	ＳＦ	science fiction (film)	L09U
 ホラー	ホラー	horror	L09U
-アニメ	アニメ	animation	L09U
+アニメ	アニメ	animation	L09U L21
 ドキュメンタリー	ドキュメンタリー	documentary	L09U
 恋愛	恋[れん] 愛[あい]	romance	L09U
 ミステリー	ミステリー	mystery	L09U
@@ -1200,17 +1200,17 @@
 言います	言[い]います	say	L21
 勝ちます	勝[か]ちます	win	L21
 負けます	負[ま]けます	lose, be beaten	L21
-お祭りがあります	お 祭[まつ]りがあります	a festival is held/take place	L21
+「お祭りが」あります	「お 祭[まつ]りが」あります	[a festival] is held/take place	L21
 役に立ちます	役[やく]に 立[だ]ちます	be useful	L21
 動きます	動[うご]きます	move, work	L21
-会社をやめます	会[かい] 社[しゃ]をやめます	quit, retire, stop, give up from a company	L21
+「会社を」やめます	「 会[かい] 社[しゃ]を」やめます	quit, retire, stop, give up [from a company]	L21
 気をつけます	気[き]をつけます	pay attention, take care	L21
 留学します	留[りゅう] 学[がく]します	study abroad	L21
-むだ「な」	むだ「な」	wasteful	L21
+無駄「な」	無[む] 駄[だ]「な」	wasteful	L21
 不便「な」	不[ふ] 便[べん]「な」	inconvenient	L21
-すごい	すごい	awful, great (express astonishment or admiration)	L21
+凄い	凄[すご] い	awful, great (express astonishment or admiration)	L21
 本当	本[ほん] 当[とう]	true	L21
-うそ	うそ	lie	L21
+嘘	嘘[うそ]	lie	L21
 自動車	自[じ] 動[どう] 車[しゃ]	car, automobile	L21
 交通	交[こう] 通[つう]	transport, traffic	L21
 物価	物[ぶっ] 価[か]	(commodity) prices	L21
@@ -1221,13 +1221,13 @@
 デザイン	デザイン	design, artwork	L21
 夢	夢[ゆめ]	dream	L21
 天才	天[てん] 才[さい]	genius	L21
-試合をします	試[し] 合[あい]をします	play a game, match	L21
+試合「をします」	試[し] 合[あい]「をします」	[play a] game, match	L21
 意見	意[い] 見[けん]	opinion	L21
 話をします	話[はなし]をします	talk, speech	L21
 地球	地[ち] 球[きゅう]	earth	L21
 月	月[つき]	moon	L21
 最近	最[さい] 近[きん]	recently, these days	L21
-たぶん	たぶん	probably, perhaps, maybe	L21
+多分	多[た] 分[ぶん]	probably, perhaps, maybe	L21
 きっと	きっと	surely, definitely	L21
 本当に	本[ほん] 当[とう]に	really	L21
 そんなに	そんなに	not so (used with negatives); that (much, etc.) (concerning a matter related to the listener)	L21 L32

@@ -588,7 +588,7 @@
 588	オペラ	オペラ	opera (music)	[sound:MNN_オペラ.mp3]	L09U L46U
 589	ＳＦ	ＳＦ	science fiction (film)	[sound:MNN_ＳＦ.mp3]	L09U
 590	ホラー	ホラー	horror	[sound:MNN_ホラー.mp3]	L09U
-591	アニメ	アニメ	animation	[sound:MNN_アニメ.mp3]	L09U
+591	アニメ	アニメ	animation	[sound:MNN_アニメ.mp3]	L09U L21
 592	ドキュメンタリー	ドキュメンタリー	documentary	[sound:MNN_ドキュメンタリー.mp3]	L09U
 593	恋愛	恋[れん] 愛[あい]	romance	[sound:MNN_恋愛.mp3]	L09U
 594	ミステリー	ミステリー	mystery	[sound:MNN_ミステリー.mp3]	L09U
@@ -1200,17 +1200,17 @@
 1200	言います	言[い]います	say	[sound:MNN_言います.mp3]	L21
 1201	勝ちます	勝[か]ちます	win	[sound:MNN_勝ちます.mp3]	L21
 1202	負けます	負[ま]けます	lose, be beaten	[sound:MNN_負けます.mp3]	L21
-1203	お祭りがあります	お 祭[まつ]りがあります	a festival is held/take place	[sound:MNN_お祭りがあります.mp3]	L21
+1203	「お祭りが」あります	「お 祭[まつ]りが」あります	[a festival] is held/take place	[sound:MNN_「お祭りが」あります.mp3]	L21
 1204	役に立ちます	役[やく]に 立[だ]ちます	be useful	[sound:MNN_役に立ちます.mp3]	L21
 1205	動きます	動[うご]きます	move, work	[sound:MNN_動きます.mp3]	L21
-1206	会社をやめます	会[かい] 社[しゃ]をやめます	quit, retire, stop, give up from a company	[sound:MNN_会社をやめます.mp3]	L21
+1206	「会社を」やめます	「 会[かい] 社[しゃ]を」やめます	quit, retire, stop, give up [from a company]	[sound:MNN_「会社を」やめます.mp3]	L21
 1207	気をつけます	気[き]をつけます	pay attention, take care	[sound:MNN_気をつけます.mp3]	L21
 1208	留学します	留[りゅう] 学[がく]します	study abroad	[sound:MNN_留学します.mp3]	L21
-1209	むだ「な」	むだ「な」	wasteful	[sound:MNN_むだ「な」.mp3]	L21
+1209	無駄「な」	無[む] 駄[だ]「な」	wasteful	[sound:MNN_無駄「な」.mp3]	L21
 1210	不便「な」	不[ふ] 便[べん]「な」	inconvenient	[sound:MNN_不便「な」.mp3]	L21
-1211	すごい	すごい	awful, great (express astonishment or admiration)	[sound:MNN_すごい.mp3]	L21
+1211	凄い	凄[すご] い	awful, great (express astonishment or admiration)	[sound:MNN_凄い.mp3]	L21
 1212	本当	本[ほん] 当[とう]	true	[sound:MNN_本当.mp3]	L21
-1213	うそ	うそ	lie	[sound:MNN_うそ.mp3]	L21
+1213	嘘	嘘[うそ]	lie	[sound:MNN_嘘.mp3]	L21
 1214	自動車	自[じ] 動[どう] 車[しゃ]	car, automobile	[sound:MNN_自動車.mp3]	L21
 1215	交通	交[こう] 通[つう]	transport, traffic	[sound:MNN_交通.mp3]	L21
 1216	物価	物[ぶっ] 価[か]	(commodity) prices	[sound:MNN_物価.mp3]	L21
@@ -1221,13 +1221,13 @@
 1221	デザイン	デザイン	design, artwork	[sound:MNN_デザイン.mp3]	L21
 1222	夢	夢[ゆめ]	dream	[sound:MNN_夢.mp3]	L21
 1223	天才	天[てん] 才[さい]	genius	[sound:MNN_天才.mp3]	L21
-1224	試合をします	試[し] 合[あい]をします	play a game, match	[sound:MNN_試合をします.mp3]	L21
+1224	試合「をします」	試[し] 合[あい]「をします」	[play a] game, match	[sound:MNN_試合「をします」.mp3]	L21
 1225	意見	意[い] 見[けん]	opinion	[sound:MNN_意見.mp3]	L21
 1226	話をします	話[はなし]をします	talk, speech	[sound:MNN_話をします.mp3]	L21
 1227	地球	地[ち] 球[きゅう]	earth	[sound:MNN_地球.mp3]	L21
 1228	月	月[つき]	moon	[sound:MNN_月.mp3]	L21
 1229	最近	最[さい] 近[きん]	recently, these days	[sound:MNN_最近.mp3]	L21
-1230	たぶん	たぶん	probably, perhaps, maybe	[sound:MNN_たぶん.mp3]	L21
+1230	多分	多[た] 分[ぶん]	probably, perhaps, maybe	[sound:MNN_多分.mp3]	L21
 1231	きっと	きっと	surely, definitely	[sound:MNN_きっと.mp3]	L21
 1232	本当に	本[ほん] 当[とう]に	really	[sound:MNN_本当に.mp3]	L21
 1233	そんなに	そんなに	not so (used with negatives); that (much, etc.) (concerning a matter related to the listener)	[sound:MNN_そんなに.mp3]	L21 L32
