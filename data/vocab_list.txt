@@ -1017,7 +1017,7 @@
 残高照会	残[ざん] 高[だか] 照[しょう] 会[かい]	balance inquiry	L16U
 覚えます	覚[おぼ]えます	memorize	L17
 忘れます	忘[わす]れます	forget	L17
-なくします	なくします	lose	L17
+無くします	無[な]くします	lose	L17
 払います	払[はら]います	pay	L17
 返します	返[かえ]します	give back, return	L17
 出かけます	出[で]かけます	go out	L17
@@ -1027,18 +1027,17 @@
 心配します	心[しん] 配[ぱい]します	worry	L17
 残業します	残[ざん] 業[ぎょう]します	work overtime	L17
 出張します	出[しゅっ] 張[ちょう]します	go on a business trip	L17
-薬を飲みます	薬[くすり]を 飲[の]みます	take medicine	L17
-入ります	入[はい]ります	to enter, to go into	L17
+「薬を」飲みます	「 薬[くすり]を」 飲[の]みます	take [medicine]	L17
+「お風呂に」入ります	「お 風[ふ] 呂[ろ]に」 入[はい]ります	enter, go into [the bath]	L17
 大切「な」	大[たい] 切[せつ]「な」	important, precious	L17 L30U
 大丈夫「な」	大[だい] 丈[じょう] 夫[ぶ]「な」	all right	L17
 危ない	危[あぶ]ない	dangerous	L17
 禁煙	禁[きん] 煙[えん]	no smoking	L17
-健康	健[けん] 康[こう]	health	L17 L32 L36U L38
-保険証	保[ほ] 険[けん] 証[しょう]	insurance card	L17 L45U
+「健康」保険証	「 健[けん] 康[こう]」 保[ほ] 険[けん] 証[しょう]	[health] insurance card	L17 L45U
 熱	熱[ねつ]	temperature, fever	L17
 病気	病[びょう] 気[き]	illness, disease, sickness​	L17
 薬	薬[くすり]	medicine	L17
-お風呂	お 風[ふ] 呂[ろ]	bath	L17
+「お」風呂	「お」 風[ふ] 呂[ろ]	bath, bathroom, bathhouse	L17
 上着	上[うわ] 着[ぎ]	jacket, outerwear	L17
 下着	下[した] 着[ぎ]	underwear	L17
 ２，３日	２，３ 日[にち]	two or three days	L17
@@ -1047,7 +1046,7 @@
 ですから	ですから	therefore, so	L17
 どうしましたか。	どうしましたか。	What's the matter?	L17
 のど	のど	throat	L17
-痛い	痛[いた]い	pain	L17
+「～が」痛いです。	「～が」 痛[いた] いです。	[have a] pain [in]	L17
 風邪	風邪[かぜ]	cold, flu	L17
 お大事に。	お 大[だい] 事[じ]に。	take care of yourself, get well soon	L17
 あご	あご	chin, jaw	L17U
@@ -1769,6 +1768,7 @@
 宗教学	宗[しゅう] 教[きょう] 学[がく]	religious study	L31U
 芸術	芸[げい] 術[じゅつ]	arts	L31U L46
 体育学	体[たい] 育[いく] 学[がく]	physical education	L31U
+健康	健[けん] 康[こう]	health	L32 L36U L38
 運動します	運[うん] 動[どう]します	take exercise	L32 L36U
 成功します	成[せい] 功[こう]します	succeed	L32
 試験に失敗します	試[し] 験[けん]に 失[しっ] 敗[ぱい]します	fail an examination	L32
