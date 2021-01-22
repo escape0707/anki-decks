@@ -42,5 +42,6 @@
     "shogi",
     "tabi",
     "zfill"
-  ]
+  ],
+  "editor.insertSpaces": false
 }

@@ -1117,6 +1117,8 @@
 なかなか	なかなか	not easily (used with negatives)	L18
 ほんとうですか。	ほんとうですか。	Really?	L18
 ぜひ	ぜひ	by all means, really	L18
+故郷（故郷）（古里）	故郷[ふるさと]（ 故[こ] 郷[きょう]）（ 古里[ふるさと]）	hometown (ふるさと has an extra nostalgia emotion)	L18
+秋葉原	秋[あき] 葉[は] 原[ばら]	Akihabara (Urban area in Chiyoda, Tokyo)	L18
 動き	動[うご]き	action, movement, move, motion​	L18U
 飛ぶ	飛[と]ぶ	fly	L18U
 跳ぶ	跳[と]ぶ	jump	L18U
