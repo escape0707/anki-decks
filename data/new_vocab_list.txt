@@ -1455,7 +1455,7 @@
 1455	生ごみ	生[なま]ごみ	kitchen waste	[sound:MNN_生ごみ.mp3]	L26U
 1456	紙くず	紙[かみ]くず	paper waste​	[sound:MNN_紙くず.mp3]	L26U
 1457	不燃	不[ふ] 燃[ねん]	incombustibility​ (cannot burn easily)	[sound:MNN_不燃.mp3]	L26U
-1458	グラス	グラス	glass (material)	[sound:MNN_グラス.mp3]	L26U L29 L46U
+1458	がラス	がラス	glass (material)	[sound:MNN_がラス.mp3]	L26U L29 L46U
 1459	瀬戸物	瀬[せ] 戸[と] 物[もの]	earthenware, porcelain, china	[sound:MNN_瀬戸物.mp3]	L26U
 1460	金属製	金[きん] 属[ぞく] 製[せい]	made of metal​	[sound:MNN_金属製.mp3]	L26U
 1461	資源ごみ	資[し] 源[げん]ごみ	recyclable waste	[sound:MNN_資源ごみ.mp3]	L26U
@@ -1580,32 +1580,32 @@
 1580	ー階建て	ー 階[かい] 建[だ]て	ー storey building	[sound:MNN_ー階建て.mp3]	L28U
 1581	ー畳	ー 畳[じょう]	counter for tatami mats	[sound:MNN_ー畳.mp3]	L28U
 1582	不動産	不[ふ] 動[どう] 産[さん]	real estate	[sound:MNN_不動産.mp3]	L28U
-1583	ドアが開ます	ドアが 開[あき]ます	a door opens	[sound:MNN_ドアが開ます.mp3]	L29
-1584	ドアが閉まります	ドアが 閉[し]まります	a door closes/shuts	[sound:MNN_ドアが閉まります.mp3]	L29
-1585	電気がつきます	電[でん] 気[き]がつきます	a light turns/come on	[sound:MNN_電気がつきます.mp3]	L29
-1586	電気が消えます	電[でん] 気[き]が 消[き]えます	a light goes off	[sound:MNN_電気が消えます.mp3]	L29
-1587	いすが壊れます	いすが 壊[こわ]れます	a chair breaks	[sound:MNN_いすが壊れます.mp3]	L29
-1588	コップが割れます	コップが 割[わ]れます	a glass breaks/smashes	[sound:MNN_コップが割れます.mp3]	L29
-1589	木が折れます	木[き]が 折[お]れます	a tree breaks/snaps	[sound:MNN_木が折れます.mp3]	L29
-1590	紙が破れます	紙[かみ]が 破[やぶ]れます	a paper tears	[sound:MNN_紙が破れます.mp3]	L29
-1591	服が汚れます	服[ふく]が 汚[よご]れます	the clothes get dirty	[sound:MNN_服が汚れます.mp3]	L29
-1592	ポケットが付きます	ポケットが 付[つ]きます	a pocket attaches	[sound:MNN_ポケットが付きます.mp3]	L29
-1593	ボタンが外れます	ボタンが 外[はず]れます	a button is undone	[sound:MNN_ボタンが外れます.mp3]	L29
-1594	車が止まります	車[くるま]が 止[と]まります	a car stops/parks	[sound:MNN_車が止まります.mp3]	L29
+1583	「ドアが」開ます	「ドアが」 開[あき]ます	[a door] opens	[sound:MNN_「ドアが」開ます.mp3]	L29
+1584	「ドアが」閉まります	「ドアが」 閉[し]まります	[a door] closes/shuts	[sound:MNN_「ドアが」閉まります.mp3]	L29
+1585	「電気が」つきます	「電[でん] 気[き]が」つきます	[a light] turns/come on	[sound:MNN_「電気が」つきます.mp3]	L29
+1586	「電気が」消えます	「電[でん] 気[き]が」 消[き]えます	[a light] goes off	[sound:MNN_「電気が」消えます.mp3]	L29
+1587	「いすが」壊れます	「いすが」 壊[こわ]れます	[a chair] breaks	[sound:MNN_「いすが」壊れます.mp3]	L29
+1588	「コップが」割れます	「コップが」 割[わ]れます	[a glass] breaks/smashes	[sound:MNN_「コップが」割れます.mp3]	L29
+1589	「木が」折れます	「木[き]が」 折[お]れます	[a tree] breaks/snaps	[sound:MNN_「木が」折れます.mp3]	L29
+1590	「紙が」破れます	「紙[かみ]が」 破[やぶ]れます	[a paper] tears	[sound:MNN_「紙が」破れます.mp3]	L29
+1591	「服が」汚れます	「服[ふく]が」 汚[よご]れます	[the clothes] get dirty	[sound:MNN_「服が」汚れます.mp3]	L29
+1592	「ポケットが」付きます	「ポケットが」 付[つ]きます	[a pocket] attaches	[sound:MNN_「ポケットが」付きます.mp3]	L29
+1593	「ボタンが」外れます	「ボタンが」 外[はず]れます	[a button] is undone	[sound:MNN_「ボタンが」外れます.mp3]	L29
+1594	「車が」止まります	「車[くるま]が」 止[と]まります	[a car] stops/parks	[sound:MNN_「車が」止まります.mp3]	L29
 1595	まちがえます	まちがえます	make a mistake	[sound:MNN_まちがえます.mp3]	L29
 1596	落とします	落[お]とします	drop, lose	[sound:MNN_落とします.mp3]	L29
-1597	鍵が掛かります	鍵[かぎ]が 掛[か]かります	to become locked (automatic locking)	[sound:MNN_鍵が掛かります.mp3]	L29
+1597	「鍵が」掛かります	「鍵[かぎ]が」 掛[か]かります	to become locked (automatic locking)	[sound:MNN_「鍵が」掛かります.mp3]	L29
 1598	拭きます	拭[ふ]きます	wipe	[sound:MNN_拭きます.mp3]	L29
 1599	取り替えます	取[と]り 替[か]えます	change, replace	[sound:MNN_取り替えます.mp3]	L29
 1600	片づけます	片[かた]づけます	put (things) in order, tidy up	[sound:MNN_片づけます.mp3]	L29
-1601	お皿	お 皿[さら]	plate, dish	[sound:MNN_お皿.mp3]	L29
-1602	おちゃわん	おちゃわん	(rice) bowl	[sound:MNN_おちゃわん.mp3]	L29
+1601	「お」皿	「お」 皿[さら]	plate, dish	[sound:MNN_「お」皿.mp3]	L29
+1602	「お」ちゃわん	「お」ちゃわん	(rice) bowl	[sound:MNN_「お」ちゃわん.mp3]	L29
 1603	コップ	コップ	glass (drinking vessel)	[sound:MNN_コップ.mp3]	L29 L46U
 1604	袋	袋[ふくろ]	bag	[sound:MNN_袋.mp3]	L29
 1605	書類	書[しょ] 類[るい]	document, papers	[sound:MNN_書類.mp3]	L29
 1606	枝	枝[えだ]	branch, twig	[sound:MNN_枝.mp3]	L29
-1607	スピーチをします	スピーチをします	give/make a speech	[sound:MNN_スピーチをします.mp3]	L29
-1608	返事をします	返[へん] 事[じ]をします	reply, answer	[sound:MNN_返事をします.mp3]	L29
+1607	スピーチ「をします」	スピーチ「をします」	[give/make a] speech	[sound:MNN_スピーチ「をします」.mp3]	L29
+1608	返事「をします」	返[へん] 事[じ]「をします」	reply, answer	[sound:MNN_返事「をします」.mp3]	L29
 1609	お先にどうぞ。	お 先[さき]にどうぞ。	After you./Go ahead, please.	[sound:MNN_お先にどうぞ。.mp3]	L29
 1610	今の電車	今[いま]の 電[でん] 車[しゃ]	the train which has just left	[sound:MNN_今の電車.mp3]	L29
 1611	忘れ物	忘[わす]れ 物[もの]	things left behind, lost property	[sound:MNN_忘れ物.mp3]	L29
@@ -1615,7 +1615,7 @@
 1615	覚えていません。	覚[おぼ]えていません。	I don't remember.	[sound:MNN_覚えていません。.mp3]	L29
 1616	網棚	網[あみ] 棚[だな]	overhead rack	[sound:MNN_網棚.mp3]	L29
 1617	確か	確[たし]か	I'm pretty sure	[sound:MNN_確か.mp3]	L29
-1618	ああ、よかった。	ああ、よかった。	Oh, thank goodness!	[sound:MNN_ああ、よかった。.mp3]	L29
+1618	「ああ、」よかった。	「ああ、」よかった。	Oh, thank goodness!	[sound:MNN_「ああ、」よかった。.mp3]	L29
 1619	地震	地[じ] 震[しん]	earthquake	[sound:MNN_地震.mp3]	L29 L30U L33 L39
 1620	壁	壁[かべ]	wall	[sound:MNN_壁.mp3]	L29 L30
 1621	針	針[はり]	hands (of a clock)	[sound:MNN_針.mp3]	L29

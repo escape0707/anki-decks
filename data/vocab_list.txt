@@ -1455,7 +1455,7 @@
 生[なま]ごみ	kitchen waste	L26U
 紙[かみ]くず	paper waste​	L26U
 不[ふ] 燃[ねん]	incombustibility​ (cannot burn easily)	L26U
-グラス	glass (material)	L26U L29 L46U
+がラス	glass (material)	L26U L29 L46U
 瀬[せ] 戸[と] 物[もの]	earthenware, porcelain, china	L26U
 金[きん] 属[ぞく] 製[せい]	made of metal​	L26U
 資[し] 源[げん]ごみ	recyclable waste	L26U
@@ -1580,32 +1580,32 @@
 ー 階[かい] 建[だ]て	ー storey building	L28U
 ー 畳[じょう]	counter for tatami mats	L28U
 不[ふ] 動[どう] 産[さん]	real estate	L28U
-ドアが 開[あき]ます	a door opens	L29
-ドアが 閉[し]まります	a door closes/shuts	L29
-電[でん] 気[き]がつきます	a light turns/come on	L29
-電[でん] 気[き]が 消[き]えます	a light goes off	L29
-いすが 壊[こわ]れます	a chair breaks	L29
-コップが 割[わ]れます	a glass breaks/smashes	L29
-木[き]が 折[お]れます	a tree breaks/snaps	L29
-紙[かみ]が 破[やぶ]れます	a paper tears	L29
-服[ふく]が 汚[よご]れます	the clothes get dirty	L29
-ポケットが 付[つ]きます	a pocket attaches	L29
-ボタンが 外[はず]れます	a button is undone	L29
-車[くるま]が 止[と]まります	a car stops/parks	L29
+「ドアが」 開[あき]ます	[a door] opens	L29
+「ドアが」 閉[し]まります	[a door] closes/shuts	L29
+「電[でん] 気[き]が」つきます	[a light] turns/come on	L29
+「電[でん] 気[き]が」 消[き]えます	[a light] goes off	L29
+「いすが」 壊[こわ]れます	[a chair] breaks	L29
+「コップが」 割[わ]れます	[a glass] breaks/smashes	L29
+「木[き]が」 折[お]れます	[a tree] breaks/snaps	L29
+「紙[かみ]が」 破[やぶ]れます	[a paper] tears	L29
+「服[ふく]が」 汚[よご]れます	[the clothes] get dirty	L29
+「ポケットが」 付[つ]きます	[a pocket] attaches	L29
+「ボタンが」 外[はず]れます	[a button] is undone	L29
+「車[くるま]が」 止[と]まります	[a car] stops/parks	L29
 まちがえます	make a mistake	L29
 落[お]とします	drop, lose	L29
-鍵[かぎ]が 掛[か]かります	to become locked (automatic locking)	L29
+「鍵[かぎ]が」 掛[か]かります	to become locked (automatic locking)	L29
 拭[ふ]きます	wipe	L29
 取[と]り 替[か]えます	change, replace	L29
 片[かた]づけます	put (things) in order, tidy up	L29
-お 皿[さら]	plate, dish	L29
-おちゃわん	(rice) bowl	L29
+「お」 皿[さら]	plate, dish	L29
+「お」ちゃわん	(rice) bowl	L29
 コップ	glass (drinking vessel)	L29 L46U
 袋[ふくろ]	bag	L29
 書[しょ] 類[るい]	document, papers	L29
 枝[えだ]	branch, twig	L29
-スピーチをします	give/make a speech	L29
-返[へん] 事[じ]をします	reply, answer	L29
+スピーチ「をします」	[give/make a] speech	L29
+返[へん] 事[じ]「をします」	reply, answer	L29
 お 先[さき]にどうぞ。	After you./Go ahead, please.	L29
 今[いま]の 電[でん] 車[しゃ]	the train which has just left	L29
 忘[わす]れ 物[もの]	things left behind, lost property	L29
@@ -1615,7 +1615,7 @@
 覚[おぼ]えていません。	I don't remember.	L29
 網[あみ] 棚[だな]	overhead rack	L29
 確[たし]か	I'm pretty sure	L29
-ああ、よかった。	Oh, thank goodness!	L29
+「ああ、」よかった。	Oh, thank goodness!	L29
 地[じ] 震[しん]	earthquake	L29 L30U L33 L39
 壁[かべ]	wall	L29 L30
 針[はり]	hands (of a clock)	L29
