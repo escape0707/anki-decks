@@ -1464,11 +1464,11 @@
 1464	事前	事[じ] 前[ぜん]	in advance	[sound:MNN_事前.mp3]	L26U
 1465	申し込み	申[もう]し 込[こ]み	application, request	[sound:MNN_申し込み.mp3]	L26U
 1466	飼います	飼[か]います	keep a pet, raise an animal	[sound:MNN_飼います.mp3]	L27
-1467	道を走ります	道[みち]を 走[はし]ります	run, drive along a road	[sound:MNN_道を走ります.mp3]	L27
-1468	山が見えます	山[やま]が 見[み]えます	a mountain can be seen	[sound:MNN_山が見えます.mp3]	L27
-1469	音が聞こえます	音[おと]が 聞[き]こえます	a sound can be heard	[sound:MNN_音が聞こえます.mp3]	L27
-1470	道ができます	道[みち]ができます	a road can be made, be completed, come into existence	[sound:MNN_道ができます.mp3]	L27
-1471	教室を開きます	教[きょう] 室[しつ]を 開[ひら]きます	set up, open, hold a class	[sound:MNN_教室を開きます.mp3]	L27
+1467	「道を」走ります	「道[みち]を」 走[はし]ります	run, drive [along a road]	[sound:MNN_「道を」走ります.mp3]	L27
+1468	「山が」見えます	「山[やま]が」 見[み]えます	[a mountain] can be seen	[sound:MNN_「山が」見えます.mp3]	L27
+1469	「音が」聞こえます	「音[おと]が」 聞[き]こえます	[a sound] can be heard	[sound:MNN_「音が」聞こえます.mp3]	L27
+1470	「道が」できます	「道[みち]が」できます	[a road (friend, meal)] can be made, be completed, come into existence	[sound:MNN_「道が」できます.mp3]	L27
+1471	「教室を」開きます	「教[きょう] 室[しつ]を」 開[ひら]きます	set up, open, hold [a class], host (Olympic)	[sound:MNN_「教室を」開きます.mp3]	L27
 1472	心配「な」	心[しん] 配[ぱい]「な」	worried, anxious	[sound:MNN_心配「な」.mp3]	L27
 1473	ペット	ペット	pet	[sound:MNN_ペット.mp3]	L27
 1474	鳥	鳥[とり]	bird	[sound:MNN_鳥.mp3]	L27
@@ -1489,7 +1489,7 @@
 1489	本棚	本[ほん] 棚[だな]	bookcase	[sound:MNN_本棚.mp3]	L27
 1490	いつか	いつか	one day, some day	[sound:MNN_いつか.mp3]	L27
 1491	建てます	建[た]てます	build	[sound:MNN_建てます.mp3]	L27
-1492	すばらしい	すばらしい	wonderful	[sound:MNN_すばらしい.mp3]	L27
+1492	素晴らしい	素[す] 晴[ば]らしい	wonderful	[sound:MNN_素晴らしい.mp3]	L27
 1493	子供たち	子[こ] 供[ども]たち	children	[sound:MNN_子供たち.mp3]	L27 L31 L41 L42
 1494	大好き「な」	大[だい] 好[す]き「な」	like very much	[sound:MNN_大好き「な」.mp3]	L27 L38
 1495	主人公	主[しゅ] 人[じん] 公[こう]	hero, heroine	[sound:MNN_主人公.mp3]	L27

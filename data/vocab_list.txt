@@ -1464,11 +1464,11 @@
 事[じ] 前[ぜん]	in advance	L26U
 申[もう]し 込[こ]み	application, request	L26U
 飼[か]います	keep a pet, raise an animal	L27
-道[みち]を 走[はし]ります	run, drive along a road	L27
-山[やま]が 見[み]えます	a mountain can be seen	L27
-音[おと]が 聞[き]こえます	a sound can be heard	L27
-道[みち]ができます	a road can be made, be completed, come into existence	L27
-教[きょう] 室[しつ]を 開[ひら]きます	set up, open, hold a class	L27
+「道[みち]を」 走[はし]ります	run, drive [along a road]	L27
+「山[やま]が」 見[み]えます	[a mountain] can be seen	L27
+「音[おと]が」 聞[き]こえます	[a sound] can be heard	L27
+「道[みち]が」できます	[a road (friend, meal)] can be made, be completed, come into existence	L27
+「教[きょう] 室[しつ]を」 開[ひら]きます	set up, open, hold [a class], host (Olympic)	L27
 心[しん] 配[ぱい]「な」	worried, anxious	L27
 ペット	pet	L27
 鳥[とり]	bird	L27
@@ -1489,7 +1489,7 @@
 本[ほん] 棚[だな]	bookcase	L27
 いつか	one day, some day	L27
 建[た]てます	build	L27
-すばらしい	wonderful	L27
+素[す] 晴[ば]らしい	wonderful	L27
 子[こ] 供[ども]たち	children	L27 L31 L41 L42
 大[だい] 好[す]き「な」	like very much	L27 L38
 主[しゅ] 人[じん] 公[こう]	hero, heroine	L27
