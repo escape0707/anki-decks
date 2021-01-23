@@ -1,5 +1,10 @@
+import re
 from collections import Counter
 from typing import List
+
+
+def furigana_to_kanji(furigana_field: str) -> str:
+    return re.sub(r" |\[.*?\]", "", furigana_field)
 
 
 def extract_expressions(expression_field: str) -> List[str]:

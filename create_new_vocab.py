@@ -1,5 +1,5 @@
 from common import new_vocab_list_file, vocab_list_file
-from utils import extract_expressions
+from utils import extract_expressions, furigana_to_kanji
 
 
 def create_new_vocab() -> None:
@@ -7,7 +7,9 @@ def create_new_vocab() -> None:
         for index, note in enumerate(in_f, 1):
             field_collection = note.split("\t")
             tag_field = field_collection.pop()  # end with an redundant "\n"
-            expression_collection = extract_expressions(field_collection[0])
+            expression_collection = extract_expressions(
+                furigana_to_kanji(field_collection[0])
+            )
             index_field = str(index)
             audio_field = "".join(
                 map(lambda x: f"[sound:MNN_{x}.mp3]", expression_collection)

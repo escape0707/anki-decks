@@ -1,8 +1,8 @@
 import re
 from typing import Iterator, List, Tuple
 
-from common import vocab_list_file, revised_lesson_count, simplified_vocab_lists_dir
-from utils import extract_expressions
+from common import revised_lesson_count, simplified_vocab_lists_dir, vocab_list_file
+from utils import extract_expressions, furigana_to_kanji
 
 
 def extract_lesson(tag_field: str) -> Tuple[Iterator[int], Iterator[int]]:
@@ -18,7 +18,9 @@ def simplify_vocab() -> Tuple[List[List[str]], List[List[str]]]:
     with open(vocab_list_file) as in_f:
         for note in in_f:
             field_collection = note.split("\t")
-            expression_collection = extract_expressions(field_collection[0])
+            expression_collection = extract_expressions(
+                furigana_to_kanji(field_collection[0])
+            )
             lesson_collection, lesson_u_collection = extract_lesson(
                 field_collection[-1]
             )
