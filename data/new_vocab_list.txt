@@ -133,9 +133,9 @@
 133	すみません。	すみません。	Excuse me.	[sound:MNN_すみません。.mp3]	L03
 134	どうも。	どうも。	Thanks.	[sound:MNN_どうも。.mp3]	L03
 135	いらっしゃいませ。	いらっしゃいませ。	Welcome./May I help you?	[sound:MNN_いらっしゃいませ。.mp3]	L03
-136	[～を]見せてください。	[～を] 見[み]せてください。	Please show me [～].	[sound:MNN_[～を]見せてください。.mp3]	L03
+136	「～を」見せてください。	「～を」 見[み]せてください。	Please show me [～].	[sound:MNN_「～を」見せてください。.mp3]	L03
 137	じゃ	じゃ	well, then, in that case	[sound:MNN_じゃ.mp3]	L03
-138	[～を]ください。	[～を]ください。	Give me [～] please.	[sound:MNN_[～を]ください。.mp3]	L03
+138	「～を」ください。	「～を」ください。	Give me [～] please.	[sound:MNN_「～を」ください。.mp3]	L03
 139	スイス	スイス	Switzerland	[sound:MNN_スイス.mp3]	L03
 140	ジャカルタ	ジャカルタ	Jakarta	[sound:MNN_ジャカルタ.mp3]	L03
 141	バンコク	バンコク	Bangkok	[sound:MNN_バンコク.mp3]	L03
@@ -275,7 +275,7 @@
 275	いつ	いつ	when	[sound:MNN_いつ.mp3]	L05
 276	誕生日	誕[たん] 生[じょう] 日[び]	birthday	[sound:MNN_誕生日.mp3]	L05
 277	そうですね。	そうですね。	Yes, it is./Well let me see. (pausing)	[sound:MNN_そうですね。.mp3]	L05 L08
-278	「どうも」ありがとうございました。	どうもありがとうございました。	Thank you very much. (after action)	[sound:MNN_「どうも」ありがとうございました。.mp3]	L05
+278	「どうも」ありがとうございました。	「どうも」ありがとうございました。	Thank you very much. (after action)	[sound:MNN_「どうも」ありがとうございました。.mp3]	L05
 279	どういたしまして。	どういたしまして。	You are welcome./Don't mention it.	[sound:MNN_どういたしまして。.mp3]	L05
 280	ー番線	ー 番[ばん] 線[せん]	platform ー , -th platform	[sound:MNN_ー番線.mp3]	L05
 281	次の	次[つぎ]の	next	[sound:MNN_次の.mp3]	L05
@@ -429,7 +429,7 @@
 429	もう	もう	already, (not) any longer (used with negatives)	[sound:MNN_もう.mp3]	L07 L33
 430	まだ	まだ	not yet, still	[sound:MNN_まだ.mp3]	L07 L30
 431	これから	これから	from now on, soon	[sound:MNN_これから.mp3]	L07
-432	[～、]すてきですね。	[～、]すてきですね。	What a nice [～]!	[sound:MNN_[～、]すてきですね。.mp3]	L07
+432	「～、」すてきですね。	「～、」すてきですね。	What a nice [～]!	[sound:MNN_「～、」すてきですね。.mp3]	L07
 433	いらっしゃい。	いらっしゃい。	Welcome.	[sound:MNN_いらっしゃい。.mp3]	L07
 434	どうぞお上がりください。	どうぞお 上[あ]がりください。	Do come in.	[sound:MNN_どうぞお上がりください。.mp3]	L07
 435	失礼します。	失[しつ] 礼[れい]します。	May I?/I commit an incivility.	[sound:MNN_失礼します。.mp3]	L07
@@ -502,9 +502,9 @@
 502	そして	そして	and (used to connect sentences)	[sound:MNN_そして.mp3]	L08
 503	〜が、〜	〜が、〜	〜 but, 〜	[sound:MNN_〜が、〜.mp3]	L08
 504	お元気ですか。	お 元[げん] 気[き]ですか。	How are you?	[sound:MNN_お元気ですか。.mp3]	L08
-505	[〜、]もう一杯いかがですか。	[〜、]もう 一[いっ] 杯[ぱい]いかがですか。	Won't you have another cup of [〜]?	[sound:MNN_[〜、]もう一杯いかがですか。.mp3]	L08
+505	「〜、」もう一杯いかがですか。	「〜、」もう 一[いっ] 杯[ぱい]いかがですか。	Won't you have another cup of [〜]?	[sound:MNN_「〜、」もう一杯いかがですか。.mp3]	L08
 506	いいえ、けっこうです。	いいえ、けっこうです。	No, thank you.	[sound:MNN_いいえ、けっこうです。.mp3]	L08
-507	もう～です [ね]。	もう～です [ね]。	It's already ～ [isn't it?]	[sound:MNN_もう～です [ね]。.mp3]	L08
+507	もう～です「ね」。	もう～です 「ね」。	It's already ～ [isn't it?]	[sound:MNN_もう～です「ね」。.mp3]	L08
 508	そろそろ失礼します。	そろそろ 失[しつ] 礼[れい]します。	It's time to go.	[sound:MNN_そろそろ失礼します。.mp3]	L08
 509	いいえ。	いいえ。	Not at all.	[sound:MNN_いいえ。.mp3]	L08
 510	またいらっしゃってください。	またいらっしゃってください。	Please come again.	[sound:MNN_またいらっしゃってください。.mp3]	L08
@@ -576,7 +576,7 @@
 576	残念ですが	残[ざん] 念[ねん]ですが	I'm sorry but, unfortunately	[sound:MNN_残念ですが.mp3]	L09
 577	ああ	ああ	oh	[sound:MNN_ああ.mp3]	L09
 578	一緒にいかがですか。	一[いっ] 緒[しょ]にいかがですか。	Won't you join me (us)?	[sound:MNN_一緒にいかがですか。.mp3]	L09
-579	[～は]ちょっと……。	[～は]ちょっと……。	[～] is a bit difficult.	[sound:MNN_[～は]ちょっと……。.mp3]	L09
+579	「～は」ちょっと……。	「～は」ちょっと……。	[～] is a bit difficult.	[sound:MNN_「～は」ちょっと……。.mp3]	L09
 580	だめですか。	だめですか。	So you can't (come)?	[sound:MNN_だめですか。.mp3]	L09
 581	また今度お願いします。	また 今[こん] 度[ど]お 願[ねが]いします。	Please ask me again some other time.	[sound:MNN_また今度お願いします。.mp3]	L09
 582	ポップス	ポップス	pop (music)	[sound:MNN_ポップス.mp3]	L09U
@@ -648,7 +648,7 @@
 648	隣	隣[となり]	next, next door	[sound:MNN_隣.mp3]	L10
 649	近く	近[ちか]く	near, vicinity​	[sound:MNN_近く.mp3]	L10
 650	間	間[あいだ]	between, among	[sound:MNN_間.mp3]	L10
-651	～や～ [など]	～や～ [など]	～, ～, and so on	[sound:MNN_～や～ [など].mp3]	L10
+651	～や～「など」	～や～ 「など」	～, ～, and so on	[sound:MNN_～や～「など」.mp3]	L10
 652	どうもすみません。	どうもすみません。	Thank you.	[sound:MNN_どうもすみません。.mp3]	L10
 653	ナンプラー	ナンプラー	fish sauce (Thai)	[sound:MNN_ナンプラー.mp3]	L10
 654	コーナー	コーナー	corner, section	[sound:MNN_コーナー.mp3]	L10
@@ -1042,7 +1042,7 @@
 1042	下着	下[した] 着[ぎ]	underwear	[sound:MNN_下着.mp3]	L17
 1043	２，３日	２，３ 日[にち]	two or three days	[sound:MNN_２，３日.mp3]	L17
 1044	２，３～	２，３～	two or three ～ (where ～ is a counter suffix)	[sound:MNN_２，３～.mp3]	L17
-1045	～までに	〜までに	before ～, by ～ (indicating time limit)	[sound:MNN_～までに.mp3]	L17
+1045	～までに	～までに	before ～, by ～ (indicating time limit)	[sound:MNN_～までに.mp3]	L17
 1046	ですから	ですから	therefore, so	[sound:MNN_ですから.mp3]	L17
 1047	どうしましたか。	どうしましたか。	What's the matter?	[sound:MNN_どうしましたか。.mp3]	L17
 1048	のど	のど	throat	[sound:MNN_のど.mp3]	L17
@@ -1355,7 +1355,7 @@
 1355	お爺さん（お爺ちゃん）	お 爺[じい]さん（お 爺[じい]ちゃん）	grandfather, old man	[sound:MNN_お爺さん.mp3][sound:MNN_お爺ちゃん.mp3]	L24
 1356	お婆さん（お婆ちゃん）	お 婆[ばあ]さん（お 婆[ばあ]ちゃん）	grandmother, old woman	[sound:MNN_お婆さん.mp3][sound:MNN_お婆ちゃん.mp3]	L24
 1357	準備「「を」します」	準[じゅん] 備[び]「「を」します」	prepare	[sound:MNN_準備「「を」します」.mp3]	L24 L30U
-1358	引っ越し「「を」します」	引[ひ]っ 越[こ]「「を」しします」	move out	[sound:MNN_引っ越し「「を」します」.mp3]	L24
+1358	引っ越し「「を」します」	引[ひ]っ 越[こ]し「「を」します」	move out	[sound:MNN_引っ越し「「を」します」.mp3]	L24
 1359	「お」菓子	「お」 菓[か] 子[し]	sweets, snacks	[sound:MNN_「お」菓子.mp3]	L24
 1360	ホームステイ	ホームステイ	homestay	[sound:MNN_ホームステイ.mp3]	L24
 1361	全部	全[ぜん] 部[ぶ]	all	[sound:MNN_全部.mp3]	L24
@@ -1579,7 +1579,7 @@
 1579	ー階建て	ー 階[かい] 建[だ]て	ー storey building	[sound:MNN_ー階建て.mp3]	L28U
 1580	ー畳	ー 畳[じょう]	counter for tatami mats	[sound:MNN_ー畳.mp3]	L28U
 1581	不動産	不[ふ] 動[どう] 産[さん]	real estate	[sound:MNN_不動産.mp3]	L28U
-1582	ドアが開きます	ドアが 開[あき]ます	a door opens	[sound:MNN_ドアが開きます.mp3]	L29
+1582	ドアが開ます	ドアが 開[あき]ます	a door opens	[sound:MNN_ドアが開ます.mp3]	L29
 1583	ドアが閉まります	ドアが 閉[し]まります	a door closes/shuts	[sound:MNN_ドアが閉まります.mp3]	L29
 1584	電気がつきます	電[でん] 気[き]がつきます	a light turns/come on	[sound:MNN_電気がつきます.mp3]	L29
 1585	電気が消えます	電[でん] 気[き]が 消[き]えます	a light goes off	[sound:MNN_電気が消えます.mp3]	L29
@@ -1611,7 +1611,7 @@
 1611	このくらい	このくらい	about this (big)	[sound:MNN_このくらい.mp3]	L29
 1612	～側	～ 側[がわ]	～ side	[sound:MNN_～側.mp3]	L29
 1613	～辺	～ 辺[へん]	around ～, ～ about	[sound:MNN_～辺.mp3]	L29
-1614	覚えていません	覚[おぼ]えていません。	I don't remember.	[sound:MNN_覚えていません.mp3]	L29
+1614	覚えていません。	覚[おぼ]えていません。	I don't remember.	[sound:MNN_覚えていません。.mp3]	L29
 1615	網棚	網[あみ] 棚[だな]	overhead rack	[sound:MNN_網棚.mp3]	L29
 1616	確か	確[たし]か	I'm pretty sure	[sound:MNN_確か.mp3]	L29
 1617	ああ、よかった。	ああ、よかった。	Oh, thank goodness!	[sound:MNN_ああ、よかった。.mp3]	L29
@@ -2258,7 +2258,7 @@
 2258	出発します	出[しゅっ] 発[ぱつ]します	depart	[sound:MNN_出発します.mp3]	L40
 2259	到着します	到[とう] 着[ちゃく]します	arrive	[sound:MNN_到着します.mp3]	L40
 2260	酔います	酔[よ]います	get drunk	[sound:MNN_酔います.mp3]	L40
-2261	うまくくいきます	うまくいきます	go well	[sound:MNN_うまくくいきます.mp3]	L40
+2261	うまくいきます	うまくいきます	go well	[sound:MNN_うまくいきます.mp3]	L40
 2262	問題が出ます	問[もん] 題[だい]が 出[で]ます	problems will be on the test	[sound:MNN_問題が出ます.mp3]	L40
 2263	相談します	相[そう] 談[だん]します	consult, discuss	[sound:MNN_相談します.mp3]	L40
 2264	忘年会	忘[ぼう] 年[ねん] 会[かい]	year-end party	[sound:MNN_忘年会.mp3]	L40
@@ -2277,9 +2277,9 @@
 2277	重さ	重[おも]さ	weight	[sound:MNN_重さ.mp3]	L40
 2278	高さ	高[たか]さ	height	[sound:MNN_高さ.mp3]	L40
 2279	大きさ	大[おお]きさ	size, scale	[sound:MNN_大きさ.mp3]	L40
-2280	[ー]便	[ー] 便[びん]	flight, flight number	[sound:MNN_[ー]便.mp3]	L40
-2281	ー本	ー 本[ほん]（ーぽん、ーぼん）	counter for long objects	[sound:MNN_ー本.mp3]	L40
-2282	ー杯	ー 杯[はい]（ーぱい、－ばい）	ー glass or cup of (counter for full cups, glasses, etc.)	[sound:MNN_ー杯.mp3]	L40
+2280	便	[ー] 便[びん]	flight, flight number	[sound:MNN_便.mp3]	L40
+2281	ー本（ーぽん、ーぼん）	ー 本[ほん]（ーぽん、ーぼん）	counter for long objects	[sound:MNN_ー本.mp3][sound:MNN_ーぽん、ーぼん.mp3]	L40
+2282	ー杯（ーぱい、－ばい）	ー 杯[はい]（ーぱい、－ばい）	ー glass or cup of (counter for full cups, glasses, etc.)	[sound:MNN_ー杯.mp3][sound:MNN_ーぱい、－ばい.mp3]	L40
 2283	ーセンチ	ーセンチ	ー centimeters	[sound:MNN_ーセンチ.mp3]	L40
 2284	ーミリ	ーミリ	ー millimeters	[sound:MNN_ーミリ.mp3]	L40
 2285	～以上	～ 以[い] 上[じょう]	not less than ～, over ～	[sound:MNN_～以上.mp3]	L40
@@ -2785,7 +2785,7 @@
 2785	お目にかかります	お 目[め]にかかります	meet (humble of あいます)	[sound:MNN_お目にかかります.mp3]	L50
 2786	コーヒーを入れます	コーヒーを 入[い]れます	make coffee	[sound:MNN_コーヒーを入れます.mp3]	L50
 2787	用意します	用[よう] 意[い]します	prepare, getting ready	[sound:MNN_用意します.mp3]	L50
-2788	私 (polite)	私[わたくし]	I (humble of わたし)	[sound:MNN_私 (polite).mp3]	L50
+2788	私	私[わたくし]	I (humble of わたし)	[sound:MNN_私.mp3]	L50
 2789	ガイド	ガイド	guide	[sound:MNN_ガイド.mp3]	L50
 2790	メールアドレス	メールアドレス	e-mail address	[sound:MNN_メールアドレス.mp3]	L50
 2791	再来週	再[さ] 来[らい] 週[しゅう]	the week after next	[sound:MNN_再来週.mp3]	L50

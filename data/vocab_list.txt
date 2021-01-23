@@ -133,9 +133,9 @@
 すみません。	Excuse me.	L03
 どうも。	Thanks.	L03
 いらっしゃいませ。	Welcome./May I help you?	L03
-[～を] 見[み]せてください。	Please show me [～].	L03
+「～を」 見[み]せてください。	Please show me [～].	L03
 じゃ	well, then, in that case	L03
-[～を]ください。	Give me [～] please.	L03
+「～を」ください。	Give me [～] please.	L03
 スイス	Switzerland	L03
 ジャカルタ	Jakarta	L03
 バンコク	Bangkok	L03
@@ -275,7 +275,7 @@
 いつ	when	L05
 誕[たん] 生[じょう] 日[び]	birthday	L05
 そうですね。	Yes, it is./Well let me see. (pausing)	L05 L08
-どうもありがとうございました。	Thank you very much. (after action)	L05
+「どうも」ありがとうございました。	Thank you very much. (after action)	L05
 どういたしまして。	You are welcome./Don't mention it.	L05
 ー 番[ばん] 線[せん]	platform ー , -th platform	L05
 次[つぎ]の	next	L05
@@ -429,7 +429,7 @@
 もう	already, (not) any longer (used with negatives)	L07 L33
 まだ	not yet, still	L07 L30
 これから	from now on, soon	L07
-[～、]すてきですね。	What a nice [～]!	L07
+「～、」すてきですね。	What a nice [～]!	L07
 いらっしゃい。	Welcome.	L07
 どうぞお 上[あ]がりください。	Do come in.	L07
 失[しつ] 礼[れい]します。	May I?/I commit an incivility.	L07
@@ -502,9 +502,9 @@
 そして	and (used to connect sentences)	L08
 〜が、〜	〜 but, 〜	L08
 お 元[げん] 気[き]ですか。	How are you?	L08
-[〜、]もう 一[いっ] 杯[ぱい]いかがですか。	Won't you have another cup of [〜]?	L08
+「〜、」もう 一[いっ] 杯[ぱい]いかがですか。	Won't you have another cup of [〜]?	L08
 いいえ、けっこうです。	No, thank you.	L08
-もう～です [ね]。	It's already ～ [isn't it?]	L08
+もう～です 「ね」。	It's already ～ [isn't it?]	L08
 そろそろ 失[しつ] 礼[れい]します。	It's time to go.	L08
 いいえ。	Not at all.	L08
 またいらっしゃってください。	Please come again.	L08
@@ -576,7 +576,7 @@
 残[ざん] 念[ねん]ですが	I'm sorry but, unfortunately	L09
 ああ	oh	L09
 一[いっ] 緒[しょ]にいかがですか。	Won't you join me (us)?	L09
-[～は]ちょっと……。	[～] is a bit difficult.	L09
+「～は」ちょっと……。	[～] is a bit difficult.	L09
 だめですか。	So you can't (come)?	L09
 また 今[こん] 度[ど]お 願[ねが]いします。	Please ask me again some other time.	L09
 ポップス	pop (music)	L09U
@@ -648,7 +648,7 @@
 隣[となり]	next, next door	L10
 近[ちか]く	near, vicinity​	L10
 間[あいだ]	between, among	L10
-～や～ [など]	～, ～, and so on	L10
+～や～ 「など」	～, ～, and so on	L10
 どうもすみません。	Thank you.	L10
 ナンプラー	fish sauce (Thai)	L10
 コーナー	corner, section	L10
@@ -1042,7 +1042,7 @@
 下[した] 着[ぎ]	underwear	L17
 ２，３ 日[にち]	two or three days	L17
 ２，３～	two or three ～ (where ～ is a counter suffix)	L17
-〜までに	before ～, by ～ (indicating time limit)	L17
+～までに	before ～, by ～ (indicating time limit)	L17
 ですから	therefore, so	L17
 どうしましたか。	What's the matter?	L17
 のど	throat	L17
@@ -1355,7 +1355,7 @@
 お 爺[じい]さん（お 爺[じい]ちゃん）	grandfather, old man	L24
 お 婆[ばあ]さん（お 婆[ばあ]ちゃん）	grandmother, old woman	L24
 準[じゅん] 備[び]「「を」します」	prepare	L24 L30U
-引[ひ]っ 越[こ]「「を」しします」	move out	L24
+引[ひ]っ 越[こ]し「「を」します」	move out	L24
 「お」 菓[か] 子[し]	sweets, snacks	L24
 ホームステイ	homestay	L24
 全[ぜん] 部[ぶ]	all	L24
