@@ -117,7 +117,7 @@
 電[でん] 話[わ]	telephone	L03
 「お」 国[くに]	country	L03
 会[かい] 社[しゃ]	company	L03
-家[いえ]、 家[うち]	house, home	L03 L27
+家[うち]（ 家[いえ]）	house, home	L03 L27
 靴[くつ]	shoes	L03
 ネクタイ	tie, necktie	L03
 ワイン	wine	L03

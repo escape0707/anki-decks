@@ -117,7 +117,7 @@
 117	電話	電[でん] 話[わ]	telephone	[sound:MNN_電話.mp3]	L03
 118	「お」国	「お」 国[くに]	country	[sound:MNN_「お」国.mp3]	L03
 119	会社	会[かい] 社[しゃ]	company	[sound:MNN_会社.mp3]	L03
-120	家、家	家[いえ]、 家[うち]	house, home	[sound:MNN_家、家.mp3]	L03 L27
+120	家（家）	家[うち]（ 家[いえ]）	house, home	[sound:MNN_家_1.mp3][sound:MNN_家_2.mp3]	L03 L27
 121	靴	靴[くつ]	shoes	[sound:MNN_靴.mp3]	L03
 122	ネクタイ	ネクタイ	tie, necktie	[sound:MNN_ネクタイ.mp3]	L03
 123	ワイン	ワイン	wine	[sound:MNN_ワイン.mp3]	L03
