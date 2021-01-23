@@ -1174,7 +1174,7 @@
 落[らく] 語[ご]	traditional Japanese comic storytelling; comic story (told by a professional storyteller)​	L19U
 囲[い] 碁[ご]	go (board game of capturing territory​)	L19U
 将[しょう] 棋[ぎ]	shogi (Japanese chess)	L19U
-盆[ぼん] 踊[おど]り	Bon Festival dance (Lantern Festival dance​)	L19U L49U
+盆[ぼん] 踊[おど]り	Bon Festival dance (Lantern Festival dance​)	L19U L26 L49U
 「ビザが」 要[い]ります	need, require [a visa]	L20
 調[しら]べます	check, investigate	L20
 修[しゅう] 理[り]します	repair	L20 L27U
@@ -1404,10 +1404,10 @@
 老[ろう] 人[じん]	old age	L25U
 仕[し] 事[ごと]をやめます	retire	L25U
 死[し]にます	die	L25U L39
-見[み]ます、 診[み]ます	check, take a look at	L26
-探[さが]します、 捜[さが]します	look for, search	L26
-時[じ] 間[かん]に 遅[おく]れます	be late for appointment, etc.	L26
-時[じ] 間[かん]に 間[ま]に 合[あ]います	be in time for appointment, etc.	L26
+見[み]ます（ 診[み]ます）	check, take a look at	L26
+探[さが]します（ 捜[さが]します）	look for, search	L26
+「時[じ] 間[かん]に」 遅[おく]れます	be late [for appointment, etc.]	L26
+「時[じ] 間[かん]に」 間[ま]に 合[あ]います	be in time [for appointment, etc.]	L26
 やります	do; give (to a younger person, subordinate, animal or plants)	L26 L41
 拾[ひろ]います	pick up	L26
 連[れん] 絡[らく]します	contact, get in touch with	L26
@@ -1423,7 +1423,7 @@
 平[へい] 日[じつ]	weekday	L26
 ～ 弁[べん]	～ dialect	L26
 今[こん] 度[ど]	next time, another time	L26
-ずいぶん	very, pretty	L26
+随[ずい] 分[ぶん]	very, pretty	L26
 直[ちょく] 接[せつ]	directly	L26
 いつでも	any time	L26
 どこでも	anywhere	L26
@@ -1432,14 +1432,15 @@
 こんな～	～ like this	L26
 そんな～	～ like that (near the listener)	L26
 あんな～	～ like that (far from speaker and listener)	L26
-荷[に] 物[もつ]が 片[かた]づきます	put the boxes in order, tidy up the boxes	L26
-ごみを 出[だ]します	put the rubbish out	L26
+「荷[に] 物[もつ]が」 片[かた]づきます	put [the boxes] in order, tidy up [the boxes]	L26
+「ごみを」 出[だ]します	put [the rubbish] out	L26
 燃[も]えるごみ	burnable rubbish	L26
 置[お]き 場[ば]	place where something is put	L26
 横[よこ]	side	L26
 瓶[びん]	glass bottle, jar	L26
 缶[かん]	can	L26
 ガス	gas	L26
+～ 会[がい] 社[しゃ]	～ company	L26
 宇[う] 宙[ちゅう]	space, universe	L26 L36
 ～ 様[さま]	Mr./Mrs. ～ (respectful of さん)	L26 L49
 宇[う] 宙[ちゅう] 船[せん]	spaceship	L26
@@ -2833,7 +2834,6 @@
 ガソリン	petrol, gasoline	L43
 金[きん]	gold	L37
 キャンプ	camp	L45
-～ 会[がい] 社[しゃ]	～ company	L26
 缶[かん] 詰[づめ]	canned food, tinned food	L42
 みえます	come (respectful of きます)	L49
 差[さ]し 上[あ]げます	give (humble of あげます)	L50U
