@@ -1,3 +1,4 @@
+import re
 import shutil
 from pathlib import Path
 from typing import List, cast
@@ -36,6 +37,17 @@ def split_mp3() -> None:
         if not lesson_dir.exists():
             lesson_dir.mkdir()
         split_and_save(input_file, lesson_dir)
+
+
+def extract_lesson_no_and_rename() -> None:
+    renamed_dir = input_dir.parent / "input2"
+    if renamed_dir.exists():
+        shutil.rmtree(renamed_dir)
+    if not renamed_dir.exists():
+        renamed_dir.mkdir()
+    for input_file in input_dir.iterdir():
+        lesson_no = re.search(r"\d+", input_file.stem).group()
+        input_file.link_to(renamed_dir / f"{lesson_no:0>2}.m4a")
 
 
 if __name__ == "__main__":
