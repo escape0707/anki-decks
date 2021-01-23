@@ -1,3 +1,4 @@
+import itertools
 import re
 from typing import Iterator, List, Tuple
 
@@ -37,9 +38,10 @@ def save_simplified_vocab(
 ) -> None:
     if not simplified_vocab_lists_dir.exists():
         simplified_vocab_lists_dir.mkdir()
-    for lesson, simplified in enumerate(simplified_collection, 1):
-        if lesson <= revised_lesson_count:
-            continue
+    for lesson, simplified in enumerate(
+        itertools.islice(simplified_collection, revised_lesson_count + 1, None),
+        revised_lesson_count + 1,
+    ):
         simplified_vocab_list_file = simplified_vocab_lists_dir / (
             str(lesson).zfill(2) + ".txt"
         )
