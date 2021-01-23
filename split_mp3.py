@@ -15,7 +15,7 @@ def split_and_save(input_file: Path, output_dir: Path) -> None:
     chuck_collection = cast(
         List[AudioSegment],
         pydub.silence.split_on_silence(
-            soundtrack, min_silence_len=800, silence_thresh=-50
+            soundtrack, min_silence_len=800, silence_thresh=-55
         ),
     )
 

@@ -427,7 +427,7 @@
 お 父[とう]さん	(someone else's) father (could also be used to call your own father)	L07
 お 母[かあ]さん	(someone else's) mother (could also be used to call your own mother)	L07
 もう	already, (not) any longer (used with negatives)	L07 L33
-まだ	not yet, still	L07 L30
+未[ま]だ	not yet, still	L07 L30
 これから	from now on, soon	L07
 「～、」すてきですね。	What a nice [～]!	L07
 いらっしゃい。	Welcome.	L07
@@ -1449,7 +1449,7 @@
 違[ちが]います	be different	L26 L36
 宇[う] 宙[ちゅう] 飛[ひ] 行[こう] 士[し]	astronaut	L26
 収[しゅう] 集[しゅう] 日[び]	collection day (for rubbish/waste)​	L26U
-お 知[し]らせ	information, notice	L26U L28
+お 知[し]らせ	information, notice	L26U L28 L30
 可[か] 燃[ねん]ごみ	burnable rubbish​	L26U
 燃[も]える	to burn	L26U
 生[なま]ごみ	kitchen waste	L26U
@@ -1649,15 +1649,19 @@
 植[う]えます	plant	L30
 戻[もど]します	return, put ～ back	L30
 まとめます	put ～ together, put ～ in shape, sum up	L30
-しまいます	put (things) away	L30
+仕[し] 舞[ま]います	put (things) away	L30
 決[き]めます	decide	L30
 予[よ] 習[しゅう]します	prepare one's lesson	L30
 復[ふく] 習[しゅう]します	review one's lesson	L30
-そのままにします	leave things as they are	L30
+其[そ]の 儘[まま]にします	leave things as they are (其[そ]の 儘[まま]: original state)	L30
 授[じゅ] 業[ぎょう]	class	L30
 講[こう] 義[ぎ]	lecture	L30
 ミーティング	meeting	L30
 予[よ] 定[てい]	plan, schedule	L30
+ガイドブック	guidebook	L30
+カレンダー	calendar	L30
+ポスター	poster	L30
+予[よ] 定[てい] 表[ひょう]	schedule	L30
 ごみ 箱[ばこ]	trash can, dustbin	L30
 人[にん] 形[ぎょう]	doll	L30
 花[か] 瓶[びん]	vase	L30
@@ -1673,6 +1677,7 @@
 非[ひ] 常[じょう] 時[じ]	emergency time	L30
 生[せい] 活[かつ]します	live	L30
 懐[かい] 中[ちゅう] 電[でん] 灯[とう]	torch, flashlight	L30
+～とか、～とか	～, ～, and so on	L30
 丸[まる]い	round	L30
 ある～	one ～, a certain ～	L30 L41 L42
 夢[ゆめ]を 見[み]ます	dream	L30
@@ -2815,11 +2820,6 @@
 明後日[あさって]の 晩[ばん]（ 夜[よる]）	the night after next	L51
 先[せん] 々[せん] 週[しゅう]（ 二[に] 週[しゅう] 間[かん] 前[まえ]）	the week before last	L51
 先[せん] 々[せん] 月[げつ]（ 二[に] 週[しゅう] 間[かん] 前[まえ]）	the month before last	L51
-カレンダー	calendar	L30
-ポスター	poster	L30
-予[よ] 定[てい] 表[ひょう]	schedule	L30
-ガイドブック	guidebook	L30
-～とか、～とか	～, ～, and so on	L30
 宝[たから]くじ	lottery	L32
 アフリカ	Africa	L35
 バザー	bazaar	L41U
