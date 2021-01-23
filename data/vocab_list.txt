@@ -222,7 +222,7 @@
 電[でん] 話[わ] 番[ばん] 号[ごう] 案[あん] 内[ない]	directory inquiries	L04U
 県[けん]	district, prefecture (a political region or local government area)	L04U L10
 市[し]、 市[いち]	city, market	L04U
-中[ちゅう] 央[おう]	metropolis, capital city, central government	L04U L28
+中[ちゅう] 央[おう]	metropolis, capital city, central government	L04U L28U
 行[い]きます	go	L05
 来[き]ます	come	L05
 帰[かえ]ります	go home, return	L05
@@ -529,7 +529,7 @@
 濃[こ]い	strong (flavour, smell, taste)​, dark (colour), thick (liquid)	L08U L44
 薄[うす]い	weak (objects, taste), light (colour), thin	L08U L44
 味[あじ]	taste	L08U L28
-色[いろ]	colour	L08U
+色[いろ]	colour	L08U, L28
 分[わ]かります	understand	L09
 あります	have, exist, be (referring to inanimate things)	L09 L10
 好[す]き「な」	like	L09
@@ -1527,22 +1527,22 @@
 コピー	photocopy	L27U
 ファクス	fax	L27U
 販[はん] 売[ばい]	sales	L27U
-パンが 売[う]れます	bread to be sold	L28
+「パンが」 売[う]れます	[bread] to be sold like hot cakes	L28
 踊[おど]ります	dance	L28
 噛[か]みます	chew, bite	L28
 選[えら]びます	choose	L28
-大[だい] 学[がく]に 通[かよ]います	go to and from university	L28
+「大[だい] 学[がく]に」 通[かよ]います	go to and from [university]	L28
 メモします	take a memo	L28
-まじめ「な」	serious	L28 L43U
+真面目[まじめ]「な」	serious	L28 L43U
 熱[ねっ] 心[しん]「な」	earnest	L28
 偉[えら]い	great, admirable	L28
 ちょうどいい	proper, just right	L28
 景色[けしき]	scenery, view	L28
 美[び] 容[よう] 院[いん]	hair/beauty salon	L28 L44U
-経[けい] 験[けん]があります	be experienced	L28
-経[けい] 験[けん]をします	experience	L28
+経[けい] 験[けん]「があります」	[be] experienced	L28
+経[けい] 験[けん]「をします」	experience [sth.]	L28
 力[ちから]	power	L28
-学[がく] 生[せい]に 人[にん] 気[き]があります	be popular with students	L28
+「学[がく] 生[せい]に」 人[にん] 気[き]「があります」	[be] popular [with] [students]	L28
 ガム	chewing gum	L28
 品[しな] 物[もの]	goods	L28
 値[ね] 段[だん]	price	L28
@@ -1558,10 +1558,10 @@
 息子[むすこ]さん	(someone's) son	L28
 娘[むすめ]さん	(someone's) daughter	L28
 しばらく	a little while	L28
-たいてい	usually, mostly	L28
+大抵[たいてい]	usually, mostly	L28
 それに	in addition	L28
 それで	and so	L28
-ちょっとお 願[ねが]いがあるんですが。	I have a small favour to ask.	L28
+「ちょっと」お 願[ねが]いがあるんですが。	I have a small favour to ask.	L28
 実[じつ]は	as a matter of fact	L28
 会[かい] 話[わ]	conversation	L28
 うーん	well, let me see, hmm…	L28

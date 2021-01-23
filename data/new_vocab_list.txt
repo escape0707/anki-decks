@@ -222,7 +222,7 @@
 222	電話番号案内	電[でん] 話[わ] 番[ばん] 号[ごう] 案[あん] 内[ない]	directory inquiries	[sound:MNN_電話番号案内.mp3]	L04U
 223	県	県[けん]	district, prefecture (a political region or local government area)	[sound:MNN_県.mp3]	L04U L10
 224	市、市	市[し]、 市[いち]	city, market	[sound:MNN_市、市.mp3]	L04U
-225	中央	中[ちゅう] 央[おう]	metropolis, capital city, central government	[sound:MNN_中央.mp3]	L04U L28
+225	中央	中[ちゅう] 央[おう]	metropolis, capital city, central government	[sound:MNN_中央.mp3]	L04U L28U
 226	行きます	行[い]きます	go	[sound:MNN_行きます.mp3]	L05
 227	来ます	来[き]ます	come	[sound:MNN_来ます.mp3]	L05
 228	帰ります	帰[かえ]ります	go home, return	[sound:MNN_帰ります.mp3]	L05
@@ -529,7 +529,7 @@
 529	濃い	濃[こ]い	strong (flavour, smell, taste)​, dark (colour), thick (liquid)	[sound:MNN_濃い.mp3]	L08U L44
 530	薄い	薄[うす]い	weak (objects, taste), light (colour), thin	[sound:MNN_薄い.mp3]	L08U L44
 531	味	味[あじ]	taste	[sound:MNN_味.mp3]	L08U L28
-532	色	色[いろ]	colour	[sound:MNN_色.mp3]	L08U
+532	色	色[いろ]	colour	[sound:MNN_色.mp3]	L08U, L28
 533	分かります	分[わ]かります	understand	[sound:MNN_分かります.mp3]	L09
 534	あります	あります	have, exist, be (referring to inanimate things)	[sound:MNN_あります.mp3]	L09 L10
 535	好き「な」	好[す]き「な」	like	[sound:MNN_好き「な」.mp3]	L09
@@ -1527,22 +1527,22 @@
 1527	コピー	コピー	photocopy	[sound:MNN_コピー.mp3]	L27U
 1528	ファクス	ファクス	fax	[sound:MNN_ファクス.mp3]	L27U
 1529	販売	販[はん] 売[ばい]	sales	[sound:MNN_販売.mp3]	L27U
-1530	パンが売れます	パンが 売[う]れます	bread to be sold	[sound:MNN_パンが売れます.mp3]	L28
+1530	「パンが」売れます	「パンが」 売[う]れます	[bread] to be sold like hot cakes	[sound:MNN_「パンが」売れます.mp3]	L28
 1531	踊ります	踊[おど]ります	dance	[sound:MNN_踊ります.mp3]	L28
 1532	噛みます	噛[か]みます	chew, bite	[sound:MNN_噛みます.mp3]	L28
 1533	選びます	選[えら]びます	choose	[sound:MNN_選びます.mp3]	L28
-1534	大学に通います	大[だい] 学[がく]に 通[かよ]います	go to and from university	[sound:MNN_大学に通います.mp3]	L28
+1534	「大学に」通います	「大[だい] 学[がく]に」 通[かよ]います	go to and from [university]	[sound:MNN_「大学に」通います.mp3]	L28
 1535	メモします	メモします	take a memo	[sound:MNN_メモします.mp3]	L28
-1536	まじめ「な」	まじめ「な」	serious	[sound:MNN_まじめ「な」.mp3]	L28 L43U
+1536	真面目「な」	真面目[まじめ]「な」	serious	[sound:MNN_真面目「な」.mp3]	L28 L43U
 1537	熱心「な」	熱[ねっ] 心[しん]「な」	earnest	[sound:MNN_熱心「な」.mp3]	L28
 1538	偉い	偉[えら]い	great, admirable	[sound:MNN_偉い.mp3]	L28
 1539	ちょうどいい	ちょうどいい	proper, just right	[sound:MNN_ちょうどいい.mp3]	L28
 1540	景色	景色[けしき]	scenery, view	[sound:MNN_景色.mp3]	L28
 1541	美容院	美[び] 容[よう] 院[いん]	hair/beauty salon	[sound:MNN_美容院.mp3]	L28 L44U
-1542	経験があります	経[けい] 験[けん]があります	be experienced	[sound:MNN_経験があります.mp3]	L28
-1543	経験をします	経[けい] 験[けん]をします	experience	[sound:MNN_経験をします.mp3]	L28
+1542	経験「があります」	経[けい] 験[けん]「があります」	[be] experienced	[sound:MNN_経験「があります」.mp3]	L28
+1543	経験「をします」	経[けい] 験[けん]「をします」	experience [sth.]	[sound:MNN_経験「をします」.mp3]	L28
 1544	力	力[ちから]	power	[sound:MNN_力.mp3]	L28
-1545	学生に人気があります	学[がく] 生[せい]に 人[にん] 気[き]があります	be popular with students	[sound:MNN_学生に人気があります.mp3]	L28
+1545	「学生に」人気「があります」	「学[がく] 生[せい]に」 人[にん] 気[き]「があります」	[be] popular [with] [students]	[sound:MNN_「学生に」人気「があります」.mp3]	L28
 1546	ガム	ガム	chewing gum	[sound:MNN_ガム.mp3]	L28
 1547	品物	品[しな] 物[もの]	goods	[sound:MNN_品物.mp3]	L28
 1548	値段	値[ね] 段[だん]	price	[sound:MNN_値段.mp3]	L28
@@ -1558,10 +1558,10 @@
 1558	息子さん	息子[むすこ]さん	(someone's) son	[sound:MNN_息子さん.mp3]	L28
 1559	娘さん	娘[むすめ]さん	(someone's) daughter	[sound:MNN_娘さん.mp3]	L28
 1560	しばらく	しばらく	a little while	[sound:MNN_しばらく.mp3]	L28
-1561	たいてい	たいてい	usually, mostly	[sound:MNN_たいてい.mp3]	L28
+1561	大抵	大抵[たいてい]	usually, mostly	[sound:MNN_大抵.mp3]	L28
 1562	それに	それに	in addition	[sound:MNN_それに.mp3]	L28
 1563	それで	それで	and so	[sound:MNN_それで.mp3]	L28
-1564	ちょっとお願いがあるんですが。	ちょっとお 願[ねが]いがあるんですが。	I have a small favour to ask.	[sound:MNN_ちょっとお願いがあるんですが。.mp3]	L28
+1564	「ちょっと」お願いがあるんですが。	「ちょっと」お 願[ねが]いがあるんですが。	I have a small favour to ask.	[sound:MNN_「ちょっと」お願いがあるんですが。.mp3]	L28
 1565	実は	実[じつ]は	as a matter of fact	[sound:MNN_実は.mp3]	L28
 1566	会話	会[かい] 話[わ]	conversation	[sound:MNN_会話.mp3]	L28
 1567	うーん	うーん	well, let me see, hmm…	[sound:MNN_うーん.mp3]	L28
