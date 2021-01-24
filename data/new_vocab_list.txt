@@ -1859,16 +1859,16 @@
 1859	那覇	那[な] 覇[は]	Naha	[sound:MNN_那覇.mp3]	L32U
 1860	逃げます	逃[に]げます	run away	[sound:MNN_逃げます.mp3]	L33
 1861	騒ぎます	騒[さわ]ぎます	make a noise	[sound:MNN_騒ぎます.mp3]	L33
-1862	あきらめます	あきらめます	give up	[sound:MNN_あきらめます.mp3]	L33
+1862	諦めます	諦[あきら]めます	give up	[sound:MNN_諦めます.mp3]	L33
 1863	投げます	投[な]げます	throw	[sound:MNN_投げます.mp3]	L33
 1864	守ります	守[まも]ります	keep, follow, obey	[sound:MNN_守ります.mp3]	L33
-1865	式が始まります	式[しき]が 始[はじ]まります	a ceremony is beginning, starting	[sound:MNN_式が始まります.mp3]	L33
-1866	会議に出席します	会[かい] 議[ぎ]に 出[しゅっ] 席[せき]します	attend a meeting	[sound:MNN_会議に出席します.mp3]	L33
+1865	「式が」始まります	「 式[しき]が」 始[はじ]まります	a ceremony is beginning, starting	[sound:MNN_「式が」始まります.mp3]	L33
+1866	「会議に」出席します	「 会[かい] 議[ぎ]に」 出[しゅっ] 席[せき]します	attend a meeting	[sound:MNN_「会議に」出席します.mp3]	L33
 1867	伝えます	伝[つた]えます	convey	[sound:MNN_伝えます.mp3]	L33
-1868	車に注意します	車[くるま]に 注[ちゅう] 意[い]します	be careful of the cars	[sound:MNN_車に注意します.mp3]	L33
-1869	席を外します	席[せき]を 外[はず]します	be away from one's desk	[sound:MNN_席を外します.mp3]	L33
+1868	「車に」注意します	「 車[くるま]に」 注[ちゅう] 意[い]します	be careful of the cars	[sound:MNN_「車に」注意します.mp3]	L33
+1869	「席を」外します	「 席[せき]を」 外[はず]します	be away from one's desk	[sound:MNN_「席を」外します.mp3]	L33
 1870	戻ります	戻[もど]ります	come back, return	[sound:MNN_戻ります.mp3]	L33
-1871	電話があります	電[でん] 話[わ]があります	have a telephone call	[sound:MNN_電話があります.mp3]	L33
+1871	「電話が」あります	「 電[でん] 話[わ]が」あります	have a telephone call	[sound:MNN_「電話が」あります.mp3]	L33
 1872	リサイクルします	リサイクルします	recycle	[sound:MNN_リサイクルします.mp3]	L33
 1873	だめ「な」	だめ「な」	no good, not permitted, impossible	[sound:MNN_だめ「な」.mp3]	L33
 1874	同じ	同[おな]じ	same	[sound:MNN_同じ.mp3]	L33
@@ -1888,16 +1888,16 @@
 1888	募集中	募[ぼ] 集[しゅう] 中[ちゅう]	Applications Wanted	[sound:MNN_募集中.mp3]	L33
 1889	～中	～ 中[ちゅう]	-ing, all over ～	[sound:MNN_～中.mp3]	L33 L37
 1890	どういう～	どういう～	what (kind of ～)	[sound:MNN_どういう～.mp3]	L33
-1891	いくら（～ても）	いくら（～ても）	however ～, even if ～	[sound:MNN_いくら.mp3][sound:MNN_～ても.mp3]	L33
+1891	いくら「～ても」	いくら「～ても」	however ～, even if ～	[sound:MNN_いくら「～ても」.mp3]	L33
 1892	あと～	あと～	～ left	[sound:MNN_あと～.mp3]	L33
-1893	～ほど	～ほど	about ～	[sound:MNN_～ほど.mp3]	L33
+1893	～程	～ 程[ほど]	about ～	[sound:MNN_～程.mp3]	L33
 1894	駐車違反	駐[ちゅう] 車[しゃ] 違[い] 反[はん]	parking violation	[sound:MNN_駐車違反.mp3]	L33
 1895	罰金	罰[ばっ] 金[きん]	fine	[sound:MNN_罰金.mp3]	L33
 1896	助け合います	助[たす]け 合[あ]います	help each other	[sound:MNN_助け合います.mp3]	L33
-1897	もともと	もともと	originally	[sound:MNN_もともと.mp3]	L33
+1897	元々	元[もと] 々[もと]	originally	[sound:MNN_元々.mp3]	L33
 1898	悲しい	悲[かな]しい	sad	[sound:MNN_悲しい.mp3]	L33 L39
 1899	もっと	もっと	more	[sound:MNN_もっと.mp3]	L33 L35
-1900	あいさつをします	あいさつをします	to greet, giving an address	[sound:MNN_あいさつをします.mp3]	L33 L49
+1900	挨拶「をします」	挨[あい] 拶[さつ]「をします」	to greet, giving an address	[sound:MNN_挨拶「をします」.mp3]	L33 L49
 1901	相手	相[あい] 手[て]	the other person, partner	[sound:MNN_相手.mp3]	L33 L41U L47
 1902	気持ち	気[き] 持[も]ち	feeling; spirit, mood	[sound:MNN_気持ち.mp3]	L33 L36 L39U
 1903	標識	標[ひょう] 識[しき]	sign	[sound:MNN_標識.mp3]	L33U

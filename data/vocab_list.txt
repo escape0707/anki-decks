@@ -1859,16 +1859,16 @@
 那[な] 覇[は]	Naha	L32U
 逃[に]げます	run away	L33
 騒[さわ]ぎます	make a noise	L33
-あきらめます	give up	L33
+諦[あきら]めます	give up	L33
 投[な]げます	throw	L33
 守[まも]ります	keep, follow, obey	L33
-式[しき]が 始[はじ]まります	a ceremony is beginning, starting	L33
-会[かい] 議[ぎ]に 出[しゅっ] 席[せき]します	attend a meeting	L33
+「 式[しき]が」 始[はじ]まります	a ceremony is beginning, starting	L33
+「 会[かい] 議[ぎ]に」 出[しゅっ] 席[せき]します	attend a meeting	L33
 伝[つた]えます	convey	L33
-車[くるま]に 注[ちゅう] 意[い]します	be careful of the cars	L33
-席[せき]を 外[はず]します	be away from one's desk	L33
+「 車[くるま]に」 注[ちゅう] 意[い]します	be careful of the cars	L33
+「 席[せき]を」 外[はず]します	be away from one's desk	L33
 戻[もど]ります	come back, return	L33
-電[でん] 話[わ]があります	have a telephone call	L33
+「 電[でん] 話[わ]が」あります	have a telephone call	L33
 リサイクルします	recycle	L33
 だめ「な」	no good, not permitted, impossible	L33
 同[おな]じ	same	L33
@@ -1888,16 +1888,16 @@
 募[ぼ] 集[しゅう] 中[ちゅう]	Applications Wanted	L33
 ～ 中[ちゅう]	-ing, all over ～	L33 L37
 どういう～	what (kind of ～)	L33
-いくら（～ても）	however ～, even if ～	L33
+いくら「～ても」	however ～, even if ～	L33
 あと～	～ left	L33
-～ほど	about ～	L33
+～ 程[ほど]	about ～	L33
 駐[ちゅう] 車[しゃ] 違[い] 反[はん]	parking violation	L33
 罰[ばっ] 金[きん]	fine	L33
 助[たす]け 合[あ]います	help each other	L33
-もともと	originally	L33
+元[もと] 々[もと]	originally	L33
 悲[かな]しい	sad	L33 L39
 もっと	more	L33 L35
-あいさつをします	to greet, giving an address	L33 L49
+挨[あい] 拶[さつ]「をします」	to greet, giving an address	L33 L49
 相[あい] 手[て]	the other person, partner	L33 L41U L47
 気[き] 持[も]ち	feeling; spirit, mood	L33 L36 L39U
 標[ひょう] 識[しき]	sign	L33U
