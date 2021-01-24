@@ -2090,7 +2090,7 @@
 脂[し] 肪[ぼう]	fat and oils	L36U
 ビタミン	vitamins	L36U
 褒[ほ]めます	praise	L37
-しかります	scold	L37
+叱[しか]ります	scold	L37
 招[しょう] 待[たい]します	invite	L37
 頼[たの]みます	ask, request	L37
 注[ちゅう] 意[い]します	warn, advise	L37
@@ -2121,12 +2121,13 @@
 江[え] 戸[ど] 時[じ] 代[だい]	Edo period	L37
 ポルトガル	Portugal	L37
 皆[みな] 様[さま]	everybody (respectful of みなさん)	L37
-うちが 焼[や]けます	house burns down	L37
-その 後[ご]	after that, later	L37
+「 家[うち]が」 焼[や]けます	[house] burns down	L37
+その 後[ご]（その 後[あと]）	after that, later	L37
 世[せ] 界[かい] 遺[い] 産[さん]	World Heritage Site (UNESCO)​	L37
 ～の 一[ひと]つ	one of the ～	L37
 金[きん] 色[いろ]	golden colour	L37
 本[ほん] 物[もの]	real thing	L37
+金[きん]	gold	L37
 キロ	kilograms, kilometers	L37 L40U
 美[うつく]しい	beautiful, pretty	L37
 豪[ごう] 華[か]「な」	gorgeous	L37
@@ -2136,9 +2137,8 @@
 彫[ほ]ります	engrave, carve	L37
 仲[なか] 間[ま]	colleague, friend	L37
 しかし	however, but	L37 L39
-そのあと	after that	L37
 一[いっ] 生[しょう] 懸[けん] 命[めい]	with all one's effort	L37 L40 L42
-ねずみ	mouse (animal)	L37
+鼠[ねずみ]	mouse (animal)	L37
 一[いっ] 匹[ぴき]もいません。	There is not a single (small animal, fish, insects)	L37
 事[じ] 故[こ]	accident	L37U L39
 事[じ] 件[けん]	incident, case	L37U
@@ -2832,7 +2832,6 @@
 お 礼[れい]	gratitude, thanks	L50
 安[あん] 全[ぜん]「な」	safe	L44
 ガソリン	petrol, gasoline	L43
-金[きん]	gold	L37
 キャンプ	camp	L45
 缶[かん] 詰[づめ]	canned food, tinned food	L42
 みえます	come (respectful of きます)	L49

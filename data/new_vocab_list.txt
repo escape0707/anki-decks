@@ -2090,7 +2090,7 @@
 2090	脂肪	脂[し] 肪[ぼう]	fat and oils	[sound:MNN_脂肪.mp3]	L36U
 2091	ビタミン	ビタミン	vitamins	[sound:MNN_ビタミン.mp3]	L36U
 2092	褒めます	褒[ほ]めます	praise	[sound:MNN_褒めます.mp3]	L37
-2093	しかります	しかります	scold	[sound:MNN_しかります.mp3]	L37
+2093	叱ります	叱[しか]ります	scold	[sound:MNN_叱ります.mp3]	L37
 2094	招待します	招[しょう] 待[たい]します	invite	[sound:MNN_招待します.mp3]	L37
 2095	頼みます	頼[たの]みます	ask, request	[sound:MNN_頼みます.mp3]	L37
 2096	注意します	注[ちゅう] 意[い]します	warn, advise	[sound:MNN_注意します.mp3]	L37
@@ -2121,24 +2121,24 @@
 2121	江戸時代	江[え] 戸[ど] 時[じ] 代[だい]	Edo period	[sound:MNN_江戸時代.mp3]	L37
 2122	ポルトガル	ポルトガル	Portugal	[sound:MNN_ポルトガル.mp3]	L37
 2123	皆様	皆[みな] 様[さま]	everybody (respectful of みなさん)	[sound:MNN_皆様.mp3]	L37
-2124	うちが焼けます	うちが 焼[や]けます	house burns down	[sound:MNN_うちが焼けます.mp3]	L37
-2125	その後	その 後[ご]	after that, later	[sound:MNN_その後.mp3]	L37
+2124	「家が」焼けます	「 家[うち]が」 焼[や]けます	[house] burns down	[sound:MNN_「家が」焼けます.mp3]	L37
+2125	その後（その後）	その 後[ご]（その 後[あと]）	after that, later	[sound:MNN_その後_1.mp3][sound:MNN_その後_2.mp3]	L37
 2126	世界遺産	世[せ] 界[かい] 遺[い] 産[さん]	World Heritage Site (UNESCO)​	[sound:MNN_世界遺産.mp3]	L37
 2127	～の一つ	～の 一[ひと]つ	one of the ～	[sound:MNN_～の一つ.mp3]	L37
 2128	金色	金[きん] 色[いろ]	golden colour	[sound:MNN_金色.mp3]	L37
 2129	本物	本[ほん] 物[もの]	real thing	[sound:MNN_本物.mp3]	L37
-2130	キロ	キロ	kilograms, kilometers	[sound:MNN_キロ.mp3]	L37 L40U
-2131	美しい	美[うつく]しい	beautiful, pretty	[sound:MNN_美しい.mp3]	L37
-2132	豪華「な」	豪[ごう] 華[か]「な」	gorgeous	[sound:MNN_豪華「な」.mp3]	L37
-2133	彫刻	彫[ちょう] 刻[こく]	engraving, carving, sculpture	[sound:MNN_彫刻.mp3]	L37
-2134	言い伝え	言[い]い 伝[つた]え	tradition, legend	[sound:MNN_言い伝え.mp3]	L37
-2135	眠ります	眠[ねむ]ります	sleep	[sound:MNN_眠ります.mp3]	L37 L44
-2136	彫ります	彫[ほ]ります	engrave, carve	[sound:MNN_彫ります.mp3]	L37
-2137	仲間	仲[なか] 間[ま]	colleague, friend	[sound:MNN_仲間.mp3]	L37
-2138	しかし	しかし	however, but	[sound:MNN_しかし.mp3]	L37 L39
-2139	そのあと	そのあと	after that	[sound:MNN_そのあと.mp3]	L37
+2130	金	金[きん]	gold	[sound:MNN_金.mp3]	L37
+2131	キロ	キロ	kilograms, kilometers	[sound:MNN_キロ.mp3]	L37 L40U
+2132	美しい	美[うつく]しい	beautiful, pretty	[sound:MNN_美しい.mp3]	L37
+2133	豪華「な」	豪[ごう] 華[か]「な」	gorgeous	[sound:MNN_豪華「な」.mp3]	L37
+2134	彫刻	彫[ちょう] 刻[こく]	engraving, carving, sculpture	[sound:MNN_彫刻.mp3]	L37
+2135	言い伝え	言[い]い 伝[つた]え	tradition, legend	[sound:MNN_言い伝え.mp3]	L37
+2136	眠ります	眠[ねむ]ります	sleep	[sound:MNN_眠ります.mp3]	L37 L44
+2137	彫ります	彫[ほ]ります	engrave, carve	[sound:MNN_彫ります.mp3]	L37
+2138	仲間	仲[なか] 間[ま]	colleague, friend	[sound:MNN_仲間.mp3]	L37
+2139	しかし	しかし	however, but	[sound:MNN_しかし.mp3]	L37 L39
 2140	一生懸命	一[いっ] 生[しょう] 懸[けん] 命[めい]	with all one's effort	[sound:MNN_一生懸命.mp3]	L37 L40 L42
-2141	ねずみ	ねずみ	mouse (animal)	[sound:MNN_ねずみ.mp3]	L37
+2141	鼠	鼠[ねずみ]	mouse (animal)	[sound:MNN_鼠.mp3]	L37
 2142	一匹もいません。	一[いっ] 匹[ぴき]もいません。	There is not a single (small animal, fish, insects)	[sound:MNN_一匹もいません。.mp3]	L37
 2143	事故	事[じ] 故[こ]	accident	[sound:MNN_事故.mp3]	L37U L39
 2144	事件	事[じ] 件[けん]	incident, case	[sound:MNN_事件.mp3]	L37U
@@ -2832,17 +2832,16 @@
 2832	お礼	お 礼[れい]	gratitude, thanks	[sound:MNN_お礼.mp3]	L50
 2833	安全「な」	安[あん] 全[ぜん]「な」	safe	[sound:MNN_安全「な」.mp3]	L44
 2834	ガソリン	ガソリン	petrol, gasoline	[sound:MNN_ガソリン.mp3]	L43
-2835	金	金[きん]	gold	[sound:MNN_金.mp3]	L37
-2836	キャンプ	キャンプ	camp	[sound:MNN_キャンプ.mp3]	L45
-2837	缶詰	缶[かん] 詰[づめ]	canned food, tinned food	[sound:MNN_缶詰.mp3]	L42
-2838	みえます	みえます	come (respectful of きます)	[sound:MNN_みえます.mp3]	L49
-2839	差し上げます	差[さ]し 上[あ]げます	give (humble of あげます)	[sound:MNN_差し上げます.mp3]	L50U
-2840	早寝	早[はや] 寝[ね]	go to bed early​	[sound:MNN_早寝.mp3]	L36U
-2841	早起き	早[はや] 起[お]き	early rising​	[sound:MNN_早起き.mp3]	L36U
-2842	外食	外[がい] 食[しょく]	eating out, dining out​	[sound:MNN_外食.mp3]	L36U
-2843	宿	宿[やど]	lodging, inn, hotel​	[sound:MNN_宿.mp3]	L41U
-2844	便利屋	便[べん] 利[り] 屋[や]	general merchant​	[sound:MNN_便利屋.mp3]	L41U
-2845	金銀	金[きん] 銀[ぎん]	gold and silver	[sound:MNN_金銀.mp3]	L41U
-2846	貴重品	貴[き] 重[ちょう] 品[ひん]	valuables, precious items	[sound:MNN_貴重品.mp3]	L30U
-2847	救急薬品	救[きゅう] 急[きゅう] 薬[やく] 品[ひん]	first-aid medicine	[sound:MNN_救急薬品.mp3]	L30U
-2848	退院する	退[たい] 院[いん]する	be discharged from hospital	[sound:MNN_退院する.mp3]	L45U
+2835	キャンプ	キャンプ	camp	[sound:MNN_キャンプ.mp3]	L45
+2836	缶詰	缶[かん] 詰[づめ]	canned food, tinned food	[sound:MNN_缶詰.mp3]	L42
+2837	みえます	みえます	come (respectful of きます)	[sound:MNN_みえます.mp3]	L49
+2838	差し上げます	差[さ]し 上[あ]げます	give (humble of あげます)	[sound:MNN_差し上げます.mp3]	L50U
+2839	早寝	早[はや] 寝[ね]	go to bed early​	[sound:MNN_早寝.mp3]	L36U
+2840	早起き	早[はや] 起[お]き	early rising​	[sound:MNN_早起き.mp3]	L36U
+2841	外食	外[がい] 食[しょく]	eating out, dining out​	[sound:MNN_外食.mp3]	L36U
+2842	宿	宿[やど]	lodging, inn, hotel​	[sound:MNN_宿.mp3]	L41U
+2843	便利屋	便[べん] 利[り] 屋[や]	general merchant​	[sound:MNN_便利屋.mp3]	L41U
+2844	金銀	金[きん] 銀[ぎん]	gold and silver	[sound:MNN_金銀.mp3]	L41U
+2845	貴重品	貴[き] 重[ちょう] 品[ひん]	valuables, precious items	[sound:MNN_貴重品.mp3]	L30U
+2846	救急薬品	救[きゅう] 急[きゅう] 薬[やく] 品[ひん]	first-aid medicine	[sound:MNN_救急薬品.mp3]	L30U
+2847	退院する	退[たい] 院[いん]する	be discharged from hospital	[sound:MNN_退院する.mp3]	L45U
