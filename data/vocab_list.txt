@@ -1720,21 +1720,22 @@
 緊[きん] 急[きゅう]	urgency, emergency	L30U
 続[つづ]けます	continue	L31
 見[み]つけます	find	L31
-休[やす]みを 取[と]ります	take a holiday	L31
-試[し] 験[けん]を 受[う]けます	take an examination	L31
+「休[やす]みを」 取[と]ります	take [a holiday]	L31
+「試[し] 験[けん]を」 受[う]けます	take [an examination]	L31
 申[もう]し 込[こ]みます	apply for, enter for	L31
 休[きゅう] 憩[けい]します	take a break, take a rest	L31
 連[れん] 休[きゅう]	consecutive holidays	L31
 作[さく] 文[ぶん]	essay, composition	L31
-発[はっ] 表[ぴょう]します	do a announcement, presentation	L31
+発[はっ] 表[ぴょう]「します」	[do a] announcement, presentation	L31
 展[てん] 覧[らん] 会[かい]	exhibition	L31
 結[けっ] 婚[こん] 式[しき]	wedding ceremony	L31 L41U
-お 葬[そう] 式[しき]	funeral	L31
+「お」 葬[そう] 式[しき]	funeral	L31
 式[しき]	ceremony	L31
 本[ほん] 社[しゃ]	head office	L31
 支[し] 店[てん]	branch office	L31
 温[おん] 泉[せん]	spa	L31
 帰[かえ]り	return	L31
+お 子[こ]さん	(someone's) child	L31
 ー 号[ごう]	(train number, typhoon number, etc)	L31
 残[のこ]ります	remain, be left, stay behind	L31
 入[にゅう] 学[がく] 試[し] 験[けん]	entrance examination	L31
@@ -2830,7 +2831,6 @@
 お 礼[れい]	gratitude, thanks	L50
 安[あん] 全[ぜん]「な」	safe	L44
 お 客[きゃく] 様[さま]（お 客[きゃく]さん）	guest; visitor; client; customer	L36
-お 子[こ]さん	(someone's) child	L31
 ガソリン	petrol, gasoline	L43
 金[きん]	gold	L37
 キャンプ	camp	L45
