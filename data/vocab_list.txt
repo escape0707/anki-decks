@@ -880,7 +880,7 @@
 あとで	later	L14
 もう 少[すこ]し	a little more	L14
 もう～	more	L14
-さあ	right (encouraging some course of action) well, let me see. (unsure of something)	L14
+さあ	right (encouraging some course of action) well, let me see. (unsure of something)	L14 L35
 あれ？	Huh? Eh?	L14
 信[しん] 号[ごう]を 右[みぎ]へ 曲[ま]がってください。	Turn right at the traffic lights.	L14
 これでお 願[ねが]いします。	I'll pay with this (card).	L14
@@ -2001,11 +2001,11 @@
 ガス 台[だい]	gas stove	L34U
 流[なが]し 台[だい]	sink	L34U
 換[かん] 気[き] 扇[せん]	ventilation fan	L34U
-花[はな]が 咲[さ]きます	flowers bloom	L35
-色[いろ]が 変[か]わります	the colour changes	L35
-丸[まる]を 付[つ]けます	draw a circle, mark with a circle, add	L35
-病[びょう] 気[き]が 治[なお]ります	recover from sickness, get well	L35
-故[こ] 障[しょう]が 直[なお]ります	be fixed, be repaired	L35
+「 花[はな]が」 咲[さ]きます	[flowers] bloom	L35
+「 色[いろ]が」 変[か]わります	[the colour] changes	L35
+「 丸[まる]を」 付[つ]けます	draw [a circle], mark with [a circle], add	L35
+「 病[びょう] 気[き]が」 治[なお]ります	recover from [sickness], get well	L35
+「 故[こ] 障[しょう]が」 直[なお]ります	[trouble] is fixed, is repaired	L35
 クリックします	click	L35
 入[にゅう] 力[りょく]します	input	L35
 正[ただ]しい	correct, right	L30U L35
@@ -2018,8 +2018,8 @@
 歴[れき] 史[し]	history	L35
 機[き] 会[かい]	chance, opportunity	L35
 許[きょ] 可[か]	permission	L35
-円[えん]、 丸[まる]	circle	L35 L40U
-ふりがな	kana above the kanji	L35
+丸[まる]	circle, sphere (for "circle" in mathematics and for full moon etc, see also: 円[えん])	L35 L40U
+振[ふ]り 仮名[がな]	kana above the kanji	L35
 設[せつ] 備[び]	equipment, facilities	L35
 レバー	lever	L35
 キー	key	L35
@@ -2027,6 +2027,7 @@
 ひも	string	L35
 葉[は]	leaf	L35
 これで 終[お]わりましょう。	Let's finish now.	L35
+アフリカ	Africa	L35
 それなら	in that case	L35
 夜[や] 行[こう]バス	overnight bus	L35
 旅[りょ] 行[こう] 社[しゃ]	travel agency	L35
@@ -2034,15 +2035,15 @@
 スキー 場[じょう]	ski resort, ski area	L35
 朱[しゅ]	vermilion	L35
 交[まじ]わります	keep company with	L35
-ことわざ	proverb	L35
+諺[ことわざ]	proverb	L35
 関[かん] 係[けい]	relationship	L35 L46U L47
-仲[なか]よくします	be on good terms with	L35
+仲[なか] 良[よく]します	be on good terms with	L35
 必[ひつ] 要[よう]「な」	necessary, essential	L35 L40
-都[みやこ]	capital, metropolis	L35
-知[ち] 恵[え]	wisdom	L35
-姿[すがた]	appearance, figure, condition	L35
-積[つ]もる	to pile up	L35
-影[かげ]	shadow	L35
+都[みやこ]	capital, metropolis	L35U
+知[ち] 恵[え]	wisdom	L35U
+姿[すがた]	appearance, figure, condition	L35U
+積[つ]もる	to pile up	L35U
+影[かげ]	shadow	L35U
 事[じ] 故[こ]にあいます	encounter an accident	L36
 貯[ちょ] 金[きん]します	save money	L36
 ７ 時[じ]を 過[す]ぎます	pass 7 o' clock	L36
@@ -2822,7 +2823,6 @@
 明後日[あさって]の 晩[ばん]（ 夜[よる]）	the night after next	L51
 先[せん] 々[せん] 週[しゅう]（ 二[に] 週[しゅう] 間[かん] 前[まえ]）	the week before last	L51
 先[せん] 々[せん] 月[げつ]（ 二[に] 週[しゅう] 間[かん] 前[まえ]）	the month before last	L51
-アフリカ	Africa	L35
 バザー	bazaar	L41U
 カット	haircut	L44
 １センチくらい～	about one centimeter ～	L44U
