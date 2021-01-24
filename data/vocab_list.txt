@@ -4,7 +4,7 @@
 ～さん	Mr., Ms.	L01
 ～ちゃん	suffix for child's name	L01
 ～ 人[じん]	suffix for nationality	L01
-先[せん] 生[せい]	teacher, instructor	L01
+先[せん] 生[せい]	teacher, instructor; (medical) doctor, medic	L01, L32
 教[きょう] 師[し]	teacher, instructor (referring to own job)	L01 L15U
 学[がく] 生[せい]	student	L01
 会[かい] 社[しゃ] 員[いん]	company employee	L01 L15U
@@ -590,7 +590,7 @@
 ホラー	horror	L09U
 アニメ	animation	L09U L21
 ドキュメンタリー	documentary	L09U
-恋[れん] 愛[あい]	romance	L09U
+恋[れん] 愛[あい]	romance	L09U L32
 ミステリー	mystery	L09U
 文[ぶん] 芸[げい]	literature, based on classic work	L09U
 戦[せん] 争[そう]	war	L09U L42
@@ -1072,7 +1072,7 @@
 お 腹[なか]が 痛[いた]い	have a stomachache	L17U
 歯[は]が 痛[いた]い	have a toothache	L17U
 熱[ねつ]があります	have a high temperature, fever	L17U
-咳[せき]が 出[で]ます	have a cough	L17U L32
+咳[せき]「が 出[で]ます」（ 咳[せき]「をします」）	[have a] cough	L17U L32
 鼻[はな] 水[みず]が 出[で]ます	have a runny nose	L17U
 血[ち]が 出[で]ます	bleed	L17U
 吐[は]き 気[け]がします	feel sick, nauseous (about to vomit)	L17U
@@ -1080,8 +1080,8 @@
 めまいがします	feel dizzy	L17U
 下[げ] 痢[り]をします	have diarrhea	L17U
 便[べん] 秘[ぴ]をします	be constipated	L17U
-けがをします	get injured	L17U L32
-やけどをします	get burnt	L17U L32
+怪我[けが]「をします」	[get] injured	L17U L32
+火傷[やけど]「をします」	[get] burnt	L17U L32
 食[しょく] 欲[よく]がありません	have no appetite	L17U
 肩[かた]が 凝[こ]ります	feel stiff in one's shoulders	L17U
 体[からだ]がだるい	feel weary	L17U
@@ -1778,25 +1778,24 @@
 宗[しゅう] 教[きょう] 学[がく]	religious study	L31U
 芸[げい] 術[じゅつ]	arts	L31U L46
 体[たい] 育[いく] 学[がく]	physical education	L31U
-健[けん] 康[こう]	health	L32 L36U L38
 運[うん] 動[どう]します	take exercise	L32 L36U
 成[せい] 功[こう]します	succeed	L32
-試[し] 験[けん]に 失[しっ] 敗[ぱい]します	fail an examination	L32
-試[し] 験[けん]に 合[ごう] 格[かく]します	pass an examination	L32
-雨[あめ]がやみます	rain is stopped	L32
+「 試[し] 験[けん]に」 失[しっ] 敗[ぱい]します	fail [an examination]	L32
+「 試[し] 験[けん]に」 合[ごう] 格[かく]します	pass [an examination]	L32
+「 雨[あめ]が」 止[や]みます	[rain is] stopped	L32
 晴[は]れます	clear up	L32
 曇[くも]ります	get cloudy	L32
-熱[ねつ]が 続[つづ]きます	high temperature/fever is continuing	L32
-風邪[かぜ]をひきます	catch a cold	L32
+「 熱[ねつ]が」 続[つづ]きます	[high temperature/fever] is continuing	L32
+「 風邪[かぜ]を」 引[ひ]きます	catch [a cold]	L32
 冷[ひ]やします	cool (from room temperature)	L32
-道[みち]が 込[こ]みます	a road gets crowded	L32
-道[みち]がすきます	a road get less crowded	L32
-試[し] 合[あい]に 出[で]ます	participate in the match	L32
-パーティーに 出[で]ます	attend a party	L32
+「 道[みち]が」 込[こ]みます	[a road] gets crowded	L32
+「 道[みち]が」 空[す]きます	[a road] get less crowded	L32
+「 試[し] 合[あい]に」 出[で]ます	participate in [the match]	L32
+「パーティーに」 出[で]ます	attend [a party]	L32
 無[む] 理[り]をします	overdo things	L32
 十[じゅう] 分[ぶん]「な」	sufficient, enough	L32
-おかしい	strange, funny	L32
-うるさい	noisy	L32
+可笑[おか]しい	strange, funny	L32
+煩[うるさ]い	noisy	L32
 太[たい] 陽[よう]	sun	L32
 星[ほし]	star	L32
 風[かぜ]	wind	L32
@@ -1809,7 +1808,7 @@
 チーム	team	L32
 今[こん] 夜[や]	this evening	L32
 夕[ゆう] 方[がた]	late afternoon	L32
-まえ	a time in the past, before	L32
+前[まえ]	a time in the past, before	L32
 遅[おそ]く	late (time)	L32
 こんなに	this (much, etc.)	L32
 あんなに	that (much, etc.) (concerning a matter not related to the speaker or the listener)	L32
@@ -1822,7 +1821,9 @@
 牡[お] 牛[うし] 座[ざ]	Taurus	L32
 働[はたら]きすぎ	overworking	L32
 困[こま]ります	be in trouble, have a problem	L32 L35
-宝[たから]くじが 当[あ]たります	win a lottery	L32
+宝[たから]くじ	lottery	L32
+「 宝[たから]くじが」 当[あ]たります	win [a lottery]	L32
+健[けん] 康[こう]	health	L32 L36U L38
 恋[こい] 人[びと]	sweetheart, boyfriend, girlfriend	L32 L47
 ラッキーアイテム	something lucky	L32
 石[いし]	stone	L32
@@ -2821,7 +2822,6 @@
 明後日[あさって]の 晩[ばん]（ 夜[よる]）	the night after next	L51
 先[せん] 々[せん] 週[しゅう]（ 二[に] 週[しゅう] 間[かん] 前[まえ]）	the week before last	L51
 先[せん] 々[せん] 月[げつ]（ 二[に] 週[しゅう] 間[かん] 前[まえ]）	the month before last	L51
-宝[たから]くじ	lottery	L32
 アフリカ	Africa	L35
 バザー	bazaar	L41U
 カット	haircut	L44

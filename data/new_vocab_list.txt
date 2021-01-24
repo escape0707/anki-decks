@@ -4,7 +4,7 @@
 4	～さん	～さん	Mr., Ms.	[sound:MNN_～さん.mp3]	L01
 5	～ちゃん	～ちゃん	suffix for child's name	[sound:MNN_～ちゃん.mp3]	L01
 6	～人	～ 人[じん]	suffix for nationality	[sound:MNN_～人.mp3]	L01
-7	先生	先[せん] 生[せい]	teacher, instructor	[sound:MNN_先生.mp3]	L01
+7	先生	先[せん] 生[せい]	teacher, instructor; (medical) doctor, medic	[sound:MNN_先生.mp3]	L01, L32
 8	教師	教[きょう] 師[し]	teacher, instructor (referring to own job)	[sound:MNN_教師.mp3]	L01 L15U
 9	学生	学[がく] 生[せい]	student	[sound:MNN_学生.mp3]	L01
 10	会社員	会[かい] 社[しゃ] 員[いん]	company employee	[sound:MNN_会社員.mp3]	L01 L15U
@@ -590,7 +590,7 @@
 590	ホラー	ホラー	horror	[sound:MNN_ホラー.mp3]	L09U
 591	アニメ	アニメ	animation	[sound:MNN_アニメ.mp3]	L09U L21
 592	ドキュメンタリー	ドキュメンタリー	documentary	[sound:MNN_ドキュメンタリー.mp3]	L09U
-593	恋愛	恋[れん] 愛[あい]	romance	[sound:MNN_恋愛.mp3]	L09U
+593	恋愛	恋[れん] 愛[あい]	romance	[sound:MNN_恋愛.mp3]	L09U L32
 594	ミステリー	ミステリー	mystery	[sound:MNN_ミステリー.mp3]	L09U
 595	文芸	文[ぶん] 芸[げい]	literature, based on classic work	[sound:MNN_文芸.mp3]	L09U
 596	戦争	戦[せん] 争[そう]	war	[sound:MNN_戦争.mp3]	L09U L42
@@ -1072,7 +1072,7 @@
 1072	お腹が痛い	お 腹[なか]が 痛[いた]い	have a stomachache	[sound:MNN_お腹が痛い.mp3]	L17U
 1073	歯が痛い	歯[は]が 痛[いた]い	have a toothache	[sound:MNN_歯が痛い.mp3]	L17U
 1074	熱があります	熱[ねつ]があります	have a high temperature, fever	[sound:MNN_熱があります.mp3]	L17U
-1075	咳が出ます	咳[せき]が 出[で]ます	have a cough	[sound:MNN_咳が出ます.mp3]	L17U L32
+1075	咳「が出ます」（咳「をします」）	咳[せき]「が 出[で]ます」（ 咳[せき]「をします」）	[have a] cough	[sound:MNN_咳「が出ます」.mp3][sound:MNN_咳「をします」.mp3]	L17U L32
 1076	鼻水が出ます	鼻[はな] 水[みず]が 出[で]ます	have a runny nose	[sound:MNN_鼻水が出ます.mp3]	L17U
 1077	血が出ます	血[ち]が 出[で]ます	bleed	[sound:MNN_血が出ます.mp3]	L17U
 1078	吐き気がします	吐[は]き 気[け]がします	feel sick, nauseous (about to vomit)	[sound:MNN_吐き気がします.mp3]	L17U
@@ -1080,8 +1080,8 @@
 1080	めまいがします	めまいがします	feel dizzy	[sound:MNN_めまいがします.mp3]	L17U
 1081	下痢をします	下[げ] 痢[り]をします	have diarrhea	[sound:MNN_下痢をします.mp3]	L17U
 1082	便秘をします	便[べん] 秘[ぴ]をします	be constipated	[sound:MNN_便秘をします.mp3]	L17U
-1083	けがをします	けがをします	get injured	[sound:MNN_けがをします.mp3]	L17U L32
-1084	やけどをします	やけどをします	get burnt	[sound:MNN_やけどをします.mp3]	L17U L32
+1083	怪我「をします」	怪我[けが]「をします」	[get] injured	[sound:MNN_怪我「をします」.mp3]	L17U L32
+1084	火傷「をします」	火傷[やけど]「をします」	[get] burnt	[sound:MNN_火傷「をします」.mp3]	L17U L32
 1085	食欲がありません	食[しょく] 欲[よく]がありません	have no appetite	[sound:MNN_食欲がありません.mp3]	L17U
 1086	肩が凝ります	肩[かた]が 凝[こ]ります	feel stiff in one's shoulders	[sound:MNN_肩が凝ります.mp3]	L17U
 1087	体がだるい	体[からだ]がだるい	feel weary	[sound:MNN_体がだるい.mp3]	L17U
@@ -1778,1050 +1778,1050 @@
 1778	宗教学	宗[しゅう] 教[きょう] 学[がく]	religious study	[sound:MNN_宗教学.mp3]	L31U
 1779	芸術	芸[げい] 術[じゅつ]	arts	[sound:MNN_芸術.mp3]	L31U L46
 1780	体育学	体[たい] 育[いく] 学[がく]	physical education	[sound:MNN_体育学.mp3]	L31U
-1781	健康	健[けん] 康[こう]	health	[sound:MNN_健康.mp3]	L32 L36U L38
-1782	運動します	運[うん] 動[どう]します	take exercise	[sound:MNN_運動します.mp3]	L32 L36U
-1783	成功します	成[せい] 功[こう]します	succeed	[sound:MNN_成功します.mp3]	L32
-1784	試験に失敗します	試[し] 験[けん]に 失[しっ] 敗[ぱい]します	fail an examination	[sound:MNN_試験に失敗します.mp3]	L32
-1785	試験に合格します	試[し] 験[けん]に 合[ごう] 格[かく]します	pass an examination	[sound:MNN_試験に合格します.mp3]	L32
-1786	雨がやみます	雨[あめ]がやみます	rain is stopped	[sound:MNN_雨がやみます.mp3]	L32
-1787	晴れます	晴[は]れます	clear up	[sound:MNN_晴れます.mp3]	L32
-1788	曇ります	曇[くも]ります	get cloudy	[sound:MNN_曇ります.mp3]	L32
-1789	熱が続きます	熱[ねつ]が 続[つづ]きます	high temperature/fever is continuing	[sound:MNN_熱が続きます.mp3]	L32
-1790	風邪をひきます	風邪[かぜ]をひきます	catch a cold	[sound:MNN_風邪をひきます.mp3]	L32
-1791	冷やします	冷[ひ]やします	cool (from room temperature)	[sound:MNN_冷やします.mp3]	L32
-1792	道が込みます	道[みち]が 込[こ]みます	a road gets crowded	[sound:MNN_道が込みます.mp3]	L32
-1793	道がすきます	道[みち]がすきます	a road get less crowded	[sound:MNN_道がすきます.mp3]	L32
-1794	試合に出ます	試[し] 合[あい]に 出[で]ます	participate in the match	[sound:MNN_試合に出ます.mp3]	L32
-1795	パーティーに出ます	パーティーに 出[で]ます	attend a party	[sound:MNN_パーティーに出ます.mp3]	L32
-1796	無理をします	無[む] 理[り]をします	overdo things	[sound:MNN_無理をします.mp3]	L32
-1797	十分「な」	十[じゅう] 分[ぶん]「な」	sufficient, enough	[sound:MNN_十分「な」.mp3]	L32
-1798	おかしい	おかしい	strange, funny	[sound:MNN_おかしい.mp3]	L32
-1799	うるさい	うるさい	noisy	[sound:MNN_うるさい.mp3]	L32
-1800	太陽	太[たい] 陽[よう]	sun	[sound:MNN_太陽.mp3]	L32
-1801	星	星[ほし]	star	[sound:MNN_星.mp3]	L32
-1802	風	風[かぜ]	wind	[sound:MNN_風.mp3]	L32
-1803	東	東[ひがし]	east	[sound:MNN_東.mp3]	L32
-1804	南	南[みなみ]	south	[sound:MNN_南.mp3]	L32
-1805	北	北[きた]	north	[sound:MNN_北.mp3]	L32
-1806	国際～	国[こく] 際[さい]～	international ～	[sound:MNN_国際～.mp3]	L32
-1807	水道	水[すい] 道[どう]	faucet, tap, water supply	[sound:MNN_水道.mp3]	L32
-1808	エンジン	エンジン	engine	[sound:MNN_エンジン.mp3]	L32
-1809	チーム	チーム	team	[sound:MNN_チーム.mp3]	L32
-1810	今夜	今[こん] 夜[や]	this evening	[sound:MNN_今夜.mp3]	L32
-1811	夕方	夕[ゆう] 方[がた]	late afternoon	[sound:MNN_夕方.mp3]	L32
-1812	まえ	まえ	a time in the past, before	[sound:MNN_まえ.mp3]	L32
-1813	遅く	遅[おそ]く	late (time)	[sound:MNN_遅く.mp3]	L32
-1814	こんなに	こんなに	this (much, etc.)	[sound:MNN_こんなに.mp3]	L32
-1815	あんなに	あんなに	that (much, etc.) (concerning a matter not related to the speaker or the listener)	[sound:MNN_あんなに.mp3]	L32
-1816	ヨーロッパ	ヨーロッパ	Europe	[sound:MNN_ヨーロッパ.mp3]	L32
-1817	元気	元[げん] 気[き]	vigour	[sound:MNN_元気.mp3]	L32
-1818	胃	胃[い]	stomach	[sound:MNN_胃.mp3]	L32
-1819	ストレス	ストレス	stress	[sound:MNN_ストレス.mp3]	L32 L46U
-1820	それはいけませんね。	それはいけませんね。	I'm sorry to hear that.	[sound:MNN_それはいけませんね。.mp3]	L32
-1821	星占い	星[ほし] 占[うらな]い	horoscope	[sound:MNN_星占い.mp3]	L32
-1822	牡牛座	牡[お] 牛[うし] 座[ざ]	Taurus	[sound:MNN_牡牛座.mp3]	L32
-1823	働きすぎ	働[はたら]きすぎ	overworking	[sound:MNN_働きすぎ.mp3]	L32
-1824	困ります	困[こま]ります	be in trouble, have a problem	[sound:MNN_困ります.mp3]	L32 L35
-1825	宝くじが当たります	宝[たから]くじが 当[あ]たります	win a lottery	[sound:MNN_宝くじが当たります.mp3]	L32
-1826	恋人	恋[こい] 人[びと]	sweetheart, boyfriend, girlfriend	[sound:MNN_恋人.mp3]	L32 L47
-1827	ラッキーアイテム	ラッキーアイテム	something lucky	[sound:MNN_ラッキーアイテム.mp3]	L32
-1828	石	石[いし]	stone	[sound:MNN_石.mp3]	L32
-1829	晴れ	晴[は]れ	clear, fair	[sound:MNN_晴れ.mp3]	L32U
-1830	晴れのち曇り	晴[は]れのち 曇[くも]り	fine early, cloudy later	[sound:MNN_晴れのち曇り.mp3]	L32U
-1831	曇り時々雨	曇[くも]り 時[とき]々[どき] 雨[あめ]	cloudy with occasional rain	[sound:MNN_曇り時々雨.mp3]	L32U
-1832	曇り所によって雨	曇[くも]り 所[ところ]によって 雨[あめ]	cloudy, with rain in some areas	[sound:MNN_曇り所によって雨.mp3]	L32U
-1833	にわか雨、夕立	にわか 雨[あめ]、 夕[ゆう]立[だち]	evening shower (rain)	[sound:MNN_にわか雨、夕立.mp3]	L32U
-1834	虹	虹[にじ]	rainbow	[sound:MNN_虹.mp3]	L32U
-1835	雲	雲[くも]	cloud	[sound:MNN_雲.mp3]	L32U
-1836	湿度	湿[しつ] 度[ど]	humidity	[sound:MNN_湿度.mp3]	L32U
-1837	蒸し暑い	蒸[む]し 暑[あつ]い	hot and humid	[sound:MNN_蒸し暑い.mp3]	L32U
-1838	さわやか「な」	さわやか「な」	refreshing	[sound:MNN_さわやか「な」.mp3]	L32U
-1839	降水確率	降[こう] 水[すい] 確[かく] 率[りつ]	probability of rain	[sound:MNN_降水確率.mp3]	L32U
-1840	最高気温	最[さい] 高[こう] 気[き] 温[おん]	maximum temperature	[sound:MNN_最高気温.mp3]	L32U
-1841	最低気温	最[さい] 低[てい] 気[き] 温[おん]	minimum temperature	[sound:MNN_最低気温.mp3]	L32U
-1842	北海道地方	北[ほっ] 海[かい] 道[どう] 地[ち] 方[ほう]	Hokkaido region	[sound:MNN_北海道地方.mp3]	L32U
-1843	札幌	札[さっ] 幌[ぽろ]	Sapporo	[sound:MNN_札幌.mp3]	L32U
-1844	東北地方	東[とう] 北[ほく] 地[ち] 方[ほう]	Tohoku region	[sound:MNN_東北地方.mp3]	L32U
-1845	仙台	仙[せん] 台[だい]	Sendai	[sound:MNN_仙台.mp3]	L32U L40
-1846	長野	長[なが] 野[の]	Nagano	[sound:MNN_長野.mp3]	L32U
-1847	関東地方	関[かん] 東[とう] 地[ち] 方[ほう]	Kanto region	[sound:MNN_関東地方.mp3]	L32U
-1848	中部地方	中[ちゅう] 部[ぶ] 地[ち] 方[ほう]	Chubu region	[sound:MNN_中部地方.mp3]	L32U
-1849	近畿地方	近[きん] 畿[き] 地[ち] 方[ほう]	Kinki region	[sound:MNN_近畿地方.mp3]	L32U
-1850	名古屋	名[な] 古[ご] 屋[や]	Nagoya	[sound:MNN_名古屋.mp3]	L32U
-1851	大阪	大[おお] 阪[さか]	Osaka	[sound:MNN_大阪.mp3]	L32U
-1852	四国地方	四[し] 国[こく] 地[ち] 方[ほう]	Shikoku region	[sound:MNN_四国地方.mp3]	L32U
-1853	中国地方	中[ちゅう] 国[ごく] 地[ち] 方[ほう]	Chugoku region	[sound:MNN_中国地方.mp3]	L32U
-1854	松江	松[まつ] 江[え]	Matsue	[sound:MNN_松江.mp3]	L32U
-1855	高知	高[こう] 知[ち]	Kochi	[sound:MNN_高知.mp3]	L32U
-1856	九州地方	九[きゅう] 州[しゅう] 地[ち] 方[ほう]	Kyushu region	[sound:MNN_九州地方.mp3]	L32U
-1857	鹿児島	鹿[か] 児[ご] 島[しま]	Kagoshima	[sound:MNN_鹿児島.mp3]	L32U
-1858	那覇	那[な] 覇[は]	Naha	[sound:MNN_那覇.mp3]	L32U
-1859	逃げます	逃[に]げます	run away	[sound:MNN_逃げます.mp3]	L33
-1860	騒ぎます	騒[さわ]ぎます	make a noise	[sound:MNN_騒ぎます.mp3]	L33
-1861	あきらめます	あきらめます	give up	[sound:MNN_あきらめます.mp3]	L33
-1862	投げます	投[な]げます	throw	[sound:MNN_投げます.mp3]	L33
-1863	守ります	守[まも]ります	keep, follow, obey	[sound:MNN_守ります.mp3]	L33
-1864	式が始まります	式[しき]が 始[はじ]まります	a ceremony is beginning, starting	[sound:MNN_式が始まります.mp3]	L33
-1865	会議に出席します	会[かい] 議[ぎ]に 出[しゅっ] 席[せき]します	attend a meeting	[sound:MNN_会議に出席します.mp3]	L33
-1866	伝えます	伝[つた]えます	convey	[sound:MNN_伝えます.mp3]	L33
-1867	車に注意します	車[くるま]に 注[ちゅう] 意[い]します	be careful of the cars	[sound:MNN_車に注意します.mp3]	L33
-1868	席を外します	席[せき]を 外[はず]します	be away from one's desk	[sound:MNN_席を外します.mp3]	L33
-1869	戻ります	戻[もど]ります	come back, return	[sound:MNN_戻ります.mp3]	L33
-1870	電話があります	電[でん] 話[わ]があります	have a telephone call	[sound:MNN_電話があります.mp3]	L33
-1871	リサイクルします	リサイクルします	recycle	[sound:MNN_リサイクルします.mp3]	L33
-1872	だめ「な」	だめ「な」	no good, not permitted, impossible	[sound:MNN_だめ「な」.mp3]	L33
-1873	同じ	同[おな]じ	same	[sound:MNN_同じ.mp3]	L33
-1874	席	席[せき]	seat	[sound:MNN_席.mp3]	L33
-1875	マーク	マーク	mark, symbol	[sound:MNN_マーク.mp3]	L33
-1876	ボール	ボール	ball	[sound:MNN_ボール.mp3]	L33
-1877	締め切り	締[し]め 切[き]り	deadline	[sound:MNN_締め切り.mp3]	L33
-1878	規則	規[き] 則[そく]	regulation, rule	[sound:MNN_規則.mp3]	L33 L36
-1879	危険	危[き] 険[けん]	Danger	[sound:MNN_危険.mp3]	L33
-1880	使用禁止	使[し] 用[よう] 禁[きん] 止[し]	Do Not Use	[sound:MNN_使用禁止.mp3]	L33
-1881	立入禁止	立[たち] 入[いり] 禁[きん] 止[し]	Keep Out	[sound:MNN_立入禁止.mp3]	L33
-1882	徐行	徐[じょ] 行[こう]	Go Slow	[sound:MNN_徐行.mp3]	L33
-1883	非常口	非[ひ] 常[じょう] 口[ぐち]	emergency exit	[sound:MNN_非常口.mp3]	L33
-1884	割引	割[わり] 引[びき]	Discount	[sound:MNN_割引.mp3]	L33
-1885	飲み放題	飲[の]み 放[ほう] 題[だい]	All You Can Drink	[sound:MNN_飲み放題.mp3]	L33
-1886	使用中	使[し] 用[よう] 中[ちゅう]	In Use	[sound:MNN_使用中.mp3]	L33
-1887	募集中	募[ぼ] 集[しゅう] 中[ちゅう]	Applications Wanted	[sound:MNN_募集中.mp3]	L33
-1888	～中	～ 中[ちゅう]	-ing, all over ～	[sound:MNN_～中.mp3]	L33 L37
-1889	どういう～	どういう～	what (kind of ～)	[sound:MNN_どういう～.mp3]	L33
-1890	いくら（～ても）	いくら（～ても）	however ～, even if ～	[sound:MNN_いくら.mp3][sound:MNN_～ても.mp3]	L33
-1891	あと～	あと～	～ left	[sound:MNN_あと～.mp3]	L33
-1892	～ほど	～ほど	about ～	[sound:MNN_～ほど.mp3]	L33
-1893	駐車違反	駐[ちゅう] 車[しゃ] 違[い] 反[はん]	parking violation	[sound:MNN_駐車違反.mp3]	L33
-1894	罰金	罰[ばっ] 金[きん]	fine	[sound:MNN_罰金.mp3]	L33
-1895	助け合います	助[たす]け 合[あ]います	help each other	[sound:MNN_助け合います.mp3]	L33
-1896	もともと	もともと	originally	[sound:MNN_もともと.mp3]	L33
-1897	悲しい	悲[かな]しい	sad	[sound:MNN_悲しい.mp3]	L33 L39
-1898	もっと	もっと	more	[sound:MNN_もっと.mp3]	L33 L35
-1899	あいさつをします	あいさつをします	to greet, giving an address	[sound:MNN_あいさつをします.mp3]	L33 L49
-1900	相手	相[あい] 手[て]	the other person, partner	[sound:MNN_相手.mp3]	L33 L41U L47
-1901	気持ち	気[き] 持[も]ち	feeling; spirit, mood	[sound:MNN_気持ち.mp3]	L33 L36 L39U
-1902	標識	標[ひょう] 識[しき]	sign	[sound:MNN_標識.mp3]	L33U
-1903	営業中	営[えい] 業[ぎょう] 中[ちゅう]	Open for Business	[sound:MNN_営業中.mp3]	L33U
-1904	準備中	準[じゅん] 備[び] 中[ちゅう]	In Preparation	[sound:MNN_準備中.mp3]	L33U
-1905	閉店	閉[へい] 店[てん]	Closed	[sound:MNN_閉店.mp3]	L33U
-1906	定休日	定[てい] 休[きゅう] 日[び]	Regular Holiday	[sound:MNN_定休日.mp3]	L33U
-1907	化粧室	化[け] 粧[しょう] 室[しつ]	Toilet	[sound:MNN_化粧室.mp3]	L33U
-1908	禁煙席	禁[きん] 煙[えん] 席[せき]	No-Smoking Seat	[sound:MNN_禁煙席.mp3]	L33U
-1909	予約席	予[よ] 約[やく] 席[せき]	Reserved Seat	[sound:MNN_予約席.mp3]	L33U
-1910	火気厳禁	火[か] 気[き] 厳[げん] 禁[きん]	flammable	[sound:MNN_火気厳禁.mp3]	L33U
-1911	割れ物注意	割[わ]れ 物[もの] 注[ちゅう] 意[い]	Fragile	[sound:MNN_割れ物注意.mp3]	L33U
-1912	運転初心者注意	運[うん] 転[てん] 初[しょ] 心[しん] 者[しゃ] 注[ちゅう] 意[い]	New Driver	[sound:MNN_運転初心者注意.mp3]	L33U
-1913	工事中	工[こう] 事[じ] 中[ちゅう]	Under Construction	[sound:MNN_工事中.mp3]	L33U
-1914	塩素系漂白剤不可	塩[えん] 素[そ] 系[けい] 漂[ひょう] 白[はく] 剤[ざい] 不[ふ] 可[か]	Do not use chlorine-based bleach	[sound:MNN_塩素系漂白剤不可.mp3]	L33U
-1915	手洗い	手[て] 洗[あら]い	Wash by hand	[sound:MNN_手洗い.mp3]	L33U
-1916	アイロン（低温）	アイロン（ 低[てい]温[おん]）	Cool iron	[sound:MNN_アイロン.mp3][sound:MNN_低温.mp3]	L33U
-1917	ドライクリーニング	ドライクリーニング	Dry-clean only	[sound:MNN_ドライクリーニング.mp3]	L33U
-1918	歯を磨きます	歯[は]を 磨[みが]きます	brush, polish one's teeth	[sound:MNN_歯を磨きます.mp3]	L34
-1919	組み立てます	組[く]み 立[た]てます	assemble	[sound:MNN_組み立てます.mp3]	L34
-1920	折ります	折[お]ります	bend, fold, break, snap	[sound:MNN_折ります.mp3]	L34
-1921	忘れ物に気がつきます	忘[わす]れ 物[もの]に 気[き]がつきます	notice, be aware of things left behind	[sound:MNN_忘れ物に気がつきます.mp3]	L34
-1922	しょうゆをつけます	しょうゆをつけます	put (in soy sauce)	[sound:MNN_しょうゆをつけます.mp3]	L34
-1923	鍵が見つかります	鍵[かぎ]が 見[み]つかります	a key be found	[sound:MNN_鍵が見つかります.mp3]	L34
-1924	質問します	質[しつ] 問[もん]します	ask a question	[sound:MNN_質問します.mp3]	L34
-1925	傘をさします	傘[かさ]をさします	put up an umbrella	[sound:MNN_傘をさします.mp3]	L34
-1926	スポーツクラブ	スポーツクラブ	sports club	[sound:MNN_スポーツクラブ.mp3]	L34
-1927	お城	お 城[しろ]	castle	[sound:MNN_お城.mp3]	L34
-1928	説明書	説[せつ] 明[めい] 書[しょ]	explanatory pamphlet, instruction book	[sound:MNN_説明書.mp3]	L34
-1929	図	図[ず]	figure, drawing	[sound:MNN_図.mp3]	L34
-1930	線	線[せん]	line	[sound:MNN_線.mp3]	L34 L40U
-1931	矢印	矢[や] 印[じるし]	arrow (sign)	[sound:MNN_矢印.mp3]	L34
-1932	黒	黒[くろ]	black (noun)	[sound:MNN_黒.mp3]	L34
-1933	白	白[しろ]	white (noun)	[sound:MNN_白.mp3]	L34
-1934	赤	赤[あか]	red (noun)	[sound:MNN_赤.mp3]	L34
-1935	青	青[あお]	blue (noun)	[sound:MNN_青.mp3]	L34
-1936	紺	紺[こん]	navy blue, dark blue (noun)	[sound:MNN_紺.mp3]	L34
-1937	黄色	黄[き] 色[いろ]	yellow (noun)	[sound:MNN_黄色.mp3]	L34
-1938	茶色	茶[ちゃ] 色[いろ]	brown (noun)	[sound:MNN_茶色.mp3]	L34
-1939	しょうゆ	しょうゆ	soya, soy sauce	[sound:MNN_しょうゆ.mp3]	L34
-1940	ソース	ソース	sauce, Worcestershire sauce	[sound:MNN_ソース.mp3]	L34
-1941	お客さん	お 客[きゃく]さん	visitor, guest, customer, client	[sound:MNN_お客さん.mp3]	L34
-1942	～か～	～か～	～ or ～	[sound:MNN_～か～.mp3]	L34
-1943	夕べ	夕[ゆう]べ	last night (evening)	[sound:MNN_夕べ.mp3]	L34
-1944	さっき	さっき	a short while ago	[sound:MNN_さっき.mp3]	L34
-1945	お茶をたてます	お 茶[ちゃ]をたてます	make tea at a tea ceremony	[sound:MNN_お茶をたてます.mp3]	L34
-1946	先に	先[さき]に	first, ahead	[sound:MNN_先に.mp3]	L34
-1947	載せます	載[の]せます	place on, load onto	[sound:MNN_載せます.mp3]	L34
-1948	これでいいですか。	これでいいですか。	Is this all right?	[sound:MNN_これでいいですか。.mp3]	L34
-1949	材料	材[ざい] 料[りょう]	material, ingredient	[sound:MNN_材料.mp3]	L34 L42
-1950	～分	～ 分[ぶん]	portion for ～ (indicating quantity)	[sound:MNN_～分.mp3]	L34
-1951	ーグラム	ーグラム	ー gramme	[sound:MNN_ーグラム.mp3]	L34 L40U
-1952	ー個	ー 個[こ]	counter for small objects	[sound:MNN_ー個.mp3]	L34 L40
-1953	４分の１（１／４）	４ 分[ぶん]の１（１／４）	one fourth	[sound:MNN_４分の１.mp3][sound:MNN_１／４.mp3]	L34
-1954	調味料	調[ちょう] 味[み] 料[りょう]	seasoning, flavouring	[sound:MNN_調味料.mp3]	L34
-1955	適当な大きさに	適[てき]当[とう]な 大[おお]きさに	in right size	[sound:MNN_適当な大きさに.mp3]	L34
-1956	なべ	なべ	pan, pot	[sound:MNN_なべ.mp3]	L34
-1957	火	火[ひ]	fire, heating	[sound:MNN_火.mp3]	L34 L43
-1958	火にかけます	火[ひ]にかけます	put on the stove	[sound:MNN_火にかけます.mp3]	L34
-1959	煮ます	煮[に]ます	cook, boil	[sound:MNN_煮ます.mp3]	L34
-1960	煮えます	煮[に]えます	be cooked, be boiled	[sound:MNN_煮えます.mp3]	L34
-1961	どんぶり	どんぶり	bowl	[sound:MNN_どんぶり.mp3]	L34 L42
-1962	たちます	たちます	pass (time)	[sound:MNN_たちます.mp3]	L34
-1963	料理	料[りょう] 理[り]	cooking	[sound:MNN_料理.mp3]	L34U
-1964	煮る	煮[に]る	boil, stew	[sound:MNN_煮る.mp3]	L34U
-1965	焼く	焼[や]く	grill, bake, roast	[sound:MNN_焼く.mp3]	L34U
-1966	揚げる	揚[あ]げる	deep-fry	[sound:MNN_揚げる.mp3]	L34U
-1967	いためる	いためる	stir-fry	[sound:MNN_いためる.mp3]	L34U
-1968	ゆでる	ゆでる	boil	[sound:MNN_ゆでる.mp3]	L34U
-1969	蒸す	蒸[む]す	steam	[sound:MNN_蒸す.mp3]	L34U
-1970	炊く	炊[た]く	cook (rice)	[sound:MNN_炊く.mp3]	L34U
-1971	むく	むく	peel, pare	[sound:MNN_むく.mp3]	L34U
-1972	刻む	刻[きざ]む	chop, mince	[sound:MNN_刻む.mp3]	L34U
-1973	かき混ぜる	かき 混[ま]ぜる	stir	[sound:MNN_かき混ぜる.mp3]	L34U
-1974	酢	酢[す]	vinegar	[sound:MNN_酢.mp3]	L34U
-1975	みそ	みそ	miso	[sound:MNN_みそ.mp3]	L34U
-1976	油	油[あぶら]	oil, fat	[sound:MNN_油.mp3]	L34U
-1977	マヨネーズ	マヨネーズ	mayonnaise	[sound:MNN_マヨネーズ.mp3]	L34U
-1978	ケチャップ	ケチャップ	ketchup	[sound:MNN_ケチャップ.mp3]	L34U
-1979	からし（マスタード）	からし（マスタード）	mustard	[sound:MNN_からし.mp3][sound:MNN_マスタード.mp3]	L34U
-1980	こしょう	こしょう	pepper	[sound:MNN_こしょう.mp3]	L34U
-1981	とうがらし	とうがらし	cayenne pepper (capsicum)	[sound:MNN_とうがらし.mp3]	L34U
-1982	しょうが	しょうが	ginger	[sound:MNN_しょうが.mp3]	L34U
-1983	わさび	わさび	Japanese horseradish	[sound:MNN_わさび.mp3]	L34U
-1984	カレー粉	カレー 粉[こ]	curry powder	[sound:MNN_カレー粉.mp3]	L34U
-1985	台所用品	台[だい] 所[どころ] 用[よう] 品[ひん]	kitchenware	[sound:MNN_台所用品.mp3]	L34U
-1986	やかん	やかん	kettle	[sound:MNN_やかん.mp3]	L34U L42
-1987	ふた	ふた	lid, cover, cap	[sound:MNN_ふた.mp3]	L34U L42
-1988	おたま	おたま	ladle	[sound:MNN_おたま.mp3]	L34U
-1989	まな板	まな 板[いた]	cutting board	[sound:MNN_まな板.mp3]	L34U
-1990	包丁	包[ほう] 丁[ちょう]	kitchen knife	[sound:MNN_包丁.mp3]	L34U
-1991	ふきん	ふきん	tea-towel, dishcloth	[sound:MNN_ふきん.mp3]	L34U
-1992	フライパン	フライパン	frying pan	[sound:MNN_フライパン.mp3]	L34U
-1993	電子レンジ	電[でん] 子[し]レンジ	microwave oven	[sound:MNN_電子レンジ.mp3]	L34U
-1994	炊飯器	炊[すい] 飯[はん] 器[き]	rice cooker	[sound:MNN_炊飯器.mp3]	L34U L35
-1995	しゃもじ	しゃもじ	rice paddle	[sound:MNN_しゃもじ.mp3]	L34U
-1996	缶切り	缶[かん] 切[き]り	can opener	[sound:MNN_缶切り.mp3]	L34U L42
-1997	栓抜き	栓[せん] 抜[ぬ]き	bottle opener, corkscrew	[sound:MNN_栓抜き.mp3]	L34U L42
-1998	ざる	ざる	colander, sieve	[sound:MNN_ざる.mp3]	L34U
-1999	ポット	ポット	Thermos flask	[sound:MNN_ポット.mp3]	L34U
-2000	ガス台	ガス 台[だい]	gas stove	[sound:MNN_ガス台.mp3]	L34U
-2001	流し台	流[なが]し 台[だい]	sink	[sound:MNN_流し台.mp3]	L34U
-2002	換気扇	換[かん] 気[き] 扇[せん]	ventilation fan	[sound:MNN_換気扇.mp3]	L34U
-2003	花が咲きます	花[はな]が 咲[さ]きます	flowers bloom	[sound:MNN_花が咲きます.mp3]	L35
-2004	色が変わります	色[いろ]が 変[か]わります	the colour changes	[sound:MNN_色が変わります.mp3]	L35
-2005	丸を付けます	丸[まる]を 付[つ]けます	draw a circle, mark with a circle, add	[sound:MNN_丸を付けます.mp3]	L35
-2006	病気が治ります	病[びょう] 気[き]が 治[なお]ります	recover from sickness, get well	[sound:MNN_病気が治ります.mp3]	L35
-2007	故障が直ります	故[こ] 障[しょう]が 直[なお]ります	be fixed, be repaired	[sound:MNN_故障が直ります.mp3]	L35
-2008	クリックします	クリックします	click	[sound:MNN_クリックします.mp3]	L35
-2009	入力します	入[にゅう] 力[りょく]します	input	[sound:MNN_入力します.mp3]	L35
-2010	正しい	正[ただ]しい	correct, right	[sound:MNN_正しい.mp3]	L30U L35
-2011	向こう	向[む]こう	over there, the other side	[sound:MNN_向こう.mp3]	L35
-2012	島	島[しま]	island	[sound:MNN_島.mp3]	L35
-2013	港	港[みなと]	port, harbour	[sound:MNN_港.mp3]	L35
-2014	近所	近[きん] 所[じょ]	neighborhood, vicinity	[sound:MNN_近所.mp3]	L35
-2015	海外	海[かい] 外[がい]	overseas	[sound:MNN_海外.mp3]	L35
-2016	山登り	山[やま] 登[のぼ]り	mountain climbing	[sound:MNN_山登り.mp3]	L35
-2017	歴史	歴[れき] 史[し]	history	[sound:MNN_歴史.mp3]	L35
-2018	機会	機[き] 会[かい]	chance, opportunity	[sound:MNN_機会.mp3]	L35
-2019	許可	許[きょ] 可[か]	permission	[sound:MNN_許可.mp3]	L35
-2020	円、丸	円[えん]、 丸[まる]	circle	[sound:MNN_円、丸.mp3]	L35 L40U
-2021	ふりがな	ふりがな	kana above the kanji	[sound:MNN_ふりがな.mp3]	L35
-2022	設備	設[せつ] 備[び]	equipment, facilities	[sound:MNN_設備.mp3]	L35
-2023	レバー	レバー	lever	[sound:MNN_レバー.mp3]	L35
-2024	キー	キー	key	[sound:MNN_キー.mp3]	L35
-2025	カーテン	カーテン	curtain	[sound:MNN_カーテン.mp3]	L35
-2026	ひも	ひも	string	[sound:MNN_ひも.mp3]	L35
-2027	葉	葉[は]	leaf	[sound:MNN_葉.mp3]	L35
-2028	これで終わりましょう。	これで 終[お]わりましょう。	Let's finish now.	[sound:MNN_これで終わりましょう。.mp3]	L35
-2029	それなら	それなら	in that case	[sound:MNN_それなら.mp3]	L35
-2030	夜行バス	夜[や] 行[こう]バス	overnight bus	[sound:MNN_夜行バス.mp3]	L35
-2031	旅行社	旅[りょ] 行[こう] 社[しゃ]	travel agency	[sound:MNN_旅行社.mp3]	L35
-2032	詳しい	詳[くわ]しい	detailed	[sound:MNN_詳しい.mp3]	L35
-2033	スキー場	スキー 場[じょう]	ski resort, ski area	[sound:MNN_スキー場.mp3]	L35
-2034	朱	朱[しゅ]	vermilion	[sound:MNN_朱.mp3]	L35
-2035	交わります	交[まじ]わります	keep company with	[sound:MNN_交わります.mp3]	L35
-2036	ことわざ	ことわざ	proverb	[sound:MNN_ことわざ.mp3]	L35
-2037	関係	関[かん] 係[けい]	relationship	[sound:MNN_関係.mp3]	L35 L46U L47
-2038	仲よくします	仲[なか]よくします	be on good terms with	[sound:MNN_仲よくします.mp3]	L35
-2039	必要「な」	必[ひつ] 要[よう]「な」	necessary, essential	[sound:MNN_必要「な」.mp3]	L35 L40
-2040	都	都[みやこ]	capital, metropolis	[sound:MNN_都.mp3]	L35
-2041	知恵	知[ち] 恵[え]	wisdom	[sound:MNN_知恵.mp3]	L35
-2042	姿	姿[すがた]	appearance, figure, condition	[sound:MNN_姿.mp3]	L35
-2043	積もる	積[つ]もる	to pile up	[sound:MNN_積もる.mp3]	L35
-2044	影	影[かげ]	shadow	[sound:MNN_影.mp3]	L35
-2045	事故にあいます	事[じ] 故[こ]にあいます	encounter an accident	[sound:MNN_事故にあいます.mp3]	L36
-2046	貯金します	貯[ちょ] 金[きん]します	save money	[sound:MNN_貯金します.mp3]	L36
-2047	７時を過ぎます	７ 時[じ]を 過[す]ぎます	pass 7 o' clock	[sound:MNN_７時を過ぎます.mp3]	L36
-2048	仕事に慣れます	仕[し] 事[ごと]に 慣[な]れます	get accustomed to one's job	[sound:MNN_仕事に慣れます.mp3]	L36
-2049	食べ物が腐ります	食[た]べ 物[もの]が 腐[くさ]ります	food rots, decay, go bad	[sound:MNN_食べ物が腐ります.mp3]	L36
-2050	ラッシュ	ラッシュ	rush hour	[sound:MNN_ラッシュ.mp3]	L36
-2051	曲	曲[きょく]	a piece of music	[sound:MNN_曲.mp3]	L36
-2052	毎週	毎[まい] 週[しゅう]	every week	[sound:MNN_毎週.mp3]	L36
-2053	毎月	毎[まい] 月[つき]	every month	[sound:MNN_毎月.mp3]	L36
-2054	毎年、毎年	毎[まい] 年[とし]、 毎[まい] 年[ねん]	every year	[sound:MNN_毎年、毎年.mp3]	L36
-2055	このごろ	このごろ	these days	[sound:MNN_このごろ.mp3]	L36
-2056	やっと	やっと	finally	[sound:MNN_やっと.mp3]	L36
-2057	かなり	かなり	fairly	[sound:MNN_かなり.mp3]	L36
-2058	絶対に	絶[ぜっ] 対[たい]に	absolutely	[sound:MNN_絶対に.mp3]	L36
-2059	上手に	上[じょう] 手[ず]に	well, skilfully	[sound:MNN_上手に.mp3]	L36
-2060	できるだけ	できるだけ	as much as possible	[sound:MNN_できるだけ.mp3]	L36
-2061	ほとんど	ほとんど	almost all (+); hardly, scarcely (-)	[sound:MNN_ほとんど.mp3]	L36
-2062	特別「な」	特[とく] 別[べつ]「な」	special	[sound:MNN_特別「な」.mp3]	L36
-2063	していらっしゃいます	していらっしゃいます	be doing (respectful of しています)	[sound:MNN_していらっしゃいます.mp3]	L36
-2064	使っていらっしゃるんですね。	使[つか]っていらっしゃるんですね。	You're using, aren't you? (respectful of つかっているんですね)	[sound:MNN_使っていらっしゃるんですね。.mp3]	L36
-2065	チャレンジします	チャレンジします	challenge	[sound:MNN_チャレンジします.mp3]	L36
-2066	乗り物	乗[の]り 物[もの]	vehicles	[sound:MNN_乗り物.mp3]	L36
-2067	ー世紀	ー 世[せい] 紀[き]	-th century	[sound:MNN_ー世紀.mp3]	L36 L37
-2068	遠く	遠[とお]く	far, remote place	[sound:MNN_遠く.mp3]	L36
-2069	珍しい	珍[めずら]しい	rare, uncommon	[sound:MNN_珍しい.mp3]	L36 L41
-2070	汽車	汽[き] 車[しゃ]	steam train​	[sound:MNN_汽車.mp3]	L36
-2071	汽船	汽[き] 船[せん]	steam boat	[sound:MNN_汽船.mp3]	L36
-2072	大勢の～	大[おお] 勢[ぜい]の～	many (people)	[sound:MNN_大勢の～.mp3]	L36 L39
-2073	運びます	運[はこ]びます	carry, transport	[sound:MNN_運びます.mp3]	L36 L38
-2074	利用します	利[り] 用[よう]します	use	[sound:MNN_利用します.mp3]	L36 L49
-2075	栄養	栄[えい] 養[よう]	nutrition	[sound:MNN_栄養.mp3]	L36U
-2076	健康診断	健[けん] 康[こう] 診[しん] 断[だん]	physical examination	[sound:MNN_健康診断.mp3]	L36U
-2077	夜更かし	夜[よ] 更[ふ]かし	staying up late	[sound:MNN_夜更かし.mp3]	L36U
-2078	栄養素	栄[えい] 養[よう] 素[そ]	nutrient​	[sound:MNN_栄養素.mp3]	L36U
-2079	含む	含[ふく]む	include, contain	[sound:MNN_含む.mp3]	L36U
-2080	炭水化物	炭[たん] 水[すい] 化[か] 物[ぶつ]	carbohydrate​	[sound:MNN_炭水化物.mp3]	L36U
-2081	芋	芋[いも]	potato​	[sound:MNN_芋.mp3]	L36U
-2082	のり	のり	laver, edible seaweed	[sound:MNN_のり.mp3]	L36U
-2083	カルシウム	カルシウム	calcium	[sound:MNN_カルシウム.mp3]	L36U
-2084	海草	海[かい] 草[そう]	seaweed​	[sound:MNN_海草.mp3]	L36U
-2085	とうふ	とうふ	tofu	[sound:MNN_とうふ.mp3]	L36U
-2086	たんぽく質	たんぽく 質[しつ]	protein	[sound:MNN_たんぽく質.mp3]	L36U
-2087	脂肪	脂[し] 肪[ぼう]	fat and oils	[sound:MNN_脂肪.mp3]	L36U
-2088	ビタミン	ビタミン	vitamins	[sound:MNN_ビタミン.mp3]	L36U
-2089	褒めます	褒[ほ]めます	praise	[sound:MNN_褒めます.mp3]	L37
-2090	しかります	しかります	scold	[sound:MNN_しかります.mp3]	L37
-2091	招待します	招[しょう] 待[たい]します	invite	[sound:MNN_招待します.mp3]	L37
-2092	頼みます	頼[たの]みます	ask, request	[sound:MNN_頼みます.mp3]	L37
-2093	注意します	注[ちゅう] 意[い]します	warn, advise	[sound:MNN_注意します.mp3]	L37
-2094	盗ります	盗[と]ります	rob, steal	[sound:MNN_盗ります.mp3]	L37
-2095	踏みます	踏[ふ]みます	step on	[sound:MNN_踏みます.mp3]	L37
-2096	壊します	壊[こわ]します	break, destroy	[sound:MNN_壊します.mp3]	L37
-2097	汚します	汚[よご]します	make ～ dirty	[sound:MNN_汚します.mp3]	L37
-2098	行います	行[おこな]います	hold, carry out, practice	[sound:MNN_行います.mp3]	L37
-2099	輸出します	輸[ゆ] 出[しゅつ]します	export	[sound:MNN_輸出します.mp3]	L37
-2100	輸入します	輸[ゆ] 入[にゅう]します	import	[sound:MNN_輸入します.mp3]	L37
-2101	翻訳します	翻[ほん] 訳[やく]します	translate	[sound:MNN_翻訳します.mp3]	L37
-2102	発明します	発[はつ] 明[めい]します	invent	[sound:MNN_発明します.mp3]	L37
-2103	発見します	発[はっ] 見[けん]します	discover	[sound:MNN_発見します.mp3]	L37
-2104	麦	麦[むぎ]	barley	[sound:MNN_麦.mp3]	L37
-2105	石油	石[せき] 油[ゆ]	oil	[sound:MNN_石油.mp3]	L37
-2106	原料	原[げん] 料[りょう]	raw material	[sound:MNN_原料.mp3]	L37
-2107	インスタントラーメン	インスタントラーメン	instant noodles	[sound:MNN_インスタントラーメン.mp3]	L37
-2108	デート	デート	date (with someone)​	[sound:MNN_デート.mp3]	L37
-2109	泥棒	泥[どろ] 棒[ぼう]	thief, robber	[sound:MNN_泥棒.mp3]	L37
-2110	警官	警[けい] 官[かん]	policeman	[sound:MNN_警官.mp3]	L37
-2111	世界中	世[せ] 界[かい] 中[じゅう]	all over the world	[sound:MNN_世界中.mp3]	L37
-2112	何語	何[なに] 語[ご]	what language	[sound:MNN_何語.mp3]	L37
-2113	誰か	誰[だれ]か	somebody	[sound:MNN_誰か.mp3]	L37
-2114	よかったですね。	よかったですね。	Sounds good.	[sound:MNN_よかったですね。.mp3]	L37
-2115	オリンピック	オリンピック	Olympic Games	[sound:MNN_オリンピック.mp3]	L37
-2116	ワールドカップ	ワールドカップ	World Cup	[sound:MNN_ワールドカップ.mp3]	L37
-2117	大仏	大[だい] 仏[ぶつ]	Great Buddha	[sound:MNN_大仏.mp3]	L37
-2118	江戸時代	江[え] 戸[ど] 時[じ] 代[だい]	Edo period	[sound:MNN_江戸時代.mp3]	L37
-2119	ポルトガル	ポルトガル	Portugal	[sound:MNN_ポルトガル.mp3]	L37
-2120	皆様	皆[みな] 様[さま]	everybody (respectful of みなさん)	[sound:MNN_皆様.mp3]	L37
-2121	うちが焼けます	うちが 焼[や]けます	house burns down	[sound:MNN_うちが焼けます.mp3]	L37
-2122	その後	その 後[ご]	after that, later	[sound:MNN_その後.mp3]	L37
-2123	世界遺産	世[せ] 界[かい] 遺[い] 産[さん]	World Heritage Site (UNESCO)​	[sound:MNN_世界遺産.mp3]	L37
-2124	～の一つ	～の 一[ひと]つ	one of the ～	[sound:MNN_～の一つ.mp3]	L37
-2125	金色	金[きん] 色[いろ]	golden colour	[sound:MNN_金色.mp3]	L37
-2126	本物	本[ほん] 物[もの]	real thing	[sound:MNN_本物.mp3]	L37
-2127	キロ	キロ	kilograms, kilometers	[sound:MNN_キロ.mp3]	L37 L40U
-2128	美しい	美[うつく]しい	beautiful, pretty	[sound:MNN_美しい.mp3]	L37
-2129	豪華「な」	豪[ごう] 華[か]「な」	gorgeous	[sound:MNN_豪華「な」.mp3]	L37
-2130	彫刻	彫[ちょう] 刻[こく]	engraving, carving, sculpture	[sound:MNN_彫刻.mp3]	L37
-2131	言い伝え	言[い]い 伝[つた]え	tradition, legend	[sound:MNN_言い伝え.mp3]	L37
-2132	眠ります	眠[ねむ]ります	sleep	[sound:MNN_眠ります.mp3]	L37 L44
-2133	彫ります	彫[ほ]ります	engrave, carve	[sound:MNN_彫ります.mp3]	L37
-2134	仲間	仲[なか] 間[ま]	colleague, friend	[sound:MNN_仲間.mp3]	L37
-2135	しかし	しかし	however, but	[sound:MNN_しかし.mp3]	L37 L39
-2136	そのあと	そのあと	after that	[sound:MNN_そのあと.mp3]	L37
-2137	一生懸命	一[いっ] 生[しょう] 懸[けん] 命[めい]	with all one's effort	[sound:MNN_一生懸命.mp3]	L37 L40 L42
-2138	ねずみ	ねずみ	mouse (animal)	[sound:MNN_ねずみ.mp3]	L37
-2139	一匹もいません。	一[いっ] 匹[ぴき]もいません。	There is not a single (small animal, fish, insects)	[sound:MNN_一匹もいません。.mp3]	L37
-2140	事故	事[じ] 故[こ]	accident	[sound:MNN_事故.mp3]	L37U L39
-2141	事件	事[じ] 件[けん]	incident, case	[sound:MNN_事件.mp3]	L37U
-2142	殺す	殺[ころ]す	kill	[sound:MNN_殺す.mp3]	L37U
-2143	撃つ	撃[う]つ	shoot	[sound:MNN_撃つ.mp3]	L37U
-2144	刺す	刺[さ]す	stab	[sound:MNN_刺す.mp3]	L37U
-2145	噛む	噛[か]む	bite	[sound:MNN_噛む.mp3]	L37U
-2146	ひく	ひく	run over	[sound:MNN_ひく.mp3]	L37U
-2147	跳ねる	跳[は]ねる	to hit	[sound:MNN_跳ねる.mp3]	L37U
-2148	衝突する	衝[しょう] 突[とつ]する	collide	[sound:MNN_衝突する.mp3]	L37U
-2149	追突する	追[つい] 突[とつ]する	crash into the back of another vehicle	[sound:MNN_追突する.mp3]	L37U
-2150	盗む	盗[ぬす]む	steal	[sound:MNN_盗む.mp3]	L37U
-2151	誘拐する	誘[ゆう] 拐[かい]する	kidnap	[sound:MNN_誘拐する.mp3]	L37U
-2152	ハイジャックする	ハイジャックする	hijack	[sound:MNN_ハイジャックする.mp3]	L37U
-2153	墜落する	墜[つい] 落[らく]する	fall, crash	[sound:MNN_墜落する.mp3]	L37U
-2154	運ぶ	運[はこ]ぶ	carry	[sound:MNN_運ぶ.mp3]	L37U
-2155	爆発する	爆[ばく] 発[はつ]する	explode	[sound:MNN_爆発する.mp3]	L37U
-2156	助ける	助[たす]ける	rescue	[sound:MNN_助ける.mp3]	L37U
-2157	沈没する	沈[ちん] 没[ぼつ]する	sink	[sound:MNN_沈没する.mp3]	L37U
-2158	旅行に参加します	旅[りょ] 行[こう]に 参[さん] 加[か]します	join, participate, attend a tour	[sound:MNN_旅行に参加します.mp3]	L38
-2159	育てます	育[そだ]てます	breed, bring up	[sound:MNN_育てます.mp3]	L38
-2160	入院します	入[にゅう] 院[いん]します	enter hospital	[sound:MNN_入院します.mp3]	L38
-2161	退院します	退[たい] 院[いん]します	leave hospital	[sound:MNN_退院します.mp3]	L38
-2162	電源を入れます	電[でん] 源[げん]を 入[い]れます	turn on the power switch	[sound:MNN_電源を入れます.mp3]	L38
-2163	電源を切ります	電[でん] 源[げん]を 切[き]ります	turn off the power switch	[sound:MNN_電源を切ります.mp3]	L38
-2164	鍵を掛けます	鍵[かぎ]を 掛[か]けます	lock	[sound:MNN_鍵を掛けます.mp3]	L38
-2165	嘘をつきます	嘘[うそ]をつきます	tell a lie	[sound:MNN_嘘をつきます.mp3]	L38
-2166	気持ちがいい	気[き] 持[も]ちがいい	pleasant, agreeable	[sound:MNN_気持ちがいい.mp3]	L38
-2167	気持ちが悪い	気[き] 持[も]ちが 悪[わる]い	unpleasant, disgusting	[sound:MNN_気持ちが悪い.mp3]	L38
-2168	大きな～	大[おお]きな～	large ～, big ～	[sound:MNN_大きな～.mp3]	L38
-2169	小さな～	小[ちい]さな～	small ～, little ～	[sound:MNN_小さな～.mp3]	L38
-2170	海岸	海[かい] 岸[がん]	seaside, seashore	[sound:MNN_海岸.mp3]	L38
-2171	工場	工[こう] 場[じょう]	factory	[sound:MNN_工場.mp3]	L38
-2172	かな	かな	hiragana and katakana script	[sound:MNN_かな.mp3]	L38
-2173	指輪	指[ゆび] 輪[わ]	ring	[sound:MNN_指輪.mp3]	L38
-2174	電源	電[でん] 源[げん]	power switch	[sound:MNN_電源.mp3]	L38
-2175	～製	～ 製[せい]	made in ～	[sound:MNN_～製.mp3]	L38
-2176	おととし	おととし	the year before last	[sound:MNN_おととし.mp3]	L38
-2177	あ、いけない。	あ、いけない。	Oops!/Oh, no!	[sound:MNN_あ、いけない。.mp3]	L38
-2178	お先に失礼します。	お 先[さき]に 失[しつ] 礼[れい]します。	Excuse me for leaving before you.	[sound:MNN_お先に失礼します。.mp3]	L38
-2179	出雲大社	出雲[いずも] 大[たい] 社[しゃ]	Izumo Temple	[sound:MNN_出雲大社.mp3]	L38
-2180	チェンマイ	チェンマイ	Chiangmai (Thailand)	[sound:MNN_チェンマイ.mp3]	L38
-2181	回覧	回[かい] 覧[らん]	circular	[sound:MNN_回覧.mp3]	L38
-2182	研究室	研[けん] 究[きゅう] 室[しつ]	study room, professor's office, laboratory	[sound:MNN_研究室.mp3]	L38
-2183	きちんと	きちんと	neatly, tidily	[sound:MNN_きちんと.mp3]	L38
-2184	整理します	整[せい] 理[り]します	sort (things) out	[sound:MNN_整理します.mp3]	L38
-2185	方法	方[ほう] 法[ほう]	method	[sound:MNN_方法.mp3]	L38
-2186	～という	～という	entitled ～, named ～, called ～	[sound:MNN_～という.mp3]	L38
-2187	ー冊	ー 冊[さつ]	counter for books, etc.	[sound:MNN_ー冊.mp3]	L38
-2188	はんこを押します	はんこを 押[お]します	affix a seal, stamp	[sound:MNN_はんこを押します.mp3]	L38
-2189	双子	双[ふた] 子[ご]	twins	[sound:MNN_双子.mp3]	L38
-2190	姉妹	姉[し] 妹[まい]	sisters	[sound:MNN_姉妹.mp3]	L38
-2191	５年生	５ 年[ねん] 生[せい]	fifth grade, year	[sound:MNN_５年生.mp3]	L38
-2192	似ています	似[に]ています	resemble, be like	[sound:MNN_似ています.mp3]	L38
-2193	性格	性[せい] 格[かく]	character, personality	[sound:MNN_性格.mp3]	L38 L43U
-2194	おとなしい	おとなしい	quiet, gentle	[sound:MNN_おとなしい.mp3]	L38 L43U
-2195	優しい	優[やさ]しい	kind, gentle, tender-hearted	[sound:MNN_優しい.mp3]	L38 L41 L43U
-2196	世話をします	世[せ] 話[わ]をします	take care of	[sound:MNN_世話をします.mp3]	L38 L47 L48
-2197	時間がたちます	時[じ] 間[かん]がたちます	time passes by	[sound:MNN_時間がたちます.mp3]	L38
-2198	ー点	ー 点[てん]	ー points	[sound:MNN_ー点.mp3]	L38
-2199	気が強い	気[き]が 強[つよ]い	tough, strong-willed	[sound:MNN_気が強い.mp3]	L38 L43U
-2200	けんかします	けんかします	quarrel, fight	[sound:MNN_けんかします.mp3]	L38 L39
-2201	年齢	年[ねん] 齢[れい]	age	[sound:MNN_年齢.mp3]	L38
-2202	しかた	しかた	way (of doing something)	[sound:MNN_しかた.mp3]	L38
-2203	位置	位[い] 置[ち]	location​	[sound:MNN_位置.mp3]	L38U
-2204	上から２段目	上[うえ]から２ 段[だん] 目[め]	second from the top	[sound:MNN_上から２段目.mp3]	L38U
-2205	奥	奥[おく]	the back	[sound:MNN_奥.mp3]	L38U
-2206	手前	手[て] 前[まえ]	the front	[sound:MNN_手前.mp3]	L38U
-2207	前から２列目	前[まえ]から２ 列[れつ] 目[め]	second row from the front	[sound:MNN_前から２列目.mp3]	L38U
-2208	机の周り	机[つくえ]の 周[まわ]り	around the table	[sound:MNN_机の周り.mp3]	L38U
-2209	２行目	２ 行[ぎょう] 目[め]	second line	[sound:MNN_２行目.mp3]	L38U
-2210	４ページ	４ページ	Page 4	[sound:MNN_４ページ.mp3]	L38U
-2211	３行目	３ 行[ぎょう] 目[め]	third line	[sound:MNN_３行目.mp3]	L38U
-2212	本のそば	本[ほん]のそば	next to, beside the book	[sound:MNN_本のそば.mp3]	L38U
-2213	教室の真ん中	教[きょう] 室[しつ]の 真[ま]ん 中[なか]	centre of the classroom	[sound:MNN_教室の真ん中.mp3]	L38U
-2214	斜め後ろ	斜[なな]め 後[うし]ろ	diagonally behind	[sound:MNN_斜め後ろ.mp3]	L38U
-2215	斜め前	斜[なな]め 前[まえ]	diagonally in front	[sound:MNN_斜め前.mp3]	L38U
-2216	テレビの横	テレビの 横[よこ]	next to, beside the television	[sound:MNN_テレビの横.mp3]	L38U
-2217	質問に答えます	質[しつ] 問[もん]に 答[こた]えます	answer a question	[sound:MNN_質問に答えます.mp3]	L39
-2218	ビルが倒れます	ビルが 倒[たお]れます	a building falls down	[sound:MNN_ビルが倒れます.mp3]	L39
-2219	道を通ります	道[みち]を 通[とお]ります	passes along a street	[sound:MNN_道を通ります.mp3]	L39
-2220	びっくりします	びっくりします	be surprised	[sound:MNN_びっくりします.mp3]	L39
-2221	がっかりします	がっかりします	be disappointed	[sound:MNN_がっかりします.mp3]	L39
-2222	安心します	安[あん] 心[しん]します	be relieved	[sound:MNN_安心します.mp3]	L39
-2223	太ります	太[ふと]ります	get fat, gain weight	[sound:MNN_太ります.mp3]	L39
-2224	やせます	やせます	get slim, lose weight	[sound:MNN_やせます.mp3]	L39
-2225	複雑「な」	複[ふく] 雑[ざつ]「な」	complicated, complex	[sound:MNN_複雑「な」.mp3]	L39
-2226	邪魔「な」	邪[じゃ] 魔[ま]「な」	obstructive, in the way	[sound:MNN_邪魔「な」.mp3]	L39
-2227	硬い	硬[かた]い	hard, tough, solid	[sound:MNN_硬い.mp3]	L39
-2228	軟らかい	軟[やわ]らかい	soft, tender	[sound:MNN_軟らかい.mp3]	L39
-2229	汚い	汚[きたな]い	dirty	[sound:MNN_汚い.mp3]	L39
-2230	恥ずかしい	恥[は]ずかしい	embarrassed, ashamed	[sound:MNN_恥ずかしい.mp3]	L39
-2231	雷	雷[かみなり]	thunder	[sound:MNN_雷.mp3]	L39
-2232	火事	火[か] 事[じ]	fire	[sound:MNN_火事.mp3]	L39
-2233	ハイキング	ハイキング	hiking	[sound:MNN_ハイキング.mp3]	L39
-2234	お見合い	お 見[み] 合[あ]い	formal marriage interview​	[sound:MNN_お見合い.mp3]	L39
-2235	操作します	操[そう] 作[さ]します	to operate	[sound:MNN_操作します.mp3]	L39
-2236	会場	会[かい] 場[じょう]	venue, event location	[sound:MNN_会場.mp3]	L39
-2237	～代	～ 代[だい]	charge, fare, fee	[sound:MNN_～代.mp3]	L39
-2238	フロント	フロント	front desk, reception desk	[sound:MNN_フロント.mp3]	L39
-2239	ー号室	ー 号[ごう] 室[しつ]	room number ー	[sound:MNN_ー号室.mp3]	L39
-2240	タオル	タオル	towel	[sound:MNN_タオル.mp3]	L39
-2241	石鹸	石[せっ] 鹸[けん]	soap	[sound:MNN_石鹸.mp3]	L39
-2242	お疲れさまでした。	お 疲[つか]れさまでした。	Thank you for your hard work.	[sound:MNN_お疲れさまでした。.mp3]	L39
-2243	伺います	伺[うかが]います	I'm coming, ask, hear, visit (humble of ききます、たずねます)	[sound:MNN_伺います.mp3]	L39 L50
-2244	途中で	途[と] 中[ちゅう]で	on the way, in the midst of	[sound:MNN_途中で.mp3]	L39
-2245	トラック	トラック	truck, lorry	[sound:MNN_トラック.mp3]	L39
-2246	打つかります	打[ぶ]つかります	bump, collide	[sound:MNN_打つかります.mp3]	L39
-2247	大人	大人[おとな]	adult	[sound:MNN_大人.mp3]	L39
-2248	洋服	洋[よう] 服[ふく]	Western clothes	[sound:MNN_洋服.mp3]	L39
-2249	西洋化します	西[せい] 洋[よう] 化[か]します	be Westernized	[sound:MNN_西洋化します.mp3]	L39
-2250	合います	合[あ]います	fit, suit	[sound:MNN_合います.mp3]	L39
-2251	今では	今[いま]では	now	[sound:MNN_今では.mp3]	L39
-2252	成人式	成[せい] 人[じん] 式[しき]	coming-of-age ceremony​	[sound:MNN_成人式.mp3]	L39
-2253	伝統的「な」	伝[でん] 統[とう] 的[てき]「な」	traditional	[sound:MNN_伝統的「な」.mp3]	L39
-2254	羨ましい	羨[うらや]ましい	envious	[sound:MNN_羨ましい.mp3]	L39U
-2255	懐かしい	懐[なつ]かしい	dear, longed for	[sound:MNN_懐かしい.mp3]	L39U
-2256	うっとりする	うっとりする	be enchanted	[sound:MNN_うっとりする.mp3]	L39U
-2257	いらいらする	いらいらする	be irritated	[sound:MNN_いらいらする.mp3]	L39U
-2258	どきどきする	どきどきする	to beat fast (of one's heart)	[sound:MNN_どきどきする.mp3]	L39U
-2259	はらはらする	はらはらする	be in suspense, worried, nervous	[sound:MNN_はらはらする.mp3]	L39U
-2260	わくわくする	わくわくする	be excited	[sound:MNN_わくわくする.mp3]	L39U
-2261	数える	数[かぞ]える	count	[sound:MNN_数える.mp3]	L40
-2262	測ります、量ります	測[はか]ります、 量[はか]ります	measure, measure (amount, weigh)	[sound:MNN_測ります、量ります.mp3]	L40
-2263	確かめます	確[たし]かめます	confirm, make sure	[sound:MNN_確かめます.mp3]	L40
-2264	サイズが合います	サイズが 合[あ]います	the size is fit	[sound:MNN_サイズが合います.mp3]	L40
-2265	出発します	出[しゅっ] 発[ぱつ]します	depart	[sound:MNN_出発します.mp3]	L40
-2266	到着します	到[とう] 着[ちゃく]します	arrive	[sound:MNN_到着します.mp3]	L40
-2267	酔います	酔[よ]います	get drunk	[sound:MNN_酔います.mp3]	L40
-2268	うまくいきます	うまくいきます	go well	[sound:MNN_うまくいきます.mp3]	L40
-2269	問題が出ます	問[もん] 題[だい]が 出[で]ます	problems will be on the test	[sound:MNN_問題が出ます.mp3]	L40
-2270	相談します	相[そう] 談[だん]します	consult, discuss	[sound:MNN_相談します.mp3]	L40
-2271	忘年会	忘[ぼう] 年[ねん] 会[かい]	year-end party	[sound:MNN_忘年会.mp3]	L40
-2272	新年会	新[しん] 年[ねん] 会[かい]	New Year's party	[sound:MNN_新年会.mp3]	L40
-2273	二次会	二[に] 次[じ] 会[かい]	second party (of the same night)	[sound:MNN_二次会.mp3]	L40
-2274	発表会	発[はっ] 表[ぴょう] 会[かい]	presentation meeting	[sound:MNN_発表会.mp3]	L40
-2275	大会	大[たい] 会[かい]	rally, convention	[sound:MNN_大会.mp3]	L40
-2276	マラソン	マラソン	marathon	[sound:MNN_マラソン.mp3]	L40
-2277	コンテスト	コンテスト	contest	[sound:MNN_コンテスト.mp3]	L40
-2278	表	表[おもて]	face, front	[sound:MNN_表.mp3]	L40
-2279	裏	裏[うら]	back (side)	[sound:MNN_裏.mp3]	L40
-2280	間違い	間[ま] 違[ちが]い	mistake	[sound:MNN_間違い.mp3]	L40
-2281	傷	傷[きず]	defect, wound, scratch	[sound:MNN_傷.mp3]	L40
-2282	お年寄り	お 年[とし] 寄[よ]り	elderly person	[sound:MNN_お年寄り.mp3]	L40
-2283	長さ	長[なが]さ	length	[sound:MNN_長さ.mp3]	L40
-2284	重さ	重[おも]さ	weight	[sound:MNN_重さ.mp3]	L40
-2285	高さ	高[たか]さ	height	[sound:MNN_高さ.mp3]	L40
-2286	大きさ	大[おお]きさ	size, scale	[sound:MNN_大きさ.mp3]	L40
-2287	便	[ー] 便[びん]	flight, flight number	[sound:MNN_便.mp3]	L40
-2288	ー本（ーぽん、ーぼん）	ー 本[ほん]（ーぽん、ーぼん）	counter for long objects	[sound:MNN_ー本.mp3][sound:MNN_ーぽん、ーぼん.mp3]	L40
-2289	ー杯（ーぱい、－ばい）	ー 杯[はい]（ーぱい、－ばい）	ー glass or cup of (counter for full cups, glasses, etc.)	[sound:MNN_ー杯.mp3][sound:MNN_ーぱい、－ばい.mp3]	L40
-2290	ーセンチ	ーセンチ	ー centimeters	[sound:MNN_ーセンチ.mp3]	L40
-2291	ーミリ	ーミリ	ー millimeters	[sound:MNN_ーミリ.mp3]	L40
-2292	～以上	～ 以[い] 上[じょう]	not less than ～, over ～	[sound:MNN_～以上.mp3]	L40
-2293	～以下	～ 以[い] 下[か]	not more than ～, under ～	[sound:MNN_～以下.mp3]	L40
-2294	長崎	長[なが] 崎[さき]	Nagasaki (city)​	[sound:MNN_長崎.mp3]	L40
-2295	ＪＬ	ＪＬ	Japan Airlines	[sound:MNN_ＪＬ.mp3]	L40
-2296	七夕祭り	七夕[たなばた] 祭[まつ]り	Tanabata (Star) Festival (７月７日)	[sound:MNN_七夕祭り.mp3]	L40 L49U
-2297	どうでしょうか。	どうでしょうか。	How is ～? (polite of どうですか)	[sound:MNN_どうでしょうか。.mp3]	L40
-2298	テスト	テスト	test, examination	[sound:MNN_テスト.mp3]	L40
-2299	成績	成[せい] 績[せき]	performance, score, result	[sound:MNN_成績.mp3]	L40
-2300	ところで	ところで	by the way	[sound:MNN_ところで.mp3]	L40
-2301	オートバイ	オートバイ	motorcycle	[sound:MNN_オートバイ.mp3]	L40
-2302	爆弾	爆[ばく] 弾[だん]	bomb	[sound:MNN_爆弾.mp3]	L40
-2303	積みます	積[つ]みます	load, pile up	[sound:MNN_積みます.mp3]	L40
-2304	離れた	離[はな]れた	remote	[sound:MNN_離れた.mp3]	L40
-2305	急に	急[きゅう]に	suddenly	[sound:MNN_急に.mp3]	L40 L45
-2306	動かします	動[うご]かします	start, operate, move	[sound:MNN_動かします.mp3]	L40
-2307	犯人	犯[はん] 人[にん]	offender, criminal	[sound:MNN_犯人.mp3]	L40
-2308	男	男[おとこ]	man	[sound:MNN_男.mp3]	L40 L41
-2309	手に入れます	手[て]に 入[い]れます	obtain, get	[sound:MNN_手に入れます.mp3]	L40
-2310	今でも	今[いま]でも	even now, still, as yet​	[sound:MNN_今でも.mp3]	L40
-2311	単位	単[たん] 位[い]	unit	[sound:MNN_単位.mp3]	L40U
-2312	模様	模[も] 様[よう]	pattern	[sound:MNN_模様.mp3]	L40U
-2313	面積	面[めん] 積[せき]	area	[sound:MNN_面積.mp3]	L40U
-2314	平方センチメートル	平[へい] 方[ほう]センチメートル	square centimeter (cm<sup>2</sup>)	[sound:MNN_平方センチメートル.mp3]	L40U
-2315	平方メートル	平[へい] 方[ほう]メートル	square metre (m<sup>2</sup>)	[sound:MNN_平方メートル.mp3]	L40U
-2316	平方キロメートル	平[へい] 方[ほう]キロメートル	square kilometer (km<sup>2</sup>)	[sound:MNN_平方キロメートル.mp3]	L40U
-2317	ミリ	ミリ	millimeter (mm)	[sound:MNN_ミリ.mp3]	L40U
-2318	センチ	センチ	centimeter (cm)	[sound:MNN_センチ.mp3]	L40U
-2319	メートル	メートル	metre (m)	[sound:MNN_メートル.mp3]	L40U
-2320	キロ（km）	キロ（km）	kilometer	[sound:MNN_キロ.mp3][sound:MNN_km.mp3]	L40U
-2321	体積	体[たい] 積[せき]	volume	[sound:MNN_体積.mp3]	L40U
-2322	容積	容[よう] 積[せき]	capacity	[sound:MNN_容積.mp3]	L40U
-2323	立方センチメートル	立[りっ] 方[ぽう]センチメートル	cubic centimeter (cm<sup>3</sup>)	[sound:MNN_立方センチメートル.mp3]	L40U
-2324	立方メートル	立[りっ] 方[ぽう]メートル	cubic metre (m<sup>3</sup>)	[sound:MNN_立方メートル.mp3]	L40U
-2325	ミリリットル	ミリリットル	milliliter (ml)	[sound:MNN_ミリリットル.mp3]	L40U
-2326	シーシー	シーシー	cc	[sound:MNN_シーシー.mp3]	L40U
-2327	リットル	リットル	litre (ℓ)	[sound:MNN_リットル.mp3]	L40U
-2328	ミリグラム	ミリグラム	milligram (mg)	[sound:MNN_ミリグラム.mp3]	L40U
-2329	グラム	グラム	gramme (g)	[sound:MNN_グラム.mp3]	L40U
-2330	トン	トン	tonne (t)	[sound:MNN_トン.mp3]	L40U
-2331	計算	計[けい] 算[さん]	calculation	[sound:MNN_計算.mp3]	L40U
-2332	たす（＋）	たす（＋）	plus	[sound:MNN_たす.mp3][sound:MNN_＋.mp3]	L40U
-2333	ひく（ー）	ひく（ー）	minus	[sound:MNN_ひく.mp3][sound:MNN_ー.mp3]	L40U
-2334	かける（×）	かける（×）	multiplied by	[sound:MNN_かける.mp3][sound:MNN_×.mp3]	L40U
-2335	わる（÷）	わる（÷）	divided by	[sound:MNN_わる.mp3][sound:MNN_÷.mp3]	L40U
-2336	イコール（＝）	イコール（＝）	equals	[sound:MNN_イコール.mp3][sound:MNN_＝.mp3]	L40U
-2337	直線	直[ちょく] 線[せん]	straight line	[sound:MNN_直線.mp3]	L40U
-2338	曲線	曲[きょく] 線[せん]	curved line	[sound:MNN_曲線.mp3]	L40U
-2339	点線	点[てん] 線[せん]	dotted line	[sound:MNN_点線.mp3]	L40U
-2340	三角形	三[さん] 角[かく] 形[けい]	triangle	[sound:MNN_三角形.mp3]	L40U
-2341	四角形	四[し] 角[かく] 形[けい]	square	[sound:MNN_四角形.mp3]	L40U
-2342	縦じま	縦[たて]じま	vertical stripes	[sound:MNN_縦じま.mp3]	L40U
-2343	横縞	横[よこ] 縞[じま]	horizontal stripes	[sound:MNN_横縞.mp3]	L40U
-2344	チェック	チェック	checkered​ pattern	[sound:MNN_チェック.mp3]	L40U
-2345	水玉	水[みず] 玉[たま]	polka dots	[sound:MNN_水玉.mp3]	L40U
-2346	花柄	花[はな] 柄[がら]	floral print	[sound:MNN_花柄.mp3]	L40U
-2347	無地	無[む] 地[じ]	plain	[sound:MNN_無地.mp3]	L40U
-2348	くださいます	くださいます	give (respectful of くれます)	[sound:MNN_くださいます.mp3]	L41
-2349	下げます	下[さ]げます	lower, pull down	[sound:MNN_下げます.mp3]	L41
-2350	親切にします	親[しん] 切[せつ]にします	be kind to	[sound:MNN_親切にします.mp3]	L41
-2351	可愛い	可愛[かわい]い	lovely, cute	[sound:MNN_可愛い.mp3]	L41
-2352	お祝いをします	お 祝[いわ]いをします	to celebrate, gift	[sound:MNN_お祝いをします.mp3]	L41
-2353	興味	興[きょう] 味[み]	interest	[sound:MNN_興味.mp3]	L41
-2354	コンピューターに興味があります	コンピューターに 興[きょう] 味[み]があります	be interested in computers	[sound:MNN_コンピューターに興味があります.mp3]	L41
-2355	文法	文[ぶん] 法[ぽう]	grammar	[sound:MNN_文法.mp3]	L41
-2356	発音	発[はつ] 音[おん]	pronunciation	[sound:MNN_発音.mp3]	L41
-2357	猿	猿[さる]	ape, monkey	[sound:MNN_猿.mp3]	L41
-2358	えさ	えさ	feed, bait	[sound:MNN_えさ.mp3]	L41
-2359	絵本	絵[え] 本[ほん]	picture book	[sound:MNN_絵本.mp3]	L41
-2360	絵はがき	絵[え]はがき	picture postcard	[sound:MNN_絵はがき.mp3]	L41
-2361	ドライバー	ドライバー	screwdriver	[sound:MNN_ドライバー.mp3]	L41 L42U
-2362	ハンカチ	ハンカチ	handkerchief	[sound:MNN_ハンカチ.mp3]	L41
-2363	暖房	暖[だん] 房[ぼう]	heating	[sound:MNN_暖房.mp3]	L41
-2364	冷房	冷[れい] 房[ぼう]	air-conditioning	[sound:MNN_冷房.mp3]	L41
-2365	温度	温[おん] 度[ど]	temperature	[sound:MNN_温度.mp3]	L41
-2366	孫	孫[まご]	(my) grandchild	[sound:MNN_孫.mp3]	L41
-2367	お孫さん	お 孫[まご]さん	(someone's) grandchild	[sound:MNN_お孫さん.mp3]	L41
-2368	おじ	おじ	(my) uncle	[sound:MNN_おじ.mp3]	L41
-2369	おじさん	おじさん	(someone's) uncle	[sound:MNN_おじさん.mp3]	L41
-2370	おば	おば	(my) aunt	[sound:MNN_おば.mp3]	L41
-2371	おばさん	おばさん	(someone's) aunt	[sound:MNN_おばさん.mp3]	L41
-2372	管理人	管[かん] 理[り] 人[にん]	janitor, caretaker, (+さん as polite)	[sound:MNN_管理人.mp3]	L41
-2373	この間	この 間[あいだ]	the other day	[sound:MNN_この間.mp3]	L41
-2374	ひとこと	ひとこと	a few words	[sound:MNN_ひとこと.mp3]	L41
-2375	～ずつ	～ずつ	each	[sound:MNN_～ずつ.mp3]	L41
-2376	お宅	お 宅[たく]	home (=うち／いえ)	[sound:MNN_お宅.mp3]	L41
-2377	どうぞお幸せに。	どうぞお 幸[しあわ]せに。	I hope you will be very happy.	[sound:MNN_どうぞお幸せに。.mp3]	L41
-2378	昔話	昔[むかし] 話[ばなし]	old tale, folklore	[sound:MNN_昔話.mp3]	L41
-2379	苛めます	苛[いじ]めます	bully, abuse, ill-treat	[sound:MNN_苛めます.mp3]	L41
-2380	かめ	かめ	turtle	[sound:MNN_かめ.mp3]	L41
-2381	助けます	助[たす]けます	save, help	[sound:MNN_助けます.mp3]	L41
-2382	お姫様	お 姫[ひめ] 様[さま]	princess	[sound:MNN_お姫様.mp3]	L41
-2383	暮らします	暮[く]らします	live, lead a life	[sound:MNN_暮らします.mp3]	L41
-2384	陸	陸[りく]	land, shore	[sound:MNN_陸.mp3]	L41
-2385	煙	煙[けむり]	smoke, fumes​	[sound:MNN_煙.mp3]	L41
-2386	真っ白「な」	真[ま]っ 白[しろ]「な」	pure white	[sound:MNN_真っ白「な」.mp3]	L41
-2387	中身	中[なか] 身[み]	content	[sound:MNN_中身.mp3]	L41
-2388	衣装	衣[い] 装[しょう]	clothing, costume, dress​	[sound:MNN_衣装.mp3]	L41U
-2389	晴れ着	晴[は]れ 着[ぎ]	Sunday best (festive clothes)	[sound:MNN_晴れ着.mp3]	L41U
-2390	新作	新[しん] 作[さく]	brand-new, new work, new production​	[sound:MNN_新作.mp3]	L41U
-2391	七五三	七[しち] 五[ご] 三[さん]	festival (shrine visit) by children aged 7, 5 and 3​	[sound:MNN_七五三.mp3]	L41U
-2392	卒業式	卒[そつ] 業[ぎょう] 式[しき]	graduation ceremony	[sound:MNN_卒業式.mp3]	L41U
-2393	民宿	民[みん] 宿[しゅく]	guesthouse	[sound:MNN_民宿.mp3]	L41U
-2394	家庭的	家[か] 庭[てい] 的[てき]	family oriented	[sound:MNN_家庭的.mp3]	L41U
-2395	公民館	公[こう] 民[みん] 館[かん]	community centre​	[sound:MNN_公民館.mp3]	L41U
-2396	講習会	講[こう] 習[しゅう] 会[かい]	short course/class	[sound:MNN_講習会.mp3]	L41U
-2397	レンタル	レンタル	rental​	[sound:MNN_レンタル.mp3]	L41U
-2398	ビデオカメラ	ビデオカメラ	video camera	[sound:MNN_ビデオカメラ.mp3]	L41U
-2399	携帯電話	携[けい] 帯[たい] 電[でん] 話[わ]	mobile phones	[sound:MNN_携帯電話.mp3]	L41U
-2400	ベビー用品	ベビー 用[よう] 品[ひん]	baby goods	[sound:MNN_ベビー用品.mp3]	L41U
-2401	レジャー用品	レジャー 用[よう] 品[ひん]	leisure/recreation goods	[sound:MNN_レジャー用品.mp3]	L41U
-2402	話し相手	話[はな]し 相[あい] 手[て]	companion, adviser	[sound:MNN_話し相手.mp3]	L41U
-2403	体験	体[たい] 験[けん]	personal experience, physical experience, one's own experience	[sound:MNN_体験.mp3]	L41U
-2404	禅	禅[ぜん]	zen, silent meditation	[sound:MNN_禅.mp3]	L41U
-2405	精進料理	精[しょう] 進[じん] 料[りょう] 理[り]	Buddhist vegetarian cuisine	[sound:MNN_精進料理.mp3]	L41U
-2406	包みます	包[つつ]みます	wrap	[sound:MNN_包みます.mp3]	L42
-2407	沸かします	沸[わ]かします	boil	[sound:MNN_沸かします.mp3]	L42
-2408	計算します	計[けい] 算[さん]します	calculate	[sound:MNN_計算します.mp3]	L42
-2409	並びます	並[なら]びます	stand in a queue, line up	[sound:MNN_並びます.mp3]	L42
-2410	丈夫「な」	丈[じょう] 夫[ぶ]「な」	strong, healthy	[sound:MNN_丈夫「な」.mp3]	L42
-2411	自然	自[し] 然[ぜん]	nature	[sound:MNN_自然.mp3]	L42
-2412	教育	教[きょう] 育[いく]	education	[sound:MNN_教育.mp3]	L42
-2413	文化	文[ぶん] 化[か]	culture	[sound:MNN_文化.mp3]	L42
-2414	社会	社[しゃ] 会[かい]	society	[sound:MNN_社会.mp3]	L42
-2415	政治	政[せい] 治[じ]	politics	[sound:MNN_政治.mp3]	L42
-2416	法律	法[ほう] 律[りつ]	law	[sound:MNN_法律.mp3]	L42
-2417	平和	平[へい] 和[わ]	peace	[sound:MNN_平和.mp3]	L42
-2418	目的	目[もく] 的[てき]	purpose	[sound:MNN_目的.mp3]	L42
-2419	論文	論[ろん] 文[ぶん]	thesis, academic paper	[sound:MNN_論文.mp3]	L42
-2420	楽しみ	楽[たの]しみ	pleasure, enjoyment, expectation	[sound:MNN_楽しみ.mp3]	L42
-2421	ミキサー	ミキサー	mixer, blender	[sound:MNN_ミキサー.mp3]	L42
-2422	風呂敷	風[ふ] 呂[ろ] 敷[しき]	wrapping cloth used to carry things	[sound:MNN_風呂敷.mp3]	L42
-2423	そろばん	そろばん	abacus	[sound:MNN_そろばん.mp3]	L42
-2424	体温計	体[たい] 温[おん] 計[けい]	(clinical) thermometer	[sound:MNN_体温計.mp3]	L42
-2425	なぜ	なぜ	why	[sound:MNN_なぜ.mp3]	L42
-2426	国連	国[こく] 連[れん]	United Nations	[sound:MNN_国連.mp3]	L42
-2427	ボーナスが出ます	ボーナスが 出[で]ます	bonus to be paid	[sound:MNN_ボーナスが出ます.mp3]	L42
-2428	半分	半[はん] 分[ぶん]	half	[sound:MNN_半分.mp3]	L42
-2429	ローン	ローン	loan	[sound:MNN_ローン.mp3]	L42
-2430	カップ麺	カップ 麺[めん]	instant/cup noodles​	[sound:MNN_カップ麺.mp3]	L42
-2431	世界初	世[せ] 界[かい] 初[はつ]	world's first	[sound:MNN_世界初.mp3]	L42
-2432	～によって	～によって	by (means of) ～	[sound:MNN_～によって.mp3]	L42
-2433	麺	麺[めん]	noodles	[sound:MNN_麺.mp3]	L42
-2434	広めます	広[ひろ]めます	spread	[sound:MNN_広めます.mp3]	L42
-2435	市場調査	市[し] 場[じょう] 調[ちょう] 査[さ]	market survey, market research	[sound:MNN_市場調査.mp3]	L42
-2436	割ります	割[わ]ります	break	[sound:MNN_割ります.mp3]	L42
-2437	注ぎます	注[そそ]ぎます	pour	[sound:MNN_注ぎます.mp3]	L42
-2438	事務用品	事[じ] 務[む] 用[よう] 品[ひん]	office supplies, stationery​	[sound:MNN_事務用品.mp3]	L42U
-2439	綴じる	綴[と]じる	staple, clip	[sound:MNN_綴じる.mp3]	L42U
-2440	クリップ	クリップ	clip	[sound:MNN_クリップ.mp3]	L42U
-2441	挟む	挟[はさ]む	clip, pinch	[sound:MNN_挟む.mp3]	L42U
-2442	画鋲	画[が] 鋲[びょう]	drawing pin	[sound:MNN_画鋲.mp3]	L42U
-2443	留める	留[と]める	pin, tack	[sound:MNN_留める.mp3]	L42U
-2444	カッター	カッター	cutter	[sound:MNN_カッター.mp3]	L42U
-2445	切る	切[き]る	cut, saw	[sound:MNN_切る.mp3]	L42U
-2446	ガムテープ	ガムテープ	packaging tape	[sound:MNN_ガムテープ.mp3]	L42U
-2447	糊	糊[のり]	glue	[sound:MNN_糊.mp3]	L42U
-2448	鉛筆削り	鉛[えん] 筆[ぴつ] 削[けず]り	pencil sharpener​	[sound:MNN_鉛筆削り.mp3]	L42U
-2449	削る	削[けず]る	sharpen	[sound:MNN_削る.mp3]	L42U
-2450	ファイル	ファイル	file	[sound:MNN_ファイル.mp3]	L42U L48
-2451	ファイルする	ファイルする	to file	[sound:MNN_ファイルする.mp3]	L42U
-2452	修正液	修[しゅう] 正[せい] 液[えき]	correction fluid	[sound:MNN_修正液.mp3]	L42U
-2453	消す	消[け]す	erase	[sound:MNN_消す.mp3]	L42U
-2454	穴を開ける	穴[あな]を 開[あ]ける	punch a hole	[sound:MNN_穴を開ける.mp3]	L42U
-2455	電卓	電[でん] 卓[たく]	calculator	[sound:MNN_電卓.mp3]	L42U
-2456	計算する	計[けい] 算[さん]する	calculate	[sound:MNN_計算する.mp3]	L42U
-2457	定規（物差し）	定[じょう] 規[ぎ]（ 物[もの]差[さ]し）	ruler	[sound:MNN_定規.mp3][sound:MNN_物差し.mp3]	L42U
-2458	線を引く	線[せん]を 引[ひ]く	draw a line	[sound:MNN_線を引く.mp3]	L42U
-2459	線を測る	線[せん]を 測[はか]る	measure a line	[sound:MNN_線を測る.mp3]	L42U
-2460	のこぎり	のこぎり	saw	[sound:MNN_のこぎり.mp3]	L42U
-2461	金槌	金[かな] 槌[づち]	hammer​	[sound:MNN_金槌.mp3]	L42U
-2462	くぎを打つ	くぎを 打[う]つ	hit a nail	[sound:MNN_くぎを打つ.mp3]	L42U
-2463	ペンチ	ペンチ	pliers	[sound:MNN_ペンチ.mp3]	L42U
-2464	ねじを締める	ねじを 締[し]める	tighten a screw	[sound:MNN_ねじを締める.mp3]	L42U
-2465	ねじを緩める	ねじを 緩[ゆる]める	loosen a screw	[sound:MNN_ねじを緩める.mp3]	L42U
-2466	浴室	浴[よく] 室[しつ]	bathroom	[sound:MNN_浴室.mp3]	L28U
-2467	洋室	洋[よう] 室[しつ]	Western-style room	[sound:MNN_洋室.mp3]	L28U
-2468	物入れ	物[もの] 入[い]れ	place or container into which to put things​	[sound:MNN_物入れ.mp3]	L28U
-2469	ＬＤＫ	ＬＤＫ	combined living room, dining room and kitchen​	[sound:MNN_ＬＤＫ.mp3]	L28U
-2470	輸出が増えます	輸[ゆ] 出[しゅつ]が 増[ふ]えます	exports increase	[sound:MNN_輸出が増えます.mp3]	L43
-2471	輸出が減ります	輸[ゆ] 出[しゅつ]が 減[へ]ります	exports decrease	[sound:MNN_輸出が減ります.mp3]	L43
-2472	値段が上がります	値[ね] 段[だん]が 上[あ]がります	the price rises	[sound:MNN_値段が上がります.mp3]	L43
-2473	値段が下がります	値[ね] 段[だん]が 下[さ]がります	the price falls, drops	[sound:MNN_値段が下がります.mp3]	L43
-2474	ひもが切れます	ひもが 切[き]れます	a string breaks, snaps	[sound:MNN_ひもが切れます.mp3]	L43
-2475	ボタンが取れます	ボタンが 取[と]れます	a button comes off	[sound:MNN_ボタンが取れます.mp3]	L43
-2476	荷物が落ちます	荷[に] 物[もつ]が 落[お]ちます	baggage falls down	[sound:MNN_荷物が落ちます.mp3]	L43
-2477	ガソリンがなくなります	ガソリンがなくなります	petrol/gasoline is run out	[sound:MNN_ガソリンがなくなります.mp3]	L43
-2478	変「な」	変[へん]「な」	strange, peculiar	[sound:MNN_変「な」.mp3]	L43
-2479	幸せ「な」	幸[しあわ]せ「な」	happy	[sound:MNN_幸せ「な」.mp3]	L43
-2480	楽「な」	楽[らく]「な」	easy	[sound:MNN_楽「な」.mp3]	L43
-2481	うまい	うまい	tasty	[sound:MNN_うまい.mp3]	L43
-2482	まずい	まずい	not tasty	[sound:MNN_まずい.mp3]	L43
-2483	つまらない	つまらない	boring	[sound:MNN_つまらない.mp3]	L43
-2484	パンフレット	パンフレット	pamphlet	[sound:MNN_パンフレット.mp3]	L43
-2485	今にも	今[いま]にも	at any moment (to describe situation before changes)	[sound:MNN_今にも.mp3]	L43
-2486	わあ	わあ	Oh!/Wow!	[sound:MNN_わあ.mp3]	L43
-2487	ばら	ばら	rose	[sound:MNN_ばら.mp3]	L43
-2488	ドライブ	ドライブ	driving	[sound:MNN_ドライブ.mp3]	L43
-2489	理由	理[り] 由[ゆう]	reason	[sound:MNN_理由.mp3]	L43 L47
-2490	謝ります	謝[あやま]ります	apologize	[sound:MNN_謝ります.mp3]	L43
-2491	知り合います	知[し]り 合[あ]います	get acquainted	[sound:MNN_知り合います.mp3]	L43 L47
-2492	性質	性[せい] 質[しつ]	nature, property, disposition​ (characteristics)	[sound:MNN_性質.mp3]	L43U
-2493	厳しい	厳[きび]しい	strict, severe, hard	[sound:MNN_厳しい.mp3]	L43U L47
-2494	気が長い	気[き]が 長[なが]い	slow-tempered, patient	[sound:MNN_気が長い.mp3]	L43U
-2495	気が短い	気[き]が 短[みじか]い	quick-tempered	[sound:MNN_気が短い.mp3]	L43U
-2496	気が弱い	気[き]が 弱[よわ]い	timid	[sound:MNN_気が弱い.mp3]	L43U
-2497	活発「な」	活[かっ] 発[ぱつ]「な」	active	[sound:MNN_活発「な」.mp3]	L43U
-2498	誠実「な」	誠[せい] 実[じつ]「な」	sincere	[sound:MNN_誠実「な」.mp3]	L43U
-2499	わがまま「な」	わがまま「な」	selfish	[sound:MNN_わがまま「な」.mp3]	L43U
-2500	ふまじめ「な」	ふまじめ「な」	frivolous	[sound:MNN_ふまじめ「な」.mp3]	L43U
-2501	頑固「な」	頑[がん] 固[こ]「な」	stubborn	[sound:MNN_頑固「な」.mp3]	L43U
-2502	素直「な」	素[す] 直[なお]「な」	obedient, gentle	[sound:MNN_素直「な」.mp3]	L43U
-2503	意地悪「な」	意[い] 地[じ] 悪[わる]「な」	ill-natured, spiteful	[sound:MNN_意地悪「な」.mp3]	L43U
-2504	勝ち気「な」	勝[か]ち 気[き]「な」	competitive, unyielding	[sound:MNN_勝ち気「な」.mp3]	L43U
-2505	神経質「な」	神[しん] 経[けい] 質[しつ]「な」	highly-strung, nervous	[sound:MNN_神経質「な」.mp3]	L43U
-2506	泣きます	泣[な]きます	cry	[sound:MNN_泣きます.mp3]	L44
-2507	笑います	笑[わら]います	laugh, smile	[sound:MNN_笑います.mp3]	L44
-2508	シャツが乾きます	シャツが 乾[かわ]きます	a shirt dries	[sound:MNN_シャツが乾きます.mp3]	L44
-2509	シャツが濡れます	シャツが 濡[ぬ]れます	a shirt gets wet	[sound:MNN_シャツが濡れます.mp3]	L44
-2510	滑ります	滑[すべ]ります	slip	[sound:MNN_滑ります.mp3]	L44
-2511	事故が起きます	事[じ] 故[こ]が 起[お]きます	an accident happens	[sound:MNN_事故が起きます.mp3]	L44
-2512	調節します	調[ちょう] 節[せつ]します	adjust	[sound:MNN_調節します.mp3]	L44
-2513	危険「な」	危[き] 険[けん]「な」	dangerous	[sound:MNN_危険「な」.mp3]	L44
-2514	厚い	厚[あつ]い	thick	[sound:MNN_厚い.mp3]	L44
-2515	太い	太[ふと]い	thick (of large diameter)	[sound:MNN_太い.mp3]	L44
-2516	細い	細[ほそ]い	thin (of small diameter)	[sound:MNN_細い.mp3]	L44
-2517	空気	空[くう] 気[き]	air	[sound:MNN_空気.mp3]	L44
-2518	涙	涙[なみだ]	tear	[sound:MNN_涙.mp3]	L44
-2519	和食	和[わ] 食[しょく]	Japanese dish	[sound:MNN_和食.mp3]	L44
-2520	洋食	洋[よう] 食[しょく]	Western dish	[sound:MNN_洋食.mp3]	L44
-2521	おかず	おかず	side dish	[sound:MNN_おかず.mp3]	L44
-2522	量	量[りょう]	quantity	[sound:MNN_量.mp3]	L44
-2523	ー倍	ー 倍[ばい]	ー times	[sound:MNN_ー倍.mp3]	L44
-2524	シングル	シングル	single room	[sound:MNN_シングル.mp3]	L44
-2525	ツイン	ツイン	twin-bedded room	[sound:MNN_ツイン.mp3]	L44
-2526	洗濯物	洗[せん] 濯[たく] 物[もの]	washing, laundry	[sound:MNN_洗濯物.mp3]	L44
-2527	どうなさいますか。	どうなさいますか。	What can I do for you? (respectful)	[sound:MNN_どうなさいますか。.mp3]	L44
-2528	シャンプーをします	シャンプーをします	to shampoo	[sound:MNN_シャンプーをします.mp3]	L44
-2529	どういうふうになさいますか。	どういうふうになさいますか。	How would you like it done? (respectful)	[sound:MNN_どういうふうになさいますか。.mp3]	L44
-2530	ショート	ショート	short	[sound:MNN_ショート.mp3]	L44
-2531	～みたいにしてください。	～みたいにしてください。	Do it like ～.	[sound:MNN_～みたいにしてください。.mp3]	L44
-2532	これでよろしいでしょうか。	これでよろしいでしょうか。	Would this be all right? (polite)	[sound:MNN_これでよろしいでしょうか。.mp3]	L44
-2533	どうもお疲れさまでした。	どうもお 疲[つか]れさまでした。	Thank you for your patience. (shop assistance to customer)	[sound:MNN_どうもお疲れさまでした。.mp3]	L44
-2534	嫌がります	嫌[いや]がります	dislike	[sound:MNN_嫌がります.mp3]	L44
-2535	上手く	上手[うま]く	well	[sound:MNN_上手く.mp3]	L44
-2536	順序	順[じゅん] 序[じょ]	order	[sound:MNN_順序.mp3]	L44
-2537	安心「な」	安[あん] 心[しん]「な」	relieved	[sound:MNN_安心「な」.mp3]	L44
-2538	表現	表[ひょう] 現[げん]	expression	[sound:MNN_表現.mp3]	L44
-2539	別れます	別[わか]れます	part, separate	[sound:MNN_別れます.mp3]	L44
-2540	これら	これら	these	[sound:MNN_これら.mp3]	L44
-2541	縁起が悪い	縁[えん] 起[ぎ]が 悪[わる]い	unlucky, ill-omened	[sound:MNN_縁起が悪い.mp3]	L44
-2542	理髪店	理[り] 髪[はつ] 店[てん]	barber's shop	[sound:MNN_理髪店.mp3]	L44U
-2543	パーム	パーム	perm	[sound:MNN_パーム.mp3]	L44U
-2544	シャンプー	シャンプー	shampoo	[sound:MNN_シャンプー.mp3]	L44U
-2545	トリートメント	トリートメント	treatment	[sound:MNN_トリートメント.mp3]	L44U
-2546	ブロー	ブロー	blow-dry	[sound:MNN_ブロー.mp3]	L44U
-2547	カラー	カラー	hair colouring	[sound:MNN_カラー.mp3]	L44U
-2548	エクステ	エクステ	hair extension	[sound:MNN_エクステ.mp3]	L44U
-2549	ネイル	ネイル	nail care	[sound:MNN_ネイル.mp3]	L44U
-2550	フェイシャルマッサージ	フェイシャルマッサージ	facial massage	[sound:MNN_フェイシャルマッサージ.mp3]	L44U
-2551	メイク	メイク	makeup	[sound:MNN_メイク.mp3]	L44U
-2552	着付け	着[き] 付[つ]け	(kimono) dressing	[sound:MNN_着付け.mp3]	L44U
-2553	切ってください。	切[き]ってください。	Please cut it	[sound:MNN_切ってください。.mp3]	L44U
-2554	耳が見えるくらいに～	耳[みみ]が 見[み]えるくらいに～	～ to just above the ears	[sound:MNN_耳が見えるくらいに～.mp3]	L44U
-2555	肩にかかるくらいに～	肩[かた]にかかるくらいに～	～ to shoulder length	[sound:MNN_肩にかかるくらいに～.mp3]	L44U
-2556	眉が隠れるくらいに～	眉[まゆ]が 隠[かく]れるくらいに～	～ so that my eyebrows are covered	[sound:MNN_眉が隠れるくらいに～.mp3]	L44U
-2557	この写真みたいに～	この 写[しゃ] 真[しん]みたいに～	～ like in this photograph	[sound:MNN_この写真みたいに～.mp3]	L44U
-2558	髪をとかす	髪[かみ]をとかす	comb one's hair	[sound:MNN_髪をとかす.mp3]	L44U
-2559	髪を分ける	髪[かみ]を 分[わ]ける	part one's hair	[sound:MNN_髪を分ける.mp3]	L44U
-2560	髪をまとめる	髪[かみ]をまとめる	gather one's hair	[sound:MNN_髪をまとめる.mp3]	L44U
-2561	髪をアップにする	髪[かみ]をアップにする	put one's hair up	[sound:MNN_髪をアップにする.mp3]	L44U
-2562	髪を染める	髪[かみ]を 染[そ]める	dye one's hair	[sound:MNN_髪を染める.mp3]	L44U
-2563	ひげ／顔をそる	ひげ／ 顔[かお]をそる	shave	[sound:MNN_ひげ／顔をそる.mp3]	L44U
-2564	化粧／メイクする	化[け] 粧[しょう]／メイクする	put on makeup	[sound:MNN_化粧／メイクする.mp3]	L44U
-2565	三つ編みにする	三[み]つ 編[あ]みにする	braid, plait	[sound:MNN_三つ編みにする.mp3]	L44U
-2566	刈り上げる	刈[か]り 上[あ]げる	trim	[sound:MNN_刈り上げる.mp3]	L44U
-2567	パーマをかける	パーマをかける	perm	[sound:MNN_パーマをかける.mp3]	L44U
-2568	信じます	信[しん]じます	believe, trust	[sound:MNN_信じます.mp3]	L45
-2569	キャンセルします	キャンセルします	cancel	[sound:MNN_キャンセルします.mp3]	L45
-2570	知らせます	知[し]らせます	inform	[sound:MNN_知らせます.mp3]	L45
-2571	保証書	保[ほ] 証[しょう] 書[しょ]	guarantee	[sound:MNN_保証書.mp3]	L45
-2572	領収書	領[りょう] 収[しゅう] 書[しょ]	receipt	[sound:MNN_領収書.mp3]	L45
-2573	中止	中[ちゅう] 止[し]	calling off, cancelling, suspension	[sound:MNN_中止.mp3]	L45
-2574	点	点[てん]	point, score	[sound:MNN_点.mp3]	L45
-2575	梅	梅[うめ]	plum (blossom)	[sound:MNN_梅.mp3]	L45
-2576	１１０番	１１０ 番[ばん]	police (emergency number)	[sound:MNN_１１０番.mp3]	L45
-2577	１１９番	１１９ 番[ばん]	fire (emergency number)	[sound:MNN_１１９番.mp3]	L45
-2578	無理に	無[む]理[り]に	unreasonably	[sound:MNN_無理に.mp3]	L45
-2579	楽しみにしています	楽[たの]しみにしています	be looking forward, expecting	[sound:MNN_楽しみにしています.mp3]	L45
-2580	以上です。	以[い] 上[じょう]です。	That's all.	[sound:MNN_以上です。.mp3]	L45
-2581	係員	係[かかり] 員[いん]	person in charge, organizer	[sound:MNN_係員.mp3]	L45
-2582	コース	コース	course, route	[sound:MNN_コース.mp3]	L45
-2583	スタート	スタート	start	[sound:MNN_スタート.mp3]	L45
-2584	ー位	ー 位[い]	-th (ranking)	[sound:MNN_ー位.mp3]	L45
-2585	優勝します	優[ゆう] 勝[しょう]します	win the championship, come first	[sound:MNN_優勝します.mp3]	L45
-2586	悩み	悩[なや]み	trouble, worry	[sound:MNN_悩み.mp3]	L45
-2587	目覚まし時計	目[め] 覚[ざ]まし 時計[どけい]	alarm clock	[sound:MNN_目覚まし時計.mp3]	L45
-2588	大学生	大[だい] 学[がく] 生[せい]	university student	[sound:MNN_大学生.mp3]	L45
-2589	回答します	回[かい] 答[とう]します	answer, reply	[sound:MNN_回答します.mp3]	L45
-2590	鳴ります	鳴[な]ります	ring (sound)	[sound:MNN_鳴ります.mp3]	L45 L46
-2591	セットします	セットします	set	[sound:MNN_セットします.mp3]	L45
-2592	それでも	それでも	nevertheless, for all that	[sound:MNN_それでも.mp3]	L45
-2593	整形外科	整[せい] 形[けい] 外[げ] 科[か]	orthopaedic (bone treatment) surgery	[sound:MNN_整形外科.mp3]	L45U
-2594	皮膚科	皮[ひ] 膚[ふ] 科[か]	dermatology (skin)	[sound:MNN_皮膚科.mp3]	L45U
-2595	産婦人科	産[さん] 婦[ふ] 人[じん] 科[か]	obstetrics (pregnancy) and gynecology (treatment of women's diseases)	[sound:MNN_産婦人科.mp3]	L45U
-2596	内科	内[ない] 科[か]	internal medicine	[sound:MNN_内科.mp3]	L45U
-2597	待合室	待[まち] 合[あい] 室[しつ]	waiting room	[sound:MNN_待合室.mp3]	L45U
-2598	外科	外[げ] 科[か]	surgery	[sound:MNN_外科.mp3]	L45U
-2599	眼科	眼[がん] 科[か]	ophthalmology (eye treatment)	[sound:MNN_眼科.mp3]	L45U
-2600	小児科	小[しょう] 児[に] 科[か]	pediatrics (medical care for infants, children and young people)	[sound:MNN_小児科.mp3]	L45U
-2601	歯科	歯[し] 科[か]	dentistry	[sound:MNN_歯科.mp3]	L45U
-2602	泌尿器科	泌[ひ] 尿[にょう] 器[き] 科[か]	urology	[sound:MNN_泌尿器科.mp3]	L45U
-2603	会計	会[かい] 計[けい]	account, treasurer	[sound:MNN_会計.mp3]	L45U
-2604	耳鼻咽喉科	耳[じ] 鼻[び] 咽[いん] 喉[こう] 科[か]	otorhinolaryngology (ear, nose, and throat)	[sound:MNN_耳鼻咽喉科.mp3]	L45U
-2605	薬局	薬[やっ] 局[きょく]	pharmacy	[sound:MNN_薬局.mp3]	L45U
-2606	診察する	診[しん] 察[さつ]する	examine	[sound:MNN_診察する.mp3]	L45U
-2607	検査する	検[けん] 査[さ]する	scan, test	[sound:MNN_検査する.mp3]	L45U
-2608	注射する	注[ちゅう] 射[しゃ]する	inject	[sound:MNN_注射する.mp3]	L45U
-2609	レントゲンを撮る	レントゲンを 撮[と]る	take an X-ray	[sound:MNN_レントゲンを撮る.mp3]	L45U
-2610	入院する	入[にゅう] 院[いん]する	be admitted to hospital	[sound:MNN_入院する.mp3]	L45U
-2611	手術する	手[しゅ] 術[じゅつ]する	operate	[sound:MNN_手術する.mp3]	L45U
-2612	麻酔する	麻[ま] 酔[すい]する	anaesthetize (induce a loss of consciousness)	[sound:MNN_麻酔する.mp3]	L45U
-2613	処方箋	処[しょ] 方[ほう] 箋[せん]	prescription	[sound:MNN_処方箋.mp3]	L45U
-2614	カルテ	カルテ	patient's chart	[sound:MNN_カルテ.mp3]	L45U
-2615	診察券	診[しん] 察[さつ] 券[けん]	patient's registration ticket	[sound:MNN_診察券.mp3]	L45U
-2616	薬の種類	薬[くすり]の 種[しゅ] 類[るい]	types of medicine	[sound:MNN_薬の種類.mp3]	L45U
-2617	痛み止め	痛[いた]み 止[ど]め	painkillers	[sound:MNN_痛み止め.mp3]	L45U
-2618	湿布薬	湿[しっ] 布[ぷ] 薬[やく]	analgesic plasters, poultice, cataplasm	[sound:MNN_湿布薬.mp3]	L45U
-2619	解熱剤	解[げ] 熱[ねつ] 剤[ざい]	antipyretics (prevent or reduce fever)	[sound:MNN_解熱剤.mp3]	L45U
-2620	錠剤	錠[じょう] 剤[ざい]	tablets (pills)	[sound:MNN_錠剤.mp3]	L45U
-2621	粉薬	粉[こな] 薬[ぐすり]	powder medicine	[sound:MNN_粉薬.mp3]	L45U
-2622	カプセル	カプセル	capsules	[sound:MNN_カプセル.mp3]	L45U
-2623	渡します	渡[わた]します	hand over	[sound:MNN_渡します.mp3]	L46
-2624	帰ってきます	帰[かえ]ってきます	come back	[sound:MNN_帰ってきます.mp3]	L46
-2625	バスが出ます	バスが 出[で]ます	a bus leaves, departs	[sound:MNN_バスが出ます.mp3]	L46
-2626	荷物が届きます	荷[に] 物[もつ]が 届[とど]きます	parcels to be delivered	[sound:MNN_荷物が届きます.mp3]	L46
-2627	大学に入学します	大[だい] 学[がく]に 入[にゅう] 学[がく]します	enter a university	[sound:MNN_大学に入学します.mp3]	L46
-2628	大学を卒業します	大[だい] 学[がく]を 卒[そつ] 業[ぎょう]します	graduate from a university	[sound:MNN_大学を卒業します.mp3]	L46
-2629	焼きます	焼[や]きます	bake, grill, roast	[sound:MNN_焼きます.mp3]	L46
-2630	パンが焼けます	パンが 焼[や]けます	bread to be baked	[sound:MNN_パンが焼けます.mp3]	L46
-2631	肉が焼けます	肉[にく]が 焼[や]けます	meat to be roasted, be grilled	[sound:MNN_肉が焼けます.mp3]	L46
-2632	留守	留[る] 守[す]	absence	[sound:MNN_留守.mp3]	L46
-2633	原因	原[げん] 因[いん]	cause	[sound:MNN_原因.mp3]	L46
-2634	～の所	～の 所[ところ]	where ～ is/are, by the ～	[sound:MNN_～の所.mp3]	L46
-2635	半年	半[はん] 年[とし]	half a year	[sound:MNN_半年.mp3]	L46
-2636	ちょうど	ちょうど	just, exactly	[sound:MNN_ちょうど.mp3]	L46
-2637	たった今	たった 今[いま]	just now (used with past tense; indicates completion)	[sound:MNN_たった今.mp3]	L46
-2638	今いいですか。	今[いま]いいですか。	Have you got a moment?	[sound:MNN_今いいですか。.mp3]	L46
-2639	ガスサービスセンター	ガスサービスセンター	gas service centre	[sound:MNN_ガスサービスセンター.mp3]	L46
-2640	ガスレンジ	ガスレンジ	gas range, gas cooker	[sound:MNN_ガスレンジ.mp3]	L46
-2641	具合	具[ぐ] 合[あい]	condition	[sound:MNN_具合.mp3]	L46
-2642	申し訳ありません。	申[もう]し 訳[わけ]ありません。	I'm sorry.	[sound:MNN_申し訳ありません。.mp3]	L46
-2643	向かいます	向[む]かいます	head for	[sound:MNN_向かいます.mp3]	L46
-2644	ついています	ついています	be lucky	[sound:MNN_ついています.mp3]	L46
-2645	床	床[ゆか]	floor	[sound:MNN_床.mp3]	L46
-2646	転びます	転[ころ]びます	fall down, fall over	[sound:MNN_転びます.mp3]	L46
-2647	ベル	ベル	bell	[sound:MNN_ベル.mp3]	L46
-2648	順番に	順[じゅん] 番[ばん]に	in order	[sound:MNN_順番に.mp3]	L46
-2649	出来事	出[で] 来[き] 事[ごと]	incident	[sound:MNN_出来事.mp3]	L46
-2650	服飾	服[ふく] 飾[しょく]	clothing and accessories	[sound:MNN_服飾.mp3]	L46U
-2651	医療	医[い] 療[りょう]	medical care, medical treatment​	[sound:MNN_医療.mp3]	L46U
-2652	その他	その 他[た]	others, misc., etc.	[sound:MNN_その他.mp3]	L46U
-2653	ジャム	ジャム	jam	[sound:MNN_ジャム.mp3]	L46U
-2654	クッキー	クッキー	cookie	[sound:MNN_クッキー.mp3]	L46U
-2655	チーズ	チーズ	cheese	[sound:MNN_チーズ.mp3]	L46U
-2656	オムレツ	オムレツ	omelette	[sound:MNN_オムレツ.mp3]	L46U
-2657	フランクフルト	フランクフルト	frankfurter	[sound:MNN_フランクフルト.mp3]	L46U
-2658	カステラ	カステラ	sponge cake	[sound:MNN_カステラ.mp3]	L46U
-2659	マカロニ	マカロニ	macaroni	[sound:MNN_マカロニ.mp3]	L46U
-2660	パスタ	パスタ	pasta	[sound:MNN_パスタ.mp3]	L46U
-2661	エプロン	エプロン	apron	[sound:MNN_エプロン.mp3]	L46U
-2662	ランジェリー	ランジェリー	lingerie	[sound:MNN_ランジェリー.mp3]	L46U
-2663	ホック	ホック	hook	[sound:MNN_ホック.mp3]	L46U
-2664	ズック	ズック	deck shoes, plimsolls	[sound:MNN_ズック.mp3]	L46U
-2665	ビロード	ビロード	velvet	[sound:MNN_ビロード.mp3]	L46U
-2666	レントゲン	レントゲン	X-ray	[sound:MNN_レントゲン.mp3]	L46U
-2667	アレルギー	アレルギー	allergy	[sound:MNN_アレルギー.mp3]	L46U
-2668	メス	メス	scalpel	[sound:MNN_メス.mp3]	L46U
-2669	ピンセット	ピンセット	tweezers	[sound:MNN_ピンセット.mp3]	L46U
-2670	コーラス	コーラス	chorus	[sound:MNN_コーラス.mp3]	L46U
-2671	メロディー	メロディー	melody	[sound:MNN_メロディー.mp3]	L46U
-2672	バレエ	バレエ	ballet	[sound:MNN_バレエ.mp3]	L46U
-2673	アトリエ	アトリエ	studio	[sound:MNN_アトリエ.mp3]	L46U
-2674	メルヘン	メルヘン	fairy tale	[sound:MNN_メルヘン.mp3]	L46U
-2675	オルゴール	オルゴール	musical box	[sound:MNN_オルゴール.mp3]	L46U
-2676	スケジュール	スケジュール	schedule	[sound:MNN_スケジュール.mp3]	L46U L50
-2677	ティッシュペーパー	ティッシュペーパー	tissue paper	[sound:MNN_ティッシュペーパー.mp3]	L46U
-2678	アンケート	アンケート	questionnaire	[sound:MNN_アンケート.mp3]	L46U
-2679	コンクール	コンクール	competition	[sound:MNN_コンクール.mp3]	L46U
-2680	エネルギー	エネルギー	energy	[sound:MNN_エネルギー.mp3]	L46U
-2681	テーム	テーム	theme, topic	[sound:MNN_テーム.mp3]	L46U
-2682	ゴム	ゴム	rubber	[sound:MNN_ゴム.mp3]	L46U
-2683	ペンキ	ペンキ	paint	[sound:MNN_ペンキ.mp3]	L46U
-2684	カルタ	カルタ	playing card	[sound:MNN_カルタ.mp3]	L46U
-2685	風が吹きます	風[かぜ]が 吹[ふ]きます	wind blows	[sound:MNN_風が吹きます.mp3]	L47
-2686	ごみが燃えます	ごみが 燃[も]えます	rubbish burns	[sound:MNN_ごみが燃えます.mp3]	L47
-2687	亡くなります（死にます）	亡[な]くなります（ 死[し]にます）	pass away	[sound:MNN_亡くなります.mp3][sound:MNN_死にます.mp3]	L47
-2688	人が集まります	人[ひと]が 集[あつ]まります	people gathers	[sound:MNN_人が集まります.mp3]	L47
-2689	人が別れます	人[ひと]が 別[わか]れます	people parts, separates	[sound:MNN_人が別れます.mp3]	L47
-2690	音がします	音[おと]がします	sound can be heard	[sound:MNN_音がします.mp3]	L47
-2691	声がします	声[こえ]がします	voice can be heard	[sound:MNN_声がします.mp3]	L47
-2692	味がします	味[あじ]がします	to taste	[sound:MNN_味がします.mp3]	L47
-2693	匂いがします	匂[にお]いがします	to smell	[sound:MNN_匂いがします.mp3]	L47
-2694	ひどい	ひどい	terrible, severe	[sound:MNN_ひどい.mp3]	L47
-2695	実験	実[じっ] 験[けん]	experiment	[sound:MNN_実験.mp3]	L47
-2696	データ	データ	data	[sound:MNN_データ.mp3]	L47
-2697	人口	人[じん] 口[こう]	population	[sound:MNN_人口.mp3]	L47
-2698	匂い	匂[にお]い	smell	[sound:MNN_匂い.mp3]	L47
-2699	科学	科[か] 学[がく]	science	[sound:MNN_科学.mp3]	L47
-2700	パトカー	パトカー	police car	[sound:MNN_パトカー.mp3]	L47
-2701	救急車	救[きゅう] 急[きゅう] 車[しゃ]	ambulance	[sound:MNN_救急車.mp3]	L47
-2702	賛成	賛[さん] 成[せい]	approval, agreement	[sound:MNN_賛成.mp3]	L47
-2703	反対	反[はん] 対[たい]	objection, opposition	[sound:MNN_反対.mp3]	L47
-2704	大統領	大[だい] 統[とう] 領[りょう]	president	[sound:MNN_大統領.mp3]	L47
-2705	～によると	～によると	according to ～	[sound:MNN_～によると.mp3]	L47
-2706	婚約します	婚[こん] 約[やく]します	get engaged	[sound:MNN_婚約します.mp3]	L47
-2707	どうも	どうも	it seems that (used when making a tentative judgement)	[sound:MNN_どうも.mp3]	L47
-2708	化粧をします	化[け] 粧[しょう]をします	put on makeup	[sound:MNN_化粧をします.mp3]	L47
-2709	女性	女[じょ] 性[せい]	female, woman	[sound:MNN_女性.mp3]	L47
-2710	男性	男[だん] 性[せい]	male, man	[sound:MNN_男性.mp3]	L47
-2711	長生きします	長[なが] 生[い]きします	live long	[sound:MNN_長生きします.mp3]	L47
-2712	擬音語	擬[ぎ] 音[おん] 語[ご]	onomatopoeic word	[sound:MNN_擬音語.mp3]	L47U
-2713	擬態語	擬[ぎ] 態[たい] 語[ご]	phenomime, mimetic word	[sound:MNN_擬態語.mp3]	L47U
-2714	ザーザー（降る）	ザーザー（ 降[ふ]る）	pour, crash (rain)	[sound:MNN_ザーザー.mp3][sound:MNN_降る.mp3]	L47U
-2715	ピューピュー（吹く）	ピューピュー（ 吹[ふ]く）	whistle, howl (wind)	[sound:MNN_ピューピュー.mp3][sound:MNN_吹く.mp3]	L47U
-2716	ゴロゴロ（鳴る）	ゴロゴロ（ 鳴[な]る）	roll, growl (thunder)	[sound:MNN_ゴロゴロ.mp3][sound:MNN_鳴る.mp3]	L47U
-2717	ワンワン（ほえる）	ワンワン（ほえる）	bow-wow	[sound:MNN_ワンワン.mp3][sound:MNN_ほえる.mp3]	L47U
-2718	ニャーニャー（鳴く）	ニャーニャー（ 鳴[な]く）	meow	[sound:MNN_ニャーニャー.mp3][sound:MNN_鳴く.mp3]	L47U
-2719	かーかー（鳴く）	かーかー（ 鳴[な]く）	caw	[sound:MNN_かーかー.mp3][sound:MNN_鳴く.mp3]	L47U
-2720	げらげら（笑う）	げらげら（ 笑[わら]う）	guffaw	[sound:MNN_げらげら.mp3][sound:MNN_笑う.mp3]	L47U
-2721	しくしく（泣く）	しくしく（ 泣[な]く）	sob	[sound:MNN_しくしく.mp3][sound:MNN_泣く.mp3]	L47U
-2722	きょろきょろ（見る）	きょろきょろ（ 見[み]る）	(look around) restlessly	[sound:MNN_きょろきょろ.mp3][sound:MNN_見る.mp3]	L47U
-2723	ぱくぱく（食べる）	ぱくぱく（ 食[た]べる）	(eat) heartily, gobble	[sound:MNN_ぱくぱく.mp3][sound:MNN_食べる.mp3]	L47U
-2724	ぐうぐう（寝る）	ぐうぐう（ 寝[ね]る）	be fast asleep	[sound:MNN_ぐうぐう.mp3][sound:MNN_寝る.mp3]	L47U
-2725	すらすら（読む）	すらすら（ 読[よ]む）	(read) fluently	[sound:MNN_すらすら.mp3][sound:MNN_読む.mp3]	L47U
-2726	ざらざら（している）	ざらざら（している）	(feel) rough	[sound:MNN_ざらざら.mp3][sound:MNN_している.mp3]	L47U
-2727	べたべた（している）	べたべた（している）	(be) sticky	[sound:MNN_べたべた.mp3][sound:MNN_している.mp3]	L47U
-2728	つるつる（している）	つるつる（している）	(be) smooth, slippery	[sound:MNN_つるつる.mp3][sound:MNN_している.mp3]	L47U
-2729	降ろします、下ろします	降[お]ろします、 下[お]ろします	put down, lower, unload	[sound:MNN_降ろします、下ろします.mp3]	L48
-2730	届けます	届[とど]けます	deliver	[sound:MNN_届けます.mp3]	L48
-2731	録音します	録[ろく] 音[おん]します	record	[sound:MNN_録音します.mp3]	L48
-2732	塾	塾[じゅく]	cram school	[sound:MNN_塾.mp3]	L48
-2733	生徒	生[せい] 徒[と]	pupil	[sound:MNN_生徒.mp3]	L48
-2734	～間	～ 間[かん]	for ～ (referring to duration)	[sound:MNN_～間.mp3]	L48
-2735	いいことですね。	いいことですね。	That's a good thing.	[sound:MNN_いいことですね。.mp3]	L48
-2736	お忙しいですか。	お 忙[いそが]しいですか。	Are you busy? (talking to elderlies)	[sound:MNN_お忙しいですか。.mp3]	L48
-2737	営業	営[えい] 業[ぎょう]	business, sales	[sound:MNN_営業.mp3]	L48
-2738	それまでに	それまでに	by that time	[sound:MNN_それまでに.mp3]	L48
-2739	かまいません	かまいません	It's all right./I don't mind.	[sound:MNN_かまいません.mp3]	L48
-2740	楽しみます	楽[たの]しみます	enjoy oneself	[sound:MNN_楽しみます.mp3]	L48
-2741	親	親[おや]	parent	[sound:MNN_親.mp3]	L48
-2742	小学生	小[しょう] 学[がく] 生[せい]	pupil, junior/elementary schoolchild	[sound:MNN_小学生.mp3]	L48
-2743	ーパーセント	ーパーセント	ー percent	[sound:MNN_ーパーセント.mp3]	L48
-2744	その次	その 次[つぎ]	next	[sound:MNN_その次.mp3]	L48
-2745	習字	習[しゅう] 字[じ]	penmanship (the art or skill of writing by hand, calligraphy)	[sound:MNN_習字.mp3]	L48
-2746	普通の	普[ふ] 通[つう]の	normal, usual	[sound:MNN_普通の.mp3]	L48
-2747	しつける	しつける	to train, to discipline, to teach manners​	[sound:MNN_しつける.mp3]	L48U
-2748	鍛える	鍛[きた]える	to drill, to train, to discipline​	[sound:MNN_鍛える.mp3]	L48U
-2749	経験	経[けい] 験[けん]	experience​	[sound:MNN_経験.mp3]	L48U
-2750	年寄り	年[とし] 寄[よ]り	old person, elderly person, senior citizen	[sound:MNN_年寄り.mp3]	L48U
-2751	決める	決[き]める	to decide	[sound:MNN_決める.mp3]	L48U
-2752	自信	自[じ] 信[しん]	confidence	[sound:MNN_自信.mp3]	L48U
-2753	責任	責[せき] 任[にん]	responsibility	[sound:MNN_責任.mp3]	L48U
-2754	我慢	我[が] 慢[まん]	patience, tolerance	[sound:MNN_我慢.mp3]	L48U
-2755	会社に勤めます	会[かい] 社[しゃ]に 勤[つと]めます	work for a company	[sound:MNN_会社に勤めます.mp3]	L49
-2756	椅子に掛けます	椅子[いす]に 掛[か]けます	sit on a chair	[sound:MNN_椅子に掛けます.mp3]	L49
-2757	過ごします	過[す]ごします	spend (time), pass (time)	[sound:MNN_過ごします.mp3]	L49
-2758	召し上がります	召[め]し 上[あ]がります	eat, drink (respectful of たべます、のみます)	[sound:MNN_召し上がります.mp3]	L49
-2759	おっしゃいます	おっしゃいます	say, (one's name) is ～ (respectful of いいます)	[sound:MNN_おっしゃいます.mp3]	L49
-2760	なさいます	なさいます	do (respectful of します)	[sound:MNN_なさいます.mp3]	L49
-2761	ご覧になります	ご 覧[らん]になります	seeing, looking at (respectful of みます)	[sound:MNN_ご覧になります.mp3]	L49
-2762	ご存知です	ご 存[ぞん] 知[じ]です	know (respectful of しっています)	[sound:MNN_ご存知です.mp3]	L49
-2763	旅館	旅[りょ] 館[かん]	Japanese-style hotel or inn	[sound:MNN_旅館.mp3]	L49
-2764	奥様	奥[おく] 様[さま]	(someone's) wife (respectful of おくさん)	[sound:MNN_奥様.mp3]	L49
-2765	たまに	たまに	once in a while	[sound:MNN_たまに.mp3]	L49
-2766	どなたでも	どなたでも	anybody (respectful of だれでも)	[sound:MNN_どなたでも.mp3]	L49
-2767	～といいます	～といいます	(one's name) is ～	[sound:MNN_～といいます.mp3]	L49
-2768	ー年ー組	ー 年[ねん]ー 組[くみ]	class ー of -th grade	[sound:MNN_ー年ー組.mp3]	L49
-2769	熱を出します	熱[ねつ]を 出[だ]します	run a fever	[sound:MNN_熱を出します.mp3]	L49
-2770	よろしくお伝えください。	よろしくお 伝[つた]えください。	Give my best regards./Please say hello.	[sound:MNN_よろしくお伝えください。.mp3]	L49
-2771	失礼いたします。	失[しつ] 礼[れい]いたします。	Goodbye. (humble of しつれいします)	[sound:MNN_失礼いたします。.mp3]	L49
-2772	経歴	経[けい] 歴[れき]	background	[sound:MNN_経歴.mp3]	L49
-2773	医学部	医[い] 学[がく] 部[ぶ]	medical department	[sound:MNN_医学部.mp3]	L49
-2774	目指します	目[め] 指[ざ]します	aim for	[sound:MNN_目指します.mp3]	L49
-2775	進みます	進[すす]みます	go on (to graduate school)	[sound:MNN_進みます.mp3]	L49
-2776	細胞	細[さい] 胞[ぼう]	cell	[sound:MNN_細胞.mp3]	L49
-2777	開発します	開[かい] 発[はつ]します	develop, create	[sound:MNN_開発します.mp3]	L49
-2778	マウス	マウス	mouse	[sound:MNN_マウス.mp3]	L49
-2779	受賞します	受[じゅ] 賞[しょう]します	be awarded a prize	[sound:MNN_受賞します.mp3]	L49
-2780	講演会	講[こう] 演[えん] 会[かい]	lecture meeting	[sound:MNN_講演会.mp3]	L49
-2781	行事	行[ぎょう] 事[じ]	event, function​	[sound:MNN_行事.mp3]	L49U
-2782	豆まき	豆[まめ]まき	Bean-Scattering Ceremony (２月３日ごろ)	[sound:MNN_豆まき.mp3]	L49U
-2783	ひな祭り	ひな 祭[まつ]り	Doll's Festival (3月3日)	[sound:MNN_ひな祭り.mp3]	L49U
-2784	お月見	お 月[つき] 見[み]	Moon Viewing (９月１５日ごろ)	[sound:MNN_お月見.mp3]	L49U
-2785	大晦日	大[おお] 晦[みそ] 日[か]	New Year's Eve (１２月３１日)	[sound:MNN_大晦日.mp3]	L49U
-2786	参ります	参[まい]ります	go, come (humble of いきます、きます)	[sound:MNN_参ります.mp3]	L50
-2787	おります	おります	be (humble of います)	[sound:MNN_おります.mp3]	L50
-2788	申します、申し上ます	申[もう]します、 申[もう]し 上[あげ]ます	say, (one's name) is ～ (humble of いいます)	[sound:MNN_申します、申し上ます.mp3]	L50
-2789	いたします	いたします	do (humble of します)	[sound:MNN_いたします.mp3]	L50
-2790	拝見します	拝[はい] 見[けん]します	seeing, looking at (humble of みます)	[sound:MNN_拝見します.mp3]	L50
-2791	存じます	存[ぞん]じます	know (humble of しっています)	[sound:MNN_存じます.mp3]	L50
-2792	お目にかかります	お 目[め]にかかります	meet (humble of あいます)	[sound:MNN_お目にかかります.mp3]	L50
-2793	コーヒーを入れます	コーヒーを 入[い]れます	make coffee	[sound:MNN_コーヒーを入れます.mp3]	L50
-2794	用意します	用[よう] 意[い]します	prepare, getting ready	[sound:MNN_用意します.mp3]	L50
-2795	私	私[わたくし]	I (humble of わたし)	[sound:MNN_私.mp3]	L50
-2796	ガイド	ガイド	guide	[sound:MNN_ガイド.mp3]	L50
-2797	メールアドレス	メールアドレス	e-mail address	[sound:MNN_メールアドレス.mp3]	L50
-2798	再来週	再[さ] 来[らい] 週[しゅう]	the week after next	[sound:MNN_再来週.mp3]	L50
-2799	再来月	再[さ] 来[らい] 月[げつ]	the month after next	[sound:MNN_再来月.mp3]	L50
-2800	再来年	再[さ] 来[らい] 年[ねん]	the year after next	[sound:MNN_再来年.mp3]	L50
-2801	初めに	初[はじ]めに	first	[sound:MNN_初めに.mp3]	L50
-2802	緊張します	緊[きん] 張[ちょう]します	become tense, be strained, be nervous	[sound:MNN_緊張します.mp3]	L50
-2803	賞金	賞[しょう] 金[きん]	prize money	[sound:MNN_賞金.mp3]	L50
-2804	きりん	きりん	giraffe	[sound:MNN_きりん.mp3]	L50
-2805	ころ	ころ	times, days	[sound:MNN_ころ.mp3]	L50
-2806	夢がかないます	夢[ゆめ]がかないます	dream be realized, comes true	[sound:MNN_夢がかないます.mp3]	L50
-2807	応援します	応[おう] 援[えん]します	support	[sound:MNN_応援します.mp3]	L50
-2808	心から	心[こころ]から	from one's heart, sincerely	[sound:MNN_心から.mp3]	L50
-2809	感謝します	感[かん] 謝[しゃ]します	thank, be grateful	[sound:MNN_感謝します.mp3]	L50
-2810	お元気でいらっしゃいますか。	お 元[げん] 気[き]でいらっしゃいますか。	How are you doing (respectful of おげんきですか)	[sound:MNN_お元気でいらっしゃいますか。.mp3]	L50
-2811	迷惑をかけます	迷[めい] 惑[わく]をかけます	cause trouble, annoyance, inconvenience	[sound:MNN_迷惑をかけます.mp3]	L50
-2812	生かします	生[い]かします	make good use of	[sound:MNN_生かします.mp3]	L50
-2813	宛名	宛[あて] 名[な]	(addressee's) name, (recipient's) name and address​	[sound:MNN_宛名.mp3]	L50U
-2814	おとといの朝	おとといの 朝[あさ]	the morning before last	[sound:MNN_おとといの朝.mp3]	L51
-2815	昨日の朝	昨日[きのう]の 朝[あさ]	yesterday morning	[sound:MNN_昨日の朝.mp3]	L51
-2816	明日の朝	明日[あした]の 朝[あさ]	tomorrow morning	[sound:MNN_明日の朝.mp3]	L51
-2817	明後日の朝	明後日[あさって]の 朝[あさ]	the morning after next	[sound:MNN_明後日の朝.mp3]	L51
-2818	おとといの晩（夜）	おとといの 晩[ばん]（ 夜[よる]）	the night before last	[sound:MNN_おとといの晩.mp3][sound:MNN_夜.mp3]	L51
-2819	昨日の晩（夜）	昨日[きのう]の 晩[ばん]（ 夜[よる]）	last night	[sound:MNN_昨日の晩.mp3][sound:MNN_夜.mp3]	L51
-2820	明日の晩（夜）	明日[あした]の 晩[ばん]（ 夜[よる]）	tomorrow night	[sound:MNN_明日の晩.mp3][sound:MNN_夜.mp3]	L51
-2821	明後日の晩（夜）	明後日[あさって]の 晩[ばん]（ 夜[よる]）	the night after next	[sound:MNN_明後日の晩.mp3][sound:MNN_夜.mp3]	L51
-2822	先々週（二週間前）	先[せん] 々[せん] 週[しゅう]（ 二[に] 週[しゅう] 間[かん] 前[まえ]）	the week before last	[sound:MNN_先々週.mp3][sound:MNN_二週間前.mp3]	L51
-2823	先々月（二週間前）	先[せん] 々[せん] 月[げつ]（ 二[に] 週[しゅう] 間[かん] 前[まえ]）	the month before last	[sound:MNN_先々月.mp3][sound:MNN_二週間前.mp3]	L51
-2824	宝くじ	宝[たから]くじ	lottery	[sound:MNN_宝くじ.mp3]	L32
+1781	運動します	運[うん] 動[どう]します	take exercise	[sound:MNN_運動します.mp3]	L32 L36U
+1782	成功します	成[せい] 功[こう]します	succeed	[sound:MNN_成功します.mp3]	L32
+1783	「試験に」失敗します	「 試[し] 験[けん]に」 失[しっ] 敗[ぱい]します	fail [an examination]	[sound:MNN_「試験に」失敗します.mp3]	L32
+1784	「試験に」合格します	「 試[し] 験[けん]に」 合[ごう] 格[かく]します	pass [an examination]	[sound:MNN_「試験に」合格します.mp3]	L32
+1785	「雨が」止みます	「 雨[あめ]が」 止[や]みます	[rain is] stopped	[sound:MNN_「雨が」止みます.mp3]	L32
+1786	晴れます	晴[は]れます	clear up	[sound:MNN_晴れます.mp3]	L32
+1787	曇ります	曇[くも]ります	get cloudy	[sound:MNN_曇ります.mp3]	L32
+1788	「熱が」続きます	「 熱[ねつ]が」 続[つづ]きます	[high temperature/fever] is continuing	[sound:MNN_「熱が」続きます.mp3]	L32
+1789	「風邪を」引きます	「 風邪[かぜ]を」 引[ひ]きます	catch [a cold]	[sound:MNN_「風邪を」引きます.mp3]	L32
+1790	冷やします	冷[ひ]やします	cool (from room temperature)	[sound:MNN_冷やします.mp3]	L32
+1791	「道が」込みます	「 道[みち]が」 込[こ]みます	[a road] gets crowded	[sound:MNN_「道が」込みます.mp3]	L32
+1792	「道が」空きます	「 道[みち]が」 空[す]きます	[a road] get less crowded	[sound:MNN_「道が」空きます.mp3]	L32
+1793	「試合に」出ます	「 試[し] 合[あい]に」 出[で]ます	participate in [the match]	[sound:MNN_「試合に」出ます.mp3]	L32
+1794	「パーティーに」出ます	「パーティーに」 出[で]ます	attend [a party]	[sound:MNN_「パーティーに」出ます.mp3]	L32
+1795	無理をします	無[む] 理[り]をします	overdo things	[sound:MNN_無理をします.mp3]	L32
+1796	十分「な」	十[じゅう] 分[ぶん]「な」	sufficient, enough	[sound:MNN_十分「な」.mp3]	L32
+1797	可笑しい	可笑[おか]しい	strange, funny	[sound:MNN_可笑しい.mp3]	L32
+1798	煩い	煩[うるさ]い	noisy	[sound:MNN_煩い.mp3]	L32
+1799	太陽	太[たい] 陽[よう]	sun	[sound:MNN_太陽.mp3]	L32
+1800	星	星[ほし]	star	[sound:MNN_星.mp3]	L32
+1801	風	風[かぜ]	wind	[sound:MNN_風.mp3]	L32
+1802	東	東[ひがし]	east	[sound:MNN_東.mp3]	L32
+1803	南	南[みなみ]	south	[sound:MNN_南.mp3]	L32
+1804	北	北[きた]	north	[sound:MNN_北.mp3]	L32
+1805	国際～	国[こく] 際[さい]～	international ～	[sound:MNN_国際～.mp3]	L32
+1806	水道	水[すい] 道[どう]	faucet, tap, water supply	[sound:MNN_水道.mp3]	L32
+1807	エンジン	エンジン	engine	[sound:MNN_エンジン.mp3]	L32
+1808	チーム	チーム	team	[sound:MNN_チーム.mp3]	L32
+1809	今夜	今[こん] 夜[や]	this evening	[sound:MNN_今夜.mp3]	L32
+1810	夕方	夕[ゆう] 方[がた]	late afternoon	[sound:MNN_夕方.mp3]	L32
+1811	前	前[まえ]	a time in the past, before	[sound:MNN_前.mp3]	L32
+1812	遅く	遅[おそ]く	late (time)	[sound:MNN_遅く.mp3]	L32
+1813	こんなに	こんなに	this (much, etc.)	[sound:MNN_こんなに.mp3]	L32
+1814	あんなに	あんなに	that (much, etc.) (concerning a matter not related to the speaker or the listener)	[sound:MNN_あんなに.mp3]	L32
+1815	ヨーロッパ	ヨーロッパ	Europe	[sound:MNN_ヨーロッパ.mp3]	L32
+1816	元気	元[げん] 気[き]	vigour	[sound:MNN_元気.mp3]	L32
+1817	胃	胃[い]	stomach	[sound:MNN_胃.mp3]	L32
+1818	ストレス	ストレス	stress	[sound:MNN_ストレス.mp3]	L32 L46U
+1819	それはいけませんね。	それはいけませんね。	I'm sorry to hear that.	[sound:MNN_それはいけませんね。.mp3]	L32
+1820	星占い	星[ほし] 占[うらな]い	horoscope	[sound:MNN_星占い.mp3]	L32
+1821	牡牛座	牡[お] 牛[うし] 座[ざ]	Taurus	[sound:MNN_牡牛座.mp3]	L32
+1822	働きすぎ	働[はたら]きすぎ	overworking	[sound:MNN_働きすぎ.mp3]	L32
+1823	困ります	困[こま]ります	be in trouble, have a problem	[sound:MNN_困ります.mp3]	L32 L35
+1824	宝くじ	宝[たから]くじ	lottery	[sound:MNN_宝くじ.mp3]	L32
+1825	「宝くじが」当たります	「 宝[たから]くじが」 当[あ]たります	win [a lottery]	[sound:MNN_「宝くじが」当たります.mp3]	L32
+1826	健康	健[けん] 康[こう]	health	[sound:MNN_健康.mp3]	L32 L36U L38
+1827	恋人	恋[こい] 人[びと]	sweetheart, boyfriend, girlfriend	[sound:MNN_恋人.mp3]	L32 L47
+1828	ラッキーアイテム	ラッキーアイテム	something lucky	[sound:MNN_ラッキーアイテム.mp3]	L32
+1829	石	石[いし]	stone	[sound:MNN_石.mp3]	L32
+1830	晴れ	晴[は]れ	clear, fair	[sound:MNN_晴れ.mp3]	L32U
+1831	晴れのち曇り	晴[は]れのち 曇[くも]り	fine early, cloudy later	[sound:MNN_晴れのち曇り.mp3]	L32U
+1832	曇り時々雨	曇[くも]り 時[とき]々[どき] 雨[あめ]	cloudy with occasional rain	[sound:MNN_曇り時々雨.mp3]	L32U
+1833	曇り所によって雨	曇[くも]り 所[ところ]によって 雨[あめ]	cloudy, with rain in some areas	[sound:MNN_曇り所によって雨.mp3]	L32U
+1834	にわか雨、夕立	にわか 雨[あめ]、 夕[ゆう]立[だち]	evening shower (rain)	[sound:MNN_にわか雨、夕立.mp3]	L32U
+1835	虹	虹[にじ]	rainbow	[sound:MNN_虹.mp3]	L32U
+1836	雲	雲[くも]	cloud	[sound:MNN_雲.mp3]	L32U
+1837	湿度	湿[しつ] 度[ど]	humidity	[sound:MNN_湿度.mp3]	L32U
+1838	蒸し暑い	蒸[む]し 暑[あつ]い	hot and humid	[sound:MNN_蒸し暑い.mp3]	L32U
+1839	さわやか「な」	さわやか「な」	refreshing	[sound:MNN_さわやか「な」.mp3]	L32U
+1840	降水確率	降[こう] 水[すい] 確[かく] 率[りつ]	probability of rain	[sound:MNN_降水確率.mp3]	L32U
+1841	最高気温	最[さい] 高[こう] 気[き] 温[おん]	maximum temperature	[sound:MNN_最高気温.mp3]	L32U
+1842	最低気温	最[さい] 低[てい] 気[き] 温[おん]	minimum temperature	[sound:MNN_最低気温.mp3]	L32U
+1843	北海道地方	北[ほっ] 海[かい] 道[どう] 地[ち] 方[ほう]	Hokkaido region	[sound:MNN_北海道地方.mp3]	L32U
+1844	札幌	札[さっ] 幌[ぽろ]	Sapporo	[sound:MNN_札幌.mp3]	L32U
+1845	東北地方	東[とう] 北[ほく] 地[ち] 方[ほう]	Tohoku region	[sound:MNN_東北地方.mp3]	L32U
+1846	仙台	仙[せん] 台[だい]	Sendai	[sound:MNN_仙台.mp3]	L32U L40
+1847	長野	長[なが] 野[の]	Nagano	[sound:MNN_長野.mp3]	L32U
+1848	関東地方	関[かん] 東[とう] 地[ち] 方[ほう]	Kanto region	[sound:MNN_関東地方.mp3]	L32U
+1849	中部地方	中[ちゅう] 部[ぶ] 地[ち] 方[ほう]	Chubu region	[sound:MNN_中部地方.mp3]	L32U
+1850	近畿地方	近[きん] 畿[き] 地[ち] 方[ほう]	Kinki region	[sound:MNN_近畿地方.mp3]	L32U
+1851	名古屋	名[な] 古[ご] 屋[や]	Nagoya	[sound:MNN_名古屋.mp3]	L32U
+1852	大阪	大[おお] 阪[さか]	Osaka	[sound:MNN_大阪.mp3]	L32U
+1853	四国地方	四[し] 国[こく] 地[ち] 方[ほう]	Shikoku region	[sound:MNN_四国地方.mp3]	L32U
+1854	中国地方	中[ちゅう] 国[ごく] 地[ち] 方[ほう]	Chugoku region	[sound:MNN_中国地方.mp3]	L32U
+1855	松江	松[まつ] 江[え]	Matsue	[sound:MNN_松江.mp3]	L32U
+1856	高知	高[こう] 知[ち]	Kochi	[sound:MNN_高知.mp3]	L32U
+1857	九州地方	九[きゅう] 州[しゅう] 地[ち] 方[ほう]	Kyushu region	[sound:MNN_九州地方.mp3]	L32U
+1858	鹿児島	鹿[か] 児[ご] 島[しま]	Kagoshima	[sound:MNN_鹿児島.mp3]	L32U
+1859	那覇	那[な] 覇[は]	Naha	[sound:MNN_那覇.mp3]	L32U
+1860	逃げます	逃[に]げます	run away	[sound:MNN_逃げます.mp3]	L33
+1861	騒ぎます	騒[さわ]ぎます	make a noise	[sound:MNN_騒ぎます.mp3]	L33
+1862	あきらめます	あきらめます	give up	[sound:MNN_あきらめます.mp3]	L33
+1863	投げます	投[な]げます	throw	[sound:MNN_投げます.mp3]	L33
+1864	守ります	守[まも]ります	keep, follow, obey	[sound:MNN_守ります.mp3]	L33
+1865	式が始まります	式[しき]が 始[はじ]まります	a ceremony is beginning, starting	[sound:MNN_式が始まります.mp3]	L33
+1866	会議に出席します	会[かい] 議[ぎ]に 出[しゅっ] 席[せき]します	attend a meeting	[sound:MNN_会議に出席します.mp3]	L33
+1867	伝えます	伝[つた]えます	convey	[sound:MNN_伝えます.mp3]	L33
+1868	車に注意します	車[くるま]に 注[ちゅう] 意[い]します	be careful of the cars	[sound:MNN_車に注意します.mp3]	L33
+1869	席を外します	席[せき]を 外[はず]します	be away from one's desk	[sound:MNN_席を外します.mp3]	L33
+1870	戻ります	戻[もど]ります	come back, return	[sound:MNN_戻ります.mp3]	L33
+1871	電話があります	電[でん] 話[わ]があります	have a telephone call	[sound:MNN_電話があります.mp3]	L33
+1872	リサイクルします	リサイクルします	recycle	[sound:MNN_リサイクルします.mp3]	L33
+1873	だめ「な」	だめ「な」	no good, not permitted, impossible	[sound:MNN_だめ「な」.mp3]	L33
+1874	同じ	同[おな]じ	same	[sound:MNN_同じ.mp3]	L33
+1875	席	席[せき]	seat	[sound:MNN_席.mp3]	L33
+1876	マーク	マーク	mark, symbol	[sound:MNN_マーク.mp3]	L33
+1877	ボール	ボール	ball	[sound:MNN_ボール.mp3]	L33
+1878	締め切り	締[し]め 切[き]り	deadline	[sound:MNN_締め切り.mp3]	L33
+1879	規則	規[き] 則[そく]	regulation, rule	[sound:MNN_規則.mp3]	L33 L36
+1880	危険	危[き] 険[けん]	Danger	[sound:MNN_危険.mp3]	L33
+1881	使用禁止	使[し] 用[よう] 禁[きん] 止[し]	Do Not Use	[sound:MNN_使用禁止.mp3]	L33
+1882	立入禁止	立[たち] 入[いり] 禁[きん] 止[し]	Keep Out	[sound:MNN_立入禁止.mp3]	L33
+1883	徐行	徐[じょ] 行[こう]	Go Slow	[sound:MNN_徐行.mp3]	L33
+1884	非常口	非[ひ] 常[じょう] 口[ぐち]	emergency exit	[sound:MNN_非常口.mp3]	L33
+1885	割引	割[わり] 引[びき]	Discount	[sound:MNN_割引.mp3]	L33
+1886	飲み放題	飲[の]み 放[ほう] 題[だい]	All You Can Drink	[sound:MNN_飲み放題.mp3]	L33
+1887	使用中	使[し] 用[よう] 中[ちゅう]	In Use	[sound:MNN_使用中.mp3]	L33
+1888	募集中	募[ぼ] 集[しゅう] 中[ちゅう]	Applications Wanted	[sound:MNN_募集中.mp3]	L33
+1889	～中	～ 中[ちゅう]	-ing, all over ～	[sound:MNN_～中.mp3]	L33 L37
+1890	どういう～	どういう～	what (kind of ～)	[sound:MNN_どういう～.mp3]	L33
+1891	いくら（～ても）	いくら（～ても）	however ～, even if ～	[sound:MNN_いくら.mp3][sound:MNN_～ても.mp3]	L33
+1892	あと～	あと～	～ left	[sound:MNN_あと～.mp3]	L33
+1893	～ほど	～ほど	about ～	[sound:MNN_～ほど.mp3]	L33
+1894	駐車違反	駐[ちゅう] 車[しゃ] 違[い] 反[はん]	parking violation	[sound:MNN_駐車違反.mp3]	L33
+1895	罰金	罰[ばっ] 金[きん]	fine	[sound:MNN_罰金.mp3]	L33
+1896	助け合います	助[たす]け 合[あ]います	help each other	[sound:MNN_助け合います.mp3]	L33
+1897	もともと	もともと	originally	[sound:MNN_もともと.mp3]	L33
+1898	悲しい	悲[かな]しい	sad	[sound:MNN_悲しい.mp3]	L33 L39
+1899	もっと	もっと	more	[sound:MNN_もっと.mp3]	L33 L35
+1900	あいさつをします	あいさつをします	to greet, giving an address	[sound:MNN_あいさつをします.mp3]	L33 L49
+1901	相手	相[あい] 手[て]	the other person, partner	[sound:MNN_相手.mp3]	L33 L41U L47
+1902	気持ち	気[き] 持[も]ち	feeling; spirit, mood	[sound:MNN_気持ち.mp3]	L33 L36 L39U
+1903	標識	標[ひょう] 識[しき]	sign	[sound:MNN_標識.mp3]	L33U
+1904	営業中	営[えい] 業[ぎょう] 中[ちゅう]	Open for Business	[sound:MNN_営業中.mp3]	L33U
+1905	準備中	準[じゅん] 備[び] 中[ちゅう]	In Preparation	[sound:MNN_準備中.mp3]	L33U
+1906	閉店	閉[へい] 店[てん]	Closed	[sound:MNN_閉店.mp3]	L33U
+1907	定休日	定[てい] 休[きゅう] 日[び]	Regular Holiday	[sound:MNN_定休日.mp3]	L33U
+1908	化粧室	化[け] 粧[しょう] 室[しつ]	Toilet	[sound:MNN_化粧室.mp3]	L33U
+1909	禁煙席	禁[きん] 煙[えん] 席[せき]	No-Smoking Seat	[sound:MNN_禁煙席.mp3]	L33U
+1910	予約席	予[よ] 約[やく] 席[せき]	Reserved Seat	[sound:MNN_予約席.mp3]	L33U
+1911	火気厳禁	火[か] 気[き] 厳[げん] 禁[きん]	flammable	[sound:MNN_火気厳禁.mp3]	L33U
+1912	割れ物注意	割[わ]れ 物[もの] 注[ちゅう] 意[い]	Fragile	[sound:MNN_割れ物注意.mp3]	L33U
+1913	運転初心者注意	運[うん] 転[てん] 初[しょ] 心[しん] 者[しゃ] 注[ちゅう] 意[い]	New Driver	[sound:MNN_運転初心者注意.mp3]	L33U
+1914	工事中	工[こう] 事[じ] 中[ちゅう]	Under Construction	[sound:MNN_工事中.mp3]	L33U
+1915	塩素系漂白剤不可	塩[えん] 素[そ] 系[けい] 漂[ひょう] 白[はく] 剤[ざい] 不[ふ] 可[か]	Do not use chlorine-based bleach	[sound:MNN_塩素系漂白剤不可.mp3]	L33U
+1916	手洗い	手[て] 洗[あら]い	Wash by hand	[sound:MNN_手洗い.mp3]	L33U
+1917	アイロン（低温）	アイロン（ 低[てい]温[おん]）	Cool iron	[sound:MNN_アイロン.mp3][sound:MNN_低温.mp3]	L33U
+1918	ドライクリーニング	ドライクリーニング	Dry-clean only	[sound:MNN_ドライクリーニング.mp3]	L33U
+1919	歯を磨きます	歯[は]を 磨[みが]きます	brush, polish one's teeth	[sound:MNN_歯を磨きます.mp3]	L34
+1920	組み立てます	組[く]み 立[た]てます	assemble	[sound:MNN_組み立てます.mp3]	L34
+1921	折ります	折[お]ります	bend, fold, break, snap	[sound:MNN_折ります.mp3]	L34
+1922	忘れ物に気がつきます	忘[わす]れ 物[もの]に 気[き]がつきます	notice, be aware of things left behind	[sound:MNN_忘れ物に気がつきます.mp3]	L34
+1923	しょうゆをつけます	しょうゆをつけます	put (in soy sauce)	[sound:MNN_しょうゆをつけます.mp3]	L34
+1924	鍵が見つかります	鍵[かぎ]が 見[み]つかります	a key be found	[sound:MNN_鍵が見つかります.mp3]	L34
+1925	質問します	質[しつ] 問[もん]します	ask a question	[sound:MNN_質問します.mp3]	L34
+1926	傘をさします	傘[かさ]をさします	put up an umbrella	[sound:MNN_傘をさします.mp3]	L34
+1927	スポーツクラブ	スポーツクラブ	sports club	[sound:MNN_スポーツクラブ.mp3]	L34
+1928	お城	お 城[しろ]	castle	[sound:MNN_お城.mp3]	L34
+1929	説明書	説[せつ] 明[めい] 書[しょ]	explanatory pamphlet, instruction book	[sound:MNN_説明書.mp3]	L34
+1930	図	図[ず]	figure, drawing	[sound:MNN_図.mp3]	L34
+1931	線	線[せん]	line	[sound:MNN_線.mp3]	L34 L40U
+1932	矢印	矢[や] 印[じるし]	arrow (sign)	[sound:MNN_矢印.mp3]	L34
+1933	黒	黒[くろ]	black (noun)	[sound:MNN_黒.mp3]	L34
+1934	白	白[しろ]	white (noun)	[sound:MNN_白.mp3]	L34
+1935	赤	赤[あか]	red (noun)	[sound:MNN_赤.mp3]	L34
+1936	青	青[あお]	blue (noun)	[sound:MNN_青.mp3]	L34
+1937	紺	紺[こん]	navy blue, dark blue (noun)	[sound:MNN_紺.mp3]	L34
+1938	黄色	黄[き] 色[いろ]	yellow (noun)	[sound:MNN_黄色.mp3]	L34
+1939	茶色	茶[ちゃ] 色[いろ]	brown (noun)	[sound:MNN_茶色.mp3]	L34
+1940	しょうゆ	しょうゆ	soya, soy sauce	[sound:MNN_しょうゆ.mp3]	L34
+1941	ソース	ソース	sauce, Worcestershire sauce	[sound:MNN_ソース.mp3]	L34
+1942	お客さん	お 客[きゃく]さん	visitor, guest, customer, client	[sound:MNN_お客さん.mp3]	L34
+1943	～か～	～か～	～ or ～	[sound:MNN_～か～.mp3]	L34
+1944	夕べ	夕[ゆう]べ	last night (evening)	[sound:MNN_夕べ.mp3]	L34
+1945	さっき	さっき	a short while ago	[sound:MNN_さっき.mp3]	L34
+1946	お茶をたてます	お 茶[ちゃ]をたてます	make tea at a tea ceremony	[sound:MNN_お茶をたてます.mp3]	L34
+1947	先に	先[さき]に	first, ahead	[sound:MNN_先に.mp3]	L34
+1948	載せます	載[の]せます	place on, load onto	[sound:MNN_載せます.mp3]	L34
+1949	これでいいですか。	これでいいですか。	Is this all right?	[sound:MNN_これでいいですか。.mp3]	L34
+1950	材料	材[ざい] 料[りょう]	material, ingredient	[sound:MNN_材料.mp3]	L34 L42
+1951	～分	～ 分[ぶん]	portion for ～ (indicating quantity)	[sound:MNN_～分.mp3]	L34
+1952	ーグラム	ーグラム	ー gramme	[sound:MNN_ーグラム.mp3]	L34 L40U
+1953	ー個	ー 個[こ]	counter for small objects	[sound:MNN_ー個.mp3]	L34 L40
+1954	４分の１（１／４）	４ 分[ぶん]の１（１／４）	one fourth	[sound:MNN_４分の１.mp3][sound:MNN_１／４.mp3]	L34
+1955	調味料	調[ちょう] 味[み] 料[りょう]	seasoning, flavouring	[sound:MNN_調味料.mp3]	L34
+1956	適当な大きさに	適[てき]当[とう]な 大[おお]きさに	in right size	[sound:MNN_適当な大きさに.mp3]	L34
+1957	なべ	なべ	pan, pot	[sound:MNN_なべ.mp3]	L34
+1958	火	火[ひ]	fire, heating	[sound:MNN_火.mp3]	L34 L43
+1959	火にかけます	火[ひ]にかけます	put on the stove	[sound:MNN_火にかけます.mp3]	L34
+1960	煮ます	煮[に]ます	cook, boil	[sound:MNN_煮ます.mp3]	L34
+1961	煮えます	煮[に]えます	be cooked, be boiled	[sound:MNN_煮えます.mp3]	L34
+1962	どんぶり	どんぶり	bowl	[sound:MNN_どんぶり.mp3]	L34 L42
+1963	たちます	たちます	pass (time)	[sound:MNN_たちます.mp3]	L34
+1964	料理	料[りょう] 理[り]	cooking	[sound:MNN_料理.mp3]	L34U
+1965	煮る	煮[に]る	boil, stew	[sound:MNN_煮る.mp3]	L34U
+1966	焼く	焼[や]く	grill, bake, roast	[sound:MNN_焼く.mp3]	L34U
+1967	揚げる	揚[あ]げる	deep-fry	[sound:MNN_揚げる.mp3]	L34U
+1968	いためる	いためる	stir-fry	[sound:MNN_いためる.mp3]	L34U
+1969	ゆでる	ゆでる	boil	[sound:MNN_ゆでる.mp3]	L34U
+1970	蒸す	蒸[む]す	steam	[sound:MNN_蒸す.mp3]	L34U
+1971	炊く	炊[た]く	cook (rice)	[sound:MNN_炊く.mp3]	L34U
+1972	むく	むく	peel, pare	[sound:MNN_むく.mp3]	L34U
+1973	刻む	刻[きざ]む	chop, mince	[sound:MNN_刻む.mp3]	L34U
+1974	かき混ぜる	かき 混[ま]ぜる	stir	[sound:MNN_かき混ぜる.mp3]	L34U
+1975	酢	酢[す]	vinegar	[sound:MNN_酢.mp3]	L34U
+1976	みそ	みそ	miso	[sound:MNN_みそ.mp3]	L34U
+1977	油	油[あぶら]	oil, fat	[sound:MNN_油.mp3]	L34U
+1978	マヨネーズ	マヨネーズ	mayonnaise	[sound:MNN_マヨネーズ.mp3]	L34U
+1979	ケチャップ	ケチャップ	ketchup	[sound:MNN_ケチャップ.mp3]	L34U
+1980	からし（マスタード）	からし（マスタード）	mustard	[sound:MNN_からし.mp3][sound:MNN_マスタード.mp3]	L34U
+1981	こしょう	こしょう	pepper	[sound:MNN_こしょう.mp3]	L34U
+1982	とうがらし	とうがらし	cayenne pepper (capsicum)	[sound:MNN_とうがらし.mp3]	L34U
+1983	しょうが	しょうが	ginger	[sound:MNN_しょうが.mp3]	L34U
+1984	わさび	わさび	Japanese horseradish	[sound:MNN_わさび.mp3]	L34U
+1985	カレー粉	カレー 粉[こ]	curry powder	[sound:MNN_カレー粉.mp3]	L34U
+1986	台所用品	台[だい] 所[どころ] 用[よう] 品[ひん]	kitchenware	[sound:MNN_台所用品.mp3]	L34U
+1987	やかん	やかん	kettle	[sound:MNN_やかん.mp3]	L34U L42
+1988	ふた	ふた	lid, cover, cap	[sound:MNN_ふた.mp3]	L34U L42
+1989	おたま	おたま	ladle	[sound:MNN_おたま.mp3]	L34U
+1990	まな板	まな 板[いた]	cutting board	[sound:MNN_まな板.mp3]	L34U
+1991	包丁	包[ほう] 丁[ちょう]	kitchen knife	[sound:MNN_包丁.mp3]	L34U
+1992	ふきん	ふきん	tea-towel, dishcloth	[sound:MNN_ふきん.mp3]	L34U
+1993	フライパン	フライパン	frying pan	[sound:MNN_フライパン.mp3]	L34U
+1994	電子レンジ	電[でん] 子[し]レンジ	microwave oven	[sound:MNN_電子レンジ.mp3]	L34U
+1995	炊飯器	炊[すい] 飯[はん] 器[き]	rice cooker	[sound:MNN_炊飯器.mp3]	L34U L35
+1996	しゃもじ	しゃもじ	rice paddle	[sound:MNN_しゃもじ.mp3]	L34U
+1997	缶切り	缶[かん] 切[き]り	can opener	[sound:MNN_缶切り.mp3]	L34U L42
+1998	栓抜き	栓[せん] 抜[ぬ]き	bottle opener, corkscrew	[sound:MNN_栓抜き.mp3]	L34U L42
+1999	ざる	ざる	colander, sieve	[sound:MNN_ざる.mp3]	L34U
+2000	ポット	ポット	Thermos flask	[sound:MNN_ポット.mp3]	L34U
+2001	ガス台	ガス 台[だい]	gas stove	[sound:MNN_ガス台.mp3]	L34U
+2002	流し台	流[なが]し 台[だい]	sink	[sound:MNN_流し台.mp3]	L34U
+2003	換気扇	換[かん] 気[き] 扇[せん]	ventilation fan	[sound:MNN_換気扇.mp3]	L34U
+2004	花が咲きます	花[はな]が 咲[さ]きます	flowers bloom	[sound:MNN_花が咲きます.mp3]	L35
+2005	色が変わります	色[いろ]が 変[か]わります	the colour changes	[sound:MNN_色が変わります.mp3]	L35
+2006	丸を付けます	丸[まる]を 付[つ]けます	draw a circle, mark with a circle, add	[sound:MNN_丸を付けます.mp3]	L35
+2007	病気が治ります	病[びょう] 気[き]が 治[なお]ります	recover from sickness, get well	[sound:MNN_病気が治ります.mp3]	L35
+2008	故障が直ります	故[こ] 障[しょう]が 直[なお]ります	be fixed, be repaired	[sound:MNN_故障が直ります.mp3]	L35
+2009	クリックします	クリックします	click	[sound:MNN_クリックします.mp3]	L35
+2010	入力します	入[にゅう] 力[りょく]します	input	[sound:MNN_入力します.mp3]	L35
+2011	正しい	正[ただ]しい	correct, right	[sound:MNN_正しい.mp3]	L30U L35
+2012	向こう	向[む]こう	over there, the other side	[sound:MNN_向こう.mp3]	L35
+2013	島	島[しま]	island	[sound:MNN_島.mp3]	L35
+2014	港	港[みなと]	port, harbour	[sound:MNN_港.mp3]	L35
+2015	近所	近[きん] 所[じょ]	neighborhood, vicinity	[sound:MNN_近所.mp3]	L35
+2016	海外	海[かい] 外[がい]	overseas	[sound:MNN_海外.mp3]	L35
+2017	山登り	山[やま] 登[のぼ]り	mountain climbing	[sound:MNN_山登り.mp3]	L35
+2018	歴史	歴[れき] 史[し]	history	[sound:MNN_歴史.mp3]	L35
+2019	機会	機[き] 会[かい]	chance, opportunity	[sound:MNN_機会.mp3]	L35
+2020	許可	許[きょ] 可[か]	permission	[sound:MNN_許可.mp3]	L35
+2021	円、丸	円[えん]、 丸[まる]	circle	[sound:MNN_円、丸.mp3]	L35 L40U
+2022	ふりがな	ふりがな	kana above the kanji	[sound:MNN_ふりがな.mp3]	L35
+2023	設備	設[せつ] 備[び]	equipment, facilities	[sound:MNN_設備.mp3]	L35
+2024	レバー	レバー	lever	[sound:MNN_レバー.mp3]	L35
+2025	キー	キー	key	[sound:MNN_キー.mp3]	L35
+2026	カーテン	カーテン	curtain	[sound:MNN_カーテン.mp3]	L35
+2027	ひも	ひも	string	[sound:MNN_ひも.mp3]	L35
+2028	葉	葉[は]	leaf	[sound:MNN_葉.mp3]	L35
+2029	これで終わりましょう。	これで 終[お]わりましょう。	Let's finish now.	[sound:MNN_これで終わりましょう。.mp3]	L35
+2030	それなら	それなら	in that case	[sound:MNN_それなら.mp3]	L35
+2031	夜行バス	夜[や] 行[こう]バス	overnight bus	[sound:MNN_夜行バス.mp3]	L35
+2032	旅行社	旅[りょ] 行[こう] 社[しゃ]	travel agency	[sound:MNN_旅行社.mp3]	L35
+2033	詳しい	詳[くわ]しい	detailed	[sound:MNN_詳しい.mp3]	L35
+2034	スキー場	スキー 場[じょう]	ski resort, ski area	[sound:MNN_スキー場.mp3]	L35
+2035	朱	朱[しゅ]	vermilion	[sound:MNN_朱.mp3]	L35
+2036	交わります	交[まじ]わります	keep company with	[sound:MNN_交わります.mp3]	L35
+2037	ことわざ	ことわざ	proverb	[sound:MNN_ことわざ.mp3]	L35
+2038	関係	関[かん] 係[けい]	relationship	[sound:MNN_関係.mp3]	L35 L46U L47
+2039	仲よくします	仲[なか]よくします	be on good terms with	[sound:MNN_仲よくします.mp3]	L35
+2040	必要「な」	必[ひつ] 要[よう]「な」	necessary, essential	[sound:MNN_必要「な」.mp3]	L35 L40
+2041	都	都[みやこ]	capital, metropolis	[sound:MNN_都.mp3]	L35
+2042	知恵	知[ち] 恵[え]	wisdom	[sound:MNN_知恵.mp3]	L35
+2043	姿	姿[すがた]	appearance, figure, condition	[sound:MNN_姿.mp3]	L35
+2044	積もる	積[つ]もる	to pile up	[sound:MNN_積もる.mp3]	L35
+2045	影	影[かげ]	shadow	[sound:MNN_影.mp3]	L35
+2046	事故にあいます	事[じ] 故[こ]にあいます	encounter an accident	[sound:MNN_事故にあいます.mp3]	L36
+2047	貯金します	貯[ちょ] 金[きん]します	save money	[sound:MNN_貯金します.mp3]	L36
+2048	７時を過ぎます	７ 時[じ]を 過[す]ぎます	pass 7 o' clock	[sound:MNN_７時を過ぎます.mp3]	L36
+2049	仕事に慣れます	仕[し] 事[ごと]に 慣[な]れます	get accustomed to one's job	[sound:MNN_仕事に慣れます.mp3]	L36
+2050	食べ物が腐ります	食[た]べ 物[もの]が 腐[くさ]ります	food rots, decay, go bad	[sound:MNN_食べ物が腐ります.mp3]	L36
+2051	ラッシュ	ラッシュ	rush hour	[sound:MNN_ラッシュ.mp3]	L36
+2052	曲	曲[きょく]	a piece of music	[sound:MNN_曲.mp3]	L36
+2053	毎週	毎[まい] 週[しゅう]	every week	[sound:MNN_毎週.mp3]	L36
+2054	毎月	毎[まい] 月[つき]	every month	[sound:MNN_毎月.mp3]	L36
+2055	毎年、毎年	毎[まい] 年[とし]、 毎[まい] 年[ねん]	every year	[sound:MNN_毎年、毎年.mp3]	L36
+2056	このごろ	このごろ	these days	[sound:MNN_このごろ.mp3]	L36
+2057	やっと	やっと	finally	[sound:MNN_やっと.mp3]	L36
+2058	かなり	かなり	fairly	[sound:MNN_かなり.mp3]	L36
+2059	絶対に	絶[ぜっ] 対[たい]に	absolutely	[sound:MNN_絶対に.mp3]	L36
+2060	上手に	上[じょう] 手[ず]に	well, skilfully	[sound:MNN_上手に.mp3]	L36
+2061	できるだけ	できるだけ	as much as possible	[sound:MNN_できるだけ.mp3]	L36
+2062	ほとんど	ほとんど	almost all (+); hardly, scarcely (-)	[sound:MNN_ほとんど.mp3]	L36
+2063	特別「な」	特[とく] 別[べつ]「な」	special	[sound:MNN_特別「な」.mp3]	L36
+2064	していらっしゃいます	していらっしゃいます	be doing (respectful of しています)	[sound:MNN_していらっしゃいます.mp3]	L36
+2065	使っていらっしゃるんですね。	使[つか]っていらっしゃるんですね。	You're using, aren't you? (respectful of つかっているんですね)	[sound:MNN_使っていらっしゃるんですね。.mp3]	L36
+2066	チャレンジします	チャレンジします	challenge	[sound:MNN_チャレンジします.mp3]	L36
+2067	乗り物	乗[の]り 物[もの]	vehicles	[sound:MNN_乗り物.mp3]	L36
+2068	ー世紀	ー 世[せい] 紀[き]	-th century	[sound:MNN_ー世紀.mp3]	L36 L37
+2069	遠く	遠[とお]く	far, remote place	[sound:MNN_遠く.mp3]	L36
+2070	珍しい	珍[めずら]しい	rare, uncommon	[sound:MNN_珍しい.mp3]	L36 L41
+2071	汽車	汽[き] 車[しゃ]	steam train​	[sound:MNN_汽車.mp3]	L36
+2072	汽船	汽[き] 船[せん]	steam boat	[sound:MNN_汽船.mp3]	L36
+2073	大勢の～	大[おお] 勢[ぜい]の～	many (people)	[sound:MNN_大勢の～.mp3]	L36 L39
+2074	運びます	運[はこ]びます	carry, transport	[sound:MNN_運びます.mp3]	L36 L38
+2075	利用します	利[り] 用[よう]します	use	[sound:MNN_利用します.mp3]	L36 L49
+2076	栄養	栄[えい] 養[よう]	nutrition	[sound:MNN_栄養.mp3]	L36U
+2077	健康診断	健[けん] 康[こう] 診[しん] 断[だん]	physical examination	[sound:MNN_健康診断.mp3]	L36U
+2078	夜更かし	夜[よ] 更[ふ]かし	staying up late	[sound:MNN_夜更かし.mp3]	L36U
+2079	栄養素	栄[えい] 養[よう] 素[そ]	nutrient​	[sound:MNN_栄養素.mp3]	L36U
+2080	含む	含[ふく]む	include, contain	[sound:MNN_含む.mp3]	L36U
+2081	炭水化物	炭[たん] 水[すい] 化[か] 物[ぶつ]	carbohydrate​	[sound:MNN_炭水化物.mp3]	L36U
+2082	芋	芋[いも]	potato​	[sound:MNN_芋.mp3]	L36U
+2083	のり	のり	laver, edible seaweed	[sound:MNN_のり.mp3]	L36U
+2084	カルシウム	カルシウム	calcium	[sound:MNN_カルシウム.mp3]	L36U
+2085	海草	海[かい] 草[そう]	seaweed​	[sound:MNN_海草.mp3]	L36U
+2086	とうふ	とうふ	tofu	[sound:MNN_とうふ.mp3]	L36U
+2087	たんぽく質	たんぽく 質[しつ]	protein	[sound:MNN_たんぽく質.mp3]	L36U
+2088	脂肪	脂[し] 肪[ぼう]	fat and oils	[sound:MNN_脂肪.mp3]	L36U
+2089	ビタミン	ビタミン	vitamins	[sound:MNN_ビタミン.mp3]	L36U
+2090	褒めます	褒[ほ]めます	praise	[sound:MNN_褒めます.mp3]	L37
+2091	しかります	しかります	scold	[sound:MNN_しかります.mp3]	L37
+2092	招待します	招[しょう] 待[たい]します	invite	[sound:MNN_招待します.mp3]	L37
+2093	頼みます	頼[たの]みます	ask, request	[sound:MNN_頼みます.mp3]	L37
+2094	注意します	注[ちゅう] 意[い]します	warn, advise	[sound:MNN_注意します.mp3]	L37
+2095	盗ります	盗[と]ります	rob, steal	[sound:MNN_盗ります.mp3]	L37
+2096	踏みます	踏[ふ]みます	step on	[sound:MNN_踏みます.mp3]	L37
+2097	壊します	壊[こわ]します	break, destroy	[sound:MNN_壊します.mp3]	L37
+2098	汚します	汚[よご]します	make ～ dirty	[sound:MNN_汚します.mp3]	L37
+2099	行います	行[おこな]います	hold, carry out, practice	[sound:MNN_行います.mp3]	L37
+2100	輸出します	輸[ゆ] 出[しゅつ]します	export	[sound:MNN_輸出します.mp3]	L37
+2101	輸入します	輸[ゆ] 入[にゅう]します	import	[sound:MNN_輸入します.mp3]	L37
+2102	翻訳します	翻[ほん] 訳[やく]します	translate	[sound:MNN_翻訳します.mp3]	L37
+2103	発明します	発[はつ] 明[めい]します	invent	[sound:MNN_発明します.mp3]	L37
+2104	発見します	発[はっ] 見[けん]します	discover	[sound:MNN_発見します.mp3]	L37
+2105	麦	麦[むぎ]	barley	[sound:MNN_麦.mp3]	L37
+2106	石油	石[せき] 油[ゆ]	oil	[sound:MNN_石油.mp3]	L37
+2107	原料	原[げん] 料[りょう]	raw material	[sound:MNN_原料.mp3]	L37
+2108	インスタントラーメン	インスタントラーメン	instant noodles	[sound:MNN_インスタントラーメン.mp3]	L37
+2109	デート	デート	date (with someone)​	[sound:MNN_デート.mp3]	L37
+2110	泥棒	泥[どろ] 棒[ぼう]	thief, robber	[sound:MNN_泥棒.mp3]	L37
+2111	警官	警[けい] 官[かん]	policeman	[sound:MNN_警官.mp3]	L37
+2112	世界中	世[せ] 界[かい] 中[じゅう]	all over the world	[sound:MNN_世界中.mp3]	L37
+2113	何語	何[なに] 語[ご]	what language	[sound:MNN_何語.mp3]	L37
+2114	誰か	誰[だれ]か	somebody	[sound:MNN_誰か.mp3]	L37
+2115	よかったですね。	よかったですね。	Sounds good.	[sound:MNN_よかったですね。.mp3]	L37
+2116	オリンピック	オリンピック	Olympic Games	[sound:MNN_オリンピック.mp3]	L37
+2117	ワールドカップ	ワールドカップ	World Cup	[sound:MNN_ワールドカップ.mp3]	L37
+2118	大仏	大[だい] 仏[ぶつ]	Great Buddha	[sound:MNN_大仏.mp3]	L37
+2119	江戸時代	江[え] 戸[ど] 時[じ] 代[だい]	Edo period	[sound:MNN_江戸時代.mp3]	L37
+2120	ポルトガル	ポルトガル	Portugal	[sound:MNN_ポルトガル.mp3]	L37
+2121	皆様	皆[みな] 様[さま]	everybody (respectful of みなさん)	[sound:MNN_皆様.mp3]	L37
+2122	うちが焼けます	うちが 焼[や]けます	house burns down	[sound:MNN_うちが焼けます.mp3]	L37
+2123	その後	その 後[ご]	after that, later	[sound:MNN_その後.mp3]	L37
+2124	世界遺産	世[せ] 界[かい] 遺[い] 産[さん]	World Heritage Site (UNESCO)​	[sound:MNN_世界遺産.mp3]	L37
+2125	～の一つ	～の 一[ひと]つ	one of the ～	[sound:MNN_～の一つ.mp3]	L37
+2126	金色	金[きん] 色[いろ]	golden colour	[sound:MNN_金色.mp3]	L37
+2127	本物	本[ほん] 物[もの]	real thing	[sound:MNN_本物.mp3]	L37
+2128	キロ	キロ	kilograms, kilometers	[sound:MNN_キロ.mp3]	L37 L40U
+2129	美しい	美[うつく]しい	beautiful, pretty	[sound:MNN_美しい.mp3]	L37
+2130	豪華「な」	豪[ごう] 華[か]「な」	gorgeous	[sound:MNN_豪華「な」.mp3]	L37
+2131	彫刻	彫[ちょう] 刻[こく]	engraving, carving, sculpture	[sound:MNN_彫刻.mp3]	L37
+2132	言い伝え	言[い]い 伝[つた]え	tradition, legend	[sound:MNN_言い伝え.mp3]	L37
+2133	眠ります	眠[ねむ]ります	sleep	[sound:MNN_眠ります.mp3]	L37 L44
+2134	彫ります	彫[ほ]ります	engrave, carve	[sound:MNN_彫ります.mp3]	L37
+2135	仲間	仲[なか] 間[ま]	colleague, friend	[sound:MNN_仲間.mp3]	L37
+2136	しかし	しかし	however, but	[sound:MNN_しかし.mp3]	L37 L39
+2137	そのあと	そのあと	after that	[sound:MNN_そのあと.mp3]	L37
+2138	一生懸命	一[いっ] 生[しょう] 懸[けん] 命[めい]	with all one's effort	[sound:MNN_一生懸命.mp3]	L37 L40 L42
+2139	ねずみ	ねずみ	mouse (animal)	[sound:MNN_ねずみ.mp3]	L37
+2140	一匹もいません。	一[いっ] 匹[ぴき]もいません。	There is not a single (small animal, fish, insects)	[sound:MNN_一匹もいません。.mp3]	L37
+2141	事故	事[じ] 故[こ]	accident	[sound:MNN_事故.mp3]	L37U L39
+2142	事件	事[じ] 件[けん]	incident, case	[sound:MNN_事件.mp3]	L37U
+2143	殺す	殺[ころ]す	kill	[sound:MNN_殺す.mp3]	L37U
+2144	撃つ	撃[う]つ	shoot	[sound:MNN_撃つ.mp3]	L37U
+2145	刺す	刺[さ]す	stab	[sound:MNN_刺す.mp3]	L37U
+2146	噛む	噛[か]む	bite	[sound:MNN_噛む.mp3]	L37U
+2147	ひく	ひく	run over	[sound:MNN_ひく.mp3]	L37U
+2148	跳ねる	跳[は]ねる	to hit	[sound:MNN_跳ねる.mp3]	L37U
+2149	衝突する	衝[しょう] 突[とつ]する	collide	[sound:MNN_衝突する.mp3]	L37U
+2150	追突する	追[つい] 突[とつ]する	crash into the back of another vehicle	[sound:MNN_追突する.mp3]	L37U
+2151	盗む	盗[ぬす]む	steal	[sound:MNN_盗む.mp3]	L37U
+2152	誘拐する	誘[ゆう] 拐[かい]する	kidnap	[sound:MNN_誘拐する.mp3]	L37U
+2153	ハイジャックする	ハイジャックする	hijack	[sound:MNN_ハイジャックする.mp3]	L37U
+2154	墜落する	墜[つい] 落[らく]する	fall, crash	[sound:MNN_墜落する.mp3]	L37U
+2155	運ぶ	運[はこ]ぶ	carry	[sound:MNN_運ぶ.mp3]	L37U
+2156	爆発する	爆[ばく] 発[はつ]する	explode	[sound:MNN_爆発する.mp3]	L37U
+2157	助ける	助[たす]ける	rescue	[sound:MNN_助ける.mp3]	L37U
+2158	沈没する	沈[ちん] 没[ぼつ]する	sink	[sound:MNN_沈没する.mp3]	L37U
+2159	旅行に参加します	旅[りょ] 行[こう]に 参[さん] 加[か]します	join, participate, attend a tour	[sound:MNN_旅行に参加します.mp3]	L38
+2160	育てます	育[そだ]てます	breed, bring up	[sound:MNN_育てます.mp3]	L38
+2161	入院します	入[にゅう] 院[いん]します	enter hospital	[sound:MNN_入院します.mp3]	L38
+2162	退院します	退[たい] 院[いん]します	leave hospital	[sound:MNN_退院します.mp3]	L38
+2163	電源を入れます	電[でん] 源[げん]を 入[い]れます	turn on the power switch	[sound:MNN_電源を入れます.mp3]	L38
+2164	電源を切ります	電[でん] 源[げん]を 切[き]ります	turn off the power switch	[sound:MNN_電源を切ります.mp3]	L38
+2165	鍵を掛けます	鍵[かぎ]を 掛[か]けます	lock	[sound:MNN_鍵を掛けます.mp3]	L38
+2166	嘘をつきます	嘘[うそ]をつきます	tell a lie	[sound:MNN_嘘をつきます.mp3]	L38
+2167	気持ちがいい	気[き] 持[も]ちがいい	pleasant, agreeable	[sound:MNN_気持ちがいい.mp3]	L38
+2168	気持ちが悪い	気[き] 持[も]ちが 悪[わる]い	unpleasant, disgusting	[sound:MNN_気持ちが悪い.mp3]	L38
+2169	大きな～	大[おお]きな～	large ～, big ～	[sound:MNN_大きな～.mp3]	L38
+2170	小さな～	小[ちい]さな～	small ～, little ～	[sound:MNN_小さな～.mp3]	L38
+2171	海岸	海[かい] 岸[がん]	seaside, seashore	[sound:MNN_海岸.mp3]	L38
+2172	工場	工[こう] 場[じょう]	factory	[sound:MNN_工場.mp3]	L38
+2173	かな	かな	hiragana and katakana script	[sound:MNN_かな.mp3]	L38
+2174	指輪	指[ゆび] 輪[わ]	ring	[sound:MNN_指輪.mp3]	L38
+2175	電源	電[でん] 源[げん]	power switch	[sound:MNN_電源.mp3]	L38
+2176	～製	～ 製[せい]	made in ～	[sound:MNN_～製.mp3]	L38
+2177	おととし	おととし	the year before last	[sound:MNN_おととし.mp3]	L38
+2178	あ、いけない。	あ、いけない。	Oops!/Oh, no!	[sound:MNN_あ、いけない。.mp3]	L38
+2179	お先に失礼します。	お 先[さき]に 失[しつ] 礼[れい]します。	Excuse me for leaving before you.	[sound:MNN_お先に失礼します。.mp3]	L38
+2180	出雲大社	出雲[いずも] 大[たい] 社[しゃ]	Izumo Temple	[sound:MNN_出雲大社.mp3]	L38
+2181	チェンマイ	チェンマイ	Chiangmai (Thailand)	[sound:MNN_チェンマイ.mp3]	L38
+2182	回覧	回[かい] 覧[らん]	circular	[sound:MNN_回覧.mp3]	L38
+2183	研究室	研[けん] 究[きゅう] 室[しつ]	study room, professor's office, laboratory	[sound:MNN_研究室.mp3]	L38
+2184	きちんと	きちんと	neatly, tidily	[sound:MNN_きちんと.mp3]	L38
+2185	整理します	整[せい] 理[り]します	sort (things) out	[sound:MNN_整理します.mp3]	L38
+2186	方法	方[ほう] 法[ほう]	method	[sound:MNN_方法.mp3]	L38
+2187	～という	～という	entitled ～, named ～, called ～	[sound:MNN_～という.mp3]	L38
+2188	ー冊	ー 冊[さつ]	counter for books, etc.	[sound:MNN_ー冊.mp3]	L38
+2189	はんこを押します	はんこを 押[お]します	affix a seal, stamp	[sound:MNN_はんこを押します.mp3]	L38
+2190	双子	双[ふた] 子[ご]	twins	[sound:MNN_双子.mp3]	L38
+2191	姉妹	姉[し] 妹[まい]	sisters	[sound:MNN_姉妹.mp3]	L38
+2192	５年生	５ 年[ねん] 生[せい]	fifth grade, year	[sound:MNN_５年生.mp3]	L38
+2193	似ています	似[に]ています	resemble, be like	[sound:MNN_似ています.mp3]	L38
+2194	性格	性[せい] 格[かく]	character, personality	[sound:MNN_性格.mp3]	L38 L43U
+2195	おとなしい	おとなしい	quiet, gentle	[sound:MNN_おとなしい.mp3]	L38 L43U
+2196	優しい	優[やさ]しい	kind, gentle, tender-hearted	[sound:MNN_優しい.mp3]	L38 L41 L43U
+2197	世話をします	世[せ] 話[わ]をします	take care of	[sound:MNN_世話をします.mp3]	L38 L47 L48
+2198	時間がたちます	時[じ] 間[かん]がたちます	time passes by	[sound:MNN_時間がたちます.mp3]	L38
+2199	ー点	ー 点[てん]	ー points	[sound:MNN_ー点.mp3]	L38
+2200	気が強い	気[き]が 強[つよ]い	tough, strong-willed	[sound:MNN_気が強い.mp3]	L38 L43U
+2201	けんかします	けんかします	quarrel, fight	[sound:MNN_けんかします.mp3]	L38 L39
+2202	年齢	年[ねん] 齢[れい]	age	[sound:MNN_年齢.mp3]	L38
+2203	しかた	しかた	way (of doing something)	[sound:MNN_しかた.mp3]	L38
+2204	位置	位[い] 置[ち]	location​	[sound:MNN_位置.mp3]	L38U
+2205	上から２段目	上[うえ]から２ 段[だん] 目[め]	second from the top	[sound:MNN_上から２段目.mp3]	L38U
+2206	奥	奥[おく]	the back	[sound:MNN_奥.mp3]	L38U
+2207	手前	手[て] 前[まえ]	the front	[sound:MNN_手前.mp3]	L38U
+2208	前から２列目	前[まえ]から２ 列[れつ] 目[め]	second row from the front	[sound:MNN_前から２列目.mp3]	L38U
+2209	机の周り	机[つくえ]の 周[まわ]り	around the table	[sound:MNN_机の周り.mp3]	L38U
+2210	２行目	２ 行[ぎょう] 目[め]	second line	[sound:MNN_２行目.mp3]	L38U
+2211	４ページ	４ページ	Page 4	[sound:MNN_４ページ.mp3]	L38U
+2212	３行目	３ 行[ぎょう] 目[め]	third line	[sound:MNN_３行目.mp3]	L38U
+2213	本のそば	本[ほん]のそば	next to, beside the book	[sound:MNN_本のそば.mp3]	L38U
+2214	教室の真ん中	教[きょう] 室[しつ]の 真[ま]ん 中[なか]	centre of the classroom	[sound:MNN_教室の真ん中.mp3]	L38U
+2215	斜め後ろ	斜[なな]め 後[うし]ろ	diagonally behind	[sound:MNN_斜め後ろ.mp3]	L38U
+2216	斜め前	斜[なな]め 前[まえ]	diagonally in front	[sound:MNN_斜め前.mp3]	L38U
+2217	テレビの横	テレビの 横[よこ]	next to, beside the television	[sound:MNN_テレビの横.mp3]	L38U
+2218	質問に答えます	質[しつ] 問[もん]に 答[こた]えます	answer a question	[sound:MNN_質問に答えます.mp3]	L39
+2219	ビルが倒れます	ビルが 倒[たお]れます	a building falls down	[sound:MNN_ビルが倒れます.mp3]	L39
+2220	道を通ります	道[みち]を 通[とお]ります	passes along a street	[sound:MNN_道を通ります.mp3]	L39
+2221	びっくりします	びっくりします	be surprised	[sound:MNN_びっくりします.mp3]	L39
+2222	がっかりします	がっかりします	be disappointed	[sound:MNN_がっかりします.mp3]	L39
+2223	安心します	安[あん] 心[しん]します	be relieved	[sound:MNN_安心します.mp3]	L39
+2224	太ります	太[ふと]ります	get fat, gain weight	[sound:MNN_太ります.mp3]	L39
+2225	やせます	やせます	get slim, lose weight	[sound:MNN_やせます.mp3]	L39
+2226	複雑「な」	複[ふく] 雑[ざつ]「な」	complicated, complex	[sound:MNN_複雑「な」.mp3]	L39
+2227	邪魔「な」	邪[じゃ] 魔[ま]「な」	obstructive, in the way	[sound:MNN_邪魔「な」.mp3]	L39
+2228	硬い	硬[かた]い	hard, tough, solid	[sound:MNN_硬い.mp3]	L39
+2229	軟らかい	軟[やわ]らかい	soft, tender	[sound:MNN_軟らかい.mp3]	L39
+2230	汚い	汚[きたな]い	dirty	[sound:MNN_汚い.mp3]	L39
+2231	恥ずかしい	恥[は]ずかしい	embarrassed, ashamed	[sound:MNN_恥ずかしい.mp3]	L39
+2232	雷	雷[かみなり]	thunder	[sound:MNN_雷.mp3]	L39
+2233	火事	火[か] 事[じ]	fire	[sound:MNN_火事.mp3]	L39
+2234	ハイキング	ハイキング	hiking	[sound:MNN_ハイキング.mp3]	L39
+2235	お見合い	お 見[み] 合[あ]い	formal marriage interview​	[sound:MNN_お見合い.mp3]	L39
+2236	操作します	操[そう] 作[さ]します	to operate	[sound:MNN_操作します.mp3]	L39
+2237	会場	会[かい] 場[じょう]	venue, event location	[sound:MNN_会場.mp3]	L39
+2238	～代	～ 代[だい]	charge, fare, fee	[sound:MNN_～代.mp3]	L39
+2239	フロント	フロント	front desk, reception desk	[sound:MNN_フロント.mp3]	L39
+2240	ー号室	ー 号[ごう] 室[しつ]	room number ー	[sound:MNN_ー号室.mp3]	L39
+2241	タオル	タオル	towel	[sound:MNN_タオル.mp3]	L39
+2242	石鹸	石[せっ] 鹸[けん]	soap	[sound:MNN_石鹸.mp3]	L39
+2243	お疲れさまでした。	お 疲[つか]れさまでした。	Thank you for your hard work.	[sound:MNN_お疲れさまでした。.mp3]	L39
+2244	伺います	伺[うかが]います	I'm coming, ask, hear, visit (humble of ききます、たずねます)	[sound:MNN_伺います.mp3]	L39 L50
+2245	途中で	途[と] 中[ちゅう]で	on the way, in the midst of	[sound:MNN_途中で.mp3]	L39
+2246	トラック	トラック	truck, lorry	[sound:MNN_トラック.mp3]	L39
+2247	打つかります	打[ぶ]つかります	bump, collide	[sound:MNN_打つかります.mp3]	L39
+2248	大人	大人[おとな]	adult	[sound:MNN_大人.mp3]	L39
+2249	洋服	洋[よう] 服[ふく]	Western clothes	[sound:MNN_洋服.mp3]	L39
+2250	西洋化します	西[せい] 洋[よう] 化[か]します	be Westernized	[sound:MNN_西洋化します.mp3]	L39
+2251	合います	合[あ]います	fit, suit	[sound:MNN_合います.mp3]	L39
+2252	今では	今[いま]では	now	[sound:MNN_今では.mp3]	L39
+2253	成人式	成[せい] 人[じん] 式[しき]	coming-of-age ceremony​	[sound:MNN_成人式.mp3]	L39
+2254	伝統的「な」	伝[でん] 統[とう] 的[てき]「な」	traditional	[sound:MNN_伝統的「な」.mp3]	L39
+2255	羨ましい	羨[うらや]ましい	envious	[sound:MNN_羨ましい.mp3]	L39U
+2256	懐かしい	懐[なつ]かしい	dear, longed for	[sound:MNN_懐かしい.mp3]	L39U
+2257	うっとりする	うっとりする	be enchanted	[sound:MNN_うっとりする.mp3]	L39U
+2258	いらいらする	いらいらする	be irritated	[sound:MNN_いらいらする.mp3]	L39U
+2259	どきどきする	どきどきする	to beat fast (of one's heart)	[sound:MNN_どきどきする.mp3]	L39U
+2260	はらはらする	はらはらする	be in suspense, worried, nervous	[sound:MNN_はらはらする.mp3]	L39U
+2261	わくわくする	わくわくする	be excited	[sound:MNN_わくわくする.mp3]	L39U
+2262	数える	数[かぞ]える	count	[sound:MNN_数える.mp3]	L40
+2263	測ります、量ります	測[はか]ります、 量[はか]ります	measure, measure (amount, weigh)	[sound:MNN_測ります、量ります.mp3]	L40
+2264	確かめます	確[たし]かめます	confirm, make sure	[sound:MNN_確かめます.mp3]	L40
+2265	サイズが合います	サイズが 合[あ]います	the size is fit	[sound:MNN_サイズが合います.mp3]	L40
+2266	出発します	出[しゅっ] 発[ぱつ]します	depart	[sound:MNN_出発します.mp3]	L40
+2267	到着します	到[とう] 着[ちゃく]します	arrive	[sound:MNN_到着します.mp3]	L40
+2268	酔います	酔[よ]います	get drunk	[sound:MNN_酔います.mp3]	L40
+2269	うまくいきます	うまくいきます	go well	[sound:MNN_うまくいきます.mp3]	L40
+2270	問題が出ます	問[もん] 題[だい]が 出[で]ます	problems will be on the test	[sound:MNN_問題が出ます.mp3]	L40
+2271	相談します	相[そう] 談[だん]します	consult, discuss	[sound:MNN_相談します.mp3]	L40
+2272	忘年会	忘[ぼう] 年[ねん] 会[かい]	year-end party	[sound:MNN_忘年会.mp3]	L40
+2273	新年会	新[しん] 年[ねん] 会[かい]	New Year's party	[sound:MNN_新年会.mp3]	L40
+2274	二次会	二[に] 次[じ] 会[かい]	second party (of the same night)	[sound:MNN_二次会.mp3]	L40
+2275	発表会	発[はっ] 表[ぴょう] 会[かい]	presentation meeting	[sound:MNN_発表会.mp3]	L40
+2276	大会	大[たい] 会[かい]	rally, convention	[sound:MNN_大会.mp3]	L40
+2277	マラソン	マラソン	marathon	[sound:MNN_マラソン.mp3]	L40
+2278	コンテスト	コンテスト	contest	[sound:MNN_コンテスト.mp3]	L40
+2279	表	表[おもて]	face, front	[sound:MNN_表.mp3]	L40
+2280	裏	裏[うら]	back (side)	[sound:MNN_裏.mp3]	L40
+2281	間違い	間[ま] 違[ちが]い	mistake	[sound:MNN_間違い.mp3]	L40
+2282	傷	傷[きず]	defect, wound, scratch	[sound:MNN_傷.mp3]	L40
+2283	お年寄り	お 年[とし] 寄[よ]り	elderly person	[sound:MNN_お年寄り.mp3]	L40
+2284	長さ	長[なが]さ	length	[sound:MNN_長さ.mp3]	L40
+2285	重さ	重[おも]さ	weight	[sound:MNN_重さ.mp3]	L40
+2286	高さ	高[たか]さ	height	[sound:MNN_高さ.mp3]	L40
+2287	大きさ	大[おお]きさ	size, scale	[sound:MNN_大きさ.mp3]	L40
+2288	便	[ー] 便[びん]	flight, flight number	[sound:MNN_便.mp3]	L40
+2289	ー本（ーぽん、ーぼん）	ー 本[ほん]（ーぽん、ーぼん）	counter for long objects	[sound:MNN_ー本.mp3][sound:MNN_ーぽん、ーぼん.mp3]	L40
+2290	ー杯（ーぱい、－ばい）	ー 杯[はい]（ーぱい、－ばい）	ー glass or cup of (counter for full cups, glasses, etc.)	[sound:MNN_ー杯.mp3][sound:MNN_ーぱい、－ばい.mp3]	L40
+2291	ーセンチ	ーセンチ	ー centimeters	[sound:MNN_ーセンチ.mp3]	L40
+2292	ーミリ	ーミリ	ー millimeters	[sound:MNN_ーミリ.mp3]	L40
+2293	～以上	～ 以[い] 上[じょう]	not less than ～, over ～	[sound:MNN_～以上.mp3]	L40
+2294	～以下	～ 以[い] 下[か]	not more than ～, under ～	[sound:MNN_～以下.mp3]	L40
+2295	長崎	長[なが] 崎[さき]	Nagasaki (city)​	[sound:MNN_長崎.mp3]	L40
+2296	ＪＬ	ＪＬ	Japan Airlines	[sound:MNN_ＪＬ.mp3]	L40
+2297	七夕祭り	七夕[たなばた] 祭[まつ]り	Tanabata (Star) Festival (７月７日)	[sound:MNN_七夕祭り.mp3]	L40 L49U
+2298	どうでしょうか。	どうでしょうか。	How is ～? (polite of どうですか)	[sound:MNN_どうでしょうか。.mp3]	L40
+2299	テスト	テスト	test, examination	[sound:MNN_テスト.mp3]	L40
+2300	成績	成[せい] 績[せき]	performance, score, result	[sound:MNN_成績.mp3]	L40
+2301	ところで	ところで	by the way	[sound:MNN_ところで.mp3]	L40
+2302	オートバイ	オートバイ	motorcycle	[sound:MNN_オートバイ.mp3]	L40
+2303	爆弾	爆[ばく] 弾[だん]	bomb	[sound:MNN_爆弾.mp3]	L40
+2304	積みます	積[つ]みます	load, pile up	[sound:MNN_積みます.mp3]	L40
+2305	離れた	離[はな]れた	remote	[sound:MNN_離れた.mp3]	L40
+2306	急に	急[きゅう]に	suddenly	[sound:MNN_急に.mp3]	L40 L45
+2307	動かします	動[うご]かします	start, operate, move	[sound:MNN_動かします.mp3]	L40
+2308	犯人	犯[はん] 人[にん]	offender, criminal	[sound:MNN_犯人.mp3]	L40
+2309	男	男[おとこ]	man	[sound:MNN_男.mp3]	L40 L41
+2310	手に入れます	手[て]に 入[い]れます	obtain, get	[sound:MNN_手に入れます.mp3]	L40
+2311	今でも	今[いま]でも	even now, still, as yet​	[sound:MNN_今でも.mp3]	L40
+2312	単位	単[たん] 位[い]	unit	[sound:MNN_単位.mp3]	L40U
+2313	模様	模[も] 様[よう]	pattern	[sound:MNN_模様.mp3]	L40U
+2314	面積	面[めん] 積[せき]	area	[sound:MNN_面積.mp3]	L40U
+2315	平方センチメートル	平[へい] 方[ほう]センチメートル	square centimeter (cm<sup>2</sup>)	[sound:MNN_平方センチメートル.mp3]	L40U
+2316	平方メートル	平[へい] 方[ほう]メートル	square metre (m<sup>2</sup>)	[sound:MNN_平方メートル.mp3]	L40U
+2317	平方キロメートル	平[へい] 方[ほう]キロメートル	square kilometer (km<sup>2</sup>)	[sound:MNN_平方キロメートル.mp3]	L40U
+2318	ミリ	ミリ	millimeter (mm)	[sound:MNN_ミリ.mp3]	L40U
+2319	センチ	センチ	centimeter (cm)	[sound:MNN_センチ.mp3]	L40U
+2320	メートル	メートル	metre (m)	[sound:MNN_メートル.mp3]	L40U
+2321	キロ（km）	キロ（km）	kilometer	[sound:MNN_キロ.mp3][sound:MNN_km.mp3]	L40U
+2322	体積	体[たい] 積[せき]	volume	[sound:MNN_体積.mp3]	L40U
+2323	容積	容[よう] 積[せき]	capacity	[sound:MNN_容積.mp3]	L40U
+2324	立方センチメートル	立[りっ] 方[ぽう]センチメートル	cubic centimeter (cm<sup>3</sup>)	[sound:MNN_立方センチメートル.mp3]	L40U
+2325	立方メートル	立[りっ] 方[ぽう]メートル	cubic metre (m<sup>3</sup>)	[sound:MNN_立方メートル.mp3]	L40U
+2326	ミリリットル	ミリリットル	milliliter (ml)	[sound:MNN_ミリリットル.mp3]	L40U
+2327	シーシー	シーシー	cc	[sound:MNN_シーシー.mp3]	L40U
+2328	リットル	リットル	litre (ℓ)	[sound:MNN_リットル.mp3]	L40U
+2329	ミリグラム	ミリグラム	milligram (mg)	[sound:MNN_ミリグラム.mp3]	L40U
+2330	グラム	グラム	gramme (g)	[sound:MNN_グラム.mp3]	L40U
+2331	トン	トン	tonne (t)	[sound:MNN_トン.mp3]	L40U
+2332	計算	計[けい] 算[さん]	calculation	[sound:MNN_計算.mp3]	L40U
+2333	たす（＋）	たす（＋）	plus	[sound:MNN_たす.mp3][sound:MNN_＋.mp3]	L40U
+2334	ひく（ー）	ひく（ー）	minus	[sound:MNN_ひく.mp3][sound:MNN_ー.mp3]	L40U
+2335	かける（×）	かける（×）	multiplied by	[sound:MNN_かける.mp3][sound:MNN_×.mp3]	L40U
+2336	わる（÷）	わる（÷）	divided by	[sound:MNN_わる.mp3][sound:MNN_÷.mp3]	L40U
+2337	イコール（＝）	イコール（＝）	equals	[sound:MNN_イコール.mp3][sound:MNN_＝.mp3]	L40U
+2338	直線	直[ちょく] 線[せん]	straight line	[sound:MNN_直線.mp3]	L40U
+2339	曲線	曲[きょく] 線[せん]	curved line	[sound:MNN_曲線.mp3]	L40U
+2340	点線	点[てん] 線[せん]	dotted line	[sound:MNN_点線.mp3]	L40U
+2341	三角形	三[さん] 角[かく] 形[けい]	triangle	[sound:MNN_三角形.mp3]	L40U
+2342	四角形	四[し] 角[かく] 形[けい]	square	[sound:MNN_四角形.mp3]	L40U
+2343	縦じま	縦[たて]じま	vertical stripes	[sound:MNN_縦じま.mp3]	L40U
+2344	横縞	横[よこ] 縞[じま]	horizontal stripes	[sound:MNN_横縞.mp3]	L40U
+2345	チェック	チェック	checkered​ pattern	[sound:MNN_チェック.mp3]	L40U
+2346	水玉	水[みず] 玉[たま]	polka dots	[sound:MNN_水玉.mp3]	L40U
+2347	花柄	花[はな] 柄[がら]	floral print	[sound:MNN_花柄.mp3]	L40U
+2348	無地	無[む] 地[じ]	plain	[sound:MNN_無地.mp3]	L40U
+2349	くださいます	くださいます	give (respectful of くれます)	[sound:MNN_くださいます.mp3]	L41
+2350	下げます	下[さ]げます	lower, pull down	[sound:MNN_下げます.mp3]	L41
+2351	親切にします	親[しん] 切[せつ]にします	be kind to	[sound:MNN_親切にします.mp3]	L41
+2352	可愛い	可愛[かわい]い	lovely, cute	[sound:MNN_可愛い.mp3]	L41
+2353	お祝いをします	お 祝[いわ]いをします	to celebrate, gift	[sound:MNN_お祝いをします.mp3]	L41
+2354	興味	興[きょう] 味[み]	interest	[sound:MNN_興味.mp3]	L41
+2355	コンピューターに興味があります	コンピューターに 興[きょう] 味[み]があります	be interested in computers	[sound:MNN_コンピューターに興味があります.mp3]	L41
+2356	文法	文[ぶん] 法[ぽう]	grammar	[sound:MNN_文法.mp3]	L41
+2357	発音	発[はつ] 音[おん]	pronunciation	[sound:MNN_発音.mp3]	L41
+2358	猿	猿[さる]	ape, monkey	[sound:MNN_猿.mp3]	L41
+2359	えさ	えさ	feed, bait	[sound:MNN_えさ.mp3]	L41
+2360	絵本	絵[え] 本[ほん]	picture book	[sound:MNN_絵本.mp3]	L41
+2361	絵はがき	絵[え]はがき	picture postcard	[sound:MNN_絵はがき.mp3]	L41
+2362	ドライバー	ドライバー	screwdriver	[sound:MNN_ドライバー.mp3]	L41 L42U
+2363	ハンカチ	ハンカチ	handkerchief	[sound:MNN_ハンカチ.mp3]	L41
+2364	暖房	暖[だん] 房[ぼう]	heating	[sound:MNN_暖房.mp3]	L41
+2365	冷房	冷[れい] 房[ぼう]	air-conditioning	[sound:MNN_冷房.mp3]	L41
+2366	温度	温[おん] 度[ど]	temperature	[sound:MNN_温度.mp3]	L41
+2367	孫	孫[まご]	(my) grandchild	[sound:MNN_孫.mp3]	L41
+2368	お孫さん	お 孫[まご]さん	(someone's) grandchild	[sound:MNN_お孫さん.mp3]	L41
+2369	おじ	おじ	(my) uncle	[sound:MNN_おじ.mp3]	L41
+2370	おじさん	おじさん	(someone's) uncle	[sound:MNN_おじさん.mp3]	L41
+2371	おば	おば	(my) aunt	[sound:MNN_おば.mp3]	L41
+2372	おばさん	おばさん	(someone's) aunt	[sound:MNN_おばさん.mp3]	L41
+2373	管理人	管[かん] 理[り] 人[にん]	janitor, caretaker, (+さん as polite)	[sound:MNN_管理人.mp3]	L41
+2374	この間	この 間[あいだ]	the other day	[sound:MNN_この間.mp3]	L41
+2375	ひとこと	ひとこと	a few words	[sound:MNN_ひとこと.mp3]	L41
+2376	～ずつ	～ずつ	each	[sound:MNN_～ずつ.mp3]	L41
+2377	お宅	お 宅[たく]	home (=うち／いえ)	[sound:MNN_お宅.mp3]	L41
+2378	どうぞお幸せに。	どうぞお 幸[しあわ]せに。	I hope you will be very happy.	[sound:MNN_どうぞお幸せに。.mp3]	L41
+2379	昔話	昔[むかし] 話[ばなし]	old tale, folklore	[sound:MNN_昔話.mp3]	L41
+2380	苛めます	苛[いじ]めます	bully, abuse, ill-treat	[sound:MNN_苛めます.mp3]	L41
+2381	かめ	かめ	turtle	[sound:MNN_かめ.mp3]	L41
+2382	助けます	助[たす]けます	save, help	[sound:MNN_助けます.mp3]	L41
+2383	お姫様	お 姫[ひめ] 様[さま]	princess	[sound:MNN_お姫様.mp3]	L41
+2384	暮らします	暮[く]らします	live, lead a life	[sound:MNN_暮らします.mp3]	L41
+2385	陸	陸[りく]	land, shore	[sound:MNN_陸.mp3]	L41
+2386	煙	煙[けむり]	smoke, fumes​	[sound:MNN_煙.mp3]	L41
+2387	真っ白「な」	真[ま]っ 白[しろ]「な」	pure white	[sound:MNN_真っ白「な」.mp3]	L41
+2388	中身	中[なか] 身[み]	content	[sound:MNN_中身.mp3]	L41
+2389	衣装	衣[い] 装[しょう]	clothing, costume, dress​	[sound:MNN_衣装.mp3]	L41U
+2390	晴れ着	晴[は]れ 着[ぎ]	Sunday best (festive clothes)	[sound:MNN_晴れ着.mp3]	L41U
+2391	新作	新[しん] 作[さく]	brand-new, new work, new production​	[sound:MNN_新作.mp3]	L41U
+2392	七五三	七[しち] 五[ご] 三[さん]	festival (shrine visit) by children aged 7, 5 and 3​	[sound:MNN_七五三.mp3]	L41U
+2393	卒業式	卒[そつ] 業[ぎょう] 式[しき]	graduation ceremony	[sound:MNN_卒業式.mp3]	L41U
+2394	民宿	民[みん] 宿[しゅく]	guesthouse	[sound:MNN_民宿.mp3]	L41U
+2395	家庭的	家[か] 庭[てい] 的[てき]	family oriented	[sound:MNN_家庭的.mp3]	L41U
+2396	公民館	公[こう] 民[みん] 館[かん]	community centre​	[sound:MNN_公民館.mp3]	L41U
+2397	講習会	講[こう] 習[しゅう] 会[かい]	short course/class	[sound:MNN_講習会.mp3]	L41U
+2398	レンタル	レンタル	rental​	[sound:MNN_レンタル.mp3]	L41U
+2399	ビデオカメラ	ビデオカメラ	video camera	[sound:MNN_ビデオカメラ.mp3]	L41U
+2400	携帯電話	携[けい] 帯[たい] 電[でん] 話[わ]	mobile phones	[sound:MNN_携帯電話.mp3]	L41U
+2401	ベビー用品	ベビー 用[よう] 品[ひん]	baby goods	[sound:MNN_ベビー用品.mp3]	L41U
+2402	レジャー用品	レジャー 用[よう] 品[ひん]	leisure/recreation goods	[sound:MNN_レジャー用品.mp3]	L41U
+2403	話し相手	話[はな]し 相[あい] 手[て]	companion, adviser	[sound:MNN_話し相手.mp3]	L41U
+2404	体験	体[たい] 験[けん]	personal experience, physical experience, one's own experience	[sound:MNN_体験.mp3]	L41U
+2405	禅	禅[ぜん]	zen, silent meditation	[sound:MNN_禅.mp3]	L41U
+2406	精進料理	精[しょう] 進[じん] 料[りょう] 理[り]	Buddhist vegetarian cuisine	[sound:MNN_精進料理.mp3]	L41U
+2407	包みます	包[つつ]みます	wrap	[sound:MNN_包みます.mp3]	L42
+2408	沸かします	沸[わ]かします	boil	[sound:MNN_沸かします.mp3]	L42
+2409	計算します	計[けい] 算[さん]します	calculate	[sound:MNN_計算します.mp3]	L42
+2410	並びます	並[なら]びます	stand in a queue, line up	[sound:MNN_並びます.mp3]	L42
+2411	丈夫「な」	丈[じょう] 夫[ぶ]「な」	strong, healthy	[sound:MNN_丈夫「な」.mp3]	L42
+2412	自然	自[し] 然[ぜん]	nature	[sound:MNN_自然.mp3]	L42
+2413	教育	教[きょう] 育[いく]	education	[sound:MNN_教育.mp3]	L42
+2414	文化	文[ぶん] 化[か]	culture	[sound:MNN_文化.mp3]	L42
+2415	社会	社[しゃ] 会[かい]	society	[sound:MNN_社会.mp3]	L42
+2416	政治	政[せい] 治[じ]	politics	[sound:MNN_政治.mp3]	L42
+2417	法律	法[ほう] 律[りつ]	law	[sound:MNN_法律.mp3]	L42
+2418	平和	平[へい] 和[わ]	peace	[sound:MNN_平和.mp3]	L42
+2419	目的	目[もく] 的[てき]	purpose	[sound:MNN_目的.mp3]	L42
+2420	論文	論[ろん] 文[ぶん]	thesis, academic paper	[sound:MNN_論文.mp3]	L42
+2421	楽しみ	楽[たの]しみ	pleasure, enjoyment, expectation	[sound:MNN_楽しみ.mp3]	L42
+2422	ミキサー	ミキサー	mixer, blender	[sound:MNN_ミキサー.mp3]	L42
+2423	風呂敷	風[ふ] 呂[ろ] 敷[しき]	wrapping cloth used to carry things	[sound:MNN_風呂敷.mp3]	L42
+2424	そろばん	そろばん	abacus	[sound:MNN_そろばん.mp3]	L42
+2425	体温計	体[たい] 温[おん] 計[けい]	(clinical) thermometer	[sound:MNN_体温計.mp3]	L42
+2426	なぜ	なぜ	why	[sound:MNN_なぜ.mp3]	L42
+2427	国連	国[こく] 連[れん]	United Nations	[sound:MNN_国連.mp3]	L42
+2428	ボーナスが出ます	ボーナスが 出[で]ます	bonus to be paid	[sound:MNN_ボーナスが出ます.mp3]	L42
+2429	半分	半[はん] 分[ぶん]	half	[sound:MNN_半分.mp3]	L42
+2430	ローン	ローン	loan	[sound:MNN_ローン.mp3]	L42
+2431	カップ麺	カップ 麺[めん]	instant/cup noodles​	[sound:MNN_カップ麺.mp3]	L42
+2432	世界初	世[せ] 界[かい] 初[はつ]	world's first	[sound:MNN_世界初.mp3]	L42
+2433	～によって	～によって	by (means of) ～	[sound:MNN_～によって.mp3]	L42
+2434	麺	麺[めん]	noodles	[sound:MNN_麺.mp3]	L42
+2435	広めます	広[ひろ]めます	spread	[sound:MNN_広めます.mp3]	L42
+2436	市場調査	市[し] 場[じょう] 調[ちょう] 査[さ]	market survey, market research	[sound:MNN_市場調査.mp3]	L42
+2437	割ります	割[わ]ります	break	[sound:MNN_割ります.mp3]	L42
+2438	注ぎます	注[そそ]ぎます	pour	[sound:MNN_注ぎます.mp3]	L42
+2439	事務用品	事[じ] 務[む] 用[よう] 品[ひん]	office supplies, stationery​	[sound:MNN_事務用品.mp3]	L42U
+2440	綴じる	綴[と]じる	staple, clip	[sound:MNN_綴じる.mp3]	L42U
+2441	クリップ	クリップ	clip	[sound:MNN_クリップ.mp3]	L42U
+2442	挟む	挟[はさ]む	clip, pinch	[sound:MNN_挟む.mp3]	L42U
+2443	画鋲	画[が] 鋲[びょう]	drawing pin	[sound:MNN_画鋲.mp3]	L42U
+2444	留める	留[と]める	pin, tack	[sound:MNN_留める.mp3]	L42U
+2445	カッター	カッター	cutter	[sound:MNN_カッター.mp3]	L42U
+2446	切る	切[き]る	cut, saw	[sound:MNN_切る.mp3]	L42U
+2447	ガムテープ	ガムテープ	packaging tape	[sound:MNN_ガムテープ.mp3]	L42U
+2448	糊	糊[のり]	glue	[sound:MNN_糊.mp3]	L42U
+2449	鉛筆削り	鉛[えん] 筆[ぴつ] 削[けず]り	pencil sharpener​	[sound:MNN_鉛筆削り.mp3]	L42U
+2450	削る	削[けず]る	sharpen	[sound:MNN_削る.mp3]	L42U
+2451	ファイル	ファイル	file	[sound:MNN_ファイル.mp3]	L42U L48
+2452	ファイルする	ファイルする	to file	[sound:MNN_ファイルする.mp3]	L42U
+2453	修正液	修[しゅう] 正[せい] 液[えき]	correction fluid	[sound:MNN_修正液.mp3]	L42U
+2454	消す	消[け]す	erase	[sound:MNN_消す.mp3]	L42U
+2455	穴を開ける	穴[あな]を 開[あ]ける	punch a hole	[sound:MNN_穴を開ける.mp3]	L42U
+2456	電卓	電[でん] 卓[たく]	calculator	[sound:MNN_電卓.mp3]	L42U
+2457	計算する	計[けい] 算[さん]する	calculate	[sound:MNN_計算する.mp3]	L42U
+2458	定規（物差し）	定[じょう] 規[ぎ]（ 物[もの]差[さ]し）	ruler	[sound:MNN_定規.mp3][sound:MNN_物差し.mp3]	L42U
+2459	線を引く	線[せん]を 引[ひ]く	draw a line	[sound:MNN_線を引く.mp3]	L42U
+2460	線を測る	線[せん]を 測[はか]る	measure a line	[sound:MNN_線を測る.mp3]	L42U
+2461	のこぎり	のこぎり	saw	[sound:MNN_のこぎり.mp3]	L42U
+2462	金槌	金[かな] 槌[づち]	hammer​	[sound:MNN_金槌.mp3]	L42U
+2463	くぎを打つ	くぎを 打[う]つ	hit a nail	[sound:MNN_くぎを打つ.mp3]	L42U
+2464	ペンチ	ペンチ	pliers	[sound:MNN_ペンチ.mp3]	L42U
+2465	ねじを締める	ねじを 締[し]める	tighten a screw	[sound:MNN_ねじを締める.mp3]	L42U
+2466	ねじを緩める	ねじを 緩[ゆる]める	loosen a screw	[sound:MNN_ねじを緩める.mp3]	L42U
+2467	浴室	浴[よく] 室[しつ]	bathroom	[sound:MNN_浴室.mp3]	L28U
+2468	洋室	洋[よう] 室[しつ]	Western-style room	[sound:MNN_洋室.mp3]	L28U
+2469	物入れ	物[もの] 入[い]れ	place or container into which to put things​	[sound:MNN_物入れ.mp3]	L28U
+2470	ＬＤＫ	ＬＤＫ	combined living room, dining room and kitchen​	[sound:MNN_ＬＤＫ.mp3]	L28U
+2471	輸出が増えます	輸[ゆ] 出[しゅつ]が 増[ふ]えます	exports increase	[sound:MNN_輸出が増えます.mp3]	L43
+2472	輸出が減ります	輸[ゆ] 出[しゅつ]が 減[へ]ります	exports decrease	[sound:MNN_輸出が減ります.mp3]	L43
+2473	値段が上がります	値[ね] 段[だん]が 上[あ]がります	the price rises	[sound:MNN_値段が上がります.mp3]	L43
+2474	値段が下がります	値[ね] 段[だん]が 下[さ]がります	the price falls, drops	[sound:MNN_値段が下がります.mp3]	L43
+2475	ひもが切れます	ひもが 切[き]れます	a string breaks, snaps	[sound:MNN_ひもが切れます.mp3]	L43
+2476	ボタンが取れます	ボタンが 取[と]れます	a button comes off	[sound:MNN_ボタンが取れます.mp3]	L43
+2477	荷物が落ちます	荷[に] 物[もつ]が 落[お]ちます	baggage falls down	[sound:MNN_荷物が落ちます.mp3]	L43
+2478	ガソリンがなくなります	ガソリンがなくなります	petrol/gasoline is run out	[sound:MNN_ガソリンがなくなります.mp3]	L43
+2479	変「な」	変[へん]「な」	strange, peculiar	[sound:MNN_変「な」.mp3]	L43
+2480	幸せ「な」	幸[しあわ]せ「な」	happy	[sound:MNN_幸せ「な」.mp3]	L43
+2481	楽「な」	楽[らく]「な」	easy	[sound:MNN_楽「な」.mp3]	L43
+2482	うまい	うまい	tasty	[sound:MNN_うまい.mp3]	L43
+2483	まずい	まずい	not tasty	[sound:MNN_まずい.mp3]	L43
+2484	つまらない	つまらない	boring	[sound:MNN_つまらない.mp3]	L43
+2485	パンフレット	パンフレット	pamphlet	[sound:MNN_パンフレット.mp3]	L43
+2486	今にも	今[いま]にも	at any moment (to describe situation before changes)	[sound:MNN_今にも.mp3]	L43
+2487	わあ	わあ	Oh!/Wow!	[sound:MNN_わあ.mp3]	L43
+2488	ばら	ばら	rose	[sound:MNN_ばら.mp3]	L43
+2489	ドライブ	ドライブ	driving	[sound:MNN_ドライブ.mp3]	L43
+2490	理由	理[り] 由[ゆう]	reason	[sound:MNN_理由.mp3]	L43 L47
+2491	謝ります	謝[あやま]ります	apologize	[sound:MNN_謝ります.mp3]	L43
+2492	知り合います	知[し]り 合[あ]います	get acquainted	[sound:MNN_知り合います.mp3]	L43 L47
+2493	性質	性[せい] 質[しつ]	nature, property, disposition​ (characteristics)	[sound:MNN_性質.mp3]	L43U
+2494	厳しい	厳[きび]しい	strict, severe, hard	[sound:MNN_厳しい.mp3]	L43U L47
+2495	気が長い	気[き]が 長[なが]い	slow-tempered, patient	[sound:MNN_気が長い.mp3]	L43U
+2496	気が短い	気[き]が 短[みじか]い	quick-tempered	[sound:MNN_気が短い.mp3]	L43U
+2497	気が弱い	気[き]が 弱[よわ]い	timid	[sound:MNN_気が弱い.mp3]	L43U
+2498	活発「な」	活[かっ] 発[ぱつ]「な」	active	[sound:MNN_活発「な」.mp3]	L43U
+2499	誠実「な」	誠[せい] 実[じつ]「な」	sincere	[sound:MNN_誠実「な」.mp3]	L43U
+2500	わがまま「な」	わがまま「な」	selfish	[sound:MNN_わがまま「な」.mp3]	L43U
+2501	ふまじめ「な」	ふまじめ「な」	frivolous	[sound:MNN_ふまじめ「な」.mp3]	L43U
+2502	頑固「な」	頑[がん] 固[こ]「な」	stubborn	[sound:MNN_頑固「な」.mp3]	L43U
+2503	素直「な」	素[す] 直[なお]「な」	obedient, gentle	[sound:MNN_素直「な」.mp3]	L43U
+2504	意地悪「な」	意[い] 地[じ] 悪[わる]「な」	ill-natured, spiteful	[sound:MNN_意地悪「な」.mp3]	L43U
+2505	勝ち気「な」	勝[か]ち 気[き]「な」	competitive, unyielding	[sound:MNN_勝ち気「な」.mp3]	L43U
+2506	神経質「な」	神[しん] 経[けい] 質[しつ]「な」	highly-strung, nervous	[sound:MNN_神経質「な」.mp3]	L43U
+2507	泣きます	泣[な]きます	cry	[sound:MNN_泣きます.mp3]	L44
+2508	笑います	笑[わら]います	laugh, smile	[sound:MNN_笑います.mp3]	L44
+2509	シャツが乾きます	シャツが 乾[かわ]きます	a shirt dries	[sound:MNN_シャツが乾きます.mp3]	L44
+2510	シャツが濡れます	シャツが 濡[ぬ]れます	a shirt gets wet	[sound:MNN_シャツが濡れます.mp3]	L44
+2511	滑ります	滑[すべ]ります	slip	[sound:MNN_滑ります.mp3]	L44
+2512	事故が起きます	事[じ] 故[こ]が 起[お]きます	an accident happens	[sound:MNN_事故が起きます.mp3]	L44
+2513	調節します	調[ちょう] 節[せつ]します	adjust	[sound:MNN_調節します.mp3]	L44
+2514	危険「な」	危[き] 険[けん]「な」	dangerous	[sound:MNN_危険「な」.mp3]	L44
+2515	厚い	厚[あつ]い	thick	[sound:MNN_厚い.mp3]	L44
+2516	太い	太[ふと]い	thick (of large diameter)	[sound:MNN_太い.mp3]	L44
+2517	細い	細[ほそ]い	thin (of small diameter)	[sound:MNN_細い.mp3]	L44
+2518	空気	空[くう] 気[き]	air	[sound:MNN_空気.mp3]	L44
+2519	涙	涙[なみだ]	tear	[sound:MNN_涙.mp3]	L44
+2520	和食	和[わ] 食[しょく]	Japanese dish	[sound:MNN_和食.mp3]	L44
+2521	洋食	洋[よう] 食[しょく]	Western dish	[sound:MNN_洋食.mp3]	L44
+2522	おかず	おかず	side dish	[sound:MNN_おかず.mp3]	L44
+2523	量	量[りょう]	quantity	[sound:MNN_量.mp3]	L44
+2524	ー倍	ー 倍[ばい]	ー times	[sound:MNN_ー倍.mp3]	L44
+2525	シングル	シングル	single room	[sound:MNN_シングル.mp3]	L44
+2526	ツイン	ツイン	twin-bedded room	[sound:MNN_ツイン.mp3]	L44
+2527	洗濯物	洗[せん] 濯[たく] 物[もの]	washing, laundry	[sound:MNN_洗濯物.mp3]	L44
+2528	どうなさいますか。	どうなさいますか。	What can I do for you? (respectful)	[sound:MNN_どうなさいますか。.mp3]	L44
+2529	シャンプーをします	シャンプーをします	to shampoo	[sound:MNN_シャンプーをします.mp3]	L44
+2530	どういうふうになさいますか。	どういうふうになさいますか。	How would you like it done? (respectful)	[sound:MNN_どういうふうになさいますか。.mp3]	L44
+2531	ショート	ショート	short	[sound:MNN_ショート.mp3]	L44
+2532	～みたいにしてください。	～みたいにしてください。	Do it like ～.	[sound:MNN_～みたいにしてください。.mp3]	L44
+2533	これでよろしいでしょうか。	これでよろしいでしょうか。	Would this be all right? (polite)	[sound:MNN_これでよろしいでしょうか。.mp3]	L44
+2534	どうもお疲れさまでした。	どうもお 疲[つか]れさまでした。	Thank you for your patience. (shop assistance to customer)	[sound:MNN_どうもお疲れさまでした。.mp3]	L44
+2535	嫌がります	嫌[いや]がります	dislike	[sound:MNN_嫌がります.mp3]	L44
+2536	上手く	上手[うま]く	well	[sound:MNN_上手く.mp3]	L44
+2537	順序	順[じゅん] 序[じょ]	order	[sound:MNN_順序.mp3]	L44
+2538	安心「な」	安[あん] 心[しん]「な」	relieved	[sound:MNN_安心「な」.mp3]	L44
+2539	表現	表[ひょう] 現[げん]	expression	[sound:MNN_表現.mp3]	L44
+2540	別れます	別[わか]れます	part, separate	[sound:MNN_別れます.mp3]	L44
+2541	これら	これら	these	[sound:MNN_これら.mp3]	L44
+2542	縁起が悪い	縁[えん] 起[ぎ]が 悪[わる]い	unlucky, ill-omened	[sound:MNN_縁起が悪い.mp3]	L44
+2543	理髪店	理[り] 髪[はつ] 店[てん]	barber's shop	[sound:MNN_理髪店.mp3]	L44U
+2544	パーム	パーム	perm	[sound:MNN_パーム.mp3]	L44U
+2545	シャンプー	シャンプー	shampoo	[sound:MNN_シャンプー.mp3]	L44U
+2546	トリートメント	トリートメント	treatment	[sound:MNN_トリートメント.mp3]	L44U
+2547	ブロー	ブロー	blow-dry	[sound:MNN_ブロー.mp3]	L44U
+2548	カラー	カラー	hair colouring	[sound:MNN_カラー.mp3]	L44U
+2549	エクステ	エクステ	hair extension	[sound:MNN_エクステ.mp3]	L44U
+2550	ネイル	ネイル	nail care	[sound:MNN_ネイル.mp3]	L44U
+2551	フェイシャルマッサージ	フェイシャルマッサージ	facial massage	[sound:MNN_フェイシャルマッサージ.mp3]	L44U
+2552	メイク	メイク	makeup	[sound:MNN_メイク.mp3]	L44U
+2553	着付け	着[き] 付[つ]け	(kimono) dressing	[sound:MNN_着付け.mp3]	L44U
+2554	切ってください。	切[き]ってください。	Please cut it	[sound:MNN_切ってください。.mp3]	L44U
+2555	耳が見えるくらいに～	耳[みみ]が 見[み]えるくらいに～	～ to just above the ears	[sound:MNN_耳が見えるくらいに～.mp3]	L44U
+2556	肩にかかるくらいに～	肩[かた]にかかるくらいに～	～ to shoulder length	[sound:MNN_肩にかかるくらいに～.mp3]	L44U
+2557	眉が隠れるくらいに～	眉[まゆ]が 隠[かく]れるくらいに～	～ so that my eyebrows are covered	[sound:MNN_眉が隠れるくらいに～.mp3]	L44U
+2558	この写真みたいに～	この 写[しゃ] 真[しん]みたいに～	～ like in this photograph	[sound:MNN_この写真みたいに～.mp3]	L44U
+2559	髪をとかす	髪[かみ]をとかす	comb one's hair	[sound:MNN_髪をとかす.mp3]	L44U
+2560	髪を分ける	髪[かみ]を 分[わ]ける	part one's hair	[sound:MNN_髪を分ける.mp3]	L44U
+2561	髪をまとめる	髪[かみ]をまとめる	gather one's hair	[sound:MNN_髪をまとめる.mp3]	L44U
+2562	髪をアップにする	髪[かみ]をアップにする	put one's hair up	[sound:MNN_髪をアップにする.mp3]	L44U
+2563	髪を染める	髪[かみ]を 染[そ]める	dye one's hair	[sound:MNN_髪を染める.mp3]	L44U
+2564	ひげ／顔をそる	ひげ／ 顔[かお]をそる	shave	[sound:MNN_ひげ／顔をそる.mp3]	L44U
+2565	化粧／メイクする	化[け] 粧[しょう]／メイクする	put on makeup	[sound:MNN_化粧／メイクする.mp3]	L44U
+2566	三つ編みにする	三[み]つ 編[あ]みにする	braid, plait	[sound:MNN_三つ編みにする.mp3]	L44U
+2567	刈り上げる	刈[か]り 上[あ]げる	trim	[sound:MNN_刈り上げる.mp3]	L44U
+2568	パーマをかける	パーマをかける	perm	[sound:MNN_パーマをかける.mp3]	L44U
+2569	信じます	信[しん]じます	believe, trust	[sound:MNN_信じます.mp3]	L45
+2570	キャンセルします	キャンセルします	cancel	[sound:MNN_キャンセルします.mp3]	L45
+2571	知らせます	知[し]らせます	inform	[sound:MNN_知らせます.mp3]	L45
+2572	保証書	保[ほ] 証[しょう] 書[しょ]	guarantee	[sound:MNN_保証書.mp3]	L45
+2573	領収書	領[りょう] 収[しゅう] 書[しょ]	receipt	[sound:MNN_領収書.mp3]	L45
+2574	中止	中[ちゅう] 止[し]	calling off, cancelling, suspension	[sound:MNN_中止.mp3]	L45
+2575	点	点[てん]	point, score	[sound:MNN_点.mp3]	L45
+2576	梅	梅[うめ]	plum (blossom)	[sound:MNN_梅.mp3]	L45
+2577	１１０番	１１０ 番[ばん]	police (emergency number)	[sound:MNN_１１０番.mp3]	L45
+2578	１１９番	１１９ 番[ばん]	fire (emergency number)	[sound:MNN_１１９番.mp3]	L45
+2579	無理に	無[む]理[り]に	unreasonably	[sound:MNN_無理に.mp3]	L45
+2580	楽しみにしています	楽[たの]しみにしています	be looking forward, expecting	[sound:MNN_楽しみにしています.mp3]	L45
+2581	以上です。	以[い] 上[じょう]です。	That's all.	[sound:MNN_以上です。.mp3]	L45
+2582	係員	係[かかり] 員[いん]	person in charge, organizer	[sound:MNN_係員.mp3]	L45
+2583	コース	コース	course, route	[sound:MNN_コース.mp3]	L45
+2584	スタート	スタート	start	[sound:MNN_スタート.mp3]	L45
+2585	ー位	ー 位[い]	-th (ranking)	[sound:MNN_ー位.mp3]	L45
+2586	優勝します	優[ゆう] 勝[しょう]します	win the championship, come first	[sound:MNN_優勝します.mp3]	L45
+2587	悩み	悩[なや]み	trouble, worry	[sound:MNN_悩み.mp3]	L45
+2588	目覚まし時計	目[め] 覚[ざ]まし 時計[どけい]	alarm clock	[sound:MNN_目覚まし時計.mp3]	L45
+2589	大学生	大[だい] 学[がく] 生[せい]	university student	[sound:MNN_大学生.mp3]	L45
+2590	回答します	回[かい] 答[とう]します	answer, reply	[sound:MNN_回答します.mp3]	L45
+2591	鳴ります	鳴[な]ります	ring (sound)	[sound:MNN_鳴ります.mp3]	L45 L46
+2592	セットします	セットします	set	[sound:MNN_セットします.mp3]	L45
+2593	それでも	それでも	nevertheless, for all that	[sound:MNN_それでも.mp3]	L45
+2594	整形外科	整[せい] 形[けい] 外[げ] 科[か]	orthopaedic (bone treatment) surgery	[sound:MNN_整形外科.mp3]	L45U
+2595	皮膚科	皮[ひ] 膚[ふ] 科[か]	dermatology (skin)	[sound:MNN_皮膚科.mp3]	L45U
+2596	産婦人科	産[さん] 婦[ふ] 人[じん] 科[か]	obstetrics (pregnancy) and gynecology (treatment of women's diseases)	[sound:MNN_産婦人科.mp3]	L45U
+2597	内科	内[ない] 科[か]	internal medicine	[sound:MNN_内科.mp3]	L45U
+2598	待合室	待[まち] 合[あい] 室[しつ]	waiting room	[sound:MNN_待合室.mp3]	L45U
+2599	外科	外[げ] 科[か]	surgery	[sound:MNN_外科.mp3]	L45U
+2600	眼科	眼[がん] 科[か]	ophthalmology (eye treatment)	[sound:MNN_眼科.mp3]	L45U
+2601	小児科	小[しょう] 児[に] 科[か]	pediatrics (medical care for infants, children and young people)	[sound:MNN_小児科.mp3]	L45U
+2602	歯科	歯[し] 科[か]	dentistry	[sound:MNN_歯科.mp3]	L45U
+2603	泌尿器科	泌[ひ] 尿[にょう] 器[き] 科[か]	urology	[sound:MNN_泌尿器科.mp3]	L45U
+2604	会計	会[かい] 計[けい]	account, treasurer	[sound:MNN_会計.mp3]	L45U
+2605	耳鼻咽喉科	耳[じ] 鼻[び] 咽[いん] 喉[こう] 科[か]	otorhinolaryngology (ear, nose, and throat)	[sound:MNN_耳鼻咽喉科.mp3]	L45U
+2606	薬局	薬[やっ] 局[きょく]	pharmacy	[sound:MNN_薬局.mp3]	L45U
+2607	診察する	診[しん] 察[さつ]する	examine	[sound:MNN_診察する.mp3]	L45U
+2608	検査する	検[けん] 査[さ]する	scan, test	[sound:MNN_検査する.mp3]	L45U
+2609	注射する	注[ちゅう] 射[しゃ]する	inject	[sound:MNN_注射する.mp3]	L45U
+2610	レントゲンを撮る	レントゲンを 撮[と]る	take an X-ray	[sound:MNN_レントゲンを撮る.mp3]	L45U
+2611	入院する	入[にゅう] 院[いん]する	be admitted to hospital	[sound:MNN_入院する.mp3]	L45U
+2612	手術する	手[しゅ] 術[じゅつ]する	operate	[sound:MNN_手術する.mp3]	L45U
+2613	麻酔する	麻[ま] 酔[すい]する	anaesthetize (induce a loss of consciousness)	[sound:MNN_麻酔する.mp3]	L45U
+2614	処方箋	処[しょ] 方[ほう] 箋[せん]	prescription	[sound:MNN_処方箋.mp3]	L45U
+2615	カルテ	カルテ	patient's chart	[sound:MNN_カルテ.mp3]	L45U
+2616	診察券	診[しん] 察[さつ] 券[けん]	patient's registration ticket	[sound:MNN_診察券.mp3]	L45U
+2617	薬の種類	薬[くすり]の 種[しゅ] 類[るい]	types of medicine	[sound:MNN_薬の種類.mp3]	L45U
+2618	痛み止め	痛[いた]み 止[ど]め	painkillers	[sound:MNN_痛み止め.mp3]	L45U
+2619	湿布薬	湿[しっ] 布[ぷ] 薬[やく]	analgesic plasters, poultice, cataplasm	[sound:MNN_湿布薬.mp3]	L45U
+2620	解熱剤	解[げ] 熱[ねつ] 剤[ざい]	antipyretics (prevent or reduce fever)	[sound:MNN_解熱剤.mp3]	L45U
+2621	錠剤	錠[じょう] 剤[ざい]	tablets (pills)	[sound:MNN_錠剤.mp3]	L45U
+2622	粉薬	粉[こな] 薬[ぐすり]	powder medicine	[sound:MNN_粉薬.mp3]	L45U
+2623	カプセル	カプセル	capsules	[sound:MNN_カプセル.mp3]	L45U
+2624	渡します	渡[わた]します	hand over	[sound:MNN_渡します.mp3]	L46
+2625	帰ってきます	帰[かえ]ってきます	come back	[sound:MNN_帰ってきます.mp3]	L46
+2626	バスが出ます	バスが 出[で]ます	a bus leaves, departs	[sound:MNN_バスが出ます.mp3]	L46
+2627	荷物が届きます	荷[に] 物[もつ]が 届[とど]きます	parcels to be delivered	[sound:MNN_荷物が届きます.mp3]	L46
+2628	大学に入学します	大[だい] 学[がく]に 入[にゅう] 学[がく]します	enter a university	[sound:MNN_大学に入学します.mp3]	L46
+2629	大学を卒業します	大[だい] 学[がく]を 卒[そつ] 業[ぎょう]します	graduate from a university	[sound:MNN_大学を卒業します.mp3]	L46
+2630	焼きます	焼[や]きます	bake, grill, roast	[sound:MNN_焼きます.mp3]	L46
+2631	パンが焼けます	パンが 焼[や]けます	bread to be baked	[sound:MNN_パンが焼けます.mp3]	L46
+2632	肉が焼けます	肉[にく]が 焼[や]けます	meat to be roasted, be grilled	[sound:MNN_肉が焼けます.mp3]	L46
+2633	留守	留[る] 守[す]	absence	[sound:MNN_留守.mp3]	L46
+2634	原因	原[げん] 因[いん]	cause	[sound:MNN_原因.mp3]	L46
+2635	～の所	～の 所[ところ]	where ～ is/are, by the ～	[sound:MNN_～の所.mp3]	L46
+2636	半年	半[はん] 年[とし]	half a year	[sound:MNN_半年.mp3]	L46
+2637	ちょうど	ちょうど	just, exactly	[sound:MNN_ちょうど.mp3]	L46
+2638	たった今	たった 今[いま]	just now (used with past tense; indicates completion)	[sound:MNN_たった今.mp3]	L46
+2639	今いいですか。	今[いま]いいですか。	Have you got a moment?	[sound:MNN_今いいですか。.mp3]	L46
+2640	ガスサービスセンター	ガスサービスセンター	gas service centre	[sound:MNN_ガスサービスセンター.mp3]	L46
+2641	ガスレンジ	ガスレンジ	gas range, gas cooker	[sound:MNN_ガスレンジ.mp3]	L46
+2642	具合	具[ぐ] 合[あい]	condition	[sound:MNN_具合.mp3]	L46
+2643	申し訳ありません。	申[もう]し 訳[わけ]ありません。	I'm sorry.	[sound:MNN_申し訳ありません。.mp3]	L46
+2644	向かいます	向[む]かいます	head for	[sound:MNN_向かいます.mp3]	L46
+2645	ついています	ついています	be lucky	[sound:MNN_ついています.mp3]	L46
+2646	床	床[ゆか]	floor	[sound:MNN_床.mp3]	L46
+2647	転びます	転[ころ]びます	fall down, fall over	[sound:MNN_転びます.mp3]	L46
+2648	ベル	ベル	bell	[sound:MNN_ベル.mp3]	L46
+2649	順番に	順[じゅん] 番[ばん]に	in order	[sound:MNN_順番に.mp3]	L46
+2650	出来事	出[で] 来[き] 事[ごと]	incident	[sound:MNN_出来事.mp3]	L46
+2651	服飾	服[ふく] 飾[しょく]	clothing and accessories	[sound:MNN_服飾.mp3]	L46U
+2652	医療	医[い] 療[りょう]	medical care, medical treatment​	[sound:MNN_医療.mp3]	L46U
+2653	その他	その 他[た]	others, misc., etc.	[sound:MNN_その他.mp3]	L46U
+2654	ジャム	ジャム	jam	[sound:MNN_ジャム.mp3]	L46U
+2655	クッキー	クッキー	cookie	[sound:MNN_クッキー.mp3]	L46U
+2656	チーズ	チーズ	cheese	[sound:MNN_チーズ.mp3]	L46U
+2657	オムレツ	オムレツ	omelette	[sound:MNN_オムレツ.mp3]	L46U
+2658	フランクフルト	フランクフルト	frankfurter	[sound:MNN_フランクフルト.mp3]	L46U
+2659	カステラ	カステラ	sponge cake	[sound:MNN_カステラ.mp3]	L46U
+2660	マカロニ	マカロニ	macaroni	[sound:MNN_マカロニ.mp3]	L46U
+2661	パスタ	パスタ	pasta	[sound:MNN_パスタ.mp3]	L46U
+2662	エプロン	エプロン	apron	[sound:MNN_エプロン.mp3]	L46U
+2663	ランジェリー	ランジェリー	lingerie	[sound:MNN_ランジェリー.mp3]	L46U
+2664	ホック	ホック	hook	[sound:MNN_ホック.mp3]	L46U
+2665	ズック	ズック	deck shoes, plimsolls	[sound:MNN_ズック.mp3]	L46U
+2666	ビロード	ビロード	velvet	[sound:MNN_ビロード.mp3]	L46U
+2667	レントゲン	レントゲン	X-ray	[sound:MNN_レントゲン.mp3]	L46U
+2668	アレルギー	アレルギー	allergy	[sound:MNN_アレルギー.mp3]	L46U
+2669	メス	メス	scalpel	[sound:MNN_メス.mp3]	L46U
+2670	ピンセット	ピンセット	tweezers	[sound:MNN_ピンセット.mp3]	L46U
+2671	コーラス	コーラス	chorus	[sound:MNN_コーラス.mp3]	L46U
+2672	メロディー	メロディー	melody	[sound:MNN_メロディー.mp3]	L46U
+2673	バレエ	バレエ	ballet	[sound:MNN_バレエ.mp3]	L46U
+2674	アトリエ	アトリエ	studio	[sound:MNN_アトリエ.mp3]	L46U
+2675	メルヘン	メルヘン	fairy tale	[sound:MNN_メルヘン.mp3]	L46U
+2676	オルゴール	オルゴール	musical box	[sound:MNN_オルゴール.mp3]	L46U
+2677	スケジュール	スケジュール	schedule	[sound:MNN_スケジュール.mp3]	L46U L50
+2678	ティッシュペーパー	ティッシュペーパー	tissue paper	[sound:MNN_ティッシュペーパー.mp3]	L46U
+2679	アンケート	アンケート	questionnaire	[sound:MNN_アンケート.mp3]	L46U
+2680	コンクール	コンクール	competition	[sound:MNN_コンクール.mp3]	L46U
+2681	エネルギー	エネルギー	energy	[sound:MNN_エネルギー.mp3]	L46U
+2682	テーム	テーム	theme, topic	[sound:MNN_テーム.mp3]	L46U
+2683	ゴム	ゴム	rubber	[sound:MNN_ゴム.mp3]	L46U
+2684	ペンキ	ペンキ	paint	[sound:MNN_ペンキ.mp3]	L46U
+2685	カルタ	カルタ	playing card	[sound:MNN_カルタ.mp3]	L46U
+2686	風が吹きます	風[かぜ]が 吹[ふ]きます	wind blows	[sound:MNN_風が吹きます.mp3]	L47
+2687	ごみが燃えます	ごみが 燃[も]えます	rubbish burns	[sound:MNN_ごみが燃えます.mp3]	L47
+2688	亡くなります（死にます）	亡[な]くなります（ 死[し]にます）	pass away	[sound:MNN_亡くなります.mp3][sound:MNN_死にます.mp3]	L47
+2689	人が集まります	人[ひと]が 集[あつ]まります	people gathers	[sound:MNN_人が集まります.mp3]	L47
+2690	人が別れます	人[ひと]が 別[わか]れます	people parts, separates	[sound:MNN_人が別れます.mp3]	L47
+2691	音がします	音[おと]がします	sound can be heard	[sound:MNN_音がします.mp3]	L47
+2692	声がします	声[こえ]がします	voice can be heard	[sound:MNN_声がします.mp3]	L47
+2693	味がします	味[あじ]がします	to taste	[sound:MNN_味がします.mp3]	L47
+2694	匂いがします	匂[にお]いがします	to smell	[sound:MNN_匂いがします.mp3]	L47
+2695	ひどい	ひどい	terrible, severe	[sound:MNN_ひどい.mp3]	L47
+2696	実験	実[じっ] 験[けん]	experiment	[sound:MNN_実験.mp3]	L47
+2697	データ	データ	data	[sound:MNN_データ.mp3]	L47
+2698	人口	人[じん] 口[こう]	population	[sound:MNN_人口.mp3]	L47
+2699	匂い	匂[にお]い	smell	[sound:MNN_匂い.mp3]	L47
+2700	科学	科[か] 学[がく]	science	[sound:MNN_科学.mp3]	L47
+2701	パトカー	パトカー	police car	[sound:MNN_パトカー.mp3]	L47
+2702	救急車	救[きゅう] 急[きゅう] 車[しゃ]	ambulance	[sound:MNN_救急車.mp3]	L47
+2703	賛成	賛[さん] 成[せい]	approval, agreement	[sound:MNN_賛成.mp3]	L47
+2704	反対	反[はん] 対[たい]	objection, opposition	[sound:MNN_反対.mp3]	L47
+2705	大統領	大[だい] 統[とう] 領[りょう]	president	[sound:MNN_大統領.mp3]	L47
+2706	～によると	～によると	according to ～	[sound:MNN_～によると.mp3]	L47
+2707	婚約します	婚[こん] 約[やく]します	get engaged	[sound:MNN_婚約します.mp3]	L47
+2708	どうも	どうも	it seems that (used when making a tentative judgement)	[sound:MNN_どうも.mp3]	L47
+2709	化粧をします	化[け] 粧[しょう]をします	put on makeup	[sound:MNN_化粧をします.mp3]	L47
+2710	女性	女[じょ] 性[せい]	female, woman	[sound:MNN_女性.mp3]	L47
+2711	男性	男[だん] 性[せい]	male, man	[sound:MNN_男性.mp3]	L47
+2712	長生きします	長[なが] 生[い]きします	live long	[sound:MNN_長生きします.mp3]	L47
+2713	擬音語	擬[ぎ] 音[おん] 語[ご]	onomatopoeic word	[sound:MNN_擬音語.mp3]	L47U
+2714	擬態語	擬[ぎ] 態[たい] 語[ご]	phenomime, mimetic word	[sound:MNN_擬態語.mp3]	L47U
+2715	ザーザー（降る）	ザーザー（ 降[ふ]る）	pour, crash (rain)	[sound:MNN_ザーザー.mp3][sound:MNN_降る.mp3]	L47U
+2716	ピューピュー（吹く）	ピューピュー（ 吹[ふ]く）	whistle, howl (wind)	[sound:MNN_ピューピュー.mp3][sound:MNN_吹く.mp3]	L47U
+2717	ゴロゴロ（鳴る）	ゴロゴロ（ 鳴[な]る）	roll, growl (thunder)	[sound:MNN_ゴロゴロ.mp3][sound:MNN_鳴る.mp3]	L47U
+2718	ワンワン（ほえる）	ワンワン（ほえる）	bow-wow	[sound:MNN_ワンワン.mp3][sound:MNN_ほえる.mp3]	L47U
+2719	ニャーニャー（鳴く）	ニャーニャー（ 鳴[な]く）	meow	[sound:MNN_ニャーニャー.mp3][sound:MNN_鳴く.mp3]	L47U
+2720	かーかー（鳴く）	かーかー（ 鳴[な]く）	caw	[sound:MNN_かーかー.mp3][sound:MNN_鳴く.mp3]	L47U
+2721	げらげら（笑う）	げらげら（ 笑[わら]う）	guffaw	[sound:MNN_げらげら.mp3][sound:MNN_笑う.mp3]	L47U
+2722	しくしく（泣く）	しくしく（ 泣[な]く）	sob	[sound:MNN_しくしく.mp3][sound:MNN_泣く.mp3]	L47U
+2723	きょろきょろ（見る）	きょろきょろ（ 見[み]る）	(look around) restlessly	[sound:MNN_きょろきょろ.mp3][sound:MNN_見る.mp3]	L47U
+2724	ぱくぱく（食べる）	ぱくぱく（ 食[た]べる）	(eat) heartily, gobble	[sound:MNN_ぱくぱく.mp3][sound:MNN_食べる.mp3]	L47U
+2725	ぐうぐう（寝る）	ぐうぐう（ 寝[ね]る）	be fast asleep	[sound:MNN_ぐうぐう.mp3][sound:MNN_寝る.mp3]	L47U
+2726	すらすら（読む）	すらすら（ 読[よ]む）	(read) fluently	[sound:MNN_すらすら.mp3][sound:MNN_読む.mp3]	L47U
+2727	ざらざら（している）	ざらざら（している）	(feel) rough	[sound:MNN_ざらざら.mp3][sound:MNN_している.mp3]	L47U
+2728	べたべた（している）	べたべた（している）	(be) sticky	[sound:MNN_べたべた.mp3][sound:MNN_している.mp3]	L47U
+2729	つるつる（している）	つるつる（している）	(be) smooth, slippery	[sound:MNN_つるつる.mp3][sound:MNN_している.mp3]	L47U
+2730	降ろします、下ろします	降[お]ろします、 下[お]ろします	put down, lower, unload	[sound:MNN_降ろします、下ろします.mp3]	L48
+2731	届けます	届[とど]けます	deliver	[sound:MNN_届けます.mp3]	L48
+2732	録音します	録[ろく] 音[おん]します	record	[sound:MNN_録音します.mp3]	L48
+2733	塾	塾[じゅく]	cram school	[sound:MNN_塾.mp3]	L48
+2734	生徒	生[せい] 徒[と]	pupil	[sound:MNN_生徒.mp3]	L48
+2735	～間	～ 間[かん]	for ～ (referring to duration)	[sound:MNN_～間.mp3]	L48
+2736	いいことですね。	いいことですね。	That's a good thing.	[sound:MNN_いいことですね。.mp3]	L48
+2737	お忙しいですか。	お 忙[いそが]しいですか。	Are you busy? (talking to elderlies)	[sound:MNN_お忙しいですか。.mp3]	L48
+2738	営業	営[えい] 業[ぎょう]	business, sales	[sound:MNN_営業.mp3]	L48
+2739	それまでに	それまでに	by that time	[sound:MNN_それまでに.mp3]	L48
+2740	かまいません	かまいません	It's all right./I don't mind.	[sound:MNN_かまいません.mp3]	L48
+2741	楽しみます	楽[たの]しみます	enjoy oneself	[sound:MNN_楽しみます.mp3]	L48
+2742	親	親[おや]	parent	[sound:MNN_親.mp3]	L48
+2743	小学生	小[しょう] 学[がく] 生[せい]	pupil, junior/elementary schoolchild	[sound:MNN_小学生.mp3]	L48
+2744	ーパーセント	ーパーセント	ー percent	[sound:MNN_ーパーセント.mp3]	L48
+2745	その次	その 次[つぎ]	next	[sound:MNN_その次.mp3]	L48
+2746	習字	習[しゅう] 字[じ]	penmanship (the art or skill of writing by hand, calligraphy)	[sound:MNN_習字.mp3]	L48
+2747	普通の	普[ふ] 通[つう]の	normal, usual	[sound:MNN_普通の.mp3]	L48
+2748	しつける	しつける	to train, to discipline, to teach manners​	[sound:MNN_しつける.mp3]	L48U
+2749	鍛える	鍛[きた]える	to drill, to train, to discipline​	[sound:MNN_鍛える.mp3]	L48U
+2750	経験	経[けい] 験[けん]	experience​	[sound:MNN_経験.mp3]	L48U
+2751	年寄り	年[とし] 寄[よ]り	old person, elderly person, senior citizen	[sound:MNN_年寄り.mp3]	L48U
+2752	決める	決[き]める	to decide	[sound:MNN_決める.mp3]	L48U
+2753	自信	自[じ] 信[しん]	confidence	[sound:MNN_自信.mp3]	L48U
+2754	責任	責[せき] 任[にん]	responsibility	[sound:MNN_責任.mp3]	L48U
+2755	我慢	我[が] 慢[まん]	patience, tolerance	[sound:MNN_我慢.mp3]	L48U
+2756	会社に勤めます	会[かい] 社[しゃ]に 勤[つと]めます	work for a company	[sound:MNN_会社に勤めます.mp3]	L49
+2757	椅子に掛けます	椅子[いす]に 掛[か]けます	sit on a chair	[sound:MNN_椅子に掛けます.mp3]	L49
+2758	過ごします	過[す]ごします	spend (time), pass (time)	[sound:MNN_過ごします.mp3]	L49
+2759	召し上がります	召[め]し 上[あ]がります	eat, drink (respectful of たべます、のみます)	[sound:MNN_召し上がります.mp3]	L49
+2760	おっしゃいます	おっしゃいます	say, (one's name) is ～ (respectful of いいます)	[sound:MNN_おっしゃいます.mp3]	L49
+2761	なさいます	なさいます	do (respectful of します)	[sound:MNN_なさいます.mp3]	L49
+2762	ご覧になります	ご 覧[らん]になります	seeing, looking at (respectful of みます)	[sound:MNN_ご覧になります.mp3]	L49
+2763	ご存知です	ご 存[ぞん] 知[じ]です	know (respectful of しっています)	[sound:MNN_ご存知です.mp3]	L49
+2764	旅館	旅[りょ] 館[かん]	Japanese-style hotel or inn	[sound:MNN_旅館.mp3]	L49
+2765	奥様	奥[おく] 様[さま]	(someone's) wife (respectful of おくさん)	[sound:MNN_奥様.mp3]	L49
+2766	たまに	たまに	once in a while	[sound:MNN_たまに.mp3]	L49
+2767	どなたでも	どなたでも	anybody (respectful of だれでも)	[sound:MNN_どなたでも.mp3]	L49
+2768	～といいます	～といいます	(one's name) is ～	[sound:MNN_～といいます.mp3]	L49
+2769	ー年ー組	ー 年[ねん]ー 組[くみ]	class ー of -th grade	[sound:MNN_ー年ー組.mp3]	L49
+2770	熱を出します	熱[ねつ]を 出[だ]します	run a fever	[sound:MNN_熱を出します.mp3]	L49
+2771	よろしくお伝えください。	よろしくお 伝[つた]えください。	Give my best regards./Please say hello.	[sound:MNN_よろしくお伝えください。.mp3]	L49
+2772	失礼いたします。	失[しつ] 礼[れい]いたします。	Goodbye. (humble of しつれいします)	[sound:MNN_失礼いたします。.mp3]	L49
+2773	経歴	経[けい] 歴[れき]	background	[sound:MNN_経歴.mp3]	L49
+2774	医学部	医[い] 学[がく] 部[ぶ]	medical department	[sound:MNN_医学部.mp3]	L49
+2775	目指します	目[め] 指[ざ]します	aim for	[sound:MNN_目指します.mp3]	L49
+2776	進みます	進[すす]みます	go on (to graduate school)	[sound:MNN_進みます.mp3]	L49
+2777	細胞	細[さい] 胞[ぼう]	cell	[sound:MNN_細胞.mp3]	L49
+2778	開発します	開[かい] 発[はつ]します	develop, create	[sound:MNN_開発します.mp3]	L49
+2779	マウス	マウス	mouse	[sound:MNN_マウス.mp3]	L49
+2780	受賞します	受[じゅ] 賞[しょう]します	be awarded a prize	[sound:MNN_受賞します.mp3]	L49
+2781	講演会	講[こう] 演[えん] 会[かい]	lecture meeting	[sound:MNN_講演会.mp3]	L49
+2782	行事	行[ぎょう] 事[じ]	event, function​	[sound:MNN_行事.mp3]	L49U
+2783	豆まき	豆[まめ]まき	Bean-Scattering Ceremony (２月３日ごろ)	[sound:MNN_豆まき.mp3]	L49U
+2784	ひな祭り	ひな 祭[まつ]り	Doll's Festival (3月3日)	[sound:MNN_ひな祭り.mp3]	L49U
+2785	お月見	お 月[つき] 見[み]	Moon Viewing (９月１５日ごろ)	[sound:MNN_お月見.mp3]	L49U
+2786	大晦日	大[おお] 晦[みそ] 日[か]	New Year's Eve (１２月３１日)	[sound:MNN_大晦日.mp3]	L49U
+2787	参ります	参[まい]ります	go, come (humble of いきます、きます)	[sound:MNN_参ります.mp3]	L50
+2788	おります	おります	be (humble of います)	[sound:MNN_おります.mp3]	L50
+2789	申します、申し上ます	申[もう]します、 申[もう]し 上[あげ]ます	say, (one's name) is ～ (humble of いいます)	[sound:MNN_申します、申し上ます.mp3]	L50
+2790	いたします	いたします	do (humble of します)	[sound:MNN_いたします.mp3]	L50
+2791	拝見します	拝[はい] 見[けん]します	seeing, looking at (humble of みます)	[sound:MNN_拝見します.mp3]	L50
+2792	存じます	存[ぞん]じます	know (humble of しっています)	[sound:MNN_存じます.mp3]	L50
+2793	お目にかかります	お 目[め]にかかります	meet (humble of あいます)	[sound:MNN_お目にかかります.mp3]	L50
+2794	コーヒーを入れます	コーヒーを 入[い]れます	make coffee	[sound:MNN_コーヒーを入れます.mp3]	L50
+2795	用意します	用[よう] 意[い]します	prepare, getting ready	[sound:MNN_用意します.mp3]	L50
+2796	私	私[わたくし]	I (humble of わたし)	[sound:MNN_私.mp3]	L50
+2797	ガイド	ガイド	guide	[sound:MNN_ガイド.mp3]	L50
+2798	メールアドレス	メールアドレス	e-mail address	[sound:MNN_メールアドレス.mp3]	L50
+2799	再来週	再[さ] 来[らい] 週[しゅう]	the week after next	[sound:MNN_再来週.mp3]	L50
+2800	再来月	再[さ] 来[らい] 月[げつ]	the month after next	[sound:MNN_再来月.mp3]	L50
+2801	再来年	再[さ] 来[らい] 年[ねん]	the year after next	[sound:MNN_再来年.mp3]	L50
+2802	初めに	初[はじ]めに	first	[sound:MNN_初めに.mp3]	L50
+2803	緊張します	緊[きん] 張[ちょう]します	become tense, be strained, be nervous	[sound:MNN_緊張します.mp3]	L50
+2804	賞金	賞[しょう] 金[きん]	prize money	[sound:MNN_賞金.mp3]	L50
+2805	きりん	きりん	giraffe	[sound:MNN_きりん.mp3]	L50
+2806	ころ	ころ	times, days	[sound:MNN_ころ.mp3]	L50
+2807	夢がかないます	夢[ゆめ]がかないます	dream be realized, comes true	[sound:MNN_夢がかないます.mp3]	L50
+2808	応援します	応[おう] 援[えん]します	support	[sound:MNN_応援します.mp3]	L50
+2809	心から	心[こころ]から	from one's heart, sincerely	[sound:MNN_心から.mp3]	L50
+2810	感謝します	感[かん] 謝[しゃ]します	thank, be grateful	[sound:MNN_感謝します.mp3]	L50
+2811	お元気でいらっしゃいますか。	お 元[げん] 気[き]でいらっしゃいますか。	How are you doing (respectful of おげんきですか)	[sound:MNN_お元気でいらっしゃいますか。.mp3]	L50
+2812	迷惑をかけます	迷[めい] 惑[わく]をかけます	cause trouble, annoyance, inconvenience	[sound:MNN_迷惑をかけます.mp3]	L50
+2813	生かします	生[い]かします	make good use of	[sound:MNN_生かします.mp3]	L50
+2814	宛名	宛[あて] 名[な]	(addressee's) name, (recipient's) name and address​	[sound:MNN_宛名.mp3]	L50U
+2815	おとといの朝	おとといの 朝[あさ]	the morning before last	[sound:MNN_おとといの朝.mp3]	L51
+2816	昨日の朝	昨日[きのう]の 朝[あさ]	yesterday morning	[sound:MNN_昨日の朝.mp3]	L51
+2817	明日の朝	明日[あした]の 朝[あさ]	tomorrow morning	[sound:MNN_明日の朝.mp3]	L51
+2818	明後日の朝	明後日[あさって]の 朝[あさ]	the morning after next	[sound:MNN_明後日の朝.mp3]	L51
+2819	おとといの晩（夜）	おとといの 晩[ばん]（ 夜[よる]）	the night before last	[sound:MNN_おとといの晩.mp3][sound:MNN_夜.mp3]	L51
+2820	昨日の晩（夜）	昨日[きのう]の 晩[ばん]（ 夜[よる]）	last night	[sound:MNN_昨日の晩.mp3][sound:MNN_夜.mp3]	L51
+2821	明日の晩（夜）	明日[あした]の 晩[ばん]（ 夜[よる]）	tomorrow night	[sound:MNN_明日の晩.mp3][sound:MNN_夜.mp3]	L51
+2822	明後日の晩（夜）	明後日[あさって]の 晩[ばん]（ 夜[よる]）	the night after next	[sound:MNN_明後日の晩.mp3][sound:MNN_夜.mp3]	L51
+2823	先々週（二週間前）	先[せん] 々[せん] 週[しゅう]（ 二[に] 週[しゅう] 間[かん] 前[まえ]）	the week before last	[sound:MNN_先々週.mp3][sound:MNN_二週間前.mp3]	L51
+2824	先々月（二週間前）	先[せん] 々[せん] 月[げつ]（ 二[に] 週[しゅう] 間[かん] 前[まえ]）	the month before last	[sound:MNN_先々月.mp3][sound:MNN_二週間前.mp3]	L51
 2825	アフリカ	アフリカ	Africa	[sound:MNN_アフリカ.mp3]	L35
 2826	バザー	バザー	bazaar	[sound:MNN_バザー.mp3]	L41U
 2827	カット	カット	haircut	[sound:MNN_カット.mp3]	L44
