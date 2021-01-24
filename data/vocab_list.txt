@@ -182,8 +182,8 @@
 朝[あさ]	morning	L04
 昼[ひる]	daytime, noon	L04
 晩[ばん]（ 夜[よる]）	night, evening	L04
-一昨日[おととい]（一昨日[おととい]）	the day before yesterday	L04
-昨日[きのう]（昨日[きのう]）	yesterday	L04
+一昨日[おととい]（ 一昨日[おととい]）	the day before yesterday	L04
+昨日[きのう]（ 昨日[きのう]）	yesterday	L04
 今日[きょう]	today	L04
 明日[あした]	tomorrow	L04
 明後日[あさって]	the day after tomorrow	L04
@@ -859,7 +859,7 @@
 立[た]ちます	stand up	L14
 「 喫[きっ] 茶[さ] 店[てん]に」 入[はい]ります	enter a coffee shop	L14
 「 喫[きっ] 茶[さ] 店[てん]を」 出[で]ます	go out of a coffee shop	L14
-「雨[あめ]が」 降[ふ]ります	rain	L14
+「 雨[あめ]が」 降[ふ]ります	rain	L14
 コピーします	to copy	L14
 電[でん] 気[き]	electricity, light	L14
 エアコン	air conditioner	L14
@@ -1259,10 +1259,10 @@
 駅[えき] 長[ちょう]	station master​	L21U
 警[けい] 察[さつ]	police station	L21U L33
 署[しょ] 長[ちょう]	chief, head, officer in charge (of an office, of a laboratory)​	L21U
-「 着[き] 物[もの]を」着[き]ます	put on [a Kimono（和服）] (shirt, etc.)	L22
+「 着[き] 物[もの]を」 着[き]ます	put on [a Kimono（和服）] (shirt, etc.)	L22
 「靴を」 履[は]きます	put on [shoes] (trousers, etc.)	L22
-「帽子を」被[かぶ]ります	put on [a hat] (helmet, etc.)	L22
-「眼鏡[めがね]を」かけます	put on [glasses]	L22
+「帽子を」 被[かぶ]ります	put on [a hat] (helmet, etc.)	L22
+「 眼鏡[めがね]を」かけます	put on [glasses]	L22
 「ネクタイを」します	put on [tie]	L22
 生[う]まれます	be born	L22 L25U
 私[わたし] 達[たち]	we	L22
@@ -1406,8 +1406,8 @@
 死[し]にます	die	L25U L39
 見[み]ます（ 診[み]ます）	check, take a look at	L26
 探[さが]します（ 捜[さが]します）	look for, search	L26
-「時[じ] 間[かん]に」 遅[おく]れます	be late [for appointment, etc.]	L26
-「時[じ] 間[かん]に」 間[ま]に 合[あ]います	be in time [for appointment, etc.]	L26
+「 時[じ] 間[かん]に」 遅[おく]れます	be late [for appointment, etc.]	L26
+「 時[じ] 間[かん]に」 間[ま]に 合[あ]います	be in time [for appointment, etc.]	L26
 やります	do; give (to a younger person, subordinate, animal or plants)	L26 L41
 拾[ひろ]います	pick up	L26
 連[れん] 絡[らく]します	contact, get in touch with	L26
@@ -1432,7 +1432,7 @@
 こんな～	～ like this	L26
 そんな～	～ like that (near the listener)	L26
 あんな～	～ like that (far from speaker and listener)	L26
-「荷[に] 物[もつ]が」 片[かた]づきます	put [the boxes] in order, tidy up [the boxes]	L26
+「 荷[に] 物[もつ]が」 片[かた]づきます	put [the boxes] in order, tidy up [the boxes]	L26
 「ごみを」 出[だ]します	put [the rubbish] out	L26
 燃[も]えるごみ	burnable rubbish	L26
 置[お]き 場[ば]	place where something is put	L26
@@ -1464,11 +1464,11 @@
 事[じ] 前[ぜん]	in advance	L26U
 申[もう]し 込[こ]み	application, request	L26U
 飼[か]います	keep a pet, raise an animal	L27
-「道[みち]を」 走[はし]ります	run, drive [along a road]	L27
-「山[やま]が」 見[み]えます	[a mountain] can be seen	L27
-「音[おと]が」 聞[き]こえます	[a sound] can be heard	L27
-「道[みち]が」できます	[a road (friend, meal)] can be made, be completed, come into existence	L27
-「教[きょう] 室[しつ]を」 開[ひら]きます	set up, open, hold [a class], host (Olympic)	L27
+「 道[みち]を」 走[はし]ります	run, drive [along a road]	L27
+「 山[やま]が」 見[み]えます	[a mountain] can be seen	L27
+「 音[おと]が」 聞[き]こえます	[a sound] can be heard	L27
+「 道[みち]が」できます	[a road (friend, meal)] can be made, be completed, come into existence	L27
+「 教[きょう] 室[しつ]を」 開[ひら]きます	set up, open, hold [a class], host (Olympic)	L27
 心[しん] 配[ぱい]「な」	worried, anxious	L27
 ペット	pet	L27
 鳥[とり]	bird	L27
@@ -1531,7 +1531,7 @@
 踊[おど]ります	dance	L28
 噛[か]みます	chew, bite	L28
 選[えら]びます	choose	L28
-「大[だい] 学[がく]に」 通[かよ]います	go to and from [university]	L28
+「 大[だい] 学[がく]に」 通[かよ]います	go to and from [university]	L28
 メモします	take a memo	L28
 真面目[まじめ]「な」	serious	L28 L43U
 熱[ねっ] 心[しん]「な」	earnest	L28
@@ -1542,7 +1542,7 @@
 経[けい] 験[けん]「があります」	[be] experienced	L28
 経[けい] 験[けん]「をします」	experience [sth.]	L28
 力[ちから]	power	L28
-「学[がく] 生[せい]に」 人[にん] 気[き]「があります」	[be] popular [with] [students]	L28
+「 学[がく] 生[せい]に」 人[にん] 気[き]「があります」	[be] popular [with] [students]	L28
 ガム	chewing gum	L28
 品[しな] 物[もの]	goods	L28
 値[ね] 段[だん]	price	L28
@@ -1582,19 +1582,19 @@
 不[ふ] 動[どう] 産[さん]	real estate	L28U
 「ドアが」 開[あき]ます	[a door] opens	L29
 「ドアが」 閉[し]まります	[a door] closes/shuts	L29
-「電[でん] 気[き]が」つきます	[a light] turns/come on	L29
-「電[でん] 気[き]が」 消[き]えます	[a light] goes off	L29
+「 電[でん] 気[き]が」つきます	[a light] turns/come on	L29
+「 電[でん] 気[き]が」 消[き]えます	[a light] goes off	L29
 「いすが」 壊[こわ]れます	[a chair] breaks	L29
 「コップが」 割[わ]れます	[a glass] breaks/smashes	L29
-「木[き]が」 折[お]れます	[a tree] breaks/snaps	L29
-「紙[かみ]が」 破[やぶ]れます	[a paper] tears	L29
-「服[ふく]が」 汚[よご]れます	[the clothes] get dirty	L29
+「 木[き]が」 折[お]れます	[a tree] breaks/snaps	L29
+「 紙[かみ]が」 破[やぶ]れます	[a paper] tears	L29
+「 服[ふく]が」 汚[よご]れます	[the clothes] get dirty	L29
 「ポケットが」 付[つ]きます	[a pocket] attaches	L29
 「ボタンが」 外[はず]れます	[a button] is undone	L29
-「車[くるま]が」 止[と]まります	[a car] stops/parks	L29
+「 車[くるま]が」 止[と]まります	[a car] stops/parks	L29
 まちがえます	make a mistake	L29
 落[お]とします	drop, lose	L29
-「鍵[かぎ]が」 掛[か]かります	to become locked (automatic locking)	L29
+「 鍵[かぎ]が」 掛[か]かります	to become locked (automatic locking)	L29
 拭[ふ]きます	wipe	L29
 取[と]り 替[か]えます	change, replace	L29
 片[かた]づけます	put (things) in order, tidy up	L29
@@ -1720,8 +1720,8 @@
 緊[きん] 急[きゅう]	urgency, emergency	L30U
 続[つづ]けます	continue	L31
 見[み]つけます	find	L31
-「休[やす]みを」 取[と]ります	take [a holiday]	L31
-「試[し] 験[けん]を」 受[う]けます	take [an examination]	L31
+「 休[やす]みを」 取[と]ります	take [a holiday]	L31
+「 試[し] 験[けん]を」 受[う]けます	take [an examination]	L31
 申[もう]し 込[こ]みます	apply for, enter for	L31
 休[きゅう] 憩[けい]します	take a break, take a rest	L31
 連[れん] 休[きゅう]	consecutive holidays	L31

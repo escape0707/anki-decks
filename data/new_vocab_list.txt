@@ -182,8 +182,8 @@
 182	朝	朝[あさ]	morning	[sound:MNN_朝.mp3]	L04
 183	昼	昼[ひる]	daytime, noon	[sound:MNN_昼.mp3]	L04
 184	晩（夜）	晩[ばん]（ 夜[よる]）	night, evening	[sound:MNN_晩.mp3][sound:MNN_夜.mp3]	L04
-185	一昨日（一昨日）	一昨日[おととい]（一昨日[おととい]）	the day before yesterday	[sound:MNN_一昨日_1.mp3][sound:MNN_一昨日_2.mp3]	L04
-186	昨日（昨日）	昨日[きのう]（昨日[きのう]）	yesterday	[sound:MNN_昨日_1.mp3][sound:MNN_昨日_2.mp3]	L04
+185	一昨日（一昨日）	一昨日[おととい]（ 一昨日[おととい]）	the day before yesterday	[sound:MNN_一昨日_1.mp3][sound:MNN_一昨日_2.mp3]	L04
+186	昨日（昨日）	昨日[きのう]（ 昨日[きのう]）	yesterday	[sound:MNN_昨日_1.mp3][sound:MNN_昨日_2.mp3]	L04
 187	今日	今日[きょう]	today	[sound:MNN_今日.mp3]	L04
 188	明日	明日[あした]	tomorrow	[sound:MNN_明日.mp3]	L04
 189	明後日	明後日[あさって]	the day after tomorrow	[sound:MNN_明後日.mp3]	L04
@@ -859,7 +859,7 @@
 859	立ちます	立[た]ちます	stand up	[sound:MNN_立ちます.mp3]	L14
 860	「喫茶店に」入ります	「 喫[きっ] 茶[さ] 店[てん]に」 入[はい]ります	enter a coffee shop	[sound:MNN_「喫茶店に」入ります.mp3]	L14
 861	「喫茶店を」出ます	「 喫[きっ] 茶[さ] 店[てん]を」 出[で]ます	go out of a coffee shop	[sound:MNN_「喫茶店を」出ます.mp3]	L14
-862	「雨が」降ります	「雨[あめ]が」 降[ふ]ります	rain	[sound:MNN_「雨が」降ります.mp3]	L14
+862	「雨が」降ります	「 雨[あめ]が」 降[ふ]ります	rain	[sound:MNN_「雨が」降ります.mp3]	L14
 863	コピーします	コピーします	to copy	[sound:MNN_コピーします.mp3]	L14
 864	電気	電[でん] 気[き]	electricity, light	[sound:MNN_電気.mp3]	L14
 865	エアコン	エアコン	air conditioner	[sound:MNN_エアコン.mp3]	L14
@@ -1259,10 +1259,10 @@
 1259	駅長	駅[えき] 長[ちょう]	station master​	[sound:MNN_駅長.mp3]	L21U
 1260	警察	警[けい] 察[さつ]	police station	[sound:MNN_警察.mp3]	L21U L33
 1261	署長	署[しょ] 長[ちょう]	chief, head, officer in charge (of an office, of a laboratory)​	[sound:MNN_署長.mp3]	L21U
-1262	「着物を」着ます	「 着[き] 物[もの]を」着[き]ます	put on [a Kimono（和服）] (shirt, etc.)	[sound:MNN_「着物を」着ます.mp3]	L22
+1262	「着物を」着ます	「 着[き] 物[もの]を」 着[き]ます	put on [a Kimono（和服）] (shirt, etc.)	[sound:MNN_「着物を」着ます.mp3]	L22
 1263	「靴を」履きます	「靴を」 履[は]きます	put on [shoes] (trousers, etc.)	[sound:MNN_「靴を」履きます.mp3]	L22
-1264	「帽子を」被ります	「帽子を」被[かぶ]ります	put on [a hat] (helmet, etc.)	[sound:MNN_「帽子を」被ります.mp3]	L22
-1265	「眼鏡を」かけます	「眼鏡[めがね]を」かけます	put on [glasses]	[sound:MNN_「眼鏡を」かけます.mp3]	L22
+1264	「帽子を」被ります	「帽子を」 被[かぶ]ります	put on [a hat] (helmet, etc.)	[sound:MNN_「帽子を」被ります.mp3]	L22
+1265	「眼鏡を」かけます	「 眼鏡[めがね]を」かけます	put on [glasses]	[sound:MNN_「眼鏡を」かけます.mp3]	L22
 1266	「ネクタイを」します	「ネクタイを」します	put on [tie]	[sound:MNN_「ネクタイを」します.mp3]	L22
 1267	生まれます	生[う]まれます	be born	[sound:MNN_生まれます.mp3]	L22 L25U
 1268	私達	私[わたし] 達[たち]	we	[sound:MNN_私達.mp3]	L22
@@ -1406,8 +1406,8 @@
 1406	死にます	死[し]にます	die	[sound:MNN_死にます.mp3]	L25U L39
 1407	見ます（診ます）	見[み]ます（ 診[み]ます）	check, take a look at	[sound:MNN_見ます.mp3][sound:MNN_診ます.mp3]	L26
 1408	探します（捜します）	探[さが]します（ 捜[さが]します）	look for, search	[sound:MNN_探します.mp3][sound:MNN_捜します.mp3]	L26
-1409	「時間に」遅れます	「時[じ] 間[かん]に」 遅[おく]れます	be late [for appointment, etc.]	[sound:MNN_「時間に」遅れます.mp3]	L26
-1410	「時間に」間に合います	「時[じ] 間[かん]に」 間[ま]に 合[あ]います	be in time [for appointment, etc.]	[sound:MNN_「時間に」間に合います.mp3]	L26
+1409	「時間に」遅れます	「 時[じ] 間[かん]に」 遅[おく]れます	be late [for appointment, etc.]	[sound:MNN_「時間に」遅れます.mp3]	L26
+1410	「時間に」間に合います	「 時[じ] 間[かん]に」 間[ま]に 合[あ]います	be in time [for appointment, etc.]	[sound:MNN_「時間に」間に合います.mp3]	L26
 1411	やります	やります	do; give (to a younger person, subordinate, animal or plants)	[sound:MNN_やります.mp3]	L26 L41
 1412	拾います	拾[ひろ]います	pick up	[sound:MNN_拾います.mp3]	L26
 1413	連絡します	連[れん] 絡[らく]します	contact, get in touch with	[sound:MNN_連絡します.mp3]	L26
@@ -1432,7 +1432,7 @@
 1432	こんな～	こんな～	～ like this	[sound:MNN_こんな～.mp3]	L26
 1433	そんな～	そんな～	～ like that (near the listener)	[sound:MNN_そんな～.mp3]	L26
 1434	あんな～	あんな～	～ like that (far from speaker and listener)	[sound:MNN_あんな～.mp3]	L26
-1435	「荷物が」片づきます	「荷[に] 物[もつ]が」 片[かた]づきます	put [the boxes] in order, tidy up [the boxes]	[sound:MNN_「荷物が」片づきます.mp3]	L26
+1435	「荷物が」片づきます	「 荷[に] 物[もつ]が」 片[かた]づきます	put [the boxes] in order, tidy up [the boxes]	[sound:MNN_「荷物が」片づきます.mp3]	L26
 1436	「ごみを」出します	「ごみを」 出[だ]します	put [the rubbish] out	[sound:MNN_「ごみを」出します.mp3]	L26
 1437	燃えるごみ	燃[も]えるごみ	burnable rubbish	[sound:MNN_燃えるごみ.mp3]	L26
 1438	置き場	置[お]き 場[ば]	place where something is put	[sound:MNN_置き場.mp3]	L26
@@ -1464,11 +1464,11 @@
 1464	事前	事[じ] 前[ぜん]	in advance	[sound:MNN_事前.mp3]	L26U
 1465	申し込み	申[もう]し 込[こ]み	application, request	[sound:MNN_申し込み.mp3]	L26U
 1466	飼います	飼[か]います	keep a pet, raise an animal	[sound:MNN_飼います.mp3]	L27
-1467	「道を」走ります	「道[みち]を」 走[はし]ります	run, drive [along a road]	[sound:MNN_「道を」走ります.mp3]	L27
-1468	「山が」見えます	「山[やま]が」 見[み]えます	[a mountain] can be seen	[sound:MNN_「山が」見えます.mp3]	L27
-1469	「音が」聞こえます	「音[おと]が」 聞[き]こえます	[a sound] can be heard	[sound:MNN_「音が」聞こえます.mp3]	L27
-1470	「道が」できます	「道[みち]が」できます	[a road (friend, meal)] can be made, be completed, come into existence	[sound:MNN_「道が」できます.mp3]	L27
-1471	「教室を」開きます	「教[きょう] 室[しつ]を」 開[ひら]きます	set up, open, hold [a class], host (Olympic)	[sound:MNN_「教室を」開きます.mp3]	L27
+1467	「道を」走ります	「 道[みち]を」 走[はし]ります	run, drive [along a road]	[sound:MNN_「道を」走ります.mp3]	L27
+1468	「山が」見えます	「 山[やま]が」 見[み]えます	[a mountain] can be seen	[sound:MNN_「山が」見えます.mp3]	L27
+1469	「音が」聞こえます	「 音[おと]が」 聞[き]こえます	[a sound] can be heard	[sound:MNN_「音が」聞こえます.mp3]	L27
+1470	「道が」できます	「 道[みち]が」できます	[a road (friend, meal)] can be made, be completed, come into existence	[sound:MNN_「道が」できます.mp3]	L27
+1471	「教室を」開きます	「 教[きょう] 室[しつ]を」 開[ひら]きます	set up, open, hold [a class], host (Olympic)	[sound:MNN_「教室を」開きます.mp3]	L27
 1472	心配「な」	心[しん] 配[ぱい]「な」	worried, anxious	[sound:MNN_心配「な」.mp3]	L27
 1473	ペット	ペット	pet	[sound:MNN_ペット.mp3]	L27
 1474	鳥	鳥[とり]	bird	[sound:MNN_鳥.mp3]	L27
@@ -1531,7 +1531,7 @@
 1531	踊ります	踊[おど]ります	dance	[sound:MNN_踊ります.mp3]	L28
 1532	噛みます	噛[か]みます	chew, bite	[sound:MNN_噛みます.mp3]	L28
 1533	選びます	選[えら]びます	choose	[sound:MNN_選びます.mp3]	L28
-1534	「大学に」通います	「大[だい] 学[がく]に」 通[かよ]います	go to and from [university]	[sound:MNN_「大学に」通います.mp3]	L28
+1534	「大学に」通います	「 大[だい] 学[がく]に」 通[かよ]います	go to and from [university]	[sound:MNN_「大学に」通います.mp3]	L28
 1535	メモします	メモします	take a memo	[sound:MNN_メモします.mp3]	L28
 1536	真面目「な」	真面目[まじめ]「な」	serious	[sound:MNN_真面目「な」.mp3]	L28 L43U
 1537	熱心「な」	熱[ねっ] 心[しん]「な」	earnest	[sound:MNN_熱心「な」.mp3]	L28
@@ -1542,7 +1542,7 @@
 1542	経験「があります」	経[けい] 験[けん]「があります」	[be] experienced	[sound:MNN_経験「があります」.mp3]	L28
 1543	経験「をします」	経[けい] 験[けん]「をします」	experience [sth.]	[sound:MNN_経験「をします」.mp3]	L28
 1544	力	力[ちから]	power	[sound:MNN_力.mp3]	L28
-1545	「学生に」人気「があります」	「学[がく] 生[せい]に」 人[にん] 気[き]「があります」	[be] popular [with] [students]	[sound:MNN_「学生に」人気「があります」.mp3]	L28
+1545	「学生に」人気「があります」	「 学[がく] 生[せい]に」 人[にん] 気[き]「があります」	[be] popular [with] [students]	[sound:MNN_「学生に」人気「があります」.mp3]	L28
 1546	ガム	ガム	chewing gum	[sound:MNN_ガム.mp3]	L28
 1547	品物	品[しな] 物[もの]	goods	[sound:MNN_品物.mp3]	L28
 1548	値段	値[ね] 段[だん]	price	[sound:MNN_値段.mp3]	L28
@@ -1582,19 +1582,19 @@
 1582	不動産	不[ふ] 動[どう] 産[さん]	real estate	[sound:MNN_不動産.mp3]	L28U
 1583	「ドアが」開ます	「ドアが」 開[あき]ます	[a door] opens	[sound:MNN_「ドアが」開ます.mp3]	L29
 1584	「ドアが」閉まります	「ドアが」 閉[し]まります	[a door] closes/shuts	[sound:MNN_「ドアが」閉まります.mp3]	L29
-1585	「電気が」つきます	「電[でん] 気[き]が」つきます	[a light] turns/come on	[sound:MNN_「電気が」つきます.mp3]	L29
-1586	「電気が」消えます	「電[でん] 気[き]が」 消[き]えます	[a light] goes off	[sound:MNN_「電気が」消えます.mp3]	L29
+1585	「電気が」つきます	「 電[でん] 気[き]が」つきます	[a light] turns/come on	[sound:MNN_「電気が」つきます.mp3]	L29
+1586	「電気が」消えます	「 電[でん] 気[き]が」 消[き]えます	[a light] goes off	[sound:MNN_「電気が」消えます.mp3]	L29
 1587	「いすが」壊れます	「いすが」 壊[こわ]れます	[a chair] breaks	[sound:MNN_「いすが」壊れます.mp3]	L29
 1588	「コップが」割れます	「コップが」 割[わ]れます	[a glass] breaks/smashes	[sound:MNN_「コップが」割れます.mp3]	L29
-1589	「木が」折れます	「木[き]が」 折[お]れます	[a tree] breaks/snaps	[sound:MNN_「木が」折れます.mp3]	L29
-1590	「紙が」破れます	「紙[かみ]が」 破[やぶ]れます	[a paper] tears	[sound:MNN_「紙が」破れます.mp3]	L29
-1591	「服が」汚れます	「服[ふく]が」 汚[よご]れます	[the clothes] get dirty	[sound:MNN_「服が」汚れます.mp3]	L29
+1589	「木が」折れます	「 木[き]が」 折[お]れます	[a tree] breaks/snaps	[sound:MNN_「木が」折れます.mp3]	L29
+1590	「紙が」破れます	「 紙[かみ]が」 破[やぶ]れます	[a paper] tears	[sound:MNN_「紙が」破れます.mp3]	L29
+1591	「服が」汚れます	「 服[ふく]が」 汚[よご]れます	[the clothes] get dirty	[sound:MNN_「服が」汚れます.mp3]	L29
 1592	「ポケットが」付きます	「ポケットが」 付[つ]きます	[a pocket] attaches	[sound:MNN_「ポケットが」付きます.mp3]	L29
 1593	「ボタンが」外れます	「ボタンが」 外[はず]れます	[a button] is undone	[sound:MNN_「ボタンが」外れます.mp3]	L29
-1594	「車が」止まります	「車[くるま]が」 止[と]まります	[a car] stops/parks	[sound:MNN_「車が」止まります.mp3]	L29
+1594	「車が」止まります	「 車[くるま]が」 止[と]まります	[a car] stops/parks	[sound:MNN_「車が」止まります.mp3]	L29
 1595	まちがえます	まちがえます	make a mistake	[sound:MNN_まちがえます.mp3]	L29
 1596	落とします	落[お]とします	drop, lose	[sound:MNN_落とします.mp3]	L29
-1597	「鍵が」掛かります	「鍵[かぎ]が」 掛[か]かります	to become locked (automatic locking)	[sound:MNN_「鍵が」掛かります.mp3]	L29
+1597	「鍵が」掛かります	「 鍵[かぎ]が」 掛[か]かります	to become locked (automatic locking)	[sound:MNN_「鍵が」掛かります.mp3]	L29
 1598	拭きます	拭[ふ]きます	wipe	[sound:MNN_拭きます.mp3]	L29
 1599	取り替えます	取[と]り 替[か]えます	change, replace	[sound:MNN_取り替えます.mp3]	L29
 1600	片づけます	片[かた]づけます	put (things) in order, tidy up	[sound:MNN_片づけます.mp3]	L29
@@ -1720,8 +1720,8 @@
 1720	緊急	緊[きん] 急[きゅう]	urgency, emergency	[sound:MNN_緊急.mp3]	L30U
 1721	続けます	続[つづ]けます	continue	[sound:MNN_続けます.mp3]	L31
 1722	見つけます	見[み]つけます	find	[sound:MNN_見つけます.mp3]	L31
-1723	「休みを」取ります	「休[やす]みを」 取[と]ります	take [a holiday]	[sound:MNN_「休みを」取ります.mp3]	L31
-1724	「試験を」受けます	「試[し] 験[けん]を」 受[う]けます	take [an examination]	[sound:MNN_「試験を」受けます.mp3]	L31
+1723	「休みを」取ります	「 休[やす]みを」 取[と]ります	take [a holiday]	[sound:MNN_「休みを」取ります.mp3]	L31
+1724	「試験を」受けます	「 試[し] 験[けん]を」 受[う]けます	take [an examination]	[sound:MNN_「試験を」受けます.mp3]	L31
 1725	申し込みます	申[もう]し 込[こ]みます	apply for, enter for	[sound:MNN_申し込みます.mp3]	L31
 1726	休憩します	休[きゅう] 憩[けい]します	take a break, take a rest	[sound:MNN_休憩します.mp3]	L31
 1727	連休	連[れん] 休[きゅう]	consecutive holidays	[sound:MNN_連休.mp3]	L31
