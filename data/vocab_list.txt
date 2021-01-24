@@ -2044,23 +2044,24 @@
 姿[すがた]	appearance, figure, condition	L35U
 積[つ]もる	to pile up	L35U
 影[かげ]	shadow	L35U
-事[じ] 故[こ]にあいます	encounter an accident	L36
+「 事[じ] 故[こ]に」 遭[あ]います	encounter [an accident]	L36
 貯[ちょ] 金[きん]します	save money	L36
-７ 時[じ]を 過[す]ぎます	pass 7 o' clock	L36
-仕[し] 事[ごと]に 慣[な]れます	get accustomed to one's job	L36
-食[た]べ 物[もの]が 腐[くさ]ります	food rots, decay, go bad	L36
+「 ７ 時[じ]を」 過[す]ぎます	pass [7 o'clock]	L36
+「 仕[し] 事[ごと]に」 慣[な]れます	get accustomed to [one's job]	L36
+「 食[た]べ 物[もの]が」 腐[くさ]ります	[food] rots, decay, go bad	L36
 ラッシュ	rush hour	L36
 曲[きょく]	a piece of music	L36
 毎[まい] 週[しゅう]	every week	L36
 毎[まい] 月[つき]	every month	L36
-毎[まい] 年[とし]、 毎[まい] 年[ねん]	every year	L36
+毎[まい] 年[とし]（ 毎[まい] 年[ねん]）	every year	L36
 このごろ	these days	L36
 やっと	finally	L36
 かなり	fairly	L36
 絶[ぜっ] 対[たい]に	absolutely	L36
 上[じょう] 手[ず]に	well, skilfully	L36
 できるだけ	as much as possible	L36
-ほとんど	almost all (+); hardly, scarcely (-)	L36
+殆[ほとん]ど	almost all (+); hardly, scarcely (-)	L36
+お 客[きゃく] 様[さま]	guest; visitor; client; customer (respectful of お 客[きゃく]さん)	L36
 特[とく] 別[べつ]「な」	special	L36
 していらっしゃいます	be doing (respectful of しています)	L36
 使[つか]っていらっしゃるんですね。	You're using, aren't you? (respectful of つかっているんですね)	L36
@@ -2830,7 +2831,6 @@
 お 待[ま]たせしました。	Sorry to keep you waiting.	L46
 お 礼[れい]	gratitude, thanks	L50
 安[あん] 全[ぜん]「な」	safe	L44
-お 客[きゃく] 様[さま]（お 客[きゃく]さん）	guest; visitor; client; customer	L36
 ガソリン	petrol, gasoline	L43
 金[きん]	gold	L37
 キャンプ	camp	L45
