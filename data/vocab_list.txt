@@ -2019,7 +2019,7 @@
 機[き] 会[かい]	chance, opportunity	L35
 許[きょ] 可[か]	permission	L35
 丸[まる]	circle, sphere (for "circle" in mathematics and for full moon etc, see also: 円[えん])	L35 L40U
-振[ふ]り 仮名[がな]	kana above the kanji	L35
+振り仮名[ふりがな]	kana above the kanji	L35
 設[せつ] 備[び]	equipment, facilities	L35
 レバー	lever	L35
 キー	key	L35
@@ -2158,27 +2158,27 @@
 爆[ばく] 発[はつ]する	explode	L37U
 助[たす]ける	rescue	L37U
 沈[ちん] 没[ぼつ]する	sink	L37U
-旅[りょ] 行[こう]に 参[さん] 加[か]します	join, participate, attend a tour	L38
+「 旅[りょ] 行[こう]に」 参[さん] 加[か]します	join, participate, attend [a tour]	L38
 育[そだ]てます	breed, bring up	L38
 入[にゅう] 院[いん]します	enter hospital	L38
 退[たい] 院[いん]します	leave hospital	L38
-電[でん] 源[げん]を 入[い]れます	turn on the power switch	L38
-電[でん] 源[げん]を 切[き]ります	turn off the power switch	L38
-鍵[かぎ]を 掛[か]けます	lock	L38
-嘘[うそ]をつきます	tell a lie	L38
+「 電[でん] 源[げん]を」 入[い]れます	turn on [the power switch]	L38
+「 電[でん] 源[げん]を」 切[き]ります	turn off [the power switch]	L38
+「 鍵[かぎ]を」 掛[か]けます	lock up [the lock]	L38
+「 嘘[うそ]を」つきます	tell [a lie]	L38
 気[き] 持[も]ちがいい	pleasant, agreeable	L38
 気[き] 持[も]ちが 悪[わる]い	unpleasant, disgusting	L38
 大[おお]きな～	large ～, big ～	L38
 小[ちい]さな～	small ～, little ～	L38
 海[かい] 岸[がん]	seaside, seashore	L38
 工[こう] 場[じょう]	factory	L38
-かな	hiragana and katakana script	L38
+仮名[かな]	hiragana and katakana script	L38
 指[ゆび] 輪[わ]	ring	L38
 電[でん] 源[げん]	power switch	L38
 ～ 製[せい]	made in ～	L38
-おととし	the year before last	L38
-あ、いけない。	Oops!/Oh, no!	L38
-お 先[さき]に 失[しつ] 礼[れい]します。	Excuse me for leaving before you.	L38
+一昨年[おととし]	the year before last	L38
+「あ、」いけない。	Oops!/[Oh], no!	L38
+お 先[さき]に「 失[しつ] 礼[れい]します」。	Excuse me for leaving before you.	L38
 出雲[いずも] 大[たい] 社[しゃ]	Izumo Temple	L38
 チェンマイ	Chiangmai (Thailand)	L38
 回[かい] 覧[らん]	circular	L38
@@ -2188,21 +2188,22 @@
 方[ほう] 法[ほう]	method	L38
 ～という	entitled ～, named ～, called ～	L38
 ー 冊[さつ]	counter for books, etc.	L38
-はんこを 押[お]します	affix a seal, stamp	L38
+判[はん] 子[こ]	seal, stamp	L38
+「 判[はん] 子[こ]を」 押[お]します	affix a seal, stamp	L38
 双[ふた] 子[ご]	twins	L38
 姉[し] 妹[まい]	sisters	L38
 ５ 年[ねん] 生[せい]	fifth grade, year	L38
 似[に]ています	resemble, be like	L38
 性[せい] 格[かく]	character, personality	L38 L43U
-おとなしい	quiet, gentle	L38 L43U
+大人[おとな]しい	quiet, gentle	L38 L43U
 優[やさ]しい	kind, gentle, tender-hearted	L38 L41 L43U
 世[せ] 話[わ]をします	take care of	L38 L47 L48
 時[じ] 間[かん]がたちます	time passes by	L38
 ー 点[てん]	ー points	L38
 気[き]が 強[つよ]い	tough, strong-willed	L38 L43U
-けんかします	quarrel, fight	L38 L39
+喧[けん] 嘩[か]します	quarrel, fight	L38 L39
 年[ねん] 齢[れい]	age	L38
-しかた	way (of doing something)	L38
+仕[し] 方[かた]	way (of doing something)	L38
 位[い] 置[ち]	location​	L38U
 上[うえ]から２ 段[だん] 目[め]	second from the top	L38U
 奥[おく]	the back	L38U
