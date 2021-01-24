@@ -361,7 +361,7 @@
 361	レタス	レタス	lettuce	[sound:MNN_レタス.mp3]	L06U
 362	じゃがいも	じゃがいも	potato	[sound:MNN_じゃがいも.mp3]	L06U
 363	大根	大[だい] 根[こん]	Japanese white radish	[sound:MNN_大根.mp3]	L06U
-364	たまねぎ	たまねぎ	onion	[sound:MNN_たまねぎ.mp3]	L06U L34
+364	玉ねぎ	玉[たま]ねぎ	onion	[sound:MNN_玉ねぎ.mp3]	L06U L34
 365	にんじん	にんじん	carrot	[sound:MNN_にんじん.mp3]	L06U
 366	いちご	いちご	strawberry	[sound:MNN_いちご.mp3]	L06U
 367	桃	桃[もも]	peach	[sound:MNN_桃.mp3]	L06U
@@ -713,7 +713,7 @@
 713	定食	定[てい] 食[しょく]	set meal	[sound:MNN_定食.mp3]	L11U L13
 714	ランチ	ランチ	western-style set meal	[sound:MNN_ランチ.mp3]	L11U
 715	天丼	天[てん] 丼[どん]	a bowl of rice with fried seafood and vegetables	[sound:MNN_天丼.mp3]	L11U
-716	親子丼	親[おや] 子[こ] 丼[どん]	a bowl of rice with chicken and egg	[sound:MNN_親子丼.mp3]	L11U L34
+716	親子丼	親[おや] 子[こ] 丼[どん「ぶり」]	a bowl of rice with chicken and egg	[sound:MNN_親子丼.mp3]	L11U L34
 717	牛丼	牛[ぎゅう] 丼[どん]	a bowl of rice with beef	[sound:MNN_牛丼.mp3]	L11U L13
 718	焼き肉	焼[や]き 肉[にく]	grilled meat	[sound:MNN_焼き肉.mp3]	L11U
 719	野菜いため	野[や] 菜[さい]いため	sauteed vegetables	[sound:MNN_野菜いため.mp3]	L11U
@@ -1164,7 +1164,7 @@
 1164	体にいい	体[からだ]にいい	good for one's health	[sound:MNN_体にいい.mp3]	L19
 1165	伝統文化	伝[でん] 統[とう] 文[ぶん] 化[か]	traditional culture	[sound:MNN_伝統文化.mp3]	L19U
 1166	娯楽	娯[ご] 楽[らく]	pleasure, amusement​, entertainment	[sound:MNN_娯楽.mp3]	L19U
-1167	茶道（お茶）	茶[さ] 道[どう]（お 茶[ちゃ]）	tea ceremony	[sound:MNN_茶道.mp3][sound:MNN_お茶.mp3]	L19U L34
+1167	茶道	茶[さ] 道[どう]	tea ceremony	[sound:MNN_茶道.mp3]	L19U L34
 1168	華道	華[か] 道[どう]	flower arrangement​	[sound:MNN_華道.mp3]	L19U
 1169	書道	書[しょ] 道[どう]	calligraphy	[sound:MNN_書道.mp3]	L19U
 1170	能	能[のう]	noh (theatre)​	[sound:MNN_能.mp3]	L19U
@@ -1916,16 +1916,16 @@
 1916	手洗い	手[て] 洗[あら]い	Wash by hand	[sound:MNN_手洗い.mp3]	L33U
 1917	アイロン（低温）	アイロン（ 低[てい]温[おん]）	Cool iron	[sound:MNN_アイロン.mp3][sound:MNN_低温.mp3]	L33U
 1918	ドライクリーニング	ドライクリーニング	Dry-clean only	[sound:MNN_ドライクリーニング.mp3]	L33U
-1919	歯を磨きます	歯[は]を 磨[みが]きます	brush, polish one's teeth	[sound:MNN_歯を磨きます.mp3]	L34
+1919	「歯を」磨きます	「 歯[は]を」 磨[みが]きます	brush, polish [one's teeth]	[sound:MNN_「歯を」磨きます.mp3]	L34
 1920	組み立てます	組[く]み 立[た]てます	assemble	[sound:MNN_組み立てます.mp3]	L34
 1921	折ります	折[お]ります	bend, fold, break, snap	[sound:MNN_折ります.mp3]	L34
-1922	忘れ物に気がつきます	忘[わす]れ 物[もの]に 気[き]がつきます	notice, be aware of things left behind	[sound:MNN_忘れ物に気がつきます.mp3]	L34
-1923	しょうゆをつけます	しょうゆをつけます	put (in soy sauce)	[sound:MNN_しょうゆをつけます.mp3]	L34
-1924	鍵が見つかります	鍵[かぎ]が 見[み]つかります	a key be found	[sound:MNN_鍵が見つかります.mp3]	L34
+1922	「忘れ物に」気がつきます	「 忘[わす]れ 物[もの]に」 気[き]がつきます	notice, be aware of [things left behind]	[sound:MNN_「忘れ物に」気がつきます.mp3]	L34
+1923	「醤油を」つけます	「 醤[しょう] 油[ゆ]を」つけます	put in [soy sauce]	[sound:MNN_「醤油を」つけます.mp3]	L34
+1924	「鍵が」見つかります	「 鍵[かぎ]が」 見[み]つかります	[a key] be found	[sound:MNN_「鍵が」見つかります.mp3]	L34
 1925	質問します	質[しつ] 問[もん]します	ask a question	[sound:MNN_質問します.mp3]	L34
-1926	傘をさします	傘[かさ]をさします	put up an umbrella	[sound:MNN_傘をさします.mp3]	L34
+1926	「傘を」さします	「 傘[かさ]を」さします	put up [an umbrella]	[sound:MNN_「傘を」さします.mp3]	L34
 1927	スポーツクラブ	スポーツクラブ	sports club	[sound:MNN_スポーツクラブ.mp3]	L34
-1928	お城	お 城[しろ]	castle	[sound:MNN_お城.mp3]	L34
+1928	「お」城	「お」 城[しろ]	castle	[sound:MNN_「お」城.mp3]	L34
 1929	説明書	説[せつ] 明[めい] 書[しょ]	explanatory pamphlet, instruction book	[sound:MNN_説明書.mp3]	L34
 1930	図	図[ず]	figure, drawing	[sound:MNN_図.mp3]	L34
 1931	線	線[せん]	line	[sound:MNN_線.mp3]	L34 L40U
@@ -1937,13 +1937,13 @@
 1937	紺	紺[こん]	navy blue, dark blue (noun)	[sound:MNN_紺.mp3]	L34
 1938	黄色	黄[き] 色[いろ]	yellow (noun)	[sound:MNN_黄色.mp3]	L34
 1939	茶色	茶[ちゃ] 色[いろ]	brown (noun)	[sound:MNN_茶色.mp3]	L34
-1940	しょうゆ	しょうゆ	soya, soy sauce	[sound:MNN_しょうゆ.mp3]	L34
+1940	醤油	醤[しょう] 油[ゆ]	soya, soy sauce	[sound:MNN_醤油.mp3]	L34
 1941	ソース	ソース	sauce, Worcestershire sauce	[sound:MNN_ソース.mp3]	L34
-1942	お客さん	お 客[きゃく]さん	visitor, guest, customer, client	[sound:MNN_お客さん.mp3]	L34
+1942	お客「さん」	お 客[きゃく]「さん」	visitor, guest, customer, client	[sound:MNN_お客「さん」.mp3]	L34
 1943	～か～	～か～	～ or ～	[sound:MNN_～か～.mp3]	L34
 1944	夕べ	夕[ゆう]べ	last night (evening)	[sound:MNN_夕べ.mp3]	L34
 1945	さっき	さっき	a short while ago	[sound:MNN_さっき.mp3]	L34
-1946	お茶をたてます	お 茶[ちゃ]をたてます	make tea at a tea ceremony	[sound:MNN_お茶をたてます.mp3]	L34
+1946	お茶を立てます	お 茶[ちゃ]を 立[た]てます	make tea at a tea ceremony	[sound:MNN_お茶を立てます.mp3]	L34
 1947	先に	先[さき]に	first, ahead	[sound:MNN_先に.mp3]	L34
 1948	載せます	載[の]せます	place on, load onto	[sound:MNN_載せます.mp3]	L34
 1949	これでいいですか。	これでいいですか。	Is this all right?	[sound:MNN_これでいいですか。.mp3]	L34
@@ -1951,16 +1951,16 @@
 1951	～分	～ 分[ぶん]	portion for ～ (indicating quantity)	[sound:MNN_～分.mp3]	L34
 1952	ーグラム	ーグラム	ー gramme	[sound:MNN_ーグラム.mp3]	L34 L40U
 1953	ー個	ー 個[こ]	counter for small objects	[sound:MNN_ー個.mp3]	L34 L40
-1954	４分の１（１／４）	４ 分[ぶん]の１（１／４）	one fourth	[sound:MNN_４分の１.mp3][sound:MNN_１／４.mp3]	L34
+1954	４分の１	４ 分[ぶん]の１	one fourth	[sound:MNN_４分の１.mp3]	L34
 1955	調味料	調[ちょう] 味[み] 料[りょう]	seasoning, flavouring	[sound:MNN_調味料.mp3]	L34
 1956	適当な大きさに	適[てき]当[とう]な 大[おお]きさに	in right size	[sound:MNN_適当な大きさに.mp3]	L34
-1957	なべ	なべ	pan, pot	[sound:MNN_なべ.mp3]	L34
+1957	鍋	鍋[なべ]	pan, pot	[sound:MNN_鍋.mp3]	L34
 1958	火	火[ひ]	fire, heating	[sound:MNN_火.mp3]	L34 L43
 1959	火にかけます	火[ひ]にかけます	put on the stove	[sound:MNN_火にかけます.mp3]	L34
 1960	煮ます	煮[に]ます	cook, boil	[sound:MNN_煮ます.mp3]	L34
 1961	煮えます	煮[に]えます	be cooked, be boiled	[sound:MNN_煮えます.mp3]	L34
-1962	どんぶり	どんぶり	bowl	[sound:MNN_どんぶり.mp3]	L34 L42
-1963	たちます	たちます	pass (time)	[sound:MNN_たちます.mp3]	L34
+1962	丼	丼[どん「ぶり」]	bowl	[sound:MNN_丼.mp3]	L34 L42
+1963	経ちます	経[た]ちます	pass (time)	[sound:MNN_経ちます.mp3]	L34
 1964	料理	料[りょう] 理[り]	cooking	[sound:MNN_料理.mp3]	L34U
 1965	煮る	煮[に]る	boil, stew	[sound:MNN_煮る.mp3]	L34U
 1966	焼く	焼[や]く	grill, bake, roast	[sound:MNN_焼く.mp3]	L34U

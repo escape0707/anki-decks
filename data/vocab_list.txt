@@ -361,7 +361,7 @@
 レタス	lettuce	L06U
 じゃがいも	potato	L06U
 大[だい] 根[こん]	Japanese white radish	L06U
-たまねぎ	onion	L06U L34
+玉[たま]ねぎ	onion	L06U L34
 にんじん	carrot	L06U
 いちご	strawberry	L06U
 桃[もも]	peach	L06U
@@ -713,7 +713,7 @@
 定[てい] 食[しょく]	set meal	L11U L13
 ランチ	western-style set meal	L11U
 天[てん] 丼[どん]	a bowl of rice with fried seafood and vegetables	L11U
-親[おや] 子[こ] 丼[どん]	a bowl of rice with chicken and egg	L11U L34
+親[おや] 子[こ] 丼[どん「ぶり」]	a bowl of rice with chicken and egg	L11U L34
 牛[ぎゅう] 丼[どん]	a bowl of rice with beef	L11U L13
 焼[や]き 肉[にく]	grilled meat	L11U
 野[や] 菜[さい]いため	sauteed vegetables	L11U
@@ -1164,7 +1164,7 @@
 体[からだ]にいい	good for one's health	L19
 伝[でん] 統[とう] 文[ぶん] 化[か]	traditional culture	L19U
 娯[ご] 楽[らく]	pleasure, amusement​, entertainment	L19U
-茶[さ] 道[どう]（お 茶[ちゃ]）	tea ceremony	L19U L34
+茶[さ] 道[どう]	tea ceremony	L19U L34
 華[か] 道[どう]	flower arrangement​	L19U
 書[しょ] 道[どう]	calligraphy	L19U
 能[のう]	noh (theatre)​	L19U
@@ -1916,16 +1916,16 @@
 手[て] 洗[あら]い	Wash by hand	L33U
 アイロン（ 低[てい]温[おん]）	Cool iron	L33U
 ドライクリーニング	Dry-clean only	L33U
-歯[は]を 磨[みが]きます	brush, polish one's teeth	L34
+「 歯[は]を」 磨[みが]きます	brush, polish [one's teeth]	L34
 組[く]み 立[た]てます	assemble	L34
 折[お]ります	bend, fold, break, snap	L34
-忘[わす]れ 物[もの]に 気[き]がつきます	notice, be aware of things left behind	L34
-しょうゆをつけます	put (in soy sauce)	L34
-鍵[かぎ]が 見[み]つかります	a key be found	L34
+「 忘[わす]れ 物[もの]に」 気[き]がつきます	notice, be aware of [things left behind]	L34
+「 醤[しょう] 油[ゆ]を」つけます	put in [soy sauce]	L34
+「 鍵[かぎ]が」 見[み]つかります	[a key] be found	L34
 質[しつ] 問[もん]します	ask a question	L34
-傘[かさ]をさします	put up an umbrella	L34
+「 傘[かさ]を」さします	put up [an umbrella]	L34
 スポーツクラブ	sports club	L34
-お 城[しろ]	castle	L34
+「お」 城[しろ]	castle	L34
 説[せつ] 明[めい] 書[しょ]	explanatory pamphlet, instruction book	L34
 図[ず]	figure, drawing	L34
 線[せん]	line	L34 L40U
@@ -1937,13 +1937,13 @@
 紺[こん]	navy blue, dark blue (noun)	L34
 黄[き] 色[いろ]	yellow (noun)	L34
 茶[ちゃ] 色[いろ]	brown (noun)	L34
-しょうゆ	soya, soy sauce	L34
+醤[しょう] 油[ゆ]	soya, soy sauce	L34
 ソース	sauce, Worcestershire sauce	L34
-お 客[きゃく]さん	visitor, guest, customer, client	L34
+お 客[きゃく]「さん」	visitor, guest, customer, client	L34
 ～か～	～ or ～	L34
 夕[ゆう]べ	last night (evening)	L34
 さっき	a short while ago	L34
-お 茶[ちゃ]をたてます	make tea at a tea ceremony	L34
+お 茶[ちゃ]を 立[た]てます	make tea at a tea ceremony	L34
 先[さき]に	first, ahead	L34
 載[の]せます	place on, load onto	L34
 これでいいですか。	Is this all right?	L34
@@ -1951,16 +1951,16 @@
 ～ 分[ぶん]	portion for ～ (indicating quantity)	L34
 ーグラム	ー gramme	L34 L40U
 ー 個[こ]	counter for small objects	L34 L40
-４ 分[ぶん]の１（１／４）	one fourth	L34
+４ 分[ぶん]の１	one fourth	L34
 調[ちょう] 味[み] 料[りょう]	seasoning, flavouring	L34
 適[てき]当[とう]な 大[おお]きさに	in right size	L34
-なべ	pan, pot	L34
+鍋[なべ]	pan, pot	L34
 火[ひ]	fire, heating	L34 L43
 火[ひ]にかけます	put on the stove	L34
 煮[に]ます	cook, boil	L34
 煮[に]えます	be cooked, be boiled	L34
-どんぶり	bowl	L34 L42
-たちます	pass (time)	L34
+丼[どん「ぶり」]	bowl	L34 L42
+経[た]ちます	pass (time)	L34
 料[りょう] 理[り]	cooking	L34U
 煮[に]る	boil, stew	L34U
 焼[や]く	grill, bake, roast	L34U
