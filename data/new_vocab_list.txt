@@ -2072,7 +2072,7 @@
 2072	珍しい	珍[めずら]しい	rare, uncommon	[sound:MNN_珍しい.mp3]	L36 L41
 2073	汽車	汽[き] 車[しゃ]	steam train​	[sound:MNN_汽車.mp3]	L36
 2074	汽船	汽[き] 船[せん]	steam boat	[sound:MNN_汽船.mp3]	L36
-2075	大勢の～	大[おお] 勢[ぜい]の～	many (people)	[sound:MNN_大勢の～.mp3]	L36 L39
+2075	大勢「の～」	大[おお] 勢[ぜい]「の～」	many (people)	[sound:MNN_大勢「の～」.mp3]	L36 L39
 2076	運びます	運[はこ]びます	carry, transport	[sound:MNN_運びます.mp3]	L36 L38
 2077	利用します	利[り] 用[よう]します	use	[sound:MNN_利用します.mp3]	L36 L49
 2078	栄養	栄[えい] 養[よう]	nutrition	[sound:MNN_栄養.mp3]	L36U
@@ -2218,9 +2218,9 @@
 2218	斜め後ろ	斜[なな]め 後[うし]ろ	diagonally behind	[sound:MNN_斜め後ろ.mp3]	L38U
 2219	斜め前	斜[なな]め 前[まえ]	diagonally in front	[sound:MNN_斜め前.mp3]	L38U
 2220	テレビの横	テレビの 横[よこ]	next to, beside the television	[sound:MNN_テレビの横.mp3]	L38U
-2221	質問に答えます	質[しつ] 問[もん]に 答[こた]えます	answer a question	[sound:MNN_質問に答えます.mp3]	L39
-2222	ビルが倒れます	ビルが 倒[たお]れます	a building falls down	[sound:MNN_ビルが倒れます.mp3]	L39
-2223	道を通ります	道[みち]を 通[とお]ります	passes along a street	[sound:MNN_道を通ります.mp3]	L39
+2221	「質問に」答えます	「 質[しつ] 問[もん]に」 答[こた]えます	answer [a question]	[sound:MNN_「質問に」答えます.mp3]	L39
+2222	「ビルが」倒れます	「ビルが」 倒[たお]れます	[a building] falls down	[sound:MNN_「ビルが」倒れます.mp3]	L39
+2223	「道を」通ります	「 道[みち]を」 通[とお]ります	passes along [a street]	[sound:MNN_「道を」通ります.mp3]	L39
 2224	びっくりします	びっくりします	be surprised	[sound:MNN_びっくりします.mp3]	L39
 2225	がっかりします	がっかりします	be disappointed	[sound:MNN_がっかりします.mp3]	L39
 2226	安心します	安[あん] 心[しん]します	be relieved	[sound:MNN_安心します.mp3]	L39
@@ -2235,8 +2235,8 @@
 2235	雷	雷[かみなり]	thunder	[sound:MNN_雷.mp3]	L39
 2236	火事	火[か] 事[じ]	fire	[sound:MNN_火事.mp3]	L39
 2237	ハイキング	ハイキング	hiking	[sound:MNN_ハイキング.mp3]	L39
-2238	お見合い	お 見[み] 合[あ]い	formal marriage interview​	[sound:MNN_お見合い.mp3]	L39
-2239	操作します	操[そう] 作[さ]します	to operate	[sound:MNN_操作します.mp3]	L39
+2238	「お」見合い	「お」 見[み] 合[あ]い	formal marriage interview​	[sound:MNN_「お」見合い.mp3]	L39
+2239	操作「します」	操[そう] 作[さ]「します」	[to] operate	[sound:MNN_操作「します」.mp3]	L39
 2240	会場	会[かい] 場[じょう]	venue, event location	[sound:MNN_会場.mp3]	L39
 2241	～代	～ 代[だい]	charge, fare, fee	[sound:MNN_～代.mp3]	L39
 2242	フロント	フロント	front desk, reception desk	[sound:MNN_フロント.mp3]	L39

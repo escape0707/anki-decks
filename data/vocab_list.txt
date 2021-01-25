@@ -2072,7 +2072,7 @@
 珍[めずら]しい	rare, uncommon	L36 L41
 汽[き] 車[しゃ]	steam train​	L36
 汽[き] 船[せん]	steam boat	L36
-大[おお] 勢[ぜい]の～	many (people)	L36 L39
+大[おお] 勢[ぜい]「の～」	many (people)	L36 L39
 運[はこ]びます	carry, transport	L36 L38
 利[り] 用[よう]します	use	L36 L49
 栄[えい] 養[よう]	nutrition	L36U
@@ -2218,9 +2218,9 @@
 斜[なな]め 後[うし]ろ	diagonally behind	L38U
 斜[なな]め 前[まえ]	diagonally in front	L38U
 テレビの 横[よこ]	next to, beside the television	L38U
-質[しつ] 問[もん]に 答[こた]えます	answer a question	L39
-ビルが 倒[たお]れます	a building falls down	L39
-道[みち]を 通[とお]ります	passes along a street	L39
+「 質[しつ] 問[もん]に」 答[こた]えます	answer [a question]	L39
+「ビルが」 倒[たお]れます	[a building] falls down	L39
+「 道[みち]を」 通[とお]ります	passes along [a street]	L39
 びっくりします	be surprised	L39
 がっかりします	be disappointed	L39
 安[あん] 心[しん]します	be relieved	L39
@@ -2235,8 +2235,8 @@
 雷[かみなり]	thunder	L39
 火[か] 事[じ]	fire	L39
 ハイキング	hiking	L39
-お 見[み] 合[あ]い	formal marriage interview​	L39
-操[そう] 作[さ]します	to operate	L39
+「お」 見[み] 合[あ]い	formal marriage interview​	L39
+操[そう] 作[さ]「します」	[to] operate	L39
 会[かい] 場[じょう]	venue, event location	L39
 ～ 代[だい]	charge, fare, fee	L39
 フロント	front desk, reception desk	L39
