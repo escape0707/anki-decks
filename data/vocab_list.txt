@@ -2512,11 +2512,12 @@ JL	Japan Airlines	L40
 神[しん] 経[けい] 質[しつ]「な」	highly-strung, nervous	L43U
 泣[な]きます	cry	L44
 笑[わら]います	laugh, smile	L44
-シャツが 乾[かわ]きます	a shirt dries	L44
-シャツが 濡[ぬ]れます	a shirt gets wet	L44
+「 シャツが」 乾[かわ]きます	[a shirt] dries	L44
+「 シャツが」 濡[ぬ]れます	[a shirt] gets wet	L44
 滑[すべ]ります	slip	L44
-事[じ] 故[こ]が 起[お]きます	an accident happens	L44
+「 事[じ] 故[こ]が」 起[お]きます	[an accident] happens	L44
 調[ちょう] 節[せつ]します	adjust	L44
+安[あん] 全[ぜん]「な」	safe	L44
 危[き] 険[けん]「な」	dangerous	L44
 厚[あつ]い	thick	L44
 太[ふと]い	thick (of large diameter)	L44
@@ -2532,12 +2533,13 @@ JL	Japan Airlines	L40
 ツイン	twin-bedded room	L44
 洗[せん] 濯[たく] 物[もの]	washing, laundry	L44
 どうなさいますか。	What can I do for you? (respectful)	L44
-シャンプーをします	to shampoo	L44
+カット	haircut	L44
+シャンプー「をします」	[to] shampoo	L44
 どういうふうになさいますか。	How would you like it done? (respectful)	L44
 ショート	short	L44
 ～みたいにしてください。	Do it like ～.	L44
 これでよろしいでしょうか。	Would this be all right? (polite)	L44
-どうもお 疲[つか]れさまでした。	Thank you for your patience. (shop assistance to customer)	L44
+「どうもお」 疲[つか]れさまでした。	Thank you for your patience. (shop assistance to customer)	L44
 嫌[いや]がります	dislike	L44
 上手[うま]く	well	L44
 順[じゅん] 序[じょ]	order	L44
@@ -2829,12 +2831,10 @@ JL	Japan Airlines	L40
 先[せん] 々[せん] 週[しゅう]（ 二[に] 週[しゅう] 間[かん] 前[まえ]）	the week before last	L51
 先[せん] 々[せん] 月[げつ]（ 二[に] 週[しゅう] 間[かん] 前[まえ]）	the month before last	L51
 バザー	bazaar	L41U
-カット	haircut	L44
 １センチくらい～	about one centimeter ～	L44U
 どちら 様[さま]でしょうか。	Who is this, please?	L46
 お 待[ま]たせしました。	Sorry to keep you waiting.	L46
 お 礼[れい]	gratitude, thanks	L50
-安[あん] 全[ぜん]「な」	safe	L44
 キャンプ	camp	L45
 みえます	come (respectful of きます)	L49
 差[さ]し 上[あ]げます	give (humble of あげます)	L50U
