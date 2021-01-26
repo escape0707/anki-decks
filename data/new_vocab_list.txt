@@ -2141,7 +2141,7 @@
 2141	鼠	鼠[ねずみ]	mouse (animal)	[sound:MNN_鼠.mp3]	L37
 2142	一匹もいません。	一[いっ] 匹[ぴき]もいません。	There is not a single (small animal, fish, insects)	[sound:MNN_一匹もいません。.mp3]	L37
 2143	事故	事[じ] 故[こ]	accident	[sound:MNN_事故.mp3]	L37U L39
-2144	事件	事[じ] 件[けん]	incident, case	[sound:MNN_事件.mp3]	L37U
+2144	事件	事[じ] 件[けん]	incident, case	[sound:MNN_事件.mp3]	L37U L40
 2145	殺す	殺[ころ]す	kill	[sound:MNN_殺す.mp3]	L37U
 2146	撃つ	撃[う]つ	shoot	[sound:MNN_撃つ.mp3]	L37U
 2147	刺す	刺[さ]す	stab	[sound:MNN_刺す.mp3]	L37U
@@ -2262,15 +2262,15 @@
 2262	どきどきする	どきどきする	to beat fast (of one's heart)	[sound:MNN_どきどきする.mp3]	L39U
 2263	はらはらする	はらはらする	be in suspense, worried, nervous	[sound:MNN_はらはらする.mp3]	L39U
 2264	わくわくする	わくわくする	be excited	[sound:MNN_わくわくする.mp3]	L39U
-2265	数える	数[かぞ]える	count	[sound:MNN_数える.mp3]	L40
-2266	測ります、量ります	測[はか]ります、 量[はか]ります	measure, measure (amount, weigh)	[sound:MNN_測ります、量ります.mp3]	L40
+2265	数えます	数[かぞ]えます	count	[sound:MNN_数えます.mp3]	L40
+2266	測ります（量ります）	測[はか]ります（ 量[はか]ります）	measure, measure (amount, weigh)	[sound:MNN_測ります.mp3][sound:MNN_量ります.mp3]	L40
 2267	確かめます	確[たし]かめます	confirm, make sure	[sound:MNN_確かめます.mp3]	L40
-2268	サイズが合います	サイズが 合[あ]います	the size is fit	[sound:MNN_サイズが合います.mp3]	L40
+2268	「サイズが」合います	「サイズが」 合[あ]います	[the size is] fit	[sound:MNN_「サイズが」合います.mp3]	L40
 2269	出発します	出[しゅっ] 発[ぱつ]します	depart	[sound:MNN_出発します.mp3]	L40
 2270	到着します	到[とう] 着[ちゃく]します	arrive	[sound:MNN_到着します.mp3]	L40
 2271	酔います	酔[よ]います	get drunk	[sound:MNN_酔います.mp3]	L40
 2272	うまくいきます	うまくいきます	go well	[sound:MNN_うまくいきます.mp3]	L40
-2273	問題が出ます	問[もん] 題[だい]が 出[で]ます	problems will be on the test	[sound:MNN_問題が出ます.mp3]	L40
+2273	「問題が」出ます	「 問[もん] 題[だい]が」 出[で]ます	[problems] will be on the test	[sound:MNN_「問題が」出ます.mp3]	L40
 2274	相談します	相[そう] 談[だん]します	consult, discuss	[sound:MNN_相談します.mp3]	L40
 2275	忘年会	忘[ぼう] 年[ねん] 会[かい]	year-end party	[sound:MNN_忘年会.mp3]	L40
 2276	新年会	新[しん] 年[ねん] 会[かい]	New Year's party	[sound:MNN_新年会.mp3]	L40
@@ -2283,54 +2283,54 @@
 2283	裏	裏[うら]	back (side)	[sound:MNN_裏.mp3]	L40
 2284	間違い	間[ま] 違[ちが]い	mistake	[sound:MNN_間違い.mp3]	L40
 2285	傷	傷[きず]	defect, wound, scratch	[sound:MNN_傷.mp3]	L40
-2286	お年寄り	お 年[とし] 寄[よ]り	elderly person	[sound:MNN_お年寄り.mp3]	L40
+2286	「お」年寄り	「お」 年[とし] 寄[よ]り	elderly person	[sound:MNN_「お」年寄り.mp3]	L40
 2287	長さ	長[なが]さ	length	[sound:MNN_長さ.mp3]	L40
 2288	重さ	重[おも]さ	weight	[sound:MNN_重さ.mp3]	L40
 2289	高さ	高[たか]さ	height	[sound:MNN_高さ.mp3]	L40
 2290	大きさ	大[おお]きさ	size, scale	[sound:MNN_大きさ.mp3]	L40
-2291	便	[ー] 便[びん]	flight, flight number	[sound:MNN_便.mp3]	L40
-2292	ー本（ーぽん、ーぼん）	ー 本[ほん]（ーぽん、ーぼん）	counter for long objects	[sound:MNN_ー本.mp3][sound:MNN_ーぽん、ーぼん.mp3]	L40
-2293	ー杯（ーぱい、－ばい）	ー 杯[はい]（ーぱい、－ばい）	ー glass or cup of (counter for full cups, glasses, etc.)	[sound:MNN_ー杯.mp3][sound:MNN_ーぱい、－ばい.mp3]	L40
+2291	「ー」便	「ー」 便[びん]	flight, flight number	[sound:MNN_「ー」便.mp3]	L40
+2292	ー本（ー本）（ー本）	ー 本[ほん]（ー 本[ぽん]）（ー 本[ぼん]）	counter for long objects	[sound:MNN_ー本_1.mp3][sound:MNN_ー本_2.mp3][sound:MNN_ー本_3.mp3]	L40
+2293	ー杯（ー杯）（ー杯）	ー 杯[はい]（ー 杯[ぱい]）（ー 杯[ばい]）	ー glass or cup of (counter for full cups, glasses, etc.)	[sound:MNN_ー杯_1.mp3][sound:MNN_ー杯_2.mp3][sound:MNN_ー杯_3.mp3]	L40
 2294	ーセンチ	ーセンチ	ー centimeters	[sound:MNN_ーセンチ.mp3]	L40
 2295	ーミリ	ーミリ	ー millimeters	[sound:MNN_ーミリ.mp3]	L40
-2296	～以上	～ 以[い] 上[じょう]	not less than ～, over ～	[sound:MNN_～以上.mp3]	L40
-2297	～以下	～ 以[い] 下[か]	not more than ～, under ～	[sound:MNN_～以下.mp3]	L40
-2298	長崎	長[なが] 崎[さき]	Nagasaki (city)​	[sound:MNN_長崎.mp3]	L40
-2299	ＪＬ	ＪＬ	Japan Airlines	[sound:MNN_ＪＬ.mp3]	L40
-2300	七夕祭り	七夕[たなばた] 祭[まつ]り	Tanabata (Star) Festival (７月７日)	[sound:MNN_七夕祭り.mp3]	L40 L49U
-2301	どうでしょうか。	どうでしょうか。	How is ～? (polite of どうですか)	[sound:MNN_どうでしょうか。.mp3]	L40
-2302	テスト	テスト	test, examination	[sound:MNN_テスト.mp3]	L40
-2303	成績	成[せい] 績[せき]	performance, score, result	[sound:MNN_成績.mp3]	L40
-2304	ところで	ところで	by the way	[sound:MNN_ところで.mp3]	L40
-2305	オートバイ	オートバイ	motorcycle	[sound:MNN_オートバイ.mp3]	L40
-2306	爆弾	爆[ばく] 弾[だん]	bomb	[sound:MNN_爆弾.mp3]	L40
-2307	積みます	積[つ]みます	load, pile up	[sound:MNN_積みます.mp3]	L40
-2308	離れた	離[はな]れた	remote	[sound:MNN_離れた.mp3]	L40
-2309	急に	急[きゅう]に	suddenly	[sound:MNN_急に.mp3]	L40 L45
-2310	動かします	動[うご]かします	start, operate, move	[sound:MNN_動かします.mp3]	L40
-2311	犯人	犯[はん] 人[にん]	offender, criminal	[sound:MNN_犯人.mp3]	L40
-2312	男	男[おとこ]	man	[sound:MNN_男.mp3]	L40 L41
-2313	手に入れます	手[て]に 入[い]れます	obtain, get	[sound:MNN_手に入れます.mp3]	L40
-2314	今でも	今[いま]でも	even now, still, as yet​	[sound:MNN_今でも.mp3]	L40
-2315	単位	単[たん] 位[い]	unit	[sound:MNN_単位.mp3]	L40U
-2316	模様	模[も] 様[よう]	pattern	[sound:MNN_模様.mp3]	L40U
-2317	面積	面[めん] 積[せき]	area	[sound:MNN_面積.mp3]	L40U
-2318	平方センチメートル	平[へい] 方[ほう]センチメートル	square centimeter (cm<sup>2</sup>)	[sound:MNN_平方センチメートル.mp3]	L40U
-2319	平方メートル	平[へい] 方[ほう]メートル	square metre (m<sup>2</sup>)	[sound:MNN_平方メートル.mp3]	L40U
-2320	平方キロメートル	平[へい] 方[ほう]キロメートル	square kilometer (km<sup>2</sup>)	[sound:MNN_平方キロメートル.mp3]	L40U
-2321	ミリ	ミリ	millimeter (mm)	[sound:MNN_ミリ.mp3]	L40U
-2322	センチ	センチ	centimeter (cm)	[sound:MNN_センチ.mp3]	L40U
-2323	メートル	メートル	metre (m)	[sound:MNN_メートル.mp3]	L40U
-2324	キロ（km）	キロ（km）	kilometer	[sound:MNN_キロ.mp3][sound:MNN_km.mp3]	L40U
-2325	体積	体[たい] 積[せき]	volume	[sound:MNN_体積.mp3]	L40U
-2326	容積	容[よう] 積[せき]	capacity	[sound:MNN_容積.mp3]	L40U
-2327	立方センチメートル	立[りっ] 方[ぽう]センチメートル	cubic centimeter (cm<sup>3</sup>)	[sound:MNN_立方センチメートル.mp3]	L40U
-2328	立方メートル	立[りっ] 方[ぽう]メートル	cubic metre (m<sup>3</sup>)	[sound:MNN_立方メートル.mp3]	L40U
-2329	ミリリットル	ミリリットル	milliliter (ml)	[sound:MNN_ミリリットル.mp3]	L40U
-2330	シーシー	シーシー	cc	[sound:MNN_シーシー.mp3]	L40U
-2331	リットル	リットル	litre (ℓ)	[sound:MNN_リットル.mp3]	L40U
-2332	ミリグラム	ミリグラム	milligram (mg)	[sound:MNN_ミリグラム.mp3]	L40U
-2333	グラム	グラム	gramme (g)	[sound:MNN_グラム.mp3]	L40U
+2296	ーグラム	ーグラム	ー gramme (g)	[sound:MNN_ーグラム.mp3]	L40 L40U
+2297	～以上	～ 以[い] 上[じょう]	not less than ～, over ～	[sound:MNN_～以上.mp3]	L40
+2298	～以下	～ 以[い] 下[か]	not more than ～, under ～	[sound:MNN_～以下.mp3]	L40
+2299	長崎	長[なが] 崎[さき]	Nagasaki (city)​	[sound:MNN_長崎.mp3]	L40
+2300	JL	JL	Japan Airlines	[sound:MNN_JL.mp3]	L40
+2301	七夕祭り	七夕[たなばた] 祭[まつ]り	Tanabata (Star) Festival (７月７日)	[sound:MNN_七夕祭り.mp3]	L40 L49U
+2302	どうでしょうか。	どうでしょうか。	How is ～? (polite of どうですか)	[sound:MNN_どうでしょうか。.mp3]	L40
+2303	テスト	テスト	test, examination	[sound:MNN_テスト.mp3]	L40
+2304	成績	成[せい] 績[せき]	performance, score, result	[sound:MNN_成績.mp3]	L40
+2305	ところで	ところで	by the way	[sound:MNN_ところで.mp3]	L40
+2306	オートバイ	オートバイ	motorcycle	[sound:MNN_オートバイ.mp3]	L40
+2307	爆弾	爆[ばく] 弾[だん]	bomb	[sound:MNN_爆弾.mp3]	L40
+2308	積みます	積[つ]みます	load, pile up	[sound:MNN_積みます.mp3]	L40
+2309	離れた	離[はな]れた	remote	[sound:MNN_離れた.mp3]	L40
+2310	急に	急[きゅう]に	suddenly	[sound:MNN_急に.mp3]	L40 L45
+2311	動かします	動[うご]かします	start, operate, move	[sound:MNN_動かします.mp3]	L40
+2312	犯人	犯[はん] 人[にん]	offender, criminal	[sound:MNN_犯人.mp3]	L40
+2313	男	男[おとこ]	man	[sound:MNN_男.mp3]	L40 L41
+2314	手に入れます	手[て]に 入[い]れます	obtain, get	[sound:MNN_手に入れます.mp3]	L40
+2315	今でも	今[いま]でも	even now, still, as yet​	[sound:MNN_今でも.mp3]	L40
+2316	単位	単[たん] 位[い]	unit	[sound:MNN_単位.mp3]	L40U
+2317	模様	模[も] 様[よう]	pattern	[sound:MNN_模様.mp3]	L40U
+2318	面積	面[めん] 積[せき]	area	[sound:MNN_面積.mp3]	L40U
+2319	平方センチメートル	平[へい] 方[ほう]センチメートル	square centimeter (cm<sup>2</sup>)	[sound:MNN_平方センチメートル.mp3]	L40U
+2320	平方メートル	平[へい] 方[ほう]メートル	square metre (m<sup>2</sup>)	[sound:MNN_平方メートル.mp3]	L40U
+2321	平方キロメートル	平[へい] 方[ほう]キロメートル	square kilometer (km<sup>2</sup>)	[sound:MNN_平方キロメートル.mp3]	L40U
+2322	ミリ	ミリ	millimeter (mm)	[sound:MNN_ミリ.mp3]	L40U
+2323	センチ	センチ	centimeter (cm)	[sound:MNN_センチ.mp3]	L40U
+2324	メートル	メートル	metre (m)	[sound:MNN_メートル.mp3]	L40U
+2325	キロ（km）	キロ（km）	kilometer	[sound:MNN_キロ.mp3][sound:MNN_km.mp3]	L40U
+2326	体積	体[たい] 積[せき]	volume	[sound:MNN_体積.mp3]	L40U
+2327	容積	容[よう] 積[せき]	capacity	[sound:MNN_容積.mp3]	L40U
+2328	立方センチメートル	立[りっ] 方[ぽう]センチメートル	cubic centimeter (cm<sup>3</sup>)	[sound:MNN_立方センチメートル.mp3]	L40U
+2329	立方メートル	立[りっ] 方[ぽう]メートル	cubic metre (m<sup>3</sup>)	[sound:MNN_立方メートル.mp3]	L40U
+2330	ミリリットル	ミリリットル	milliliter (ml)	[sound:MNN_ミリリットル.mp3]	L40U
+2331	シーシー	シーシー	cc	[sound:MNN_シーシー.mp3]	L40U
+2332	リットル	リットル	litre (ℓ)	[sound:MNN_リットル.mp3]	L40U
+2333	ミリグラム	ミリグラム	milligram (mg)	[sound:MNN_ミリグラム.mp3]	L40U
 2334	トン	トン	tonne (t)	[sound:MNN_トン.mp3]	L40U
 2335	計算	計[けい] 算[さん]	calculation	[sound:MNN_計算.mp3]	L40U
 2336	たす（＋）	たす（＋）	plus	[sound:MNN_たす.mp3][sound:MNN_＋.mp3]	L40U

@@ -2141,7 +2141,7 @@
 鼠[ねずみ]	mouse (animal)	L37
 一[いっ] 匹[ぴき]もいません。	There is not a single (small animal, fish, insects)	L37
 事[じ] 故[こ]	accident	L37U L39
-事[じ] 件[けん]	incident, case	L37U
+事[じ] 件[けん]	incident, case	L37U L40
 殺[ころ]す	kill	L37U
 撃[う]つ	shoot	L37U
 刺[さ]す	stab	L37U
@@ -2262,15 +2262,15 @@
 どきどきする	to beat fast (of one's heart)	L39U
 はらはらする	be in suspense, worried, nervous	L39U
 わくわくする	be excited	L39U
-数[かぞ]える	count	L40
-測[はか]ります、 量[はか]ります	measure, measure (amount, weigh)	L40
+数[かぞ]えます	count	L40
+測[はか]ります（ 量[はか]ります）	measure, measure (amount, weigh)	L40
 確[たし]かめます	confirm, make sure	L40
-サイズが 合[あ]います	the size is fit	L40
+「サイズが」 合[あ]います	[the size is] fit	L40
 出[しゅっ] 発[ぱつ]します	depart	L40
 到[とう] 着[ちゃく]します	arrive	L40
 酔[よ]います	get drunk	L40
 うまくいきます	go well	L40
-問[もん] 題[だい]が 出[で]ます	problems will be on the test	L40
+「 問[もん] 題[だい]が」 出[で]ます	[problems] will be on the test	L40
 相[そう] 談[だん]します	consult, discuss	L40
 忘[ぼう] 年[ねん] 会[かい]	year-end party	L40
 新[しん] 年[ねん] 会[かい]	New Year's party	L40
@@ -2283,20 +2283,21 @@
 裏[うら]	back (side)	L40
 間[ま] 違[ちが]い	mistake	L40
 傷[きず]	defect, wound, scratch	L40
-お 年[とし] 寄[よ]り	elderly person	L40
+「お」 年[とし] 寄[よ]り	elderly person	L40
 長[なが]さ	length	L40
 重[おも]さ	weight	L40
 高[たか]さ	height	L40
 大[おお]きさ	size, scale	L40
-[ー] 便[びん]	flight, flight number	L40
-ー 本[ほん]（ーぽん、ーぼん）	counter for long objects	L40
-ー 杯[はい]（ーぱい、－ばい）	ー glass or cup of (counter for full cups, glasses, etc.)	L40
+「ー」 便[びん]	flight, flight number	L40
+ー 本[ほん]（ー 本[ぽん]）（ー 本[ぼん]）	counter for long objects	L40
+ー 杯[はい]（ー 杯[ぱい]）（ー 杯[ばい]）	ー glass or cup of (counter for full cups, glasses, etc.)	L40
 ーセンチ	ー centimeters	L40
 ーミリ	ー millimeters	L40
+ーグラム	ー gramme (g)	L40 L40U
 ～ 以[い] 上[じょう]	not less than ～, over ～	L40
 ～ 以[い] 下[か]	not more than ～, under ～	L40
 長[なが] 崎[さき]	Nagasaki (city)​	L40
-ＪＬ	Japan Airlines	L40
+JL	Japan Airlines	L40
 七夕[たなばた] 祭[まつ]り	Tanabata (Star) Festival (７月７日)	L40 L49U
 どうでしょうか。	How is ～? (polite of どうですか)	L40
 テスト	test, examination	L40
@@ -2330,7 +2331,6 @@
 シーシー	cc	L40U
 リットル	litre (ℓ)	L40U
 ミリグラム	milligram (mg)	L40U
-グラム	gramme (g)	L40U
 トン	tonne (t)	L40U
 計[けい] 算[さん]	calculation	L40U
 たす（＋）	plus	L40U
