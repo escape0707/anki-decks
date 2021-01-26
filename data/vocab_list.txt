@@ -1,7 +1,7 @@
 私[わたし]	I	L01
 あなた	You	L01
 あの 人[ひと]（あの 方[かた]）	that person, he, she	L01
-～さん	Mr., Ms.	L01
+～さん	Mr., Ms.	L01 L41
 ～ちゃん	suffix for child's name	L01
 ～ 人[じん]	suffix for nationality	L01
 先[せん] 生[せい]	teacher, instructor; (medical) doctor, medic	L01, L32
@@ -151,10 +151,10 @@
 食[しょっ] 器[き]	kitchenware	L03U
 電[でん] 化[か] 製[せい] 品[ひん]	electrical appliances	L03U
 子[こ] 供[ども] 服[ふく]	children's clothes	L03U
-おもちゃ	toys	L03U
+玩具[おもちゃ]	toys	L03U L41
 文[ぶん] 房[ぼう] 具[ぐ]	stationery	L03U
 スポーツ 用[よう] 品[ひん]	sporting goods	L03U
-旅[りょ] 行[こう] 用[よう] 品[ひん]	leisure goods	L03U L41
+旅[りょ] 行[こう] 用[よう] 品[ひん]	leisure goods	L03U L41U
 眼鏡[めがね]	spectacles, glasses	L03U L22
 レストラン	restaurant	L03U L08
 催[もよお]し 物[もの] 会[かい] 場[じょう]	event hall	L03U
@@ -1707,7 +1707,7 @@
 慌[あわ]てて	to be in a hurry, to rush	L30U L46
 飛[と]び 出[だ]す	to jump out, to rush out, to fly out​	L30U
 収[おさ]まる	to subside, stop (wind, earthquake)	L30U
-情[じょう] 報[ほう]	information, news	L30U L41U
+情[じょう] 報[ほう]	information, news	L30U L41 L41U
 山[やま] 崩[くず]れ	landslide​	L30U
 崖[がけ] 崩[くず]れ	landslide (rockfall)	L30U
 津[つ] 波[なみ]	tsunami, tidal wave	L30U L39
@@ -2353,15 +2353,14 @@ JL	Japan Airlines	L40
 下[さ]げます	lower, pull down	L41
 親[しん] 切[せつ]にします	be kind to	L41
 可愛[かわい]い	lovely, cute	L41
-お 祝[いわ]いをします	to celebrate, gift	L41
-興[きょう] 味[み]	interest	L41
-コンピューターに 興[きょう] 味[み]があります	be interested in computers	L41
+お 祝[いわ]い「をします」	[to] celebrate, gift	L41
+「コンピューターに」 興[きょう] 味[み]「があります」	[be] interest[ed in] [computers]	L41
 文[ぶん] 法[ぽう]	grammar	L41
 発[はつ] 音[おん]	pronunciation	L41
 猿[さる]	ape, monkey	L41
-えさ	feed, bait	L41
+餌[えさ]	feed, bait	L41
 絵[え] 本[ほん]	picture book	L41
-絵[え]はがき	picture postcard	L41
+絵[え] 葉書[はがき]	picture postcard	L41
 ドライバー	screwdriver	L41 L42U
 ハンカチ	handkerchief	L41
 暖[だん] 房[ぼう]	heating	L41
@@ -2375,13 +2374,13 @@ JL	Japan Airlines	L40
 おばさん	(someone's) aunt	L41
 管[かん] 理[り] 人[にん]	janitor, caretaker, (+さん as polite)	L41
 この 間[あいだ]	the other day	L41
-ひとこと	a few words	L41
+一[ひと] 言[こと]	a few words	L41
 ～ずつ	each	L41
 お 宅[たく]	home (=うち／いえ)	L41
 どうぞお 幸[しあわ]せに。	I hope you will be very happy.	L41
 昔[むかし] 話[ばなし]	old tale, folklore	L41
 苛[いじ]めます	bully, abuse, ill-treat	L41
-かめ	turtle	L41
+亀[かめ]	turtle	L41
 助[たす]けます	save, help	L41
 お 姫[ひめ] 様[さま]	princess	L41
 暮[く]らします	live, lead a life	L41
