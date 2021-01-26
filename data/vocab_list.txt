@@ -474,7 +474,7 @@
 暑[あつ]い	hot (weather, etc.), warm	L08
 熱[あつ]い	hot (thing)	L08
 寒[さむ]い	cold (e.g. weather)	L08
-冷[つめ]たい	cold (touch/human's feeling)	L08 L43
+冷[つめ]たい	cold (touch/human's feeling; personality)	L08 L43U
 難[むずか]しい	difficult	L08
 易[やさ]しい	easy	L08
 高[たか]い	high, tall, expensive	L08
@@ -2196,7 +2196,7 @@
 似[に]ています	resemble, be like	L38
 性[せい] 格[かく]	character, personality	L38 L43U
 大人[おとな]しい	quiet, gentle	L38 L43U
-優[やさ]しい	kind, gentle, tender-hearted	L38 L41 L43U
+優[やさ]しい	kind, gentle, tender-hearted	L38 L41 L43 L43U
 世[せ] 話[わ]をします	take care of	L38 L47 L48
 時[じ] 間[かん]がたちます	time passes by	L38
 ー 点[てん]	ー points	L38
@@ -2473,24 +2473,25 @@ JL	Japan Airlines	L40
 洋[よう] 室[しつ]	Western-style room	L28U
 物[もの] 入[い]れ	place or container into which to put things​	L28U
 ＬＤＫ	combined living room, dining room and kitchen​	L28U
-輸[ゆ] 出[しゅつ]が 増[ふ]えます	exports increase	L43
-輸[ゆ] 出[しゅつ]が 減[へ]ります	exports decrease	L43
-値[ね] 段[だん]が 上[あ]がります	the price rises	L43
-値[ね] 段[だん]が 下[さ]がります	the price falls, drops	L43
-ひもが 切[き]れます	a string breaks, snaps	L43
-ボタンが 取[と]れます	a button comes off	L43
-荷[に] 物[もつ]が 落[お]ちます	baggage falls down	L43
-ガソリンがなくなります	petrol/gasoline is run out	L43
+「 輸[ゆ] 出[しゅつ]が」 増[ふ]えます	[exports] increase	L43
+「 輸[ゆ] 出[しゅつ]が」 減[へ]ります	[exports] decrease	L43
+「 値[ね] 段[だん]が」 上[あ]がります	[the price] rises	L43
+「 値[ね] 段[だん]が」 下[さ]がります	[the price] falls, drops	L43
+「ひもが」 切[き]れます	[a string] breaks, snaps	L43
+「ボタンが」 取[と]れます	[a button] comes off	L43
+「 荷[に] 物[もつ]が」 落[お]ちます	[baggage] falls down	L43
+「ガソリンが」 無[な]くなります	[petrol/gasoline] is run out	L43
 変[へん]「な」	strange, peculiar	L43
 幸[しあわ]せ「な」	happy	L43
 楽[らく]「な」	easy	L43
 うまい	tasty	L43
 まずい	not tasty	L43
 つまらない	boring	L43
+ガソリン	petrol, gasoline	L43
 パンフレット	pamphlet	L43
 今[いま]にも	at any moment (to describe situation before changes)	L43
 わあ	Oh!/Wow!	L43
-ばら	rose	L43
+薔薇[ばら]	rose	L43
 ドライブ	driving	L43
 理[り] 由[ゆう]	reason	L43 L47
 謝[あやま]ります	apologize	L43
@@ -2834,7 +2835,6 @@ JL	Japan Airlines	L40
 お 待[ま]たせしました。	Sorry to keep you waiting.	L46
 お 礼[れい]	gratitude, thanks	L50
 安[あん] 全[ぜん]「な」	safe	L44
-ガソリン	petrol, gasoline	L43
 キャンプ	camp	L45
 みえます	come (respectful of きます)	L49
 差[さ]し 上[あ]げます	give (humble of あげます)	L50U
