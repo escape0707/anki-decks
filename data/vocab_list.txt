@@ -1984,8 +1984,8 @@
 わさび	Japanese horseradish	L34U
 カレー 粉[こ]	curry powder	L34U
 台[だい] 所[どころ] 用[よう] 品[ひん]	kitchenware	L34U
-やかん	kettle	L34U L42
-ふた	lid, cover, cap	L34U L42
+薬缶[やかん]	kettle	L34U L42
+蓋[ふた]	lid, cover, cap	L34U L42
 おたま	ladle	L34U
 まな 板[いた]	cutting board	L34U
 包[ほう] 丁[ちょう]	kitchen knife	L34U
@@ -2408,9 +2408,11 @@ JL	Japan Airlines	L40
 精[しょう] 進[じん] 料[りょう] 理[り]	Buddhist vegetarian cuisine	L41U
 包[つつ]みます	wrap	L42
 沸[わ]かします	boil	L42
+混[ま]ぜます	stir	L42
 計[けい] 算[さん]します	calculate	L42
 並[なら]びます	stand in a queue, line up	L42
 丈[じょう] 夫[ぶ]「な」	strong, healthy	L42
+アパート	apartment	L42
 自[し] 然[ぜん]	nature	L42
 教[きょう] 育[いく]	education	L42
 文[ぶん] 化[か]	culture	L42
@@ -2422,12 +2424,13 @@ JL	Japan Airlines	L40
 論[ろん] 文[ぶん]	thesis, academic paper	L42
 楽[たの]しみ	pleasure, enjoyment, expectation	L42
 ミキサー	mixer, blender	L42
+缶[かん] 詰[づめ]	canned food, tinned food	L42
 風[ふ] 呂[ろ] 敷[しき]	wrapping cloth used to carry things	L42
-そろばん	abacus	L42
+算盤[そろばん]	abacus	L42
 体[たい] 温[おん] 計[けい]	(clinical) thermometer	L42
-なぜ	why	L42
+何故[なぜ]	why	L42
 国[こく] 連[れん]	United Nations	L42
-ボーナスが 出[で]ます	bonus to be paid	L42
+「ボーナスが」 出[で]ます	[bonus] to be paid	L42
 半[はん] 分[ぶん]	half	L42
 ローン	loan	L42
 カップ 麺[めん]	instant/cup noodles​	L42
@@ -2833,7 +2836,6 @@ JL	Japan Airlines	L40
 安[あん] 全[ぜん]「な」	safe	L44
 ガソリン	petrol, gasoline	L43
 キャンプ	camp	L45
-缶[かん] 詰[づめ]	canned food, tinned food	L42
 みえます	come (respectful of きます)	L49
 差[さ]し 上[あ]げます	give (humble of あげます)	L50U
 早[はや] 寝[ね]	go to bed early​	L36U
