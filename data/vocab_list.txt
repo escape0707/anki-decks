@@ -1776,7 +1776,7 @@
 心[しん] 理[り] 学[がく]	psychology	L31U
 哲[てつ] 学[がく]	philosophy	L31U
 宗[しゅう] 教[きょう] 学[がく]	religious study	L31U
-芸[げい] 術[じゅつ]	arts	L31U L46
+芸[げい] 術[じゅつ]	arts	L31U L46U
 体[たい] 育[いく] 学[がく]	physical education	L31U
 運[うん] 動[どう]します	take exercise	L32 L36U
 成[せい] 功[こう]します	succeed	L32
@@ -2632,13 +2632,13 @@ JL	Japan Airlines	L40
 カプセル	capsules	L45U
 渡[わた]します	hand over	L46
 帰[かえ]ってきます	come back	L46
-バスが 出[で]ます	a bus leaves, departs	L46
-荷[に] 物[もつ]が 届[とど]きます	parcels to be delivered	L46
-大[だい] 学[がく]に 入[にゅう] 学[がく]します	enter a university	L46
-大[だい] 学[がく]を 卒[そつ] 業[ぎょう]します	graduate from a university	L46
+「バスが」 出[で]ます	[a bus] leaves, departs	L46
+「 荷[に] 物[もつ]が」 届[とど]きます	[parcels] to be delivered	L46
+「 大[だい] 学[がく]に」 入[にゅう] 学[がく]します	enter [a university]	L46
+「 大[だい] 学[がく]を」 卒[そつ] 業[ぎょう]します	graduate from [a university]	L46
 焼[や]きます	bake, grill, roast	L46
-パンが 焼[や]けます	bread to be baked	L46
-肉[にく]が 焼[や]けます	meat to be roasted, be grilled	L46
+「パンが」 焼[や]けます	[bread] to be baked	L46
+「 肉[にく]が」 焼[や]けます	[meat] to be roasted, be grilled	L46
 留[る] 守[す]	absence	L46
 原[げん] 因[いん]	cause	L46
 ～の 所[ところ]	where ～ is/are, by the ～	L46
@@ -2650,6 +2650,8 @@ JL	Japan Airlines	L40
 ガスレンジ	gas range, gas cooker	L46
 具[ぐ] 合[あい]	condition	L46
 申[もう]し 訳[わけ]ありません。	I'm sorry.	L46
+どちら 様[さま]でしょうか。	Who is this, please?	L46
+お 待[ま]たせしました。	Sorry to keep you waiting.	L46
 向[む]かいます	head for	L46
 ついています	be lucky	L46
 床[ゆか]	floor	L46
@@ -2833,8 +2835,6 @@ JL	Japan Airlines	L40
 先[せん] 々[せん] 月[げつ]（ 二[に] 週[しゅう] 間[かん] 前[まえ]）	the month before last	L51
 バザー	bazaar	L41U
 １センチくらい～	about one centimeter ～	L44U
-どちら 様[さま]でしょうか。	Who is this, please?	L46
-お 待[ま]たせしました。	Sorry to keep you waiting.	L46
 お 礼[れい]	gratitude, thanks	L50
 みえます	come (respectful of きます)	L49
 差[さ]し 上[あ]げます	give (humble of あげます)	L50U
