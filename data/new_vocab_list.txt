@@ -2694,15 +2694,15 @@
 2694	ゴム	ゴム	rubber	[sound:MNN_ゴム.mp3]	L46U
 2695	ペンキ	ペンキ	paint	[sound:MNN_ペンキ.mp3]	L46U
 2696	カルタ	カルタ	playing card	[sound:MNN_カルタ.mp3]	L46U
-2697	風が吹きます	風[かぜ]が 吹[ふ]きます	wind blows	[sound:MNN_風が吹きます.mp3]	L47
-2698	ごみが燃えます	ごみが 燃[も]えます	rubbish burns	[sound:MNN_ごみが燃えます.mp3]	L47
-2699	亡くなります（死にます）	亡[な]くなります（ 死[し]にます）	pass away	[sound:MNN_亡くなります.mp3][sound:MNN_死にます.mp3]	L47
-2700	人が集まります	人[ひと]が 集[あつ]まります	people gathers	[sound:MNN_人が集まります.mp3]	L47
-2701	人が別れます	人[ひと]が 別[わか]れます	people parts, separates	[sound:MNN_人が別れます.mp3]	L47
-2702	音がします	音[おと]がします	sound can be heard	[sound:MNN_音がします.mp3]	L47
-2703	声がします	声[こえ]がします	voice can be heard	[sound:MNN_声がします.mp3]	L47
-2704	味がします	味[あじ]がします	to taste	[sound:MNN_味がします.mp3]	L47
-2705	匂いがします	匂[にお]いがします	to smell	[sound:MNN_匂いがします.mp3]	L47
+2697	「風が」吹きます	「 風[かぜ]が」 吹[ふ]きます	[wind] blows	[sound:MNN_「風が」吹きます.mp3]	L47
+2698	「ごみが」燃えます	「ごみが」 燃[も]えます	[rubbish] burns	[sound:MNN_「ごみが」燃えます.mp3]	L47
+2699	亡くなります	亡[な]くなります	pass away (euphemism for 死[し]にます)	[sound:MNN_亡くなります.mp3]	L47
+2700	「人が」集まります	「 人[ひと]が」 集[あつ]まります	[people] gathers	[sound:MNN_「人が」集まります.mp3]	L47
+2701	「人が」別れます	「 人[ひと]が」 別[わか]れます	[people] parts, separates	[sound:MNN_「人が」別れます.mp3]	L47
+2702	「音が」します	「 音[おと]が」します	[sound] can be heard	[sound:MNN_「音が」します.mp3]	L47
+2703	「声が」します	「 声[こえ]が」します	[voice] can be heard	[sound:MNN_「声が」します.mp3]	L47
+2704	「味が」します	「 味[あじ]が」します	to taste	[sound:MNN_「味が」します.mp3]	L47
+2705	「匂いが」します	「 匂[にお]いが」します	to smell	[sound:MNN_「匂いが」します.mp3]	L47
 2706	ひどい	ひどい	terrible, severe	[sound:MNN_ひどい.mp3]	L47
 2707	実験	実[じっ] 験[けん]	experiment	[sound:MNN_実験.mp3]	L47
 2708	データ	データ	data	[sound:MNN_データ.mp3]	L47
@@ -2717,10 +2717,10 @@
 2717	～によると	～によると	according to ～	[sound:MNN_～によると.mp3]	L47
 2718	婚約します	婚[こん] 約[やく]します	get engaged	[sound:MNN_婚約します.mp3]	L47
 2719	どうも	どうも	it seems that (used when making a tentative judgement)	[sound:MNN_どうも.mp3]	L47
-2720	化粧をします	化[け] 粧[しょう]をします	put on makeup	[sound:MNN_化粧をします.mp3]	L47
+2720	化粧「をします」	化[け] 粧[しょう]「をします」	put on [makeup]	[sound:MNN_化粧「をします」.mp3]	L47
 2721	女性	女[じょ] 性[せい]	female, woman	[sound:MNN_女性.mp3]	L47
 2722	男性	男[だん] 性[せい]	male, man	[sound:MNN_男性.mp3]	L47
-2723	長生きします	長[なが] 生[い]きします	live long	[sound:MNN_長生きします.mp3]	L47
+2723	長生き「します」	長[なが] 生[い]き「します」	live long	[sound:MNN_長生き「します」.mp3]	L47
 2724	擬音語	擬[ぎ] 音[おん] 語[ご]	onomatopoeic word	[sound:MNN_擬音語.mp3]	L47U
 2725	擬態語	擬[ぎ] 態[たい] 語[ご]	phenomime, mimetic word	[sound:MNN_擬態語.mp3]	L47U
 2726	ザーザー（降る）	ザーザー（ 降[ふ]る）	pour, crash (rain)	[sound:MNN_ザーザー.mp3][sound:MNN_降る.mp3]	L47U

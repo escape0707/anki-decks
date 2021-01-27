@@ -2694,15 +2694,15 @@ JL	Japan Airlines	L40
 ゴム	rubber	L46U
 ペンキ	paint	L46U
 カルタ	playing card	L46U
-風[かぜ]が 吹[ふ]きます	wind blows	L47
-ごみが 燃[も]えます	rubbish burns	L47
-亡[な]くなります（ 死[し]にます）	pass away	L47
-人[ひと]が 集[あつ]まります	people gathers	L47
-人[ひと]が 別[わか]れます	people parts, separates	L47
-音[おと]がします	sound can be heard	L47
-声[こえ]がします	voice can be heard	L47
-味[あじ]がします	to taste	L47
-匂[にお]いがします	to smell	L47
+「 風[かぜ]が」 吹[ふ]きます	[wind] blows	L47
+「ごみが」 燃[も]えます	[rubbish] burns	L47
+亡[な]くなります	pass away (euphemism for 死[し]にます)	L47
+「 人[ひと]が」 集[あつ]まります	[people] gathers	L47
+「 人[ひと]が」 別[わか]れます	[people] parts, separates	L47
+「 音[おと]が」します	[sound] can be heard	L47
+「 声[こえ]が」します	[voice] can be heard	L47
+「 味[あじ]が」します	to taste	L47
+「 匂[にお]いが」します	to smell	L47
 ひどい	terrible, severe	L47
 実[じっ] 験[けん]	experiment	L47
 データ	data	L47
@@ -2717,10 +2717,10 @@ JL	Japan Airlines	L40
 ～によると	according to ～	L47
 婚[こん] 約[やく]します	get engaged	L47
 どうも	it seems that (used when making a tentative judgement)	L47
-化[け] 粧[しょう]をします	put on makeup	L47
+化[け] 粧[しょう]「をします」	put on [makeup]	L47
 女[じょ] 性[せい]	female, woman	L47
 男[だん] 性[せい]	male, man	L47
-長[なが] 生[い]きします	live long	L47
+長[なが] 生[い]き「します」	live long	L47
 擬[ぎ] 音[おん] 語[ご]	onomatopoeic word	L47U
 擬[ぎ] 態[たい] 語[ご]	phenomime, mimetic word	L47U
 ザーザー（ 降[ふ]る）	pour, crash (rain)	L47U
