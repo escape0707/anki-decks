@@ -2738,7 +2738,7 @@ JL	Japan Airlines	L40
 ざらざら（している）	(feel) rough	L47U
 べたべた（している）	(be) sticky	L47U
 つるつる（している）	(be) smooth, slippery	L47U
-降[お]ろします、 下[お]ろします	put down, lower, unload	L48
+降[お]ろします（ 下[お]ろします）	put down, lower, unload	L48
 届[とど]けます	deliver	L48
 録[ろく] 音[おん]します	record	L48
 塾[じゅく]	cram school	L48

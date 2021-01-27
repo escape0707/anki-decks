@@ -2738,7 +2738,7 @@
 2738	ざらざら（している）	ざらざら（している）	(feel) rough	[sound:MNN_ざらざら.mp3][sound:MNN_している.mp3]	L47U
 2739	べたべた（している）	べたべた（している）	(be) sticky	[sound:MNN_べたべた.mp3][sound:MNN_している.mp3]	L47U
 2740	つるつる（している）	つるつる（している）	(be) smooth, slippery	[sound:MNN_つるつる.mp3][sound:MNN_している.mp3]	L47U
-2741	降ろします、下ろします	降[お]ろします、 下[お]ろします	put down, lower, unload	[sound:MNN_降ろします、下ろします.mp3]	L48
+2741	降ろします（下ろします）	降[お]ろします（ 下[お]ろします）	put down, lower, unload	[sound:MNN_降ろします.mp3][sound:MNN_下ろします.mp3]	L48
 2742	届けます	届[とど]けます	deliver	[sound:MNN_届けます.mp3]	L48
 2743	録音します	録[ろく] 音[おん]します	record	[sound:MNN_録音します.mp3]	L48
 2744	塾	塾[じゅく]	cram school	[sound:MNN_塾.mp3]	L48
