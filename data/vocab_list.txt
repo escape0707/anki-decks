@@ -2579,11 +2579,12 @@ JL	Japan Airlines	L40
 知[し]らせます	inform	L45
 保[ほ] 証[しょう] 書[しょ]	guarantee	L45
 領[りょう] 収[しゅう] 書[しょ]	receipt	L45
+キャンプ	camp	L45
 中[ちゅう] 止[し]	calling off, cancelling, suspension	L45
 点[てん]	point, score	L45
 梅[うめ]	plum (blossom)	L45
-１１０ 番[ばん]	police (emergency number)	L45
-１１９ 番[ばん]	fire (emergency number)	L45
+110 番[ばん]	police (emergency number)	L45
+119 番[ばん]	fire (emergency number)	L45
 無[む]理[り]に	unreasonably	L45
 楽[たの]しみにしています	be looking forward, expecting	L45
 以[い] 上[じょう]です。	That's all.	L45
@@ -2593,9 +2594,9 @@ JL	Japan Airlines	L40
 ー 位[い]	-th (ranking)	L45
 優[ゆう] 勝[しょう]します	win the championship, come first	L45
 悩[なや]み	trouble, worry	L45
-目[め] 覚[ざ]まし 時計[どけい]	alarm clock	L45
+目[め] 覚[ざ]まし 「 時計[どけい]」	alarm clock	L45
 大[だい] 学[がく] 生[せい]	university student	L45
-回[かい] 答[とう]します	answer, reply	L45
+回[かい] 答[とう]「します」	answer, reply	L45
 鳴[な]ります	ring (sound)	L45 L46
 セットします	set	L45
 それでも	nevertheless, for all that	L45
@@ -2835,7 +2836,6 @@ JL	Japan Airlines	L40
 どちら 様[さま]でしょうか。	Who is this, please?	L46
 お 待[ま]たせしました。	Sorry to keep you waiting.	L46
 お 礼[れい]	gratitude, thanks	L50
-キャンプ	camp	L45
 みえます	come (respectful of きます)	L49
 差[さ]し 上[あ]げます	give (humble of あげます)	L50U
 早[はや] 寝[ね]	go to bed early​	L36U
