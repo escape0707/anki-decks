@@ -4,7 +4,7 @@
 ～さん	Mr., Ms.	L01 L41
 ～ちゃん	suffix for child's name	L01
 ～ 人[じん]	suffix for nationality	L01
-先[せん] 生[せい]	teacher, instructor; (medical) doctor, medic	L01, L32
+先[せん] 生[せい]	teacher, instructor; (medical) doctor, medic	L01 L32
 教[きょう] 師[し]	teacher, instructor (referring to own job)	L01 L15U
 学[がく] 生[せい]	student	L01
 会[かい] 社[しゃ] 員[いん]	company employee	L01 L15U
@@ -301,7 +301,7 @@
 天[てん] 皇[のう] 誕[たん] 生[じょう] 日[び]	The Emperor's Birthday (２月２３日)	L05U
 ゴールデンウェーク	Golden Week (４月２９日～５月５日)	L05U
 食[た]べます	eat	L06
-飲[の]みます	drink	L06, L16
+飲[の]みます	drink	L06 L16
 「 煙草[たばこ]を」 吸[す]います	smoke [a cigarette]	L06
 見[み]ます	see, look at, watch	L06
 聞[き]きます	hear, listen	L06
@@ -529,7 +529,7 @@
 濃[こ]い	strong (flavour, smell, taste)​, dark (colour), thick (liquid)	L08U L44
 薄[うす]い	weak (objects, taste), light (colour), thin	L08U L44
 味[あじ]	taste	L08U L28
-色[いろ]	colour	L08U, L28
+色[いろ]	colour	L08U L28
 分[わ]かります	understand	L09
 あります	have, exist, be (referring to inanimate things)	L09 L10
 好[す]き「な」	like	L09
@@ -563,7 +563,7 @@
 アルバイト「をします」	[do] part-time job	L09 L46U
 ご 主[しゅ] 人[じん]	(someone else's) husband	L07U L09
 奥[おく]さん	(someone else's) wife	L07U L09
-よく	well, much, often	L09, L22
+よく	well, much, often	L09 L22
 だいたい	mostly, roughly	L09
 たくさん	many, much	L09
 少[すこ]し	a little, a few	L09
@@ -639,7 +639,7 @@
 乗[の]り 場[ば]	place for boarding vehicles (bus/train/jetty)	L10
 上[うえ]	on, above, over	L10
 下[した]	under, below, beneath	L10
-前[まえ]	front, before	L10
+前[まえ]	front, a time in the past, before	L10 L32
 後[うし]ろ	back, behind	L10
 右[みぎ]	right	L10
 左[ひだり]	left	L10
@@ -1808,7 +1808,6 @@
 チーム	team	L32
 今[こん] 夜[や]	this evening	L32
 夕[ゆう] 方[がた]	late afternoon	L32
-前[まえ]	a time in the past, before	L32
 遅[おそ]く	late (time)	L32
 こんなに	this (much, etc.)	L32
 あんなに	that (much, etc.) (concerning a matter not related to the speaker or the listener)	L32
@@ -1949,7 +1948,7 @@
 これでいいですか。	Is this all right?	L34
 材[ざい] 料[りょう]	material, ingredient	L34 L42
 ～ 分[ぶん]	portion for ～ (indicating quantity)	L34
-ーグラム	ー gramme	L34 L40U
+ーグラム	ー gramme (g)	L34 L40 L40U
 ー 個[こ]	counter for small objects	L34 L40
 ４ 分[ぶん]の１	one fourth	L34
 調[ちょう] 味[み] 料[りょう]	seasoning, flavouring	L34
@@ -2293,7 +2292,6 @@
 ー 杯[はい]（ー 杯[ぱい]）（ー 杯[ばい]）	ー glass or cup of (counter for full cups, glasses, etc.)	L40
 ーセンチ	ー centimeters	L40
 ーミリ	ー millimeters	L40
-ーグラム	ー gramme (g)	L40 L40U
 ～ 以[い] 上[じょう]	not less than ～, over ～	L40
 ～ 以[い] 下[か]	not more than ～, under ～	L40
 長[なが] 崎[さき]	Nagasaki (city)​	L40
