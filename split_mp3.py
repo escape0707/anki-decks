@@ -4,6 +4,7 @@ from pathlib import Path
 from typing import List, cast
 
 import pydub
+import pydub.effects
 import pydub.silence
 from pydub.audio_segment import AudioSegment
 
@@ -19,9 +20,9 @@ def split_and_save(input_file: Path, output_dir: Path) -> None:
         ),
     )
 
-    # Skip audio chunks "daiikka" & "dango"
-    for i, chunk in enumerate(chuck_collection):
-        chunk.export(output_dir / (str(i).zfill(4) + ".mp3"))
+    for i, raw_chunk in enumerate(chuck_collection):
+        normalized_chunk = pydub.effects.normalize(raw_chunk)
+        normalized_chunk.export(output_dir / (str(i).zfill(4) + ".mp3"))
 
 
 def split_mp3() -> None:
