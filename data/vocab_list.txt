@@ -61,6 +61,7 @@
 辞[じ] 書[しょ]	dictionary	L02
 雑[ざっ] 誌[し]	magazine	L02
 新[しん] 聞[ぶん]	newspaper	L02
+ノート	notebook	L02
 手[て] 帳[ちょう]	personal organizer	L02
 名[めい] 刺[し]	business card	L02
 カード	(credit) card	L02
@@ -83,6 +84,7 @@
 「お」 土産[みやげ]	souvenir, present	L02
 英[えい] 語[ご]	English language	L01U L02
 日本[にほん] 語[ご]	Japanese language	L01U L02
+～ 語[ご]	～ language	L02
 何[なん]（ 何[なに]）	what	L02 L06
 そう	so	L02
 あのう	Err… (used to show hesitation)	L02
@@ -504,7 +506,7 @@
 お 元[げん] 気[き]ですか。	How are you?	L08
 「〜、」もう 一[いっ] 杯[ぱい]いかがですか。	Won't you have another cup of [〜]?	L08
 いいえ、けっこうです。	No, thank you.	L08
-もう～です 「ね」。	It's already ～ [isn't it?]	L08
+もう～です「ね」。	It's already ～ [isn't it?]	L08
 そろそろ 失[しつ] 礼[れい]します。	It's time to go.	L08
 いいえ。	Not at all.	L08
 またいらっしゃってください。	Please come again.	L08
@@ -648,7 +650,7 @@
 隣[となり]	next, next door	L10
 近[ちか]く	near, vicinity​	L10
 間[あいだ]	between, among	L10
-～や～ 「など」	～, ～, and so on	L10
+～や～「など」	～, ～, and so on	L10
 どうもすみません。	Thank you.	L10
 ナンプラー	fish sauce (Thai)	L10
 コーナー	corner, section	L10
