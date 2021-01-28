@@ -901,7 +901,7 @@
 コインロッカー	coin locker	L14U
 タクシー 乗[の]り 場[ば]	taxi rank, taxi stand​	L14U
 バスターミナル	bus terminal	L14U
-バス 停[てい]	bus stop	L14U
+バス 停[てい]	bus stop	L14U L49
 快[かい] 速[そく]	rapid service train	L14U
 準[じゅん] 急[きゅう]	semi-express train	L14U
 ～ 発[はつ]	departing ～	L14U
@@ -931,7 +931,7 @@
 すみません	I'm sorry/Excuse me.	L15
 皆[みな]さん	everybody (polite)	L15
 思[おも]い 出[だ]します	remember, recollect	L15
-いらっしゃいます	exist, be (respectful of います); come (respectful of きます)	L15 L40
+いらっしゃいます	exist, be (respectful of います); come (respectful of きます)	L15 L40 L49
 日本[にっぽん] 橋[ばし]	Nipponbashi (shopping district)	L15
 職[しょく] 業[ぎょう]	occupations	L15U
 公[こう] 務[む] 員[いん]	civil servant, public servant	L15U
@@ -2764,8 +2764,8 @@ JL	Japan Airlines	L40
 自[じ] 信[しん]	confidence	L48U
 責[せき] 任[にん]	responsibility	L48U
 我[が] 慢[まん]	patience, tolerance	L48U
-会[かい] 社[しゃ]に 勤[つと]めます	work for a company	L49
-椅子[いす]に 掛[か]けます	sit on a chair	L49
+「 会[かい] 社[しゃ]に」 勤[つと]めます	work [for a company]	L49
+「 椅子[いす]に」 掛[か]けます	sit [on a chair]	L49
 過[す]ごします	spend (time), pass (time)	L49
 召[め]し 上[あ]がります	eat, drink (respectful of たべます、のみます)	L49
 おっしゃいます	say, (one's name) is ～ (respectful of いいます)	L49
@@ -2778,14 +2778,14 @@ JL	Japan Airlines	L40
 どなたでも	anybody (respectful of だれでも)	L49
 ～といいます	(one's name) is ～	L49
 ー 年[ねん]ー 組[くみ]	class ー of -th grade	L49
-熱[ねつ]を 出[だ]します	run a fever	L49
+「 熱[ねつ]を」 出[だ]します	run [a fever]	L49
 よろしくお 伝[つた]えください。	Give my best regards./Please say hello.	L49
 失[しつ] 礼[れい]いたします。	Goodbye. (humble of しつれいします)	L49
 経[けい] 歴[れき]	background	L49
 医[い] 学[がく] 部[ぶ]	medical department	L49
 目[め] 指[ざ]します	aim for	L49
 進[すす]みます	go on (to graduate school)	L49
-細[さい] 胞[ぼう]	cell	L49
+「iPS」 細[さい] 胞[ぼう]	[iPS] cell	L49
 開[かい] 発[はつ]します	develop, create	L49
 マウス	mouse	L49
 受[じゅ] 賞[しょう]します	be awarded a prize	L49
@@ -2836,7 +2836,6 @@ JL	Japan Airlines	L40
 バザー	bazaar	L41U
 １センチくらい～	about one centimeter ～	L44U
 お 礼[れい]	gratitude, thanks	L50
-みえます	come (respectful of きます)	L49
 差[さ]し 上[あ]げます	give (humble of あげます)	L50U
 早[はや] 寝[ね]	go to bed early​	L36U
 早[はや] 起[お]き	early rising​	L36U

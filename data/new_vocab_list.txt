@@ -901,7 +901,7 @@
 901	コインロッカー	コインロッカー	coin locker	[sound:MNN_コインロッカー.mp3]	L14U
 902	タクシー乗り場	タクシー 乗[の]り 場[ば]	taxi rank, taxi stand​	[sound:MNN_タクシー乗り場.mp3]	L14U
 903	バスターミナル	バスターミナル	bus terminal	[sound:MNN_バスターミナル.mp3]	L14U
-904	バス停	バス 停[てい]	bus stop	[sound:MNN_バス停.mp3]	L14U
+904	バス停	バス 停[てい]	bus stop	[sound:MNN_バス停.mp3]	L14U L49
 905	快速	快[かい] 速[そく]	rapid service train	[sound:MNN_快速.mp3]	L14U
 906	準急	準[じゅん] 急[きゅう]	semi-express train	[sound:MNN_準急.mp3]	L14U
 907	～発	～ 発[はつ]	departing ～	[sound:MNN_～発.mp3]	L14U
@@ -931,7 +931,7 @@
 931	すみません	すみません	I'm sorry/Excuse me.	[sound:MNN_すみません.mp3]	L15
 932	皆さん	皆[みな]さん	everybody (polite)	[sound:MNN_皆さん.mp3]	L15
 933	思い出します	思[おも]い 出[だ]します	remember, recollect	[sound:MNN_思い出します.mp3]	L15
-934	いらっしゃいます	いらっしゃいます	exist, be (respectful of います); come (respectful of きます)	[sound:MNN_いらっしゃいます.mp3]	L15 L40
+934	いらっしゃいます	いらっしゃいます	exist, be (respectful of います); come (respectful of きます)	[sound:MNN_いらっしゃいます.mp3]	L15 L40 L49
 935	日本橋	日本[にっぽん] 橋[ばし]	Nipponbashi (shopping district)	[sound:MNN_日本橋.mp3]	L15
 936	職業	職[しょく] 業[ぎょう]	occupations	[sound:MNN_職業.mp3]	L15U
 937	公務員	公[こう] 務[む] 員[いん]	civil servant, public servant	[sound:MNN_公務員.mp3]	L15U
@@ -2764,8 +2764,8 @@
 2764	自信	自[じ] 信[しん]	confidence	[sound:MNN_自信.mp3]	L48U
 2765	責任	責[せき] 任[にん]	responsibility	[sound:MNN_責任.mp3]	L48U
 2766	我慢	我[が] 慢[まん]	patience, tolerance	[sound:MNN_我慢.mp3]	L48U
-2767	会社に勤めます	会[かい] 社[しゃ]に 勤[つと]めます	work for a company	[sound:MNN_会社に勤めます.mp3]	L49
-2768	椅子に掛けます	椅子[いす]に 掛[か]けます	sit on a chair	[sound:MNN_椅子に掛けます.mp3]	L49
+2767	「会社に」勤めます	「 会[かい] 社[しゃ]に」 勤[つと]めます	work [for a company]	[sound:MNN_「会社に」勤めます.mp3]	L49
+2768	「椅子に」掛けます	「 椅子[いす]に」 掛[か]けます	sit [on a chair]	[sound:MNN_「椅子に」掛けます.mp3]	L49
 2769	過ごします	過[す]ごします	spend (time), pass (time)	[sound:MNN_過ごします.mp3]	L49
 2770	召し上がります	召[め]し 上[あ]がります	eat, drink (respectful of たべます、のみます)	[sound:MNN_召し上がります.mp3]	L49
 2771	おっしゃいます	おっしゃいます	say, (one's name) is ～ (respectful of いいます)	[sound:MNN_おっしゃいます.mp3]	L49
@@ -2778,14 +2778,14 @@
 2778	どなたでも	どなたでも	anybody (respectful of だれでも)	[sound:MNN_どなたでも.mp3]	L49
 2779	～といいます	～といいます	(one's name) is ～	[sound:MNN_～といいます.mp3]	L49
 2780	ー年ー組	ー 年[ねん]ー 組[くみ]	class ー of -th grade	[sound:MNN_ー年ー組.mp3]	L49
-2781	熱を出します	熱[ねつ]を 出[だ]します	run a fever	[sound:MNN_熱を出します.mp3]	L49
+2781	「熱を」出します	「 熱[ねつ]を」 出[だ]します	run [a fever]	[sound:MNN_「熱を」出します.mp3]	L49
 2782	よろしくお伝えください。	よろしくお 伝[つた]えください。	Give my best regards./Please say hello.	[sound:MNN_よろしくお伝えください。.mp3]	L49
 2783	失礼いたします。	失[しつ] 礼[れい]いたします。	Goodbye. (humble of しつれいします)	[sound:MNN_失礼いたします。.mp3]	L49
 2784	経歴	経[けい] 歴[れき]	background	[sound:MNN_経歴.mp3]	L49
 2785	医学部	医[い] 学[がく] 部[ぶ]	medical department	[sound:MNN_医学部.mp3]	L49
 2786	目指します	目[め] 指[ざ]します	aim for	[sound:MNN_目指します.mp3]	L49
 2787	進みます	進[すす]みます	go on (to graduate school)	[sound:MNN_進みます.mp3]	L49
-2788	細胞	細[さい] 胞[ぼう]	cell	[sound:MNN_細胞.mp3]	L49
+2788	「iPS」細胞	「iPS」 細[さい] 胞[ぼう]	[iPS] cell	[sound:MNN_「iPS」細胞.mp3]	L49
 2789	開発します	開[かい] 発[はつ]します	develop, create	[sound:MNN_開発します.mp3]	L49
 2790	マウス	マウス	mouse	[sound:MNN_マウス.mp3]	L49
 2791	受賞します	受[じゅ] 賞[しょう]します	be awarded a prize	[sound:MNN_受賞します.mp3]	L49
@@ -2836,14 +2836,13 @@
 2836	バザー	バザー	bazaar	[sound:MNN_バザー.mp3]	L41U
 2837	１センチくらい～	１センチくらい～	about one centimeter ～	[sound:MNN_１センチくらい～.mp3]	L44U
 2838	お礼	お 礼[れい]	gratitude, thanks	[sound:MNN_お礼.mp3]	L50
-2839	みえます	みえます	come (respectful of きます)	[sound:MNN_みえます.mp3]	L49
-2840	差し上げます	差[さ]し 上[あ]げます	give (humble of あげます)	[sound:MNN_差し上げます.mp3]	L50U
-2841	早寝	早[はや] 寝[ね]	go to bed early​	[sound:MNN_早寝.mp3]	L36U
-2842	早起き	早[はや] 起[お]き	early rising​	[sound:MNN_早起き.mp3]	L36U
-2843	外食	外[がい] 食[しょく]	eating out, dining out​	[sound:MNN_外食.mp3]	L36U
-2844	宿	宿[やど]	lodging, inn, hotel​	[sound:MNN_宿.mp3]	L41U
-2845	便利屋	便[べん] 利[り] 屋[や]	general merchant​	[sound:MNN_便利屋.mp3]	L41U
-2846	金銀	金[きん] 銀[ぎん]	gold and silver	[sound:MNN_金銀.mp3]	L41U
-2847	貴重品	貴[き] 重[ちょう] 品[ひん]	valuables, precious items	[sound:MNN_貴重品.mp3]	L30U
-2848	救急薬品	救[きゅう] 急[きゅう] 薬[やく] 品[ひん]	first-aid medicine	[sound:MNN_救急薬品.mp3]	L30U
-2849	退院する	退[たい] 院[いん]する	be discharged from hospital	[sound:MNN_退院する.mp3]	L45U
+2839	差し上げます	差[さ]し 上[あ]げます	give (humble of あげます)	[sound:MNN_差し上げます.mp3]	L50U
+2840	早寝	早[はや] 寝[ね]	go to bed early​	[sound:MNN_早寝.mp3]	L36U
+2841	早起き	早[はや] 起[お]き	early rising​	[sound:MNN_早起き.mp3]	L36U
+2842	外食	外[がい] 食[しょく]	eating out, dining out​	[sound:MNN_外食.mp3]	L36U
+2843	宿	宿[やど]	lodging, inn, hotel​	[sound:MNN_宿.mp3]	L41U
+2844	便利屋	便[べん] 利[り] 屋[や]	general merchant​	[sound:MNN_便利屋.mp3]	L41U
+2845	金銀	金[きん] 銀[ぎん]	gold and silver	[sound:MNN_金銀.mp3]	L41U
+2846	貴重品	貴[き] 重[ちょう] 品[ひん]	valuables, precious items	[sound:MNN_貴重品.mp3]	L30U
+2847	救急薬品	救[きゅう] 急[きゅう] 薬[やく] 品[ひん]	first-aid medicine	[sound:MNN_救急薬品.mp3]	L30U
+2848	退院する	退[たい] 院[いん]する	be discharged from hospital	[sound:MNN_退院する.mp3]	L45U
