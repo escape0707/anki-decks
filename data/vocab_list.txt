@@ -2797,25 +2797,25 @@ JL	Japan Airlines	L40
 大[おお] 晦[みそ] 日[か]	New Year's Eve (１２月３１日)	L49U
 参[まい]ります	go, come (humble of いきます、きます)	L50
 おります	be (humble of います)	L50
-申[もう]します、 申[もう]し 上[あげ]ます	say, (one's name) is ～ (humble of いいます)	L50
+申[もう]します	say, (one's name) is ～ (humble of いいます)	L50
 いたします	do (humble of します)	L50
 拝[はい] 見[けん]します	seeing, looking at (humble of みます)	L50
 存[ぞん]じます	know (humble of しっています)	L50
 お 目[め]にかかります	meet (humble of あいます)	L50
-コーヒーを 入[い]れます	make coffee	L50
+「 コーヒーを」 いれます	make [coffee]	L50
 用[よう] 意[い]します	prepare, getting ready	L50
-私[わたくし]	I (humble of わたし)	L50
+私[わたくし](humble)	I (humble of わたし)	L50
 ガイド	guide	L50
 メールアドレス	e-mail address	L50
-再[さ] 来[らい] 週[しゅう]	the week after next	L50
-再[さ] 来[らい] 月[げつ]	the month after next	L50
-再[さ] 来[らい] 年[ねん]	the year after next	L50
+さ 来[らい] 週[しゅう]	the week after next	L50
+さ 来[らい] 月[げつ]	the month after next	L50
+さ 来[らい] 年[ねん]	the year after next	L50
 初[はじ]めに	first	L50
 緊[きん] 張[ちょう]します	become tense, be strained, be nervous	L50
 賞[しょう] 金[きん]	prize money	L50
 きりん	giraffe	L50
 ころ	times, days	L50
-夢[ゆめ]がかないます	dream be realized, comes true	L50
+「 夢[ゆめ]が」 叶[かな]います	[dream] be realized, comes true	L50
 応[おう] 援[えん]します	support	L50
 心[こころ]から	from one's heart, sincerely	L50
 感[かん] 謝[しゃ]します	thank, be grateful	L50

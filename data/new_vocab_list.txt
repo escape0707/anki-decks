@@ -2797,25 +2797,25 @@
 2797	大晦日	大[おお] 晦[みそ] 日[か]	New Year's Eve (１２月３１日)	[sound:MNN_大晦日.mp3]	L49U
 2798	参ります	参[まい]ります	go, come (humble of いきます、きます)	[sound:MNN_参ります.mp3]	L50
 2799	おります	おります	be (humble of います)	[sound:MNN_おります.mp3]	L50
-2800	申します、申し上ます	申[もう]します、 申[もう]し 上[あげ]ます	say, (one's name) is ～ (humble of いいます)	[sound:MNN_申します、申し上ます.mp3]	L50
+2800	申します	申[もう]します	say, (one's name) is ～ (humble of いいます)	[sound:MNN_申します.mp3]	L50
 2801	いたします	いたします	do (humble of します)	[sound:MNN_いたします.mp3]	L50
 2802	拝見します	拝[はい] 見[けん]します	seeing, looking at (humble of みます)	[sound:MNN_拝見します.mp3]	L50
 2803	存じます	存[ぞん]じます	know (humble of しっています)	[sound:MNN_存じます.mp3]	L50
 2804	お目にかかります	お 目[め]にかかります	meet (humble of あいます)	[sound:MNN_お目にかかります.mp3]	L50
-2805	コーヒーを入れます	コーヒーを 入[い]れます	make coffee	[sound:MNN_コーヒーを入れます.mp3]	L50
+2805	「コーヒーを」いれます	「 コーヒーを」 いれます	make [coffee]	[sound:MNN_「コーヒーを」いれます.mp3]	L50
 2806	用意します	用[よう] 意[い]します	prepare, getting ready	[sound:MNN_用意します.mp3]	L50
-2807	私	私[わたくし]	I (humble of わたし)	[sound:MNN_私.mp3]	L50
+2807	私(humble)	私[わたくし](humble)	I (humble of わたし)	[sound:MNN_私(humble).mp3]	L50
 2808	ガイド	ガイド	guide	[sound:MNN_ガイド.mp3]	L50
 2809	メールアドレス	メールアドレス	e-mail address	[sound:MNN_メールアドレス.mp3]	L50
-2810	再来週	再[さ] 来[らい] 週[しゅう]	the week after next	[sound:MNN_再来週.mp3]	L50
-2811	再来月	再[さ] 来[らい] 月[げつ]	the month after next	[sound:MNN_再来月.mp3]	L50
-2812	再来年	再[さ] 来[らい] 年[ねん]	the year after next	[sound:MNN_再来年.mp3]	L50
+2810	さ来週	さ 来[らい] 週[しゅう]	the week after next	[sound:MNN_さ来週.mp3]	L50
+2811	さ来月	さ 来[らい] 月[げつ]	the month after next	[sound:MNN_さ来月.mp3]	L50
+2812	さ来年	さ 来[らい] 年[ねん]	the year after next	[sound:MNN_さ来年.mp3]	L50
 2813	初めに	初[はじ]めに	first	[sound:MNN_初めに.mp3]	L50
 2814	緊張します	緊[きん] 張[ちょう]します	become tense, be strained, be nervous	[sound:MNN_緊張します.mp3]	L50
 2815	賞金	賞[しょう] 金[きん]	prize money	[sound:MNN_賞金.mp3]	L50
 2816	きりん	きりん	giraffe	[sound:MNN_きりん.mp3]	L50
 2817	ころ	ころ	times, days	[sound:MNN_ころ.mp3]	L50
-2818	夢がかないます	夢[ゆめ]がかないます	dream be realized, comes true	[sound:MNN_夢がかないます.mp3]	L50
+2818	「夢が」叶います	「 夢[ゆめ]が」 叶[かな]います	[dream] be realized, comes true	[sound:MNN_「夢が」叶います.mp3]	L50
 2819	応援します	応[おう] 援[えん]します	support	[sound:MNN_応援します.mp3]	L50
 2820	心から	心[こころ]から	from one's heart, sincerely	[sound:MNN_心から.mp3]	L50
 2821	感謝します	感[かん] 謝[しゃ]します	thank, be grateful	[sound:MNN_感謝します.mp3]	L50
