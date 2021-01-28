@@ -2,7 +2,7 @@
 
 The deck is available at https://ankiweb.net/shared/info/71721214
 
-Many aspects need to be fine-worked but I have to prepare exams first. Leave an issue and discuss with me is always welcomed!
+Many aspects need to be fine-worked but I have to prepare exams first. It will always be welcomed to eave an issue and discuss with me!
 
 中文：
 
